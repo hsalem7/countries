@@ -1,0 +1,43 @@
+{
+    "gst": {
+        "cca2": "SG",
+        "cca3": "SGP",
+        "data_sources": [
+            "commerceguys"
+        ],
+        "display_inclusive": true,
+        "generic_label": "gst",
+        "name": "Singaporean GST",
+        "rates": [
+            {
+                "amounts": [
+                    {
+                        "amount": 0.07,
+                        "end_date": "2022-12-31",
+                        "id": "sg_gst_standard_2007",
+                        "start_date": "2007-07-01"
+                    },
+                    {
+                        "amount": 0.08,
+                        "end_date": "2023-12-31",
+                        "id": "sg_gst_standard_2023",
+                        "start_date": "2023-01-01"
+                    },
+                    {
+                        "amount": 0.09,
+                        "id": "sg_gst_standard_2024",
+                        "start_date": "2024-01-01"
+                    }
+                ],
+                "default": true,
+                "id": "sg_gst_standard",
+                "name": "Standard"
+            }
+        ],
+        "record_type": "tax",
+        "tax_modifier": "",
+        "tax_type": "gst",
+        "vat_id": "sg_gst",
+        "zone": "sg_gst"
+    }
+}

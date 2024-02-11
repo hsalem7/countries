@@ -53,12 +53,8 @@
     "brk_diff": "0",
     "brk_group": "",
     "brk_name": "Heard I. and McDonald Is.",
-    "calling_codes": [
-        ""
-    ],
-    "capital": [
-        ""
-    ],
+    "calling_codes": [],
+    "capital": [],
     "capital_rinvex": "",
     "cca2": "HM",
     "cca3": "HMD",
@@ -114,12 +110,8 @@
         "brk_diff": "0",
         "brk_group": "",
         "brk_name": "Heard I. and McDonald Is.",
-        "calling_codes": [
-            ""
-        ],
-        "capital": [
-            ""
-        ],
+        "calling_codes": [],
+        "capital": [],
         "cca2": "HM",
         "cca3": "HMD",
         "ccn3": "334",
@@ -200,9 +192,7 @@
         "homepart": "-99",
         "idd": {
             "root": "",
-            "suffixes": [
-                ""
-            ]
+            "suffixes": []
         },
         "income_grp": "5. Low income",
         "independent": null,
@@ -311,7 +301,7 @@
             },
             "fra": {
                 "common": "\u00celes Heard-et-MacDonald",
-                "official": "Des \u00eeles Heard et McDonald"
+                "official": "\u00celes Heard-et-MacDonald"
             },
             "hrv": {
                 "common": "Otok Heard i oto\u010dje McDonald",
@@ -509,9 +499,7 @@
     "homepart": "-99",
     "idd": {
         "root": "",
-        "suffixes": [
-            ""
-        ]
+        "suffixes": []
     },
     "income_grp": "5. Low income",
     "independent": {
@@ -565,12 +553,8 @@
         "brk_diff": "0",
         "brk_group": "",
         "brk_name": "Heard I. and McDonald Is.",
-        "calling_codes": [
-            ""
-        ],
-        "capital": [
-            ""
-        ],
+        "calling_codes": [],
+        "capital": [],
         "cca2": "HM",
         "cca3": "HMD",
         "ccn3": "334",
@@ -651,9 +635,7 @@
         "homepart": "-99",
         "idd": {
             "root": "",
-            "suffixes": [
-                ""
-            ]
+            "suffixes": []
         },
         "income_grp": "5. Low income",
         "independent": null,
@@ -762,7 +744,7 @@
             },
             "fra": {
                 "common": "\u00celes Heard-et-MacDonald",
-                "official": "Des \u00eeles Heard et McDonald"
+                "official": "\u00celes Heard-et-MacDonald"
             },
             "hrv": {
                 "common": "Otok Heard i oto\u010dje McDonald",
@@ -1059,12 +1041,8 @@
         "brk_diff": "0",
         "brk_group": "",
         "brk_name": "Heard I. and McDonald Is.",
-        "calling_codes": [
-            ""
-        ],
-        "capital": [
-            ""
-        ],
+        "calling_codes": [],
+        "capital": [],
         "cca2": "HM",
         "cca3": "HMD",
         "ccn3": "334",
@@ -1145,9 +1123,7 @@
         "homepart": "-99",
         "idd": {
             "root": "",
-            "suffixes": [
-                ""
-            ]
+            "suffixes": []
         },
         "income_grp": "5. Low income",
         "independent": null,
@@ -1256,7 +1232,7 @@
             },
             "fra": {
                 "common": "\u00celes Heard-et-MacDonald",
-                "official": "Des \u00eeles Heard et McDonald"
+                "official": "\u00celes Heard-et-MacDonald"
             },
             "hrv": {
                 "common": "Otok Heard i oto\u010dje McDonald",

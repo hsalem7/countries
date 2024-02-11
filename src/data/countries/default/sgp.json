@@ -61,7 +61,7 @@
     "cca2": "SG",
     "cca3": "SGP",
     "ccn3": "702",
-    "cioc": "SIN",
+    "cioc": "SGP",
     "currencies": [
         "SGD"
     ],
@@ -402,6 +402,10 @@
         "urd": {
             "common": "\u0633\u0646\u06af\u0627\u067e\u0648\u0631",
             "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0646\u06af\u0627\u067e\u0648\u0631"
+        },
+        "zho": {
+            "common": "\u65b0\u52a0\u5761",
+            "official": "\u65b0\u52a0\u5761\u5171\u548c\u56fd"
         }
     },
     "type": "Sovereign country",

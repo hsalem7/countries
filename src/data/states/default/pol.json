@@ -1,8 +1,7 @@
 {
     "DS": {
         "alt_names": [
-            "dolno\u015bl\u0105skie",
-            "Dolno\u015bl\u0105skie"
+            "Dolnoslaskie"
         ],
         "cca2": "PL",
         "cca3": "POL",
@@ -125,25 +124,20 @@
             "woe_name": "Lower Silesian"
         },
         "geo": {
-            "latitude": 51.1339861,
-            "longitude": 16.8841961,
-            "max_latitude": 51.8047592,
-            "max_longitude": 17.798917,
-            "min_latitude": 50.09634,
-            "min_longitude": 14.816831
+            "latitude": "51.0127000000",
+            "longitude": "16.4623000000"
         },
         "iso_3166_2": "PL-DS",
         "iso_a2": "PL",
         "iso_a3": "POL",
-        "name": "Dolno\u015bl\u0105skie",
+        "name": "Lower Silesian",
         "postal": "DS",
         "type": "Wojew\u00f3dztwo",
         "type_en": "Voivodeship|Province"
     },
     "KP": {
         "alt_names": [
-            "kujawsko-pomorskie",
-            "Kujawsko-pomorskie"
+            "Kujawsko-Pomorskie"
         ],
         "cca2": "PL",
         "cca3": "POL",
@@ -266,17 +260,13 @@
             "woe_name": "Kuyavian-Pomeranian"
         },
         "geo": {
-            "latitude": 53.1648363,
-            "longitude": 18.4834224,
-            "max_latitude": 53.7809987,
-            "max_longitude": 19.7618466,
-            "min_latitude": 52.33079,
-            "min_longitude": 17.2472674
+            "latitude": "53.0334000000",
+            "longitude": "18.5227000000"
         },
         "iso_3166_2": "PL-KP",
         "iso_a2": "PL",
         "iso_a3": "POL",
-        "name": "Kujawsko-pomorskie",
+        "name": "Kuyavian-Pomeranian",
         "postal": "KP",
         "type": "Wojew\u00f3dztwo",
         "type_en": "Voivodeship|Province"
@@ -424,8 +414,7 @@
     },
     "LD": {
         "alt_names": [
-            "\u0142\u00f3dzkie",
-            "\u0141\u00f3dzkie"
+            "L\u00f3dzkie"
         ],
         "cca2": "PL",
         "cca3": "POL",
@@ -548,17 +537,13 @@
             "woe_name": "\u0141\u00f3d\u017a"
         },
         "geo": {
-            "latitude": 51.4634771,
-            "longitude": 19.1726974,
-            "max_latitude": 52.3940561,
-            "max_longitude": 20.6591903,
-            "min_latitude": 50.8430329,
-            "min_longitude": 18.0750521
+            "latitude": "51.6355000000",
+            "longitude": "19.3642000000"
         },
         "iso_3166_2": "PL-LD",
         "iso_a2": "PL",
         "iso_a3": "POL",
-        "name": "\u0141\u00f3dzkie",
+        "name": "\u0141\u00f3d\u017a",
         "postal": "LD",
         "type": "Wojew\u00f3dztwo",
         "type_en": "Voivodeship|Province"
@@ -706,8 +691,7 @@
     },
     "MA": {
         "alt_names": [
-            "ma\u0142opolskie",
-            "Ma\u0142opolskie"
+            "Malopolskie"
         ],
         "cca2": "PL",
         "cca3": "POL",
@@ -830,17 +814,13 @@
             "woe_name": "Lesser Poland"
         },
         "geo": {
-            "latitude": 49.7225306,
-            "longitude": 20.2503359,
-            "max_latitude": 50.5200442,
-            "max_longitude": 21.4213826,
-            "min_latitude": 49.1785791,
-            "min_longitude": 19.083192
+            "latitude": "49.8761000000",
+            "longitude": "20.3133000000"
         },
         "iso_3166_2": "PL-MA",
         "iso_a2": "PL",
         "iso_a3": "POL",
-        "name": "Ma\u0142opolskie",
+        "name": "Lesser Poland",
         "postal": "MA",
         "type": "Wojew\u00f3dztwo",
         "type_en": "Voivodeship|Province"
@@ -1693,8 +1673,7 @@
     },
     "SL": {
         "alt_names": [
-            "\u015bl\u0105skie",
-            "\u015al\u0105skie"
+            "Slaskie"
         ],
         "cca2": "PL",
         "cca3": "POL",
@@ -1817,25 +1796,20 @@
             "woe_name": "Silesian"
         },
         "geo": {
-            "latitude": 50.5716595,
-            "longitude": 19.3219768,
-            "max_latitude": 51.0993559,
-            "max_longitude": 19.9739915,
-            "min_latitude": 49.393975,
-            "min_longitude": 18.03475
+            "latitude": "50.1978000000",
+            "longitude": "18.9924000000"
         },
         "iso_3166_2": "PL-SL",
         "iso_a2": "PL",
         "iso_a3": "POL",
-        "name": "\u015al\u0105skie",
+        "name": "Silesian",
         "postal": "SL",
         "type": "Wojew\u00f3dztwo",
         "type_en": "Voivodeship|Province"
     },
     "WN": {
         "alt_names": [
-            "warmi\u0144sko-mazurskie",
-            "Warmi\u0144sko-mazurskie"
+            "Warminsko-Mazurskie"
         ],
         "cca2": "PL",
         "cca3": "POL",
@@ -1958,17 +1932,13 @@
             "woe_name": "Warmian-Masurian"
         },
         "geo": {
-            "latitude": 53.8671117,
-            "longitude": 20.702786,
-            "max_latitude": 54.4533097,
-            "max_longitude": 22.8058724,
-            "min_latitude": 53.1399971,
-            "min_longitude": 19.128516
+            "latitude": "53.8526000000",
+            "longitude": "20.9711000000"
         },
         "iso_3166_2": "PL-WN",
         "iso_a2": "PL",
         "iso_a3": "POL",
-        "name": "Warmi\u0144sko-mazurskie",
+        "name": "Warmian-Masurian",
         "postal": "WN",
         "type": "Wojew\u00f3dztwo",
         "type_en": "Voivodeship|Province"

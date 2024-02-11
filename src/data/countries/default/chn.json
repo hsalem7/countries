@@ -420,6 +420,10 @@
         "urd": {
             "common": "\u0686\u06cc\u0646",
             "official": "\u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646"
+        },
+        "zho": {
+            "common": "\u4e2d\u56fd",
+            "official": "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd"
         }
     },
     "type": "Country",

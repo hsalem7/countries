@@ -291,7 +291,9 @@
             "region": "Europe",
             "status": "user-assigned",
             "subregion": "Southeast Europe",
-            "tld": [],
+            "tld": [
+                ".xk"
+            ],
             "translations": {
                 "ces": {
                     "common": "Kosovo",
@@ -324,6 +326,10 @@
                 "ita": {
                     "common": "Kosovo",
                     "official": "Repubblica del Kosovo"
+                },
+                "jpn": {
+                    "common": "\u30b3\u30bd\u30dc",
+                    "official": "\u30b3\u30bd\u30dc\u5171\u548c\u56fd"
                 },
                 "kor": {
                     "common": "\ucf54\uc18c\ubcf4",
@@ -459,7 +465,9 @@
         "tiny": "-99",
         "tlc": "1",
         "tlc_diff": "1",
-        "tld": [],
+        "tld": [
+            ".xk"
+        ],
         "translations": {
             "ces": {
                 "common": "Kosovo",
@@ -492,6 +500,10 @@
             "ita": {
                 "common": "Kosovo",
                 "official": "Repubblica del Kosovo"
+            },
+            "jpn": {
+                "common": "\u30b3\u30bd\u30dc",
+                "official": "\u30b3\u30bd\u30dc\u5171\u548c\u56fd"
             },
             "kor": {
                 "common": "\ucf54\uc18c\ubcf4",
@@ -762,7 +774,9 @@
         "region": "Europe",
         "status": "user-assigned",
         "subregion": "Southeast Europe",
-        "tld": [],
+        "tld": [
+            ".xk"
+        ],
         "translations": {
             "ces": {
                 "common": "Kosovo",
@@ -795,6 +809,10 @@
             "ita": {
                 "common": "Kosovo",
                 "official": "Repubblica del Kosovo"
+            },
+            "jpn": {
+                "common": "\u30b3\u30bd\u30dc",
+                "official": "\u30b3\u30bd\u30dc\u5171\u548c\u56fd"
             },
             "kor": {
                 "common": "\ucf54\uc18c\ubcf4",
@@ -933,7 +951,10 @@
     "tiny": "-99",
     "tlc": "1",
     "tlc_diff": "1",
-    "tld": [],
+    "tld": [
+        ".xk"
+    ],
+    "tld_rinvex": [],
     "translations": {
         "ces": {
             "common": "Kosovo",
@@ -966,6 +987,10 @@
         "ita": {
             "common": "Kosovo",
             "official": "Repubblica del Kosovo"
+        },
+        "jpn": {
+            "common": "\u30b3\u30bd\u30dc",
+            "official": "\u30b3\u30bd\u30dc\u5171\u548c\u56fd"
         },
         "kor": {
             "common": "\ucf54\uc18c\ubcf4",
@@ -1242,7 +1267,9 @@
             "region": "Europe",
             "status": "user-assigned",
             "subregion": "Southeast Europe",
-            "tld": [],
+            "tld": [
+                ".xk"
+            ],
             "translations": {
                 "ces": {
                     "common": "Kosovo",
@@ -1275,6 +1302,10 @@
                 "ita": {
                     "common": "Kosovo",
                     "official": "Repubblica del Kosovo"
+                },
+                "jpn": {
+                    "common": "\u30b3\u30bd\u30dc",
+                    "official": "\u30b3\u30bd\u30dc\u5171\u548c\u56fd"
                 },
                 "kor": {
                     "common": "\ucf54\uc18c\ubcf4",
@@ -1410,7 +1441,9 @@
         "tiny": "-99",
         "tlc": "1",
         "tlc_diff": "1",
-        "tld": [],
+        "tld": [
+            ".xk"
+        ],
         "translations": {
             "ces": {
                 "common": "Kosovo",
@@ -1443,6 +1476,10 @@
             "ita": {
                 "common": "Kosovo",
                 "official": "Repubblica del Kosovo"
+            },
+            "jpn": {
+                "common": "\u30b3\u30bd\u30dc",
+                "official": "\u30b3\u30bd\u30dc\u5171\u548c\u56fd"
             },
             "kor": {
                 "common": "\ucf54\uc18c\ubcf4",

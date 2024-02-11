@@ -58,9 +58,7 @@
     "calling_codes": [
         "+853"
     ],
-    "capital": [
-        ""
-    ],
+    "capital": [],
     "capital_rinvex": "",
     "cca2": "MO",
     "cca3": "MAC",
@@ -125,9 +123,7 @@
         "calling_codes": [
             "+853"
         ],
-        "capital": [
-            ""
-        ],
+        "capital": [],
         "cca2": "MO",
         "cca3": "MAC",
         "ccn3": "446",
@@ -384,6 +380,10 @@
             "urd": {
                 "common": "\u0645\u06a9\u0627\u0624",
                 "official": "\u0645\u06a9\u0627\u0624 \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646 \u06a9\u0627 \u062e\u0635\u0648\u0635\u06cc \u0627\u0646\u062a\u0638\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06c1"
+            },
+            "zho": {
+                "common": "\u6fb3\u95e8",
+                "official": "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u6fb3\u95e8\u7279\u522b\u884c\u653f\u533a"
             }
         },
         "type": "Country",
@@ -594,9 +594,7 @@
         "calling_codes": [
             "+853"
         ],
-        "capital": [
-            ""
-        ],
+        "capital": [],
         "cca2": "MO",
         "cca3": "MAC",
         "ccn3": "446",
@@ -853,6 +851,10 @@
             "urd": {
                 "common": "\u0645\u06a9\u0627\u0624",
                 "official": "\u0645\u06a9\u0627\u0624 \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646 \u06a9\u0627 \u062e\u0635\u0648\u0635\u06cc \u0627\u0646\u062a\u0638\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06c1"
+            },
+            "zho": {
+                "common": "\u6fb3\u95e8",
+                "official": "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u6fb3\u95e8\u7279\u522b\u884c\u653f\u533a"
             }
         },
         "type": "Country",
@@ -1047,6 +1049,10 @@
         "urd": {
             "common": "\u0645\u06a9\u0627\u0624",
             "official": "\u0645\u06a9\u0627\u0624 \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646 \u06a9\u0627 \u062e\u0635\u0648\u0635\u06cc \u0627\u0646\u062a\u0638\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06c1"
+        },
+        "zho": {
+            "common": "\u6fb3\u95e8",
+            "official": "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u6fb3\u95e8\u7279\u522b\u884c\u653f\u533a"
         }
     },
     "type": "Country",
@@ -1111,9 +1117,7 @@
         "calling_codes": [
             "+853"
         ],
-        "capital": [
-            ""
-        ],
+        "capital": [],
         "cca2": "MO",
         "cca3": "MAC",
         "ccn3": "446",
@@ -1370,6 +1374,10 @@
             "urd": {
                 "common": "\u0645\u06a9\u0627\u0624",
                 "official": "\u0645\u06a9\u0627\u0624 \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646 \u06a9\u0627 \u062e\u0635\u0648\u0635\u06cc \u0627\u0646\u062a\u0638\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06c1"
+            },
+            "zho": {
+                "common": "\u6fb3\u95e8",
+                "official": "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u6fb3\u95e8\u7279\u522b\u884c\u653f\u533a"
             }
         },
         "type": "Country",

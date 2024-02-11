@@ -49,9 +49,7 @@
     "brk_group": "",
     "brk_name": "Antarctica",
     "calling_codes": [],
-    "capital": [
-        ""
-    ],
+    "capital": [],
     "capital_rinvex": "",
     "cca2": "AQ",
     "cca3": "ATA",
@@ -107,9 +105,7 @@
         "brk_group": "",
         "brk_name": "Antarctica",
         "calling_codes": [],
-        "capital": [
-            ""
-        ],
+        "capital": [],
         "cca2": "AQ",
         "cca3": "ATA",
         "ccn3": "010",
@@ -276,10 +272,6 @@
             "ces": {
                 "common": "Antarktida",
                 "official": "Antarktida"
-            },
-            "cym": {
-                "common": "Yr Antarctig",
-                "official": "Yr Antarctig"
             },
             "deu": {
                 "common": "Antarktis",
@@ -561,9 +553,7 @@
         "brk_group": "",
         "brk_name": "Antarctica",
         "calling_codes": [],
-        "capital": [
-            ""
-        ],
+        "capital": [],
         "cca2": "AQ",
         "cca3": "ATA",
         "ccn3": "010",
@@ -730,10 +720,6 @@
             "ces": {
                 "common": "Antarktida",
                 "official": "Antarktida"
-            },
-            "cym": {
-                "common": "Yr Antarctig",
-                "official": "Yr Antarctig"
             },
             "deu": {
                 "common": "Antarktis",
@@ -1052,9 +1038,7 @@
         "brk_group": "",
         "brk_name": "Antarctica",
         "calling_codes": [],
-        "capital": [
-            ""
-        ],
+        "capital": [],
         "cca2": "AQ",
         "cca3": "ATA",
         "ccn3": "010",
@@ -1221,10 +1205,6 @@
             "ces": {
                 "common": "Antarktida",
                 "official": "Antarktida"
-            },
-            "cym": {
-                "common": "Yr Antarctig",
-                "official": "Yr Antarctig"
             },
             "deu": {
                 "common": "Antarktis",

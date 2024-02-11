@@ -30,7 +30,7 @@ class Config
 
     /**
      * @param $key
-     * @return \PragmaRX\Coollection\Package\Coollection
+     * @return mixed
      */
     public function get($key)
     {

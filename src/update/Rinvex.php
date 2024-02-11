@@ -127,7 +127,7 @@ class Rinvex extends Base
         $state = $states->filter(function ($rinvexState) use ($needle) {
             return $rinvexState->postal == $needle->postal ||
                 $rinvexState->name == $needle['name'] ||
-                utf8_encode($rinvexState->name) == $needle['name'] ||
+                mb_convert_encoding($rinvexState->name, 'UTF-8', 'ISO-8859-1') ||
                 $rinvexState->alt_names->contains($needle['name']) ||
                 $rinvexState->alt_names->contains(function ($name) use ($needle) {
                     return $needle->alt_names->contains($name);

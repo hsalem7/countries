@@ -249,7 +249,7 @@
                 "official": "T\u00fcrkiye Cumhuriyeti"
             }
         },
-        "official": "Republic of Turkey"
+        "official": "Republic of T\u00fcrkiye"
     },
     "name_alt": "",
     "name_ar": "\u062a\u0631\u0643\u064a\u0627",
@@ -274,6 +274,16 @@
     "name_nl": "Turkije",
     "name_pl": "Turcja",
     "name_pt": "Turquia",
+    "name_rinvex": {
+        "common": "Turkey",
+        "native": {
+            "tur": {
+                "common": "T\u00fcrkiye",
+                "official": "T\u00fcrkiye Cumhuriyeti"
+            }
+        },
+        "official": "Republic of Turkey"
+    },
     "name_ru": "\u0422\u0443\u0440\u0446\u0438\u044f",
     "name_sort": "Turkey",
     "name_sv": "Turkiet",
