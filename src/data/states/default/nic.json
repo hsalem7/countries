@@ -143,9 +143,9 @@
     },
     "AS": {
         "alt_names": [
-            "RAAS",
-            "Regi\u00f3n Aut\u00f3noma Atl\u00e1ntico Sur",
-            "Zelaya Sur"
+            "RAAN",
+            "Regi\u00f3n Aut\u00f3noma Atl\u00e1ntico Norte",
+            "Zelaya Norte"
         ],
         "cca2": "NI",
         "cca3": "NIC",
@@ -268,24 +268,26 @@
             "woe_name": "Atl\u00e1ntico Sur"
         },
         "geo": {
-            "latitude": 12.1918502,
-            "longitude": -84.1012861,
-            "max_latitude": 13.277237,
-            "max_longitude": -82.9715072,
-            "min_latitude": 11.0285841,
-            "min_longitude": -85.2145801
+            "latitude": 13.8394456,
+            "longitude": -83.9320806,
+            "max_latitude": 15.0259089,
+            "max_longitude": -82.5920724,
+            "min_latitude": 13.028599,
+            "min_longitude": -85.483689
         },
         "iso_3166_2": "NI-AS",
         "iso_a2": "NI",
         "iso_a3": "NIC",
-        "name": "Atl\u00e1ntico Sur*",
+        "name": "Atl\u00e1ntico Norte*",
         "postal": "AS",
         "type": "Regi\u00f3n Aut\u00f3noma",
         "type_en": "Autonomous Region"
     },
     "BO": {
         "alt_names": [
-            "Boaco"
+            "RAAN",
+            "Regi\u00f3n Aut\u00f3noma Atl\u00e1ntico Norte",
+            "Zelaya Norte"
         ],
         "cca2": "NI",
         "cca3": "NIC",
@@ -408,24 +410,26 @@
             "woe_name": "Boaco"
         },
         "geo": {
-            "latitude": 12.492724,
-            "longitude": -85.520024,
-            "max_latitude": 12.7902051,
-            "max_longitude": -84.953434,
-            "min_latitude": 12.0231972,
-            "min_longitude": -85.9630958
+            "latitude": 13.8394456,
+            "longitude": -83.9320806,
+            "max_latitude": 15.0259089,
+            "max_longitude": -82.5920724,
+            "min_latitude": 13.028599,
+            "min_longitude": -85.483689
         },
         "iso_3166_2": "NI-BO",
         "iso_a2": "NI",
         "iso_a3": "NIC",
-        "name": "Boaco",
+        "name": "Atl\u00e1ntico Norte*",
         "postal": "BO",
         "type": "Departamento",
         "type_en": "Department"
     },
     "CA": {
         "alt_names": [
-            "Carazo"
+            "RAAN",
+            "Regi\u00f3n Aut\u00f3noma Atl\u00e1ntico Norte",
+            "Zelaya Norte"
         ],
         "cca2": "NI",
         "cca3": "NIC",
@@ -548,24 +552,26 @@
             "woe_name": "Carazo"
         },
         "geo": {
-            "latitude": 11.7274729,
-            "longitude": -86.2158497,
-            "max_latitude": 11.933541,
-            "max_longitude": -86.063385,
-            "min_latitude": 11.5150947,
-            "min_longitude": -86.4927755
+            "latitude": 13.8394456,
+            "longitude": -83.9320806,
+            "max_latitude": 15.0259089,
+            "max_longitude": -82.5920724,
+            "min_latitude": 13.028599,
+            "min_longitude": -85.483689
         },
         "iso_3166_2": "NI-CA",
         "iso_a2": "NI",
         "iso_a3": "NIC",
-        "name": "Carazo",
+        "name": "Atl\u00e1ntico Norte*",
         "postal": "CA",
         "type": "Departamento",
         "type_en": "Department"
     },
     "CI": {
         "alt_names": [
-            "Chinandega"
+            "RAAN",
+            "Regi\u00f3n Aut\u00f3noma Atl\u00e1ntico Norte",
+            "Zelaya Norte"
         ],
         "cca2": "NI",
         "cca3": "NIC",
@@ -688,24 +694,26 @@
             "woe_name": "Chinandega"
         },
         "geo": {
-            "latitude": 12.8820062,
-            "longitude": -87.1422895,
-            "max_latitude": 13.306297,
-            "max_longitude": -86.629938,
-            "min_latitude": 12.44511,
-            "min_longitude": -87.6903076
+            "latitude": 13.8394456,
+            "longitude": -83.9320806,
+            "max_latitude": 15.0259089,
+            "max_longitude": -82.5920724,
+            "min_latitude": 13.028599,
+            "min_longitude": -85.483689
         },
         "iso_3166_2": "NI-CI",
         "iso_a2": "NI",
         "iso_a3": "NIC",
-        "name": "Chinandega",
+        "name": "Atl\u00e1ntico Norte*",
         "postal": "CI",
         "type": "Departamento",
         "type_en": "Department"
     },
     "CO": {
         "alt_names": [
-            "Chontales"
+            "RAAN",
+            "Regi\u00f3n Aut\u00f3noma Atl\u00e1ntico Norte",
+            "Zelaya Norte"
         ],
         "cca2": "NI",
         "cca3": "NIC",
@@ -828,24 +836,26 @@
             "woe_name": "Chontales"
         },
         "geo": {
-            "latitude": 11.9394717,
-            "longitude": -85.1894045,
-            "max_latitude": 12.632429,
-            "max_longitude": -84.5676971,
-            "min_latitude": 11.6280457,
-            "min_longitude": -85.645509
+            "latitude": 13.8394456,
+            "longitude": -83.9320806,
+            "max_latitude": 15.0259089,
+            "max_longitude": -82.5920724,
+            "min_latitude": 13.028599,
+            "min_longitude": -85.483689
         },
         "iso_3166_2": "NI-CO",
         "iso_a2": "NI",
         "iso_a3": "NIC",
-        "name": "Chontales",
+        "name": "Atl\u00e1ntico Norte*",
         "postal": "CO",
         "type": "Departamento",
         "type_en": "Department"
     },
     "ES": {
         "alt_names": [
-            "Estel\u00ed"
+            "RAAN",
+            "Regi\u00f3n Aut\u00f3noma Atl\u00e1ntico Norte",
+            "Zelaya Norte"
         ],
         "cca2": "NI",
         "cca3": "NIC",
@@ -968,24 +978,26 @@
             "woe_name": "Estel\u00ed"
         },
         "geo": {
-            "latitude": 13.083333,
-            "longitude": -86.35,
-            "max_latitude": 13.1177659,
-            "max_longitude": -86.3384628,
-            "min_latitude": 13.0616854,
-            "min_longitude": -86.3830947
+            "latitude": 13.8394456,
+            "longitude": -83.9320806,
+            "max_latitude": 15.0259089,
+            "max_longitude": -82.5920724,
+            "min_latitude": 13.028599,
+            "min_longitude": -85.483689
         },
         "iso_3166_2": "NI-ES",
         "iso_a2": "NI",
         "iso_a3": "NIC",
-        "name": "Estel\u00ed",
+        "name": "Atl\u00e1ntico Norte*",
         "postal": "ES",
         "type": "Departamento",
         "type_en": "Department"
     },
     "GR": {
         "alt_names": [
-            "Granada"
+            "RAAN",
+            "Regi\u00f3n Aut\u00f3noma Atl\u00e1ntico Norte",
+            "Zelaya Norte"
         ],
         "cca2": "NI",
         "cca3": "NIC",
@@ -1108,24 +1120,26 @@
             "woe_name": "Granada"
         },
         "geo": {
-            "latitude": 11.933333,
-            "longitude": -85.95,
-            "max_latitude": 11.9492767,
-            "max_longitude": -85.9411098,
-            "min_latitude": 11.9084219,
-            "min_longitude": -85.978489
+            "latitude": 13.8394456,
+            "longitude": -83.9320806,
+            "max_latitude": 15.0259089,
+            "max_longitude": -82.5920724,
+            "min_latitude": 13.028599,
+            "min_longitude": -85.483689
         },
         "iso_3166_2": "NI-GR",
         "iso_a2": "NI",
         "iso_a3": "NIC",
-        "name": "Granada",
+        "name": "Atl\u00e1ntico Norte*",
         "postal": "GR",
         "type": "Departamento",
         "type_en": "Department"
     },
     "JI": {
         "alt_names": [
-            "Jinotega"
+            "RAAN",
+            "Regi\u00f3n Aut\u00f3noma Atl\u00e1ntico Norte",
+            "Zelaya Norte"
         ],
         "cca2": "NI",
         "cca3": "NIC",
@@ -1248,24 +1262,26 @@
             "woe_name": "Jinotega"
         },
         "geo": {
-            "latitude": 13.1,
-            "longitude": -86,
-            "max_latitude": 13.1066716,
-            "max_longitude": -85.990076,
-            "min_latitude": 13.0730035,
-            "min_longitude": -86.0085301
+            "latitude": 13.8394456,
+            "longitude": -83.9320806,
+            "max_latitude": 15.0259089,
+            "max_longitude": -82.5920724,
+            "min_latitude": 13.028599,
+            "min_longitude": -85.483689
         },
         "iso_3166_2": "NI-JI",
         "iso_a2": "NI",
         "iso_a3": "NIC",
-        "name": "Jinotega",
+        "name": "Atl\u00e1ntico Norte*",
         "postal": "JI",
         "type": "Departamento",
         "type_en": "Department"
     },
     "LE": {
         "alt_names": [
-            "Le\u00f3n"
+            "RAAN",
+            "Regi\u00f3n Aut\u00f3noma Atl\u00e1ntico Norte",
+            "Zelaya Norte"
         ],
         "cca2": "NI",
         "cca3": "NIC",
@@ -1388,24 +1404,26 @@
             "woe_name": "Le\u00f3n"
         },
         "geo": {
-            "latitude": 12.5092037,
-            "longitude": -86.6611083,
-            "max_latitude": 13.107796,
-            "max_longitude": -86.245541,
-            "min_latitude": 11.988095,
-            "min_longitude": -87.175883
+            "latitude": 13.8394456,
+            "longitude": -83.9320806,
+            "max_latitude": 15.0259089,
+            "max_longitude": -82.5920724,
+            "min_latitude": 13.028599,
+            "min_longitude": -85.483689
         },
         "iso_3166_2": "NI-LE",
         "iso_a2": "NI",
         "iso_a3": "NIC",
-        "name": "Le\u00f3n",
+        "name": "Atl\u00e1ntico Norte*",
         "postal": "LE",
         "type": "Departamento",
         "type_en": "Department"
     },
     "MD": {
         "alt_names": [
-            "Madriz"
+            "RAAN",
+            "Regi\u00f3n Aut\u00f3noma Atl\u00e1ntico Norte",
+            "Zelaya Norte"
         ],
         "cca2": "NI",
         "cca3": "NIC",
@@ -1528,24 +1546,26 @@
             "woe_name": "Madriz"
         },
         "geo": {
-            "latitude": 13.4726005,
-            "longitude": -86.4592091,
-            "max_latitude": 13.6532971,
-            "max_longitude": -86.0422011,
-            "min_latitude": 13.197792,
-            "min_longitude": -86.768272
+            "latitude": 13.8394456,
+            "longitude": -83.9320806,
+            "max_latitude": 15.0259089,
+            "max_longitude": -82.5920724,
+            "min_latitude": 13.028599,
+            "min_longitude": -85.483689
         },
         "iso_3166_2": "NI-MD",
         "iso_a2": "NI",
         "iso_a3": "NIC",
-        "name": "Madriz",
+        "name": "Atl\u00e1ntico Norte*",
         "postal": "MD",
         "type": "Departamento",
         "type_en": "Department"
     },
     "MN": {
         "alt_names": [
-            "Managua"
+            "RAAN",
+            "Regi\u00f3n Aut\u00f3noma Atl\u00e1ntico Norte",
+            "Zelaya Norte"
         ],
         "cca2": "NI",
         "cca3": "NIC",
@@ -1668,24 +1688,26 @@
             "woe_name": "Managua"
         },
         "geo": {
-            "latitude": 12.136389,
-            "longitude": -86.251389,
-            "max_latitude": 12.1724475,
-            "max_longitude": -86.1250878,
-            "min_latitude": 12.0199606,
-            "min_longitude": -86.3918334
+            "latitude": 13.8394456,
+            "longitude": -83.9320806,
+            "max_latitude": 15.0259089,
+            "max_longitude": -82.5920724,
+            "min_latitude": 13.028599,
+            "min_longitude": -85.483689
         },
         "iso_3166_2": "NI-MN",
         "iso_a2": "NI",
         "iso_a3": "NIC",
-        "name": "Managua",
+        "name": "Atl\u00e1ntico Norte*",
         "postal": "MN",
         "type": "Departamento",
         "type_en": "Department"
     },
     "MS": {
         "alt_names": [
-            "Masaya"
+            "RAAN",
+            "Regi\u00f3n Aut\u00f3noma Atl\u00e1ntico Norte",
+            "Zelaya Norte"
         ],
         "cca2": "NI",
         "cca3": "NIC",
@@ -1808,24 +1830,26 @@
             "woe_name": "Masaya"
         },
         "geo": {
-            "latitude": 11.966667,
-            "longitude": -86.1,
-            "max_latitude": 11.9975977,
-            "max_longitude": -86.0721206,
-            "min_latitude": 11.9524256,
-            "min_longitude": -86.113329
+            "latitude": 13.8394456,
+            "longitude": -83.9320806,
+            "max_latitude": 15.0259089,
+            "max_longitude": -82.5920724,
+            "min_latitude": 13.028599,
+            "min_longitude": -85.483689
         },
         "iso_3166_2": "NI-MS",
         "iso_a2": "NI",
         "iso_a3": "NIC",
-        "name": "Masaya",
+        "name": "Atl\u00e1ntico Norte*",
         "postal": "MS",
         "type": "Departamento",
         "type_en": "Department"
     },
     "MT": {
         "alt_names": [
-            "Matagalpa"
+            "RAAN",
+            "Regi\u00f3n Aut\u00f3noma Atl\u00e1ntico Norte",
+            "Zelaya Norte"
         ],
         "cca2": "NI",
         "cca3": "NIC",
@@ -1948,24 +1972,26 @@
             "woe_name": "Matagalpa"
         },
         "geo": {
-            "latitude": 12.916667,
-            "longitude": -85.916667,
-            "max_latitude": 12.9567171,
-            "max_longitude": -85.8964561,
-            "min_latitude": 12.9025089,
-            "min_longitude": -85.9465599
+            "latitude": 13.8394456,
+            "longitude": -83.9320806,
+            "max_latitude": 15.0259089,
+            "max_longitude": -82.5920724,
+            "min_latitude": 13.028599,
+            "min_longitude": -85.483689
         },
         "iso_3166_2": "NI-MT",
         "iso_a2": "NI",
         "iso_a3": "NIC",
-        "name": "Matagalpa",
+        "name": "Atl\u00e1ntico Norte*",
         "postal": "MT",
         "type": "Departamento",
         "type_en": "Department"
     },
     "NS": {
         "alt_names": [
-            "Nueva Segovia"
+            "RAAN",
+            "Regi\u00f3n Aut\u00f3noma Atl\u00e1ntico Norte",
+            "Zelaya Norte"
         ],
         "cca2": "NI",
         "cca3": "NIC",
@@ -2088,24 +2114,26 @@
             "woe_name": "Nueva Segovia"
         },
         "geo": {
-            "latitude": 13.7894404,
-            "longitude": -86.0121573,
-            "max_latitude": 14.0770589,
-            "max_longitude": -85.7284321,
-            "min_latitude": 13.4533359,
-            "min_longitude": -86.785194
+            "latitude": 13.8394456,
+            "longitude": -83.9320806,
+            "max_latitude": 15.0259089,
+            "max_longitude": -82.5920724,
+            "min_latitude": 13.028599,
+            "min_longitude": -85.483689
         },
         "iso_3166_2": "NI-NS",
         "iso_a2": "NI",
         "iso_a3": "NIC",
-        "name": "Nueva Segovia",
+        "name": "Atl\u00e1ntico Norte*",
         "postal": "NS",
         "type": "Departamento",
         "type_en": "Department"
     },
     "RI": {
         "alt_names": [
-            "Rivas"
+            "RAAN",
+            "Regi\u00f3n Aut\u00f3noma Atl\u00e1ntico Norte",
+            "Zelaya Norte"
         ],
         "cca2": "NI",
         "cca3": "NIC",
@@ -2228,24 +2256,26 @@
             "woe_name": "Rivas"
         },
         "geo": {
-            "latitude": 11.402349,
-            "longitude": -85.684578,
-            "max_latitude": 11.6717179,
-            "max_longitude": -85.1754141,
-            "min_latitude": 11.041925,
-            "min_longitude": -86.1715965
+            "latitude": 13.8394456,
+            "longitude": -83.9320806,
+            "max_latitude": 15.0259089,
+            "max_longitude": -82.5920724,
+            "min_latitude": 13.028599,
+            "min_longitude": -85.483689
         },
         "iso_3166_2": "NI-RI",
         "iso_a2": "NI",
         "iso_a3": "NIC",
-        "name": "Rivas",
+        "name": "Atl\u00e1ntico Norte*",
         "postal": "RI",
         "type": "Departamento",
         "type_en": "Department"
     },
     "SJ": {
         "alt_names": [
-            "R\u00edo San Juan"
+            "RAAN",
+            "Regi\u00f3n Aut\u00f3noma Atl\u00e1ntico Norte",
+            "Zelaya Norte"
         ],
         "cca2": "NI",
         "cca3": "NIC",
@@ -2368,17 +2398,17 @@
             "woe_name": "R\u00c3\u00ado San Juan"
         },
         "geo": {
-            "latitude": 10.9324722,
-            "longitude": -83.6915972,
-            "max_latitude": 10.9404334,
-            "max_longitude": -83.6843687,
-            "min_latitude": 10.924511,
-            "min_longitude": -83.6988258
+            "latitude": 13.8394456,
+            "longitude": -83.9320806,
+            "max_latitude": 15.0259089,
+            "max_longitude": -82.5920724,
+            "min_latitude": 13.028599,
+            "min_longitude": -85.483689
         },
         "iso_3166_2": "NI-SJ",
         "iso_a2": "NI",
         "iso_a3": "NIC",
-        "name": "R\u00edo San Juan",
+        "name": "Atl\u00e1ntico Norte*",
         "postal": "SJ",
         "type": "Departamento",
         "type_en": "Department"

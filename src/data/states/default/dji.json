@@ -141,8 +141,7 @@
     },
     "AS": {
         "alt_names": [
-            "Ali Sabieh",
-            "Ali Sabih"
+            "Arta"
         ],
         "cca2": "DJ",
         "cca3": "DJI",
@@ -265,25 +264,24 @@
             "woe_name": "Ali Sabieh"
         },
         "geo": {
-            "latitude": 11.15,
-            "longitude": 42.716667,
-            "max_latitude": 11.1627947,
-            "max_longitude": 42.7215384,
-            "min_latitude": 11.136424,
-            "min_longitude": 42.6945505
+            "latitude": 11.5255528,
+            "longitude": 42.8479474,
+            "max_latitude": 11.5316867,
+            "max_longitude": 42.8639103,
+            "min_latitude": 11.5173265,
+            "min_longitude": 42.8388475
         },
         "iso_3166_2": "DJ-AS",
         "iso_a2": "DJ",
         "iso_a3": "DJI",
-        "name": "Ali Sabieh",
+        "name": "Arta",
         "postal": "AS",
         "type": "Region",
         "type_en": "Region"
     },
     "DI": {
         "alt_names": [
-            "Dikhil",
-            "Dikkil"
+            "Arta"
         ],
         "cca2": "DJ",
         "cca3": "DJI",
@@ -406,24 +404,24 @@
             "woe_name": "Dikhil"
         },
         "geo": {
-            "latitude": 11.1054336,
-            "longitude": 42.3704744,
-            "max_latitude": 11.1124048,
-            "max_longitude": 42.3815967,
-            "min_latitude": 11.0995738,
-            "min_longitude": 42.362981
+            "latitude": 11.5255528,
+            "longitude": 42.8479474,
+            "max_latitude": 11.5316867,
+            "max_longitude": 42.8639103,
+            "min_latitude": 11.5173265,
+            "min_longitude": 42.8388475
         },
         "iso_3166_2": "DJ-DI",
         "iso_a2": "DJ",
         "iso_a3": "DJI",
-        "name": "Dikhil",
+        "name": "Arta",
         "postal": "DI",
         "type": "Region",
         "type_en": "Region"
     },
     "DJ": {
         "alt_names": [
-            "Djibouti"
+            "Arta"
         ],
         "cca2": "DJ",
         "cca3": "DJI",
@@ -546,25 +544,24 @@
             "woe_name": "Djibouti"
         },
         "geo": {
-            "latitude": 11.588333,
-            "longitude": 43.145,
-            "max_latitude": 11.6233909,
-            "max_longitude": 43.1837897,
-            "min_latitude": 11.5259804,
-            "min_longitude": 43.1276753
+            "latitude": 11.5255528,
+            "longitude": 42.8479474,
+            "max_latitude": 11.5316867,
+            "max_longitude": 42.8639103,
+            "min_latitude": 11.5173265,
+            "min_longitude": 42.8388475
         },
         "iso_3166_2": "DJ-DJ",
         "iso_a2": "DJ",
         "iso_a3": "DJI",
-        "name": "Djibouti",
+        "name": "Arta",
         "postal": "DJ",
         "type": "City",
         "type_en": "City"
     },
     "OB": {
         "alt_names": [
-            "Obock",
-            "Obok"
+            "Arta"
         ],
         "cca2": "DJ",
         "cca3": "DJI",
@@ -687,26 +684,24 @@
             "woe_name": "Obock"
         },
         "geo": {
-            "latitude": 11.9647465,
-            "longitude": 43.2884071,
-            "max_latitude": 11.9751386,
-            "max_longitude": 43.2948843,
-            "min_latitude": 11.9593636,
-            "min_longitude": 43.2825709
+            "latitude": 11.5255528,
+            "longitude": 42.8479474,
+            "max_latitude": 11.5316867,
+            "max_longitude": 42.8639103,
+            "min_latitude": 11.5173265,
+            "min_longitude": 42.8388475
         },
         "iso_3166_2": "DJ-OB",
         "iso_a2": "DJ",
         "iso_a3": "DJI",
-        "name": "Obock",
+        "name": "Arta",
         "postal": "OB",
         "type": "Region",
         "type_en": "Region"
     },
     "TA": {
         "alt_names": [
-            "Tadjoura",
-            "Tadjourah",
-            "Tajura"
+            "Arta"
         ],
         "cca2": "DJ",
         "cca3": "DJI",
@@ -829,17 +824,17 @@
             "woe_name": "Tadjourah"
         },
         "geo": {
-            "latitude": 11.7913106,
-            "longitude": 42.8796227,
-            "max_latitude": 11.7946021,
-            "max_longitude": 42.8837972,
-            "min_latitude": 11.7876882,
-            "min_longitude": 42.8755711
+            "latitude": 11.5255528,
+            "longitude": 42.8479474,
+            "max_latitude": 11.5316867,
+            "max_longitude": 42.8639103,
+            "min_latitude": 11.5173265,
+            "min_longitude": 42.8388475
         },
         "iso_3166_2": "DJ-TA",
         "iso_a2": "DJ",
         "iso_a3": "DJI",
-        "name": "Tadjourah",
+        "name": "Arta",
         "postal": "TA",
         "type": "Region",
         "type_en": "Region"

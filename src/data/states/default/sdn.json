@@ -1,8 +1,8 @@
 {
     "DE": {
         "alt_names": [
-            "D\u0101rf\u016br al Gharb\u012byah",
-            "Gharb D\u0101rf\u016br"
+            "Northern",
+            "Shamaliyah"
         ],
         "cca2": "SD",
         "cca3": "SDN",
@@ -125,21 +125,25 @@
             "woe_name": "West Darfur"
         },
         "geo": {
-            "latitude": "12.1983000000",
-            "longitude": "23.3467000000"
+            "latitude": 18.4448963,
+            "longitude": 30.1589303,
+            "max_latitude": 22.1765288,
+            "max_longitude": 32.637459,
+            "min_latitude": 16.511393,
+            "min_longitude": 25
         },
         "iso_3166_2": "SD-DE",
         "iso_a2": "SD",
         "iso_a3": "SDN",
-        "name": "Central Darfur",
+        "name": "Ash Shamaliyah",
         "postal": "DE",
         "type": "Wilayat",
         "type_en": "State"
     },
     "DN": {
         "alt_names": [
-            "North Darfur",
-            "Shimal Darfur"
+            "Northern",
+            "Shamaliyah"
         ],
         "cca2": "SD",
         "cca3": "SDN",
@@ -262,27 +266,25 @@
             "woe_name": "North Darfur"
         },
         "geo": {
-            "latitude": 15.7661969,
-            "longitude": 24.9042208,
-            "max_latitude": 20.0064945,
-            "max_longitude": 27.532602,
-            "min_latitude": 11.7224969,
-            "min_longitude": 22.75691
+            "latitude": 18.4448963,
+            "longitude": 30.1589303,
+            "max_latitude": 22.1765288,
+            "max_longitude": 32.637459,
+            "min_latitude": 16.511393,
+            "min_longitude": 25
         },
         "iso_3166_2": "SD-DN",
         "iso_a2": "SD",
         "iso_a3": "SDN",
-        "name": "Shamal Darfur",
+        "name": "Ash Shamaliyah",
         "postal": "DN",
         "type": "Wilayat",
         "type_en": "State"
     },
     "DS": {
         "alt_names": [
-            "D\u0101rf\u016br al Jan\u016bb\u012byah",
-            " Jan\u016bb D\u0101rf\u016br",
-            " Darfur m\u00e9ridional",
-            " Southern Darfur"
+            "Northern",
+            "Shamaliyah"
         ],
         "cca2": "SD",
         "cca3": "SDN",
@@ -405,21 +407,25 @@
             "woe_name": "South Darfur"
         },
         "geo": {
-            "latitude": "11.0263000000",
-            "longitude": "26.5295000000"
+            "latitude": 18.4448963,
+            "longitude": 30.1589303,
+            "max_latitude": 22.1765288,
+            "max_longitude": 32.637459,
+            "min_latitude": 16.511393,
+            "min_longitude": 25
         },
         "iso_3166_2": "SD-DS",
         "iso_a2": "SD",
         "iso_a3": "SDN",
-        "name": "Eastern Darfur",
+        "name": "Ash Shamaliyah",
         "postal": "DS",
         "type": "Wilayat",
         "type_en": "State"
     },
     "DW": {
         "alt_names": [
-            "D\u0101rf\u016br al Gharb\u012byah",
-            "Gharb D\u0101rf\u016br"
+            "Northern",
+            "Shamaliyah"
         ],
         "cca2": "SD",
         "cca3": "SDN",
@@ -542,23 +548,25 @@
             "woe_name": "West Darfur"
         },
         "geo": {
-            "latitude": "14.2109000000",
-            "longitude": "23.0863000000"
+            "latitude": 18.4448963,
+            "longitude": 30.1589303,
+            "max_latitude": 22.1765288,
+            "max_longitude": 32.637459,
+            "min_latitude": 16.511393,
+            "min_longitude": 25
         },
         "iso_3166_2": "SD-DW",
         "iso_a2": "SD",
         "iso_a3": "SDN",
-        "name": "Western Darfur",
+        "name": "Ash Shamaliyah",
         "postal": "DW",
         "type": "Wilayat",
         "type_en": "State"
     },
     "GD": {
         "alt_names": [
-            "Al Qadarif",
-            "Gadarif",
-            " Gedaref",
-            " Gederaf"
+            "Northern",
+            "Shamaliyah"
         ],
         "cca2": "SD",
         "cca3": "SDN",
@@ -681,21 +689,25 @@
             "woe_name": "Gedarif"
         },
         "geo": {
-            "latitude": "14.0283000000",
-            "longitude": "35.0351000000"
+            "latitude": 18.4448963,
+            "longitude": 30.1589303,
+            "max_latitude": 22.1765288,
+            "max_longitude": 32.637459,
+            "min_latitude": 16.511393,
+            "min_longitude": 25
         },
         "iso_3166_2": "SD-GD",
         "iso_a2": "SD",
         "iso_a3": "SDN",
-        "name": "Gedarif",
+        "name": "Ash Shamaliyah",
         "postal": "GD",
         "type": "Wilayat",
         "type_en": "State"
     },
     "GZ": {
         "alt_names": [
-            "Al Jazira",
-            "Gezira"
+            "Northern",
+            "Shamaliyah"
         ],
         "cca2": "SD",
         "cca3": "SDN",
@@ -818,24 +830,25 @@
             "woe_name": "Gezira"
         },
         "geo": {
-            "latitude": 14.8859611,
-            "longitude": 33.438353,
-            "max_latitude": 15.4767249,
-            "max_longitude": 34.3057649,
-            "min_latitude": 13.604472,
-            "min_longitude": 32.415869
+            "latitude": 18.4448963,
+            "longitude": 30.1589303,
+            "max_latitude": 22.1765288,
+            "max_longitude": 32.637459,
+            "min_latitude": 16.511393,
+            "min_longitude": 25
         },
         "iso_3166_2": "SD-GZ",
         "iso_a2": "SD",
         "iso_a3": "SDN",
-        "name": "Al Jazirah",
+        "name": "Ash Shamaliyah",
         "postal": "GZ",
         "type": "Wilayat",
         "type_en": "State"
     },
     "KA": {
         "alt_names": [
-            "Kassala"
+            "Northern",
+            "Shamaliyah"
         ],
         "cca2": "SD",
         "cca3": "SDN",
@@ -958,28 +971,25 @@
             "woe_name": "Kassala"
         },
         "geo": {
-            "latitude": 15.45,
-            "longitude": 36.4,
-            "max_latitude": 15.4994253,
-            "max_longitude": 36.4511558,
-            "min_latitude": 15.4122089,
-            "min_longitude": 36.3763976
+            "latitude": 18.4448963,
+            "longitude": 30.1589303,
+            "max_latitude": 22.1765288,
+            "max_longitude": 32.637459,
+            "min_latitude": 16.511393,
+            "min_longitude": 25
         },
         "iso_3166_2": "SD-KA",
         "iso_a2": "SD",
         "iso_a3": "SDN",
-        "name": "Kassala",
+        "name": "Ash Shamaliyah",
         "postal": "KA",
         "type": "Wilayat",
         "type_en": "State"
     },
     "KH": {
         "alt_names": [
-            "al-Khartum",
-            "al-H\u0331ar\u0163\u016bm",
-            "Khartum",
-            "Khartoum",
-            "Jartum"
+            "Northern",
+            "Shamaliyah"
         ],
         "cca2": "SD",
         "cca3": "SDN",
@@ -1102,27 +1112,25 @@
             "woe_name": "Khartoum"
         },
         "geo": {
-            "latitude": 15.5006544,
-            "longitude": 32.5598994,
-            "max_latitude": 15.615997,
-            "max_longitude": 32.6859455,
-            "min_latitude": 15.3870932,
-            "min_longitude": 32.4592475
+            "latitude": 18.4448963,
+            "longitude": 30.1589303,
+            "max_latitude": 22.1765288,
+            "max_longitude": 32.637459,
+            "min_latitude": 16.511393,
+            "min_longitude": 25
         },
         "iso_3166_2": "SD-KH",
         "iso_a2": "SD",
         "iso_a3": "SDN",
-        "name": "Al Khartum",
+        "name": "Ash Shamaliyah",
         "postal": "KH",
         "type": "Region",
         "type_en": "Region"
     },
     "KN": {
         "alt_names": [
-            "Kordofan septentrional",
-            " Kurduf\u0101n ash Sham\u0101l\u012byah",
-            " Sham\u0101l Kurduf\u0101n",
-            " North Kordofan"
+            "Northern",
+            "Shamaliyah"
         ],
         "cca2": "SD",
         "cca3": "SDN",
@@ -1245,25 +1253,25 @@
             "woe_name": "North Kordufan"
         },
         "geo": {
-            "latitude": "14.5295000000",
-            "longitude": "29.6122000000"
+            "latitude": 18.4448963,
+            "longitude": 30.1589303,
+            "max_latitude": 22.1765288,
+            "max_longitude": 32.637459,
+            "min_latitude": 16.511393,
+            "min_longitude": 25
         },
         "iso_3166_2": "SD-KN",
         "iso_a2": "SD",
         "iso_a3": "SDN",
-        "name": "North Kordufan",
+        "name": "Ash Shamaliyah",
         "postal": "KN",
         "type": "Wilayat",
         "type_en": "State"
     },
     "KS": {
         "alt_names": [
-            "Southern Kordofan",
-            "South Kordufan",
-            "Jan\u016bb Kurduf\u0101n",
-            "Janub Kurdufun",
-            "Kurduf\u0101n al Jan\u016bb\u012byah",
-            "Kordofan m\u00e9ridional"
+            "Northern",
+            "Shamaliyah"
         ],
         "cca2": "SD",
         "cca3": "SDN",
@@ -1386,20 +1394,25 @@
             "woe_name": "South Kordufan"
         },
         "geo": {
-            "latitude": "11.4504000000",
-            "longitude": "29.8300000000"
+            "latitude": 18.4448963,
+            "longitude": 30.1589303,
+            "max_latitude": 22.1765288,
+            "max_longitude": 32.637459,
+            "min_latitude": 16.511393,
+            "min_longitude": 25
         },
         "iso_3166_2": "SD-KS",
         "iso_a2": "SD",
         "iso_a3": "SDN",
-        "name": "South Kordufan",
+        "name": "Ash Shamaliyah",
         "postal": "KS",
         "type": "Wilayat",
         "type_en": "State"
     },
     "NB": {
         "alt_names": [
-            "Blue Nile"
+            "Northern",
+            "Shamaliyah"
         ],
         "cca2": "SD",
         "cca3": "SDN",
@@ -1522,17 +1535,17 @@
             "woe_name": "Blue Nile"
         },
         "geo": {
-            "latitude": 11.5860078,
-            "longitude": 34.1531947,
-            "max_latitude": 12.56568,
-            "max_longitude": 35.09243,
-            "min_latitude": 9.500348,
-            "min_longitude": 33.1359769
+            "latitude": 18.4448963,
+            "longitude": 30.1589303,
+            "max_latitude": 22.1765288,
+            "max_longitude": 32.637459,
+            "min_latitude": 16.511393,
+            "min_longitude": 25
         },
         "iso_3166_2": "SD-NB",
         "iso_a2": "SD",
         "iso_a3": "SDN",
-        "name": "An Nil al Azraq",
+        "name": "Ash Shamaliyah",
         "postal": "NB",
         "type": "Wilayat",
         "type_en": "State"
@@ -1680,7 +1693,8 @@
     },
     "NR": {
         "alt_names": [
-            "River Nile"
+            "Northern",
+            "Shamaliyah"
         ],
         "cca2": "SD",
         "cca3": "SDN",
@@ -1803,24 +1817,25 @@
             "woe_name": "River Nile"
         },
         "geo": {
-            "latitude": 17.1142529,
-            "longitude": 33.7964613,
-            "max_latitude": 22.006193,
-            "max_longitude": 35.6972909,
-            "min_latitude": 15.9642631,
-            "min_longitude": 31.8534791
+            "latitude": 18.4448963,
+            "longitude": 30.1589303,
+            "max_latitude": 22.1765288,
+            "max_longitude": 32.637459,
+            "min_latitude": 16.511393,
+            "min_longitude": 25
         },
         "iso_3166_2": "SD-NR",
         "iso_a2": "SD",
         "iso_a3": "SDN",
-        "name": "An Nil",
+        "name": "Ash Shamaliyah",
         "postal": "NR",
         "type": "Wilayat",
         "type_en": "State"
     },
     "NW": {
         "alt_names": [
-            "White Nile"
+            "Northern",
+            "Shamaliyah"
         ],
         "cca2": "SD",
         "cca3": "SDN",
@@ -1943,24 +1958,25 @@
             "woe_name": "White Nile"
         },
         "geo": {
-            "latitude": 13.2403881,
-            "longitude": 32.5372741,
-            "max_latitude": 15.250874,
-            "max_longitude": 33.2549571,
-            "min_latitude": 11.9465411,
-            "min_longitude": 31.525822
+            "latitude": 18.4448963,
+            "longitude": 30.1589303,
+            "max_latitude": 22.1765288,
+            "max_longitude": 32.637459,
+            "min_latitude": 16.511393,
+            "min_longitude": 25
         },
         "iso_3166_2": "SD-NW",
         "iso_a2": "SD",
         "iso_a3": "SDN",
-        "name": "An Nil al Abya?",
+        "name": "Ash Shamaliyah",
         "postal": "NW",
         "type": "Wilayat",
         "type_en": "State"
     },
     "RS": {
         "alt_names": [
-            "Red Sea"
+            "Northern",
+            "Shamaliyah"
         ],
         "cca2": "SD",
         "cca3": "SDN",
@@ -2083,25 +2099,25 @@
             "woe_name": "Red Sea"
         },
         "geo": {
-            "latitude": 19.4556063,
-            "longitude": 35.2148469,
-            "max_latitude": 22.0063784,
-            "max_longitude": 38.580036,
-            "min_latitude": 16.9985761,
-            "min_longitude": 33.2534589
+            "latitude": 18.4448963,
+            "longitude": 30.1589303,
+            "max_latitude": 22.1765288,
+            "max_longitude": 32.637459,
+            "min_latitude": 16.511393,
+            "min_longitude": 25
         },
         "iso_3166_2": "SD-RS",
         "iso_a2": "SD",
         "iso_a3": "SDN",
-        "name": "Al Ba?r al A?mar",
+        "name": "Ash Shamaliyah",
         "postal": "RS",
         "type": "Wilayat",
         "type_en": "State"
     },
     "SI": {
         "alt_names": [
-            "Sannar",
-            "Sennar"
+            "Northern",
+            "Shamaliyah"
         ],
         "cca2": "SD",
         "cca3": "SDN",
@@ -2224,17 +2240,17 @@
             "woe_name": "Sennar"
         },
         "geo": {
-            "latitude": 13.567469,
-            "longitude": 33.5672045,
-            "max_latitude": 13.5839232,
-            "max_longitude": 33.5792828,
-            "min_latitude": 13.5523013,
-            "min_longitude": 33.5470104
+            "latitude": 18.4448963,
+            "longitude": 30.1589303,
+            "max_latitude": 22.1765288,
+            "max_longitude": 32.637459,
+            "min_latitude": 16.511393,
+            "min_longitude": 25
         },
         "iso_3166_2": "SD-SI",
         "iso_a2": "SD",
         "iso_a3": "SDN",
-        "name": "Sinnar",
+        "name": "Ash Shamaliyah",
         "postal": "SI",
         "type": "Region",
         "type_en": "Region"

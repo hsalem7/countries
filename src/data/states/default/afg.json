@@ -141,9 +141,7 @@
     },
     "BAM": {
         "alt_names": [
-            "Bamian",
-            "Bamiyan",
-            "B\u0101m\u012b\u0101n"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -266,26 +264,24 @@
             "woe_name": "Bamyan"
         },
         "geo": {
-            "latitude": 34.9073296,
-            "longitude": 67.1894488,
-            "max_latitude": 35.479285,
-            "max_longitude": 68.2664631,
-            "min_latitude": 33.914066,
-            "min_longitude": 66.2868759
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-BAM",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Bamian",
+        "name": "Balkh",
         "postal": "BAM",
         "type": "Velayat",
         "type_en": "Province"
     },
     "BDG": {
         "alt_names": [
-            "Badghis",
-            "Badgis",
-            "B\u0101dgh\u012bs"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -408,24 +404,24 @@
             "woe_name": "Badghis"
         },
         "geo": {
-            "latitude": 35.1671339,
-            "longitude": 63.7695384,
-            "max_latitude": 36.041935,
-            "max_longitude": 65.0705769,
-            "min_latitude": 34.516596,
-            "min_longitude": 62.673593
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-BDG",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Badghis",
+        "name": "Balkh",
         "postal": "BDG",
         "type": "Velayat",
         "type_en": "Province"
     },
     "BDS": {
         "alt_names": [
-            "Badah\u0331\u0161an"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -548,26 +544,24 @@
             "woe_name": "Badakhshan"
         },
         "geo": {
-            "latitude": 36.7347725,
-            "longitude": 70.8119953,
-            "max_latitude": 38.4906109,
-            "max_longitude": 74.8901951,
-            "min_latitude": 35.445121,
-            "min_longitude": 69.9860969
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-BDS",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Badakhshan",
+        "name": "Balkh",
         "postal": "BDS",
         "type": "Velayat",
         "type_en": "Province"
     },
     "BGL": {
         "alt_names": [
-            "Baghlan",
-            "Baghl\u0101n",
-            "Baglan"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -690,24 +684,24 @@
             "woe_name": "Baghlan"
         },
         "geo": {
-            "latitude": 36.1789026,
-            "longitude": 68.7453064,
-            "max_latitude": 36.1897066,
-            "max_longitude": 68.7745,
-            "min_latitude": 36.162409,
-            "min_longitude": 68.7236881
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-BGL",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Baghlan",
+        "name": "Balkh",
         "postal": "BGL",
         "type": "Velayat",
         "type_en": "Province"
     },
     "FRA": {
         "alt_names": [
-            "Fahrah"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -830,24 +824,24 @@
             "woe_name": "Farah"
         },
         "geo": {
-            "latitude": 32.495328,
-            "longitude": 62.2626627,
-            "max_latitude": 33.586982,
-            "max_longitude": 64.750407,
-            "min_latitude": 31.3958321,
-            "min_longitude": 60.5861239
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-FRA",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Farah",
+        "name": "Balkh",
         "postal": "FRA",
         "type": "Velayat",
         "type_en": "Province"
     },
     "FYB": {
         "alt_names": [
-            "Fariab"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -970,25 +964,24 @@
             "woe_name": "Faryab"
         },
         "geo": {
-            "latitude": 36.0795613,
-            "longitude": 64.905955,
-            "max_latitude": 37.2501681,
-            "max_longitude": 65.822068,
-            "min_latitude": 35.1631961,
-            "min_longitude": 63.8947181
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-FYB",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Faryab",
+        "name": "Balkh",
         "postal": "FYB",
         "type": "Velayat",
         "type_en": "Province"
     },
     "GHA": {
         "alt_names": [
-            "Gazni",
-            "Ghazni"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -1111,27 +1104,24 @@
             "woe_name": "Ghazni"
         },
         "geo": {
-            "latitude": 33.4982289,
-            "longitude": 67.7615983,
-            "max_latitude": 34.2320759,
-            "max_longitude": 68.834594,
-            "min_latitude": 32.085223,
-            "min_longitude": 66.8315989
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-GHA",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Ghazni",
+        "name": "Balkh",
         "postal": "GHA",
         "type": "Velayat",
         "type_en": "Province"
     },
     "GHO": {
         "alt_names": [
-            "Ghawr",
-            "Ghor",
-            "Ghowr",
-            "G\u014dr"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -1254,25 +1244,24 @@
             "woe_name": "Ghor"
         },
         "geo": {
-            "latitude": 34.0995776,
-            "longitude": 64.905955,
-            "max_latitude": 35.276925,
-            "max_longitude": 66.736645,
-            "min_latitude": 33.133217,
-            "min_longitude": 63.198219
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-GHO",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Ghowr",
+        "name": "Balkh",
         "postal": "GHO",
         "type": "Velayat",
         "type_en": "Province"
     },
     "HEL": {
         "alt_names": [
-            "Helmand",
-            "Hilmend"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -1395,24 +1384,24 @@
             "woe_name": "Hilmand"
         },
         "geo": {
-            "latitude": 31.3636474,
-            "longitude": 63.9586111,
-            "max_latitude": 33.3782999,
-            "max_longitude": 65.3802629,
-            "min_latitude": 29.377478,
-            "min_longitude": 62.553695
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-HEL",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Helmand",
+        "name": "Balkh",
         "postal": "HEL",
         "type": "Velayat",
         "type_en": "Province"
     },
     "HER": {
         "alt_names": [
-            "Herat"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -1535,28 +1524,24 @@
             "woe_name": "Hirat"
         },
         "geo": {
-            "latitude": 34.341944,
-            "longitude": 62.203056,
-            "max_latitude": 34.3883543,
-            "max_longitude": 62.2713661,
-            "min_latitude": 34.3185577,
-            "min_longitude": 62.150774
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-HER",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Herat",
+        "name": "Balkh",
         "postal": "HER",
         "type": "Velayat",
         "type_en": "Province"
     },
     "JOW": {
         "alt_names": [
-            "Jawzjan",
-            "Jowzjan",
-            "Jowzj\u0101n",
-            "Jozjan",
-            "Juzjan"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -1679,27 +1664,24 @@
             "woe_name": "Jawzjan"
         },
         "geo": {
-            "latitude": 36.8969692,
-            "longitude": 65.6658568,
-            "max_latitude": 37.544579,
-            "max_longitude": 66.583344,
-            "min_latitude": 35.9003941,
-            "min_longitude": 65.1666699
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-JOW",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Jowzjan",
+        "name": "Balkh",
         "postal": "JOW",
         "type": "Velayat",
         "type_en": "Province"
     },
     "KAB": {
         "alt_names": [
-            "Kabol",
-            "K\u0101bol",
-            "K\u0101bul",
-            "Kabul"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -1822,24 +1804,24 @@
             "woe_name": "Kabul"
         },
         "geo": {
-            "latitude": 34.533333,
-            "longitude": 69.166667,
-            "max_latitude": 34.7619227,
-            "max_longitude": 69.4459534,
-            "min_latitude": 34.3454912,
-            "min_longitude": 68.9495086
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-KAB",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Kabul [Kabol]",
+        "name": "Balkh",
         "postal": "KAB",
         "type": "Velayat",
         "type_en": "Province"
     },
     "KAN": {
         "alt_names": [
-            "Kandahar"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -1962,26 +1944,24 @@
             "woe_name": "Kandahar"
         },
         "geo": {
-            "latitude": 31.6119,
-            "longitude": 65.6811,
-            "max_latitude": 31.6725218,
-            "max_longitude": 65.8307648,
-            "min_latitude": 31.5973985,
-            "min_longitude": 65.6695744
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-KAN",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Kandahar",
+        "name": "Balkh",
         "postal": "KAN",
         "type": "Velayat",
         "type_en": "Province"
     },
     "KAP": {
         "alt_names": [
-            "Kapesa",
-            "Kapisa",
-            "Kapissa"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -2104,27 +2084,24 @@
             "woe_name": "Kapisa"
         },
         "geo": {
-            "latitude": 34.9810572,
-            "longitude": 69.6214562,
-            "max_latitude": 35.1843449,
-            "max_longitude": 69.9292071,
-            "min_latitude": 34.636847,
-            "min_longitude": 69.2781271
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-KAP",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Kapisa",
+        "name": "Balkh",
         "postal": "KAP",
         "type": "Velayat",
         "type_en": "Province"
     },
     "KDZ": {
         "alt_names": [
-            "Kondoz",
-            "Kond\u016bz",
-            "K\u016bnduz",
-            "Qond\u016bz"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -2247,29 +2224,24 @@
             "woe_name": "Kunduz"
         },
         "geo": {
-            "latitude": 36.7285907,
-            "longitude": 68.8680663,
-            "max_latitude": 36.7729926,
-            "max_longitude": 68.9773179,
-            "min_latitude": 36.6518943,
-            "min_longitude": 68.7845421
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-KDZ",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Kondoz [Kunduz]",
+        "name": "Balkh",
         "postal": "KDZ",
         "type": "Velayat",
         "type_en": "Province"
     },
     "KHO": {
         "alt_names": [
-            "H\u0331\u014dst",
-            "Khawst",
-            "Khost",
-            "Matun",
-            "Mat\u016bn",
-            "H\u0331awst"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -2392,25 +2364,24 @@
             "woe_name": "Khost"
         },
         "geo": {
-            "latitude": 33.3585079,
-            "longitude": 69.8597406,
-            "max_latitude": 33.7335318,
-            "max_longitude": 70.3265909,
-            "min_latitude": 33.028327,
-            "min_longitude": 69.3547779
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-KHO",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Khowst",
+        "name": "Balkh",
         "postal": "KHO",
         "type": "Velayat",
         "type_en": "Province"
     },
     "KNR": {
         "alt_names": [
-            "Konar",
-            "Konarh\u0101"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -2533,26 +2504,24 @@
             "woe_name": "Kunar"
         },
         "geo": {
-            "latitude": 35.0883133,
-            "longitude": 71.3668504,
-            "max_latitude": 35.0906452,
-            "max_longitude": 71.3708674,
-            "min_latitude": 35.0861153,
-            "min_longitude": 71.3623594
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-KNR",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Konar [Kunar]",
+        "name": "Balkh",
         "postal": "KNR",
         "type": "Velayat",
         "type_en": "Province"
     },
     "LAG": {
         "alt_names": [
-            "Laghman",
-            "Laghm\u0101n",
-            "Lagman"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -2675,28 +2644,24 @@
             "woe_name": "Laghman"
         },
         "geo": {
-            "latitude": 34.6897687,
-            "longitude": 70.1455805,
-            "max_latitude": 35.2196171,
-            "max_longitude": 70.63106,
-            "min_latitude": 34.3999048,
-            "min_longitude": 69.8045771
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-LAG",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Laghman",
+        "name": "Balkh",
         "postal": "LAG",
         "type": "Velayat",
         "type_en": "Province"
     },
     "LOG": {
         "alt_names": [
-            "Lawgar",
-            "Logar",
-            "Loghar",
-            "Lowgar",
-            "Lowghar"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -2819,25 +2784,24 @@
             "woe_name": "Logar"
         },
         "geo": {
-            "latitude": 34.0145518,
-            "longitude": 69.1923916,
-            "max_latitude": 34.366983,
-            "max_longitude": 69.8876531,
-            "min_latitude": 33.602526,
-            "min_longitude": 68.716335
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-LOG",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Lowgar",
+        "name": "Balkh",
         "postal": "LOG",
         "type": "Velayat",
         "type_en": "Province"
     },
     "NAN": {
         "alt_names": [
-            "Nangarhar",
-            "Ningarhar"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -2960,27 +2924,24 @@
             "woe_name": "Nangarhar"
         },
         "geo": {
-            "latitude": 34.1718313,
-            "longitude": 70.6216794,
-            "max_latitude": 34.809976,
-            "max_longitude": 71.1712571,
-            "min_latitude": 33.9433401,
-            "min_longitude": 69.482636
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-NAN",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Nangrahar [Nangarhar]",
+        "name": "Balkh",
         "postal": "NAN",
         "type": "Velayat",
         "type_en": "Province"
     },
     "NIM": {
         "alt_names": [
-            "Chakh\u0101nsur",
-            "Neemroze",
-            "Nimroz",
-            "Nimroze"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -3103,26 +3064,24 @@
             "woe_name": "Nimroz"
         },
         "geo": {
-            "latitude": 31.0261488,
-            "longitude": 62.4504154,
-            "max_latitude": 32.263132,
-            "max_longitude": 63.5857501,
-            "min_latitude": 29.3889659,
-            "min_longitude": 60.878597
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-NIM",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Nimruz",
+        "name": "Balkh",
         "postal": "NIM",
         "type": "Velayat",
         "type_en": "Province"
     },
     "NUR": {
         "alt_names": [
-            "Nooristan",
-            "Nouristan",
-            "Nurestan"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -3245,26 +3204,24 @@
             "woe_name": "Nuristan"
         },
         "geo": {
-            "latitude": 35.3250223,
-            "longitude": 70.9071236,
-            "max_latitude": 36.0492169,
-            "max_longitude": 71.614166,
-            "min_latitude": 34.9075738,
-            "min_longitude": 69.916771
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-NUR",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Nurestan",
+        "name": "Balkh",
         "postal": "NUR",
         "type": "Velayat",
         "type_en": "Province"
     },
     "PAR": {
         "alt_names": [
-            "Parvan",
-            "Parv\u0101n",
-            "Parwan"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -3387,26 +3344,24 @@
             "woe_name": "Parwan"
         },
         "geo": {
-            "latitude": 34.9630977,
-            "longitude": 68.8108849,
-            "max_latitude": 35.424221,
-            "max_longitude": 69.616604,
-            "min_latitude": 34.588373,
-            "min_longitude": 68.1907899
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-PAR",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Parwan",
+        "name": "Balkh",
         "postal": "PAR",
         "type": "Velayat",
         "type_en": "Province"
     },
     "PIA": {
         "alt_names": [
-            "Paktia",
-            "Paktiya",
-            "Pakt\u012b\u0101"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -3529,26 +3484,24 @@
             "woe_name": "Paktika"
         },
         "geo": {
-            "latitude": 33.706199,
-            "longitude": 69.3831079,
-            "max_latitude": 34.0908599,
-            "max_longitude": 70.0056379,
-            "min_latitude": 33.1592119,
-            "min_longitude": 68.772654
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-PIA",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Paktia",
+        "name": "Balkh",
         "postal": "PIA",
         "type": "Velayat",
         "type_en": "Province"
     },
     "PKA": {
         "alt_names": [
-            "Paktia",
-            "Paktiya",
-            "Pakt\u012b\u0101"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -3671,24 +3624,24 @@
             "woe_name": "Paktya"
         },
         "geo": {
-            "latitude": 33.706199,
-            "longitude": 69.3831079,
-            "max_latitude": 34.0908599,
-            "max_longitude": 70.0056379,
-            "min_latitude": 33.1592119,
-            "min_longitude": 68.772654
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-PKA",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Paktia",
+        "name": "Balkh",
         "postal": "PKA",
         "type": "Velayat",
         "type_en": "Province"
     },
     "SAM": {
         "alt_names": [
-            "Samangan"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -3811,26 +3764,24 @@
             "woe_name": "Samangan"
         },
         "geo": {
-            "latitude": 35.9807296,
-            "longitude": 67.5708536,
-            "max_latitude": 36.638235,
-            "max_longitude": 68.5661071,
-            "min_latitude": 35.3465939,
-            "min_longitude": 66.88432
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-SAM",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Samangan",
+        "name": "Balkh",
         "postal": "SAM",
         "type": "Velayat",
         "type_en": "Province"
     },
     "SAR": {
         "alt_names": [
-            "Sar-e Pol",
-            "Sar-i Pol",
-            "Sari Pol"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -3953,26 +3904,24 @@
             "woe_name": "Sari Pul"
         },
         "geo": {
-            "latitude": 36.221389,
-            "longitude": 65.927778,
-            "max_latitude": 36.238389,
-            "max_longitude": 65.9589957,
-            "min_latitude": 36.1827099,
-            "min_longitude": 65.9110165
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-SAR",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Sar-e Pol",
+        "name": "Balkh",
         "postal": "SAR",
         "type": "Velayat",
         "type_en": "Province"
     },
     "TAK": {
         "alt_names": [
-            "Tahar",
-            "Takhar",
-            "Takh\u0101r"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -4095,29 +4044,24 @@
             "woe_name": "Takhar"
         },
         "geo": {
-            "latitude": 36.6698013,
-            "longitude": 69.4784541,
-            "max_latitude": 37.62126,
-            "max_longitude": 70.4998339,
-            "min_latitude": 35.785804,
-            "min_longitude": 69.1752951
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-TAK",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Takhar",
+        "name": "Balkh",
         "postal": "TAK",
         "type": "Velayat",
         "type_en": "Province"
     },
     "URU": {
         "alt_names": [
-            "Oruzgan",
-            "Oruzghan",
-            "Or\u016bzgh\u0101n",
-            "Uruzgan",
-            "Uruzghan",
-            "Ur\u016bzgh\u0101n"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -4240,26 +4184,24 @@
             "woe_name": "Daykundi"
         },
         "geo": {
-            "latitude": 32.93021,
-            "longitude": 66.636429,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-URU",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Oruzgan [Uruzgan]",
+        "name": "Balkh",
         "postal": "URU",
         "type": "Velayat",
         "type_en": "Province"
     },
     "WAR": {
         "alt_names": [
-            "Vardak",
-            "Wardagh",
-            "Wardak"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -4382,26 +4324,24 @@
             "woe_name": "Wardak"
         },
         "geo": {
-            "latitude": 34.3513494,
-            "longitude": 68.2385339,
-            "max_latitude": 34.797575,
-            "max_longitude": 68.972619,
-            "min_latitude": 33.683571,
-            "min_longitude": 67.232205
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-WAR",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Wardak [Wardag]",
+        "name": "Balkh",
         "postal": "WAR",
         "type": "Velayat",
         "type_en": "Province"
     },
     "ZAB": {
         "alt_names": [
-            "Zabol",
-            "Zabul",
-            "Z\u0101bol"
+            "Balkh"
         ],
         "cca2": "AF",
         "cca3": "AFG",
@@ -4524,17 +4464,17 @@
             "woe_name": "Zabul"
         },
         "geo": {
-            "latitude": 32.1918782,
-            "longitude": 67.1894488,
-            "max_latitude": 33.083939,
-            "max_longitude": 68.1166841,
-            "min_latitude": 31.505068,
-            "min_longitude": 66.192899
+            "latitude": 36.7550603,
+            "longitude": 66.8975372,
+            "max_latitude": 36.7744019,
+            "max_longitude": 66.9103004,
+            "min_latitude": 36.739847,
+            "min_longitude": 66.879015
         },
         "iso_3166_2": "AF-ZAB",
         "iso_a2": "AF",
         "iso_a3": "AFG",
-        "name": "Zabol [Zabul]",
+        "name": "Balkh",
         "postal": "ZAB",
         "type": "Velayat",
         "type_en": "Province"

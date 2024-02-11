@@ -141,8 +141,7 @@
     },
     "2": {
         "alt_names": [
-            "Carinthia",
-            "Koro\u0161ka"
+            "Burgenland"
         ],
         "cca2": "AT",
         "cca3": "AUT",
@@ -265,24 +264,24 @@
             "woe_name": "K\u00e4rnten"
         },
         "geo": {
-            "latitude": 46.722203,
-            "longitude": 14.1805881,
-            "max_latitude": 47.13131,
-            "max_longitude": 15.0651401,
-            "min_latitude": 46.3723,
-            "min_longitude": 12.6563901
+            "latitude": 47.1537165,
+            "longitude": 16.2688797,
+            "max_latitude": 48.11879,
+            "max_longitude": 17.1603999,
+            "min_latitude": 46.83047,
+            "min_longitude": 15.99632
         },
         "iso_3166_2": "AT-2",
         "iso_a2": "AT",
         "iso_a3": "AUT",
-        "name": "K\u00e4rnten",
+        "name": "Burgenland",
         "postal": "2",
         "type": "Bundesl\u00e4nd|L\u00e4nd",
         "type_en": "State"
     },
     "3": {
         "alt_names": [
-            "Lower Austria"
+            "Burgenland"
         ],
         "cca2": "AT",
         "cca3": "AUT",
@@ -405,24 +404,24 @@
             "woe_name": "Nieder\u00f6sterreich"
         },
         "geo": {
-            "latitude": 48.108077,
-            "longitude": 15.8049558,
-            "max_latitude": 49.02062,
-            "max_longitude": 17.06847,
-            "min_latitude": 47.42198,
-            "min_longitude": 14.4521301
+            "latitude": 47.1537165,
+            "longitude": 16.2688797,
+            "max_latitude": 48.11879,
+            "max_longitude": 17.1603999,
+            "min_latitude": 46.83047,
+            "min_longitude": 15.99632
         },
         "iso_3166_2": "AT-3",
         "iso_a2": "AT",
         "iso_a3": "AUT",
-        "name": "Nieder\u00f6sterreich",
+        "name": "Burgenland",
         "postal": "3",
         "type": "Bundesl\u00e4nd|L\u00e4nd",
         "type_en": "State"
     },
     "4": {
         "alt_names": [
-            "Upper Austria"
+            "Burgenland"
         ],
         "cca2": "AT",
         "cca3": "AUT",
@@ -545,24 +544,24 @@
             "woe_name": "Ober\u00f6sterreich"
         },
         "geo": {
-            "latitude": 48.025854,
-            "longitude": 13.9723665,
-            "max_latitude": 48.7726901,
-            "max_longitude": 14.99129,
-            "min_latitude": 47.46098,
-            "min_longitude": 12.74895
+            "latitude": 47.1537165,
+            "longitude": 16.2688797,
+            "max_latitude": 48.11879,
+            "max_longitude": 17.1603999,
+            "min_latitude": 46.83047,
+            "min_longitude": 15.99632
         },
         "iso_3166_2": "AT-4",
         "iso_a2": "AT",
         "iso_a3": "AUT",
-        "name": "Ober\u00f6sterreich",
+        "name": "Burgenland",
         "postal": "4",
         "type": "Bundesl\u00e4nd|L\u00e4nd",
         "type_en": "State"
     },
     "5": {
         "alt_names": [
-            "Salzbourg"
+            "Burgenland"
         ],
         "cca2": "AT",
         "cca3": "AUT",
@@ -685,24 +684,24 @@
             "woe_name": "Salzburg"
         },
         "geo": {
-            "latitude": 47.80949,
-            "longitude": 13.05501,
-            "max_latitude": 47.85431,
-            "max_longitude": 13.1268799,
-            "min_latitude": 47.75131,
-            "min_longitude": 12.9859801
+            "latitude": 47.1537165,
+            "longitude": 16.2688797,
+            "max_latitude": 48.11879,
+            "max_longitude": 17.1603999,
+            "min_latitude": 46.83047,
+            "min_longitude": 15.99632
         },
         "iso_3166_2": "AT-5",
         "iso_a2": "AT",
         "iso_a3": "AUT",
-        "name": "Salzburg",
+        "name": "Burgenland",
         "postal": "5",
         "type": "Bundesl\u00e4nd|L\u00e4nd",
         "type_en": "State"
     },
     "6": {
         "alt_names": [
-            "Styria"
+            "Burgenland"
         ],
         "cca2": "AT",
         "cca3": "AUT",
@@ -825,24 +824,24 @@
             "woe_name": "Steiermark"
         },
         "geo": {
-            "latitude": 47.3593442,
-            "longitude": 14.4699827,
-            "max_latitude": 47.82789,
-            "max_longitude": 16.17014,
-            "min_latitude": 46.61163,
-            "min_longitude": 13.56417
+            "latitude": 47.1537165,
+            "longitude": 16.2688797,
+            "max_latitude": 48.11879,
+            "max_longitude": 17.1603999,
+            "min_latitude": 46.83047,
+            "min_longitude": 15.99632
         },
         "iso_3166_2": "AT-6",
         "iso_a2": "AT",
         "iso_a3": "AUT",
-        "name": "Steiermark",
+        "name": "Burgenland",
         "postal": "6",
         "type": "Bundesl\u00e4nd|L\u00e4nd",
         "type_en": "State"
     },
     "7": {
         "alt_names": [
-            "Tyrol"
+            "Burgenland"
         ],
         "cca2": "AT",
         "cca3": "AUT",
@@ -965,24 +964,24 @@
             "woe_name": "Tirol"
         },
         "geo": {
-            "latitude": 47.2537414,
-            "longitude": 11.601487,
-            "max_latitude": 47.74311,
-            "max_longitude": 12.9662801,
-            "min_latitude": 46.6515599,
-            "min_longitude": 10.0980701
+            "latitude": 47.1537165,
+            "longitude": 16.2688797,
+            "max_latitude": 48.11879,
+            "max_longitude": 17.1603999,
+            "min_latitude": 46.83047,
+            "min_longitude": 15.99632
         },
         "iso_3166_2": "AT-7",
         "iso_a2": "AT",
         "iso_a3": "AUT",
-        "name": "Tirol",
+        "name": "Burgenland",
         "postal": "7",
         "type": "Bundesl\u00e4nd|L\u00e4nd",
         "type_en": "State"
     },
     "8": {
         "alt_names": [
-            "Vorarlberg"
+            "Burgenland"
         ],
         "cca2": "AT",
         "cca3": "AUT",
@@ -1105,24 +1104,24 @@
             "woe_name": "Vorarlberg"
         },
         "geo": {
-            "latitude": 47.2497427,
-            "longitude": 9.9797373,
-            "max_latitude": 47.59621,
-            "max_longitude": 10.23689,
-            "min_latitude": 46.84081,
-            "min_longitude": 9.5309099
+            "latitude": 47.1537165,
+            "longitude": 16.2688797,
+            "max_latitude": 48.11879,
+            "max_longitude": 17.1603999,
+            "min_latitude": 46.83047,
+            "min_longitude": 15.99632
         },
         "iso_3166_2": "AT-8",
         "iso_a2": "AT",
         "iso_a3": "AUT",
-        "name": "Vorarlberg",
+        "name": "Burgenland",
         "postal": "8",
         "type": "Bundesl\u00e4nd|L\u00e4nd",
         "type_en": "State"
     },
     "9": {
         "alt_names": [
-            "Vienna"
+            "Burgenland"
         ],
         "cca2": "AT",
         "cca3": "AUT",
@@ -1245,17 +1244,17 @@
             "woe_name": "Wien"
         },
         "geo": {
-            "latitude": 48.2081743,
-            "longitude": 16.3738189,
-            "max_latitude": 48.3230999,
-            "max_longitude": 16.5774999,
-            "min_latitude": 48.1182699,
-            "min_longitude": 16.1826199
+            "latitude": 47.1537165,
+            "longitude": 16.2688797,
+            "max_latitude": 48.11879,
+            "max_longitude": 17.1603999,
+            "min_latitude": 46.83047,
+            "min_longitude": 15.99632
         },
         "iso_3166_2": "AT-9",
         "iso_a2": "AT",
         "iso_a3": "AUT",
-        "name": "Wien",
+        "name": "Burgenland",
         "postal": "9",
         "type": "Bundesl\u00e4nd|L\u00e4nd",
         "type_en": "State"

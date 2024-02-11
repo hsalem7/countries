@@ -1,7 +1,8 @@
 {
     "DS": {
         "alt_names": [
-            "Dolnoslaskie"
+            "dolno\u015bl\u0105skie",
+            "Dolno\u015bl\u0105skie"
         ],
         "cca2": "PL",
         "cca3": "POL",
@@ -124,20 +125,25 @@
             "woe_name": "Lower Silesian"
         },
         "geo": {
-            "latitude": "51.0127000000",
-            "longitude": "16.4623000000"
+            "latitude": 51.1339861,
+            "longitude": 16.8841961,
+            "max_latitude": 51.8047592,
+            "max_longitude": 17.798917,
+            "min_latitude": 50.09634,
+            "min_longitude": 14.816831
         },
         "iso_3166_2": "PL-DS",
         "iso_a2": "PL",
         "iso_a3": "POL",
-        "name": "Lower Silesian",
+        "name": "Dolno\u015bl\u0105skie",
         "postal": "DS",
         "type": "Wojew\u00f3dztwo",
         "type_en": "Voivodeship|Province"
     },
     "KP": {
         "alt_names": [
-            "Kujawsko-Pomorskie"
+            "dolno\u015bl\u0105skie",
+            "Dolno\u015bl\u0105skie"
         ],
         "cca2": "PL",
         "cca3": "POL",
@@ -260,21 +266,25 @@
             "woe_name": "Kuyavian-Pomeranian"
         },
         "geo": {
-            "latitude": "53.0334000000",
-            "longitude": "18.5227000000"
+            "latitude": 51.1339861,
+            "longitude": 16.8841961,
+            "max_latitude": 51.8047592,
+            "max_longitude": 17.798917,
+            "min_latitude": 50.09634,
+            "min_longitude": 14.816831
         },
         "iso_3166_2": "PL-KP",
         "iso_a2": "PL",
         "iso_a3": "POL",
-        "name": "Kuyavian-Pomeranian",
+        "name": "Dolno\u015bl\u0105skie",
         "postal": "KP",
         "type": "Wojew\u00f3dztwo",
         "type_en": "Voivodeship|Province"
     },
     "LB": {
         "alt_names": [
-            "lubuskie",
-            "Lubuskie"
+            "dolno\u015bl\u0105skie",
+            "Dolno\u015bl\u0105skie"
         ],
         "cca2": "PL",
         "cca3": "POL",
@@ -397,24 +407,25 @@
             "woe_name": "Lubusz"
         },
         "geo": {
-            "latitude": 52.2274612,
-            "longitude": 15.2559103,
-            "max_latitude": 53.1239582,
-            "max_longitude": 16.4163811,
-            "min_latitude": 51.363138,
-            "min_longitude": 14.534127
+            "latitude": 51.1339861,
+            "longitude": 16.8841961,
+            "max_latitude": 51.8047592,
+            "max_longitude": 17.798917,
+            "min_latitude": 50.09634,
+            "min_longitude": 14.816831
         },
         "iso_3166_2": "PL-LB",
         "iso_a2": "PL",
         "iso_a3": "POL",
-        "name": "Lubuskie",
+        "name": "Dolno\u015bl\u0105skie",
         "postal": "LB",
         "type": "Wojew\u00f3dztwo",
         "type_en": "Voivodeship|Province"
     },
     "LD": {
         "alt_names": [
-            "L\u00f3dzkie"
+            "dolno\u015bl\u0105skie",
+            "Dolno\u015bl\u0105skie"
         ],
         "cca2": "PL",
         "cca3": "POL",
@@ -537,21 +548,25 @@
             "woe_name": "\u0141\u00f3d\u017a"
         },
         "geo": {
-            "latitude": "51.6355000000",
-            "longitude": "19.3642000000"
+            "latitude": 51.1339861,
+            "longitude": 16.8841961,
+            "max_latitude": 51.8047592,
+            "max_longitude": 17.798917,
+            "min_latitude": 50.09634,
+            "min_longitude": 14.816831
         },
         "iso_3166_2": "PL-LD",
         "iso_a2": "PL",
         "iso_a3": "POL",
-        "name": "\u0141\u00f3d\u017a",
+        "name": "Dolno\u015bl\u0105skie",
         "postal": "LD",
         "type": "Wojew\u00f3dztwo",
         "type_en": "Voivodeship|Province"
     },
     "LU": {
         "alt_names": [
-            "lubelskie",
-            "Lubelskie"
+            "dolno\u015bl\u0105skie",
+            "Dolno\u015bl\u0105skie"
         ],
         "cca2": "PL",
         "cca3": "POL",
@@ -674,24 +689,25 @@
             "woe_name": "Lublin"
         },
         "geo": {
-            "latitude": 51.2493519,
-            "longitude": 23.1011392,
-            "max_latitude": 52.2879201,
-            "max_longitude": 24.1458931,
-            "min_latitude": 50.251603,
-            "min_longitude": 21.6171249
+            "latitude": 51.1339861,
+            "longitude": 16.8841961,
+            "max_latitude": 51.8047592,
+            "max_longitude": 17.798917,
+            "min_latitude": 50.09634,
+            "min_longitude": 14.816831
         },
         "iso_3166_2": "PL-LU",
         "iso_a2": "PL",
         "iso_a3": "POL",
-        "name": "Lubelskie",
+        "name": "Dolno\u015bl\u0105skie",
         "postal": "LU",
         "type": "Wojew\u00f3dztwo",
         "type_en": "Voivodeship|Province"
     },
     "MA": {
         "alt_names": [
-            "Malopolskie"
+            "dolno\u015bl\u0105skie",
+            "Dolno\u015bl\u0105skie"
         ],
         "cca2": "PL",
         "cca3": "POL",
@@ -814,21 +830,25 @@
             "woe_name": "Lesser Poland"
         },
         "geo": {
-            "latitude": "49.8761000000",
-            "longitude": "20.3133000000"
+            "latitude": 51.1339861,
+            "longitude": 16.8841961,
+            "max_latitude": 51.8047592,
+            "max_longitude": 17.798917,
+            "min_latitude": 50.09634,
+            "min_longitude": 14.816831
         },
         "iso_3166_2": "PL-MA",
         "iso_a2": "PL",
         "iso_a3": "POL",
-        "name": "Lesser Poland",
+        "name": "Dolno\u015bl\u0105skie",
         "postal": "MA",
         "type": "Wojew\u00f3dztwo",
         "type_en": "Voivodeship|Province"
     },
     "MZ": {
         "alt_names": [
-            "mazowieckie",
-            "Mazowieckie"
+            "dolno\u015bl\u0105skie",
+            "Dolno\u015bl\u0105skie"
         ],
         "cca2": "PL",
         "cca3": "POL",
@@ -951,25 +971,25 @@
             "woe_name": "Masovian"
         },
         "geo": {
-            "latitude": 51.8927182,
-            "longitude": 21.0021679,
-            "max_latitude": 53.4818919,
-            "max_longitude": 23.1283212,
-            "min_latitude": 51.0132082,
-            "min_longitude": 19.2592569
+            "latitude": 51.1339861,
+            "longitude": 16.8841961,
+            "max_latitude": 51.8047592,
+            "max_longitude": 17.798917,
+            "min_latitude": 50.09634,
+            "min_longitude": 14.816831
         },
         "iso_3166_2": "PL-MZ",
         "iso_a2": "PL",
         "iso_a3": "POL",
-        "name": "Mazowieckie",
+        "name": "Dolno\u015bl\u0105skie",
         "postal": "MZ",
         "type": "Wojew\u00f3dztwo",
         "type_en": "Voivodeship|Province"
     },
     "OP": {
         "alt_names": [
-            "opolskie",
-            "Opolskie"
+            "dolno\u015bl\u0105skie",
+            "Dolno\u015bl\u0105skie"
         ],
         "cca2": "PL",
         "cca3": "POL",
@@ -1092,25 +1112,25 @@
             "woe_name": "Opole"
         },
         "geo": {
-            "latitude": 50.8003761,
-            "longitude": 17.937989,
-            "max_latitude": 51.1945111,
-            "max_longitude": 18.6957862,
-            "min_latitude": 49.9725265,
-            "min_longitude": 16.9087264
+            "latitude": 51.1339861,
+            "longitude": 16.8841961,
+            "max_latitude": 51.8047592,
+            "max_longitude": 17.798917,
+            "min_latitude": 50.09634,
+            "min_longitude": 14.816831
         },
         "iso_3166_2": "PL-OP",
         "iso_a2": "PL",
         "iso_a3": "POL",
-        "name": "Opolskie",
+        "name": "Dolno\u015bl\u0105skie",
         "postal": "OP",
         "type": "Wojew\u00f3dztwo",
         "type_en": "Voivodeship|Province"
     },
     "PD": {
         "alt_names": [
-            "podlaskie",
-            "Podlaskie"
+            "dolno\u015bl\u0105skie",
+            "Dolno\u015bl\u0105skie"
         ],
         "cca2": "PL",
         "cca3": "POL",
@@ -1233,25 +1253,25 @@
             "woe_name": "Podlachian"
         },
         "geo": {
-            "latitude": 53.0697159,
-            "longitude": 22.9674639,
-            "max_latitude": 54.409889,
-            "max_longitude": 23.9462697,
-            "min_latitude": 52.2800528,
-            "min_longitude": 21.5942443
+            "latitude": 51.1339861,
+            "longitude": 16.8841961,
+            "max_latitude": 51.8047592,
+            "max_longitude": 17.798917,
+            "min_latitude": 50.09634,
+            "min_longitude": 14.816831
         },
         "iso_3166_2": "PL-PD",
         "iso_a2": "PL",
         "iso_a3": "POL",
-        "name": "Podlaskie",
+        "name": "Dolno\u015bl\u0105skie",
         "postal": "PD",
         "type": "Wojew\u00f3dztwo",
         "type_en": "Voivodeship|Province"
     },
     "PK": {
         "alt_names": [
-            "podkarpackie",
-            "Podkarpackie"
+            "dolno\u015bl\u0105skie",
+            "Dolno\u015bl\u0105skie"
         ],
         "cca2": "PL",
         "cca3": "POL",
@@ -1374,25 +1394,25 @@
             "woe_name": "Subcarpathian"
         },
         "geo": {
-            "latitude": 50.0574749,
-            "longitude": 22.0895691,
-            "max_latitude": 50.8181161,
-            "max_longitude": 23.5476409,
-            "min_latitude": 49.0020252,
-            "min_longitude": 21.1423457
+            "latitude": 51.1339861,
+            "longitude": 16.8841961,
+            "max_latitude": 51.8047592,
+            "max_longitude": 17.798917,
+            "min_latitude": 50.09634,
+            "min_longitude": 14.816831
         },
         "iso_3166_2": "PL-PK",
         "iso_a2": "PL",
         "iso_a3": "POL",
-        "name": "Podkarpackie",
+        "name": "Dolno\u015bl\u0105skie",
         "postal": "PK",
         "type": "Wojew\u00f3dztwo",
         "type_en": "Voivodeship|Province"
     },
     "PM": {
         "alt_names": [
-            "pomorskie",
-            "Pomorskie"
+            "dolno\u015bl\u0105skie",
+            "Dolno\u015bl\u0105skie"
         ],
         "cca2": "PL",
         "cca3": "POL",
@@ -1515,25 +1535,25 @@
             "woe_name": "Pomeranian"
         },
         "geo": {
-            "latitude": 54.2944252,
-            "longitude": 18.1531164,
-            "max_latitude": 54.8357297,
-            "max_longitude": 19.6493699,
-            "min_latitude": 53.4906718,
-            "min_longitude": 16.699129
+            "latitude": 51.1339861,
+            "longitude": 16.8841961,
+            "max_latitude": 51.8047592,
+            "max_longitude": 17.798917,
+            "min_latitude": 50.09634,
+            "min_longitude": 14.816831
         },
         "iso_3166_2": "PL-PM",
         "iso_a2": "PL",
         "iso_a3": "POL",
-        "name": "Pomorskie",
+        "name": "Dolno\u015bl\u0105skie",
         "postal": "PM",
         "type": "Wojew\u00f3dztwo",
         "type_en": "Voivodeship|Province"
     },
     "SK": {
         "alt_names": [
-            "\u015bwi\u0119tokrzyskie",
-            "\u015awi\u0119tokrzyskie"
+            "dolno\u015bl\u0105skie",
+            "Dolno\u015bl\u0105skie"
         ],
         "cca2": "PL",
         "cca3": "POL",
@@ -1656,24 +1676,25 @@
             "woe_name": "\u015awi\u0119tokrzyskie"
         },
         "geo": {
-            "latitude": 50.6261041,
-            "longitude": 20.9406279,
-            "max_latitude": 51.3421558,
-            "max_longitude": 21.8703061,
-            "min_latitude": 50.1855379,
-            "min_longitude": 19.7044002
+            "latitude": 51.1339861,
+            "longitude": 16.8841961,
+            "max_latitude": 51.8047592,
+            "max_longitude": 17.798917,
+            "min_latitude": 50.09634,
+            "min_longitude": 14.816831
         },
         "iso_3166_2": "PL-SK",
         "iso_a2": "PL",
         "iso_a3": "POL",
-        "name": "\u015awi\u0119tokrzyskie",
+        "name": "Dolno\u015bl\u0105skie",
         "postal": "SK",
         "type": "Wojew\u00f3dztwo",
         "type_en": "Voivodeship|Province"
     },
     "SL": {
         "alt_names": [
-            "Slaskie"
+            "dolno\u015bl\u0105skie",
+            "Dolno\u015bl\u0105skie"
         ],
         "cca2": "PL",
         "cca3": "POL",
@@ -1796,20 +1817,25 @@
             "woe_name": "Silesian"
         },
         "geo": {
-            "latitude": "50.1978000000",
-            "longitude": "18.9924000000"
+            "latitude": 51.1339861,
+            "longitude": 16.8841961,
+            "max_latitude": 51.8047592,
+            "max_longitude": 17.798917,
+            "min_latitude": 50.09634,
+            "min_longitude": 14.816831
         },
         "iso_3166_2": "PL-SL",
         "iso_a2": "PL",
         "iso_a3": "POL",
-        "name": "Silesian",
+        "name": "Dolno\u015bl\u0105skie",
         "postal": "SL",
         "type": "Wojew\u00f3dztwo",
         "type_en": "Voivodeship|Province"
     },
     "WN": {
         "alt_names": [
-            "Warminsko-Mazurskie"
+            "dolno\u015bl\u0105skie",
+            "Dolno\u015bl\u0105skie"
         ],
         "cca2": "PL",
         "cca3": "POL",
@@ -1932,21 +1958,25 @@
             "woe_name": "Warmian-Masurian"
         },
         "geo": {
-            "latitude": "53.8526000000",
-            "longitude": "20.9711000000"
+            "latitude": 51.1339861,
+            "longitude": 16.8841961,
+            "max_latitude": 51.8047592,
+            "max_longitude": 17.798917,
+            "min_latitude": 50.09634,
+            "min_longitude": 14.816831
         },
         "iso_3166_2": "PL-WN",
         "iso_a2": "PL",
         "iso_a3": "POL",
-        "name": "Warmian-Masurian",
+        "name": "Dolno\u015bl\u0105skie",
         "postal": "WN",
         "type": "Wojew\u00f3dztwo",
         "type_en": "Voivodeship|Province"
     },
     "WP": {
         "alt_names": [
-            "wielkopolskie",
-            "Wielkopolskie"
+            "dolno\u015bl\u0105skie",
+            "Dolno\u015bl\u0105skie"
         ],
         "cca2": "PL",
         "cca3": "POL",
@@ -2069,25 +2099,25 @@
             "woe_name": "Greater Poland"
         },
         "geo": {
-            "latitude": 52.279986,
-            "longitude": 17.3522939,
-            "max_latitude": 53.6559175,
-            "max_longitude": 19.103349,
-            "min_latitude": 51.1037882,
-            "min_longitude": 15.7789647
+            "latitude": 51.1339861,
+            "longitude": 16.8841961,
+            "max_latitude": 51.8047592,
+            "max_longitude": 17.798917,
+            "min_latitude": 50.09634,
+            "min_longitude": 14.816831
         },
         "iso_3166_2": "PL-WP",
         "iso_a2": "PL",
         "iso_a3": "POL",
-        "name": "Wielkopolskie",
+        "name": "Dolno\u015bl\u0105skie",
         "postal": "WP",
         "type": "Wojew\u00f3dztwo",
         "type_en": "Voivodeship|Province"
     },
     "ZP": {
         "alt_names": [
-            "zachodniopomorskie",
-            "Zachodniopomorskie"
+            "dolno\u015bl\u0105skie",
+            "Dolno\u015bl\u0105skie"
         ],
         "cca2": "PL",
         "cca3": "POL",
@@ -2210,17 +2240,17 @@
             "woe_name": "West Pomeranian"
         },
         "geo": {
-            "latitude": 53.4657891,
-            "longitude": 15.1822581,
-            "max_latitude": 54.5690916,
-            "max_longitude": 16.9822089,
-            "min_latitude": 52.6246694,
-            "min_longitude": 14.1223531
+            "latitude": 51.1339861,
+            "longitude": 16.8841961,
+            "max_latitude": 51.8047592,
+            "max_longitude": 17.798917,
+            "min_latitude": 50.09634,
+            "min_longitude": 14.816831
         },
         "iso_3166_2": "PL-ZP",
         "iso_a2": "PL",
         "iso_a3": "POL",
-        "name": "Zachodniopomorskie",
+        "name": "Dolno\u015bl\u0105skie",
         "postal": "ZP",
         "type": "Wojew\u00f3dztwo",
         "type_en": "Voivodeship|Province"

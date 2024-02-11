@@ -141,7 +141,7 @@
     },
     "AL": {
         "alt_names": [
-            "Alibori"
+            "Atakora"
         ],
         "cca2": "BJ",
         "cca3": "BEN",
@@ -264,24 +264,24 @@
             "woe_name": "Alibori"
         },
         "geo": {
-            "latitude": 10.9681093,
-            "longitude": 2.7779813,
-            "max_latitude": 12.4183461,
-            "max_longitude": 3.8480219,
-            "min_latitude": 10.5044699,
-            "min_longitude": 2.019249
+            "latitude": 10.7954931,
+            "longitude": 1.6760691,
+            "max_latitude": 11.4738341,
+            "max_longitude": 2.357681,
+            "min_latitude": 9.994575,
+            "min_longitude": 0.774575
         },
         "iso_3166_2": "BJ-AL",
         "iso_a2": "BJ",
         "iso_a3": "BEN",
-        "name": "Alibori",
+        "name": "Atakora",
         "postal": "AL",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "AQ": {
         "alt_names": [
-            "Atlantique"
+            "Atakora"
         ],
         "cca2": "BJ",
         "cca3": "BEN",
@@ -404,24 +404,24 @@
             "woe_name": "Atlantique"
         },
         "geo": {
-            "latitude": 6.6588391,
-            "longitude": 2.2236667,
-            "max_latitude": 7.0136289,
-            "max_longitude": 2.483183,
-            "min_latitude": 6.3027403,
-            "min_longitude": 1.953851
+            "latitude": 10.7954931,
+            "longitude": 1.6760691,
+            "max_latitude": 11.4738341,
+            "max_longitude": 2.357681,
+            "min_latitude": 9.994575,
+            "min_longitude": 0.774575
         },
         "iso_3166_2": "BJ-AQ",
         "iso_a2": "BJ",
         "iso_a3": "BEN",
-        "name": "Atlantique",
+        "name": "Atakora",
         "postal": "AQ",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "BO": {
         "alt_names": [
-            "Borgou"
+            "Atakora"
         ],
         "cca2": "BJ",
         "cca3": "BEN",
@@ -544,24 +544,24 @@
             "woe_name": "Borgou"
         },
         "geo": {
-            "latitude": 9.5340864,
-            "longitude": 2.7779813,
-            "max_latitude": 10.6676449,
-            "max_longitude": 3.851701,
-            "min_latitude": 8.7726829,
-            "min_longitude": 1.972203
+            "latitude": 10.7954931,
+            "longitude": 1.6760691,
+            "max_latitude": 11.4738341,
+            "max_longitude": 2.357681,
+            "min_latitude": 9.994575,
+            "min_longitude": 0.774575
         },
         "iso_3166_2": "BJ-BO",
         "iso_a2": "BJ",
         "iso_a3": "BEN",
-        "name": "Borgou",
+        "name": "Atakora",
         "postal": "BO",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "CO": {
         "alt_names": [
-            "Collines"
+            "Atakora"
         ],
         "cca2": "BJ",
         "cca3": "BEN",
@@ -684,24 +684,24 @@
             "woe_name": "Collines"
         },
         "geo": {
-            "latitude": 8.3022297,
-            "longitude": 2.302446,
-            "max_latitude": 8.777361,
-            "max_longitude": 2.761885,
-            "min_latitude": 7.458557,
-            "min_longitude": 1.619739
+            "latitude": 10.7954931,
+            "longitude": 1.6760691,
+            "max_latitude": 11.4738341,
+            "max_longitude": 2.357681,
+            "min_latitude": 9.994575,
+            "min_longitude": 0.774575
         },
         "iso_3166_2": "BJ-CO",
         "iso_a2": "BJ",
         "iso_a3": "BEN",
-        "name": "Collines",
+        "name": "Atakora",
         "postal": "CO",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "DO": {
         "alt_names": [
-            "Donga"
+            "Atakora"
         ],
         "cca2": "BJ",
         "cca3": "BEN",
@@ -824,24 +824,24 @@
             "woe_name": "Donga"
         },
         "geo": {
-            "latitude": 9.7191867,
+            "latitude": 10.7954931,
             "longitude": 1.6760691,
-            "max_latitude": 10.1165749,
-            "max_longitude": 2.2243771,
-            "min_latitude": 8.4775389,
-            "min_longitude": 1.3415889
+            "max_latitude": 11.4738341,
+            "max_longitude": 2.357681,
+            "min_latitude": 9.994575,
+            "min_longitude": 0.774575
         },
         "iso_3166_2": "BJ-DO",
         "iso_a2": "BJ",
         "iso_a3": "BEN",
-        "name": "Donga",
+        "name": "Atakora",
         "postal": "DO",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "KO": {
         "alt_names": [
-            "Kouffo"
+            "Atakora"
         ],
         "cca2": "BJ",
         "cca3": "BEN",
@@ -964,24 +964,24 @@
             "woe_name": "Kouffo"
         },
         "geo": {
-            "latitude": 7.0035894,
-            "longitude": 1.7538817,
-            "max_latitude": 7.4979099,
-            "max_longitude": 2.086982,
-            "min_latitude": 6.664443,
-            "min_longitude": 1.557832
+            "latitude": 10.7954931,
+            "longitude": 1.6760691,
+            "max_latitude": 11.4738341,
+            "max_longitude": 2.357681,
+            "min_latitude": 9.994575,
+            "min_longitude": 0.774575
         },
         "iso_3166_2": "BJ-KO",
         "iso_a2": "BJ",
         "iso_a3": "BEN",
-        "name": "Kouffo",
+        "name": "Atakora",
         "postal": "KO",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "LI": {
         "alt_names": [
-            "Littoral"
+            "Atakora"
         ],
         "cca2": "BJ",
         "cca3": "BEN",
@@ -1104,24 +1104,24 @@
             "woe_name": "Littoral"
         },
         "geo": {
-            "latitude": 6.3806973,
-            "longitude": 2.4406387,
-            "max_latitude": 6.4078179,
-            "max_longitude": 2.5401967,
-            "min_latitude": 6.3403411,
-            "min_longitude": 2.3329545
+            "latitude": 10.7954931,
+            "longitude": 1.6760691,
+            "max_latitude": 11.4738341,
+            "max_longitude": 2.357681,
+            "min_latitude": 9.994575,
+            "min_longitude": 0.774575
         },
         "iso_3166_2": "BJ-LI",
         "iso_a2": "BJ",
         "iso_a3": "BEN",
-        "name": "Littoral",
+        "name": "Atakora",
         "postal": "LI",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "MO": {
         "alt_names": [
-            "Mono"
+            "Atakora"
         ],
         "cca2": "BJ",
         "cca3": "BEN",
@@ -1244,24 +1244,24 @@
             "woe_name": "Mono"
         },
         "geo": {
-            "latitude": 6.6607182,
-            "longitude": 1.7538817,
-            "max_latitude": 6.7976141,
-            "max_longitude": 2.019586,
-            "min_latitude": 6.2340596,
-            "min_longitude": 1.5739199
+            "latitude": 10.7954931,
+            "longitude": 1.6760691,
+            "max_latitude": 11.4738341,
+            "max_longitude": 2.357681,
+            "min_latitude": 9.994575,
+            "min_longitude": 0.774575
         },
         "iso_3166_2": "BJ-MO",
         "iso_a2": "BJ",
         "iso_a3": "BEN",
-        "name": "Mono",
+        "name": "Atakora",
         "postal": "MO",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "OU": {
         "alt_names": [
-            "Ou\u00e9m\u00e9"
+            "Atakora"
         ],
         "cca2": "BJ",
         "cca3": "BEN",
@@ -1384,24 +1384,24 @@
             "woe_name": "Ou\u00e9m\u00e9"
         },
         "geo": {
-            "latitude": 6.6148152,
-            "longitude": 2.4999918,
-            "max_latitude": 6.99444,
-            "max_longitude": 2.742933,
-            "min_latitude": 6.3598054,
-            "min_longitude": 2.3608521
+            "latitude": 10.7954931,
+            "longitude": 1.6760691,
+            "max_latitude": 11.4738341,
+            "max_longitude": 2.357681,
+            "min_latitude": 9.994575,
+            "min_longitude": 0.774575
         },
         "iso_3166_2": "BJ-OU",
         "iso_a2": "BJ",
         "iso_a3": "BEN",
-        "name": "Ou\u00e9m\u00e9",
+        "name": "Atakora",
         "postal": "OU",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "PL": {
         "alt_names": [
-            "Plateau"
+            "Atakora"
         ],
         "cca2": "BJ",
         "cca3": "BEN",
@@ -1524,24 +1524,24 @@
             "woe_name": "Plateau"
         },
         "geo": {
-            "latitude": 7.3445141,
-            "longitude": 2.539603,
-            "max_latitude": 7.6579461,
-            "max_longitude": 2.799681,
-            "min_latitude": 6.5454279,
-            "min_longitude": 2.4065919
+            "latitude": 10.7954931,
+            "longitude": 1.6760691,
+            "max_latitude": 11.4738341,
+            "max_longitude": 2.357681,
+            "min_latitude": 9.994575,
+            "min_longitude": 0.774575
         },
         "iso_3166_2": "BJ-PL",
         "iso_a2": "BJ",
         "iso_a3": "BEN",
-        "name": "Plateau",
+        "name": "Atakora",
         "postal": "PL",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "ZO": {
         "alt_names": [
-            "Zou"
+            "Atakora"
         ],
         "cca2": "BJ",
         "cca3": "BEN",
@@ -1664,17 +1664,17 @@
             "woe_name": "Zou"
         },
         "geo": {
-            "latitude": 7.3469268,
-            "longitude": 2.0665197,
-            "max_latitude": 7.6493191,
-            "max_longitude": 2.555015,
-            "min_latitude": 6.9083269,
-            "min_longitude": 1.634848
+            "latitude": 10.7954931,
+            "longitude": 1.6760691,
+            "max_latitude": 11.4738341,
+            "max_longitude": 2.357681,
+            "min_latitude": 9.994575,
+            "min_longitude": 0.774575
         },
         "iso_3166_2": "BJ-ZO",
         "iso_a2": "BJ",
         "iso_a3": "BEN",
-        "name": "Zou",
+        "name": "Atakora",
         "postal": "ZO",
         "type": "D\u00e9partement",
         "type_en": "Department"

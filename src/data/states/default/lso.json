@@ -141,7 +141,7 @@
     },
     "B": {
         "alt_names": [
-            "Butha-Buthe"
+            "Maseru"
         ],
         "cca2": "LS",
         "cca3": "LSO",
@@ -264,24 +264,24 @@
             "woe_name": "Butha-Buthe"
         },
         "geo": {
-            "latitude": -28.801561,
-            "longitude": 28.5331038,
-            "max_latitude": -28.5708011,
-            "max_longitude": 28.824408,
-            "min_latitude": -29.083893,
-            "min_longitude": 28.2183061
+            "latitude": -29.31,
+            "longitude": 27.48,
+            "max_latitude": -29.272605,
+            "max_longitude": 27.5997162,
+            "min_latitude": -29.4010271,
+            "min_longitude": 27.4344263
         },
         "iso_3166_2": "LS-B",
         "iso_a2": "LS",
         "iso_a3": "LSO",
-        "name": "Butha-Buthe",
+        "name": "Maseru",
         "postal": "B",
         "type": "District",
         "type_en": "District"
     },
     "C": {
         "alt_names": [
-            "Leribe"
+            "Maseru"
         ],
         "cca2": "LS",
         "cca3": "LSO",
@@ -404,24 +404,24 @@
             "woe_name": "Leribe"
         },
         "geo": {
-            "latitude": -28.873361,
-            "longitude": 28.041583,
-            "max_latitude": -28.844824,
-            "max_longitude": 28.08805,
-            "min_latitude": -28.8889464,
-            "min_longitude": 28.0343413
+            "latitude": -29.31,
+            "longitude": 27.48,
+            "max_latitude": -29.272605,
+            "max_longitude": 27.5997162,
+            "min_latitude": -29.4010271,
+            "min_longitude": 27.4344263
         },
         "iso_3166_2": "LS-C",
         "iso_a2": "LS",
         "iso_a3": "LSO",
-        "name": "Leribe",
+        "name": "Maseru",
         "postal": "C",
         "type": "District",
         "type_en": "District"
     },
     "D": {
         "alt_names": [
-            "Berea"
+            "Maseru"
         ],
         "cca2": "LS",
         "cca3": "LSO",
@@ -544,24 +544,24 @@
             "woe_name": "Berea"
         },
         "geo": {
-            "latitude": -29.1746723,
-            "longitude": 27.8311428,
-            "max_latitude": -28.942451,
-            "max_longitude": 28.295258,
-            "min_latitude": -29.3866321,
-            "min_longitude": 27.511712
+            "latitude": -29.31,
+            "longitude": 27.48,
+            "max_latitude": -29.272605,
+            "max_longitude": 27.5997162,
+            "min_latitude": -29.4010271,
+            "min_longitude": 27.4344263
         },
         "iso_3166_2": "LS-D",
         "iso_a2": "LS",
         "iso_a3": "LSO",
-        "name": "Berea",
+        "name": "Maseru",
         "postal": "D",
         "type": "District",
         "type_en": "District"
     },
     "E": {
         "alt_names": [
-            "Mafeteng"
+            "Maseru"
         ],
         "cca2": "LS",
         "cca3": "LSO",
@@ -684,24 +684,24 @@
             "woe_name": "Mafeteng"
         },
         "geo": {
-            "latitude": -29.8224312,
-            "longitude": 27.2388161,
-            "max_latitude": -29.7745098,
-            "max_longitude": 27.2761774,
-            "min_latitude": -29.8478281,
-            "min_longitude": 27.2053242
+            "latitude": -29.31,
+            "longitude": 27.48,
+            "max_latitude": -29.272605,
+            "max_longitude": 27.5997162,
+            "min_latitude": -29.4010271,
+            "min_longitude": 27.4344263
         },
         "iso_3166_2": "LS-E",
         "iso_a2": "LS",
         "iso_a3": "LSO",
-        "name": "Mafeteng",
+        "name": "Maseru",
         "postal": "E",
         "type": "District",
         "type_en": "District"
     },
     "F": {
         "alt_names": [
-            "Mohale's Hoek"
+            "Maseru"
         ],
         "cca2": "LS",
         "cca3": "LSO",
@@ -824,24 +824,24 @@
             "woe_name": "Mohale's Hoek"
         },
         "geo": {
-            "latitude": -30.15,
-            "longitude": 27.466667,
-            "max_latitude": -30.1215401,
-            "max_longitude": 27.4988436,
-            "min_latitude": -30.1672616,
-            "min_longitude": 27.4296428
+            "latitude": -29.31,
+            "longitude": 27.48,
+            "max_latitude": -29.272605,
+            "max_longitude": 27.5997162,
+            "min_latitude": -29.4010271,
+            "min_longitude": 27.4344263
         },
         "iso_3166_2": "LS-F",
         "iso_a2": "LS",
         "iso_a3": "LSO",
-        "name": "Mohale's Hoek",
+        "name": "Maseru",
         "postal": "F",
         "type": "District",
         "type_en": "District"
     },
     "G": {
         "alt_names": [
-            "Quthing"
+            "Maseru"
         ],
         "cca2": "LS",
         "cca3": "LSO",
@@ -964,24 +964,24 @@
             "woe_name": "Quthing"
         },
         "geo": {
-            "latitude": -30.400111,
-            "longitude": 27.700194,
-            "max_latitude": -30.3917193,
-            "max_longitude": 27.7433325,
-            "min_latitude": -30.4231979,
-            "min_longitude": 27.6868129
+            "latitude": -29.31,
+            "longitude": 27.48,
+            "max_latitude": -29.272605,
+            "max_longitude": 27.5997162,
+            "min_latitude": -29.4010271,
+            "min_longitude": 27.4344263
         },
         "iso_3166_2": "LS-G",
         "iso_a2": "LS",
         "iso_a3": "LSO",
-        "name": "Quthing",
+        "name": "Maseru",
         "postal": "G",
         "type": "District",
         "type_en": "District"
     },
     "H": {
         "alt_names": [
-            "Qacha's Nek"
+            "Maseru"
         ],
         "cca2": "LS",
         "cca3": "LSO",
@@ -1104,24 +1104,24 @@
             "woe_name": "Qacha's Nek"
         },
         "geo": {
-            "latitude": -30.116667,
-            "longitude": 28.683333,
-            "max_latitude": -30.0969821,
-            "max_longitude": 28.700881,
-            "min_latitude": -30.1284628,
-            "min_longitude": 28.6603689
+            "latitude": -29.31,
+            "longitude": 27.48,
+            "max_latitude": -29.272605,
+            "max_longitude": 27.5997162,
+            "min_latitude": -29.4010271,
+            "min_longitude": 27.4344263
         },
         "iso_3166_2": "LS-H",
         "iso_a2": "LS",
         "iso_a3": "LSO",
-        "name": "Qacha's Nek",
+        "name": "Maseru",
         "postal": "H",
         "type": "District",
         "type_en": "District"
     },
     "J": {
         "alt_names": [
-            "Mokhotlong"
+            "Maseru"
         ],
         "cca2": "LS",
         "cca3": "LSO",
@@ -1244,24 +1244,24 @@
             "woe_name": "Mokhotlong"
         },
         "geo": {
-            "latitude": -29.288495,
-            "longitude": 29.065568,
-            "max_latitude": -29.2750633,
-            "max_longitude": 29.0821563,
-            "min_latitude": -29.2995091,
-            "min_longitude": 29.0297267
+            "latitude": -29.31,
+            "longitude": 27.48,
+            "max_latitude": -29.272605,
+            "max_longitude": 27.5997162,
+            "min_latitude": -29.4010271,
+            "min_longitude": 27.4344263
         },
         "iso_3166_2": "LS-J",
         "iso_a2": "LS",
         "iso_a3": "LSO",
-        "name": "Mokhotlong",
+        "name": "Maseru",
         "postal": "J",
         "type": "District",
         "type_en": "District"
     },
     "K": {
         "alt_names": [
-            "Thaba-Tseka"
+            "Maseru"
         ],
         "cca2": "LS",
         "cca3": "LSO",
@@ -1384,17 +1384,17 @@
             "woe_name": "Thaba-Tseka"
         },
         "geo": {
-            "latitude": -29.5157527,
-            "longitude": 28.5901895,
-            "max_latitude": -29.113616,
-            "max_longitude": 29.3251312,
-            "min_latitude": -29.8954829,
-            "min_longitude": 28.1051919
+            "latitude": -29.31,
+            "longitude": 27.48,
+            "max_latitude": -29.272605,
+            "max_longitude": 27.5997162,
+            "min_latitude": -29.4010271,
+            "min_longitude": 27.4344263
         },
         "iso_3166_2": "LS-K",
         "iso_a2": "LS",
         "iso_a3": "LSO",
-        "name": "Thaba-Tseka",
+        "name": "Maseru",
         "postal": "K",
         "type": "District",
         "type_en": "District"

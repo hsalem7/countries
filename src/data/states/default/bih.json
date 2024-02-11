@@ -141,7 +141,7 @@
     },
     "BRC": {
         "alt_names": [
-            ""
+            "Federacija Bosna i Hercegovina"
         ],
         "cca2": "BA",
         "cca3": "BIH",
@@ -264,20 +264,24 @@
             "woe_name": "Br\u010dko Distrikt"
         },
         "geo": {
-            "latitude": "44.8305000000",
-            "longitude": "18.8540000000"
+            "latitude": 43.8874897,
+            "longitude": 17.842793,
+            "max_latitude": 45.2271323,
+            "max_longitude": 19.0392512,
+            "min_latitude": 42.6075035,
+            "min_longitude": 15.7237473
         },
         "iso_3166_2": "BA-BRC",
         "iso_a2": "BA",
         "iso_a3": "BIH",
-        "name": "Br\u010dko Distrikt",
+        "name": "Federacija Bosna i Hercegovina",
         "postal": "BRC",
         "type": "Condominium",
         "type_en": ""
     },
     "SRP": {
         "alt_names": [
-            "Republika Srpska"
+            "Federacija Bosna i Hercegovina"
         ],
         "cca2": "BA",
         "cca3": "BIH",
@@ -400,24 +404,24 @@
             "woe_name": "Posavski Kanton"
         },
         "geo": {
-            "latitude": 44.7280186,
-            "longitude": 17.3148136,
-            "max_latitude": 45.2737124,
-            "max_longitude": 19.6256174,
-            "min_latitude": 42.5561996,
-            "min_longitude": 16.1924385
+            "latitude": 43.8874897,
+            "longitude": 17.842793,
+            "max_latitude": 45.2271323,
+            "max_longitude": 19.0392512,
+            "min_latitude": 42.6075035,
+            "min_longitude": 15.7237473
         },
         "iso_3166_2": "BA-SRP",
         "iso_a2": "BA",
         "iso_a3": "BIH",
-        "name": "Republika Srpska",
+        "name": "Federacija Bosna i Hercegovina",
         "postal": "SRP",
         "type": "\u017dupanija|kanton",
         "type_en": "Canton"
     },
     "X01~": {
         "alt_names": [
-            ""
+            "Federacija Bosna i Hercegovina"
         ],
         "cca2": "BA",
         "cca3": "BIH",
@@ -540,20 +544,24 @@
             "woe_name": "Doboj"
         },
         "geo": {
-            "latitude": "44.9307000000",
-            "longitude": "18.0675000000"
+            "latitude": 43.8874897,
+            "longitude": 17.842793,
+            "max_latitude": 45.2271323,
+            "max_longitude": 19.0392512,
+            "min_latitude": 42.6075035,
+            "min_longitude": 15.7237473
         },
         "iso_3166_2": "BA-X01~",
         "iso_a2": "BA",
         "iso_a3": "BIH",
-        "name": "Doboj",
+        "name": "Federacija Bosna i Hercegovina",
         "postal": "X01~",
         "type": "Region",
         "type_en": ""
     },
     "X02~": {
         "alt_names": [
-            ""
+            "Federacija Bosna i Hercegovina"
         ],
         "cca2": "BA",
         "cca3": "BIH",
@@ -676,20 +684,24 @@
             "woe_name": "Banja Luka"
         },
         "geo": {
-            "latitude": "44.8146000000",
-            "longitude": "17.2619000000"
+            "latitude": 43.8874897,
+            "longitude": 17.842793,
+            "max_latitude": 45.2271323,
+            "max_longitude": 19.0392512,
+            "min_latitude": 42.6075035,
+            "min_longitude": 15.7237473
         },
         "iso_3166_2": "BA-X02~",
         "iso_a2": "BA",
         "iso_a3": "BIH",
-        "name": "Banja Luka",
+        "name": "Federacija Bosna i Hercegovina",
         "postal": "X02~",
         "type": "Region",
         "type_en": ""
     },
     "X03~": {
         "alt_names": [
-            ""
+            "Federacija Bosna i Hercegovina"
         ],
         "cca2": "BA",
         "cca3": "BIH",
@@ -812,20 +824,24 @@
             "woe_name": "Bijeljina"
         },
         "geo": {
-            "latitude": "44.7513000000",
-            "longitude": "19.1471000000"
+            "latitude": 43.8874897,
+            "longitude": 17.842793,
+            "max_latitude": 45.2271323,
+            "max_longitude": 19.0392512,
+            "min_latitude": 42.6075035,
+            "min_longitude": 15.7237473
         },
         "iso_3166_2": "BA-X03~",
         "iso_a2": "BA",
         "iso_a3": "BIH",
-        "name": "Bijeljina",
+        "name": "Federacija Bosna i Hercegovina",
         "postal": "X03~",
         "type": "Region",
         "type_en": ""
     },
     "X04~": {
         "alt_names": [
-            ""
+            "Federacija Bosna i Hercegovina"
         ],
         "cca2": "BA",
         "cca3": "BIH",
@@ -948,20 +964,24 @@
             "woe_name": "Vlasenica"
         },
         "geo": {
-            "latitude": "44.1968000000",
-            "longitude": "19.0758000000"
+            "latitude": 43.8874897,
+            "longitude": 17.842793,
+            "max_latitude": 45.2271323,
+            "max_longitude": 19.0392512,
+            "min_latitude": 42.6075035,
+            "min_longitude": 15.7237473
         },
         "iso_3166_2": "BA-X04~",
         "iso_a2": "BA",
         "iso_a3": "BIH",
-        "name": "Vlasenica",
+        "name": "Federacija Bosna i Hercegovina",
         "postal": "X04~",
         "type": "Region",
         "type_en": ""
     },
     "X05~": {
         "alt_names": [
-            ""
+            "Federacija Bosna i Hercegovina"
         ],
         "cca2": "BA",
         "cca3": "BIH",
@@ -1084,20 +1104,24 @@
             "woe_name": "Sarajevo-romanija"
         },
         "geo": {
-            "latitude": "43.9275000000",
-            "longitude": "18.7510000000"
+            "latitude": 43.8874897,
+            "longitude": 17.842793,
+            "max_latitude": 45.2271323,
+            "max_longitude": 19.0392512,
+            "min_latitude": 42.6075035,
+            "min_longitude": 15.7237473
         },
         "iso_3166_2": "BA-X05~",
         "iso_a2": "BA",
         "iso_a3": "BIH",
-        "name": "Sarajevo-romanija",
+        "name": "Federacija Bosna i Hercegovina",
         "postal": "X05~",
         "type": "Region",
         "type_en": ""
     },
     "X06~": {
         "alt_names": [
-            ""
+            "Federacija Bosna i Hercegovina"
         ],
         "cca2": "BA",
         "cca3": "BIH",
@@ -1220,20 +1244,24 @@
             "woe_name": "Fo\u010da"
         },
         "geo": {
-            "latitude": "43.4443000000",
-            "longitude": "18.7352000000"
+            "latitude": 43.8874897,
+            "longitude": 17.842793,
+            "max_latitude": 45.2271323,
+            "max_longitude": 19.0392512,
+            "min_latitude": 42.6075035,
+            "min_longitude": 15.7237473
         },
         "iso_3166_2": "BA-X06~",
         "iso_a2": "BA",
         "iso_a3": "BIH",
-        "name": "Fo\u010da",
+        "name": "Federacija Bosna i Hercegovina",
         "postal": "X06~",
         "type": "Region",
         "type_en": ""
     },
     "X07~": {
         "alt_names": [
-            ""
+            "Federacija Bosna i Hercegovina"
         ],
         "cca2": "BA",
         "cca3": "BIH",
@@ -1356,13 +1384,17 @@
             "woe_name": "Trebinje"
         },
         "geo": {
-            "latitude": "43.1037000000",
-            "longitude": "18.3391000000"
+            "latitude": 43.8874897,
+            "longitude": 17.842793,
+            "max_latitude": 45.2271323,
+            "max_longitude": 19.0392512,
+            "min_latitude": 42.6075035,
+            "min_longitude": 15.7237473
         },
         "iso_3166_2": "BA-X07~",
         "iso_a2": "BA",
         "iso_a3": "BIH",
-        "name": "Trebinje",
+        "name": "Federacija Bosna i Hercegovina",
         "postal": "X07~",
         "type": "Region",
         "type_en": ""

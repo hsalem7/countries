@@ -141,7 +141,7 @@
     },
     "BL": {
         "alt_names": [
-            ""
+            "Bubanza"
         ],
         "cca2": "BI",
         "cca3": "BDI",
@@ -264,20 +264,24 @@
             "woe_name": "Bujumbura Rural"
         },
         "geo": {
-            "latitude": "-3.6184300000",
-            "longitude": "29.4237000000"
+            "latitude": -3.083333,
+            "longitude": 29.4,
+            "max_latitude": -3.078209,
+            "max_longitude": 29.4021606,
+            "min_latitude": -3.0908079,
+            "min_longitude": 29.3869686
         },
         "iso_3166_2": "BI-BL",
         "iso_a2": "BI",
         "iso_a3": "BDI",
-        "name": "Bujumbura Rural",
+        "name": "Bubanza",
         "postal": "BL",
         "type": "Province",
         "type_en": "Province"
     },
     "BM": {
         "alt_names": [
-            ""
+            "Bubanza"
         ],
         "cca2": "BI",
         "cca3": "BDI",
@@ -400,20 +404,24 @@
             "woe_name": "Bujumbura Mairie"
         },
         "geo": {
-            "latitude": "-3.3986100000",
-            "longitude": "29.3689000000"
+            "latitude": -3.083333,
+            "longitude": 29.4,
+            "max_latitude": -3.078209,
+            "max_longitude": 29.4021606,
+            "min_latitude": -3.0908079,
+            "min_longitude": 29.3869686
         },
         "iso_3166_2": "BI-BM",
         "iso_a2": "BI",
         "iso_a3": "BDI",
-        "name": "Bujumbura Mairie",
+        "name": "Bubanza",
         "postal": "BM",
         "type": "Province",
         "type_en": "Province"
     },
     "BR": {
         "alt_names": [
-            "Bururi"
+            "Bubanza"
         ],
         "cca2": "BI",
         "cca3": "BDI",
@@ -536,24 +544,24 @@
             "woe_name": "Bururi"
         },
         "geo": {
-            "latitude": -3.95,
-            "longitude": 29.616667,
-            "max_latitude": -3.9389683,
-            "max_longitude": 29.6364892,
-            "min_latitude": -3.9569072,
-            "min_longitude": 29.6148491
+            "latitude": -3.083333,
+            "longitude": 29.4,
+            "max_latitude": -3.078209,
+            "max_longitude": 29.4021606,
+            "min_latitude": -3.0908079,
+            "min_longitude": 29.3869686
         },
         "iso_3166_2": "BI-BR",
         "iso_a2": "BI",
         "iso_a3": "BDI",
-        "name": "Bururi",
+        "name": "Bubanza",
         "postal": "BR",
         "type": "Province",
         "type_en": "Province"
     },
     "CA": {
         "alt_names": [
-            "Cankuzo"
+            "Bubanza"
         ],
         "cca2": "BI",
         "cca3": "BDI",
@@ -676,24 +684,24 @@
             "woe_name": "Cankuzo"
         },
         "geo": {
-            "latitude": -3.2196819,
-            "longitude": 30.5466187,
-            "max_latitude": -3.2114974,
-            "max_longitude": 30.5516804,
-            "min_latitude": -3.227476,
-            "min_longitude": 30.5413656
+            "latitude": -3.083333,
+            "longitude": 29.4,
+            "max_latitude": -3.078209,
+            "max_longitude": 29.4021606,
+            "min_latitude": -3.0908079,
+            "min_longitude": 29.3869686
         },
         "iso_3166_2": "BI-CA",
         "iso_a2": "BI",
         "iso_a3": "BDI",
-        "name": "Cankuzo",
+        "name": "Bubanza",
         "postal": "CA",
         "type": "Province",
         "type_en": "Province"
     },
     "CI": {
         "alt_names": [
-            "Cibitoke"
+            "Bubanza"
         ],
         "cca2": "BI",
         "cca3": "BDI",
@@ -816,24 +824,24 @@
             "woe_name": "Cibitoke"
         },
         "geo": {
-            "latitude": -2.888611,
-            "longitude": 29.12,
-            "max_latitude": -2.8800368,
-            "max_longitude": 29.1288114,
-            "min_latitude": -2.8941594,
-            "min_longitude": 29.1163767
+            "latitude": -3.083333,
+            "longitude": 29.4,
+            "max_latitude": -3.078209,
+            "max_longitude": 29.4021606,
+            "min_latitude": -3.0908079,
+            "min_longitude": 29.3869686
         },
         "iso_3166_2": "BI-CI",
         "iso_a2": "BI",
         "iso_a3": "BDI",
-        "name": "Cibitoke",
+        "name": "Bubanza",
         "postal": "CI",
         "type": "Province",
         "type_en": "Province"
     },
     "GI": {
         "alt_names": [
-            "Kitega"
+            "Bubanza"
         ],
         "cca2": "BI",
         "cca3": "BDI",
@@ -956,24 +964,24 @@
             "woe_name": "Gitega"
         },
         "geo": {
-            "latitude": -3.428803,
-            "longitude": 29.924903,
-            "max_latitude": -3.4176378,
-            "max_longitude": 29.940319,
-            "min_latitude": -3.4452258,
-            "min_longitude": 29.9105358
+            "latitude": -3.083333,
+            "longitude": 29.4,
+            "max_latitude": -3.078209,
+            "max_longitude": 29.4021606,
+            "min_latitude": -3.0908079,
+            "min_longitude": 29.3869686
         },
         "iso_3166_2": "BI-GI",
         "iso_a2": "BI",
         "iso_a3": "BDI",
-        "name": "Gitega",
+        "name": "Bubanza",
         "postal": "GI",
         "type": "Province",
         "type_en": "Province"
     },
     "KI": {
         "alt_names": [
-            "Kirundo"
+            "Bubanza"
         ],
         "cca2": "BI",
         "cca3": "BDI",
@@ -1096,24 +1104,24 @@
             "woe_name": "Kirundo"
         },
         "geo": {
-            "latitude": -2.5848378,
-            "longitude": 30.0961296,
-            "max_latitude": -2.5823715,
-            "max_longitude": 30.0979042,
-            "min_latitude": -2.5880304,
-            "min_longitude": 30.0930977
+            "latitude": -3.083333,
+            "longitude": 29.4,
+            "max_latitude": -3.078209,
+            "max_longitude": 29.4021606,
+            "min_latitude": -3.0908079,
+            "min_longitude": 29.3869686
         },
         "iso_3166_2": "BI-KI",
         "iso_a2": "BI",
         "iso_a3": "BDI",
-        "name": "Kirundo",
+        "name": "Bubanza",
         "postal": "KI",
         "type": "Province",
         "type_en": "Province"
     },
     "KR": {
         "alt_names": [
-            "Karusi"
+            "Bubanza"
         ],
         "cca2": "BI",
         "cca3": "BDI",
@@ -1236,24 +1244,24 @@
             "woe_name": "Karuzi"
         },
         "geo": {
-            "latitude": -3.1,
-            "longitude": 30.166667,
-            "max_latitude": -3.0940647,
-            "max_longitude": 30.1710264,
-            "min_latitude": -3.114891,
-            "min_longitude": 30.1540375
+            "latitude": -3.083333,
+            "longitude": 29.4,
+            "max_latitude": -3.078209,
+            "max_longitude": 29.4021606,
+            "min_latitude": -3.0908079,
+            "min_longitude": 29.3869686
         },
         "iso_3166_2": "BI-KR",
         "iso_a2": "BI",
         "iso_a3": "BDI",
-        "name": "Karuzi",
+        "name": "Bubanza",
         "postal": "KR",
         "type": "Province",
         "type_en": "Province"
     },
     "KY": {
         "alt_names": [
-            "Kayanza"
+            "Bubanza"
         ],
         "cca2": "BI",
         "cca3": "BDI",
@@ -1376,24 +1384,24 @@
             "woe_name": "Kayanza"
         },
         "geo": {
-            "latitude": -2.9218531,
-            "longitude": 29.6252858,
-            "max_latitude": -2.9145823,
-            "max_longitude": 29.6350192,
-            "min_latitude": -2.9284688,
-            "min_longitude": 29.6181107
+            "latitude": -3.083333,
+            "longitude": 29.4,
+            "max_latitude": -3.078209,
+            "max_longitude": 29.4021606,
+            "min_latitude": -3.0908079,
+            "min_longitude": 29.3869686
         },
         "iso_3166_2": "BI-KY",
         "iso_a2": "BI",
         "iso_a3": "BDI",
-        "name": "Kayanza",
+        "name": "Bubanza",
         "postal": "KY",
         "type": "Province",
         "type_en": "Province"
     },
     "MA": {
         "alt_names": [
-            "Makamba"
+            "Bubanza"
         ],
         "cca2": "BI",
         "cca3": "BDI",
@@ -1516,24 +1524,24 @@
             "woe_name": "Makamba"
         },
         "geo": {
-            "latitude": -4.133333,
-            "longitude": 29.8,
-            "max_latitude": -4.1278846,
-            "max_longitude": 29.8164654,
-            "min_latitude": -4.1440429,
-            "min_longitude": 29.796574
+            "latitude": -3.083333,
+            "longitude": 29.4,
+            "max_latitude": -3.078209,
+            "max_longitude": 29.4021606,
+            "min_latitude": -3.0908079,
+            "min_longitude": 29.3869686
         },
         "iso_3166_2": "BI-MA",
         "iso_a2": "BI",
         "iso_a3": "BDI",
-        "name": "Makamba",
+        "name": "Bubanza",
         "postal": "MA",
         "type": "Province",
         "type_en": "Province"
     },
     "MU": {
         "alt_names": [
-            "Muramuya"
+            "Bubanza"
         ],
         "cca2": "BI",
         "cca3": "BDI",
@@ -1656,24 +1664,24 @@
             "woe_name": "Muramvya"
         },
         "geo": {
-            "latitude": -3.2675245,
-            "longitude": 29.6223878,
-            "max_latitude": -3.2618627,
-            "max_longitude": 29.6345044,
-            "min_latitude": -3.2741165,
-            "min_longitude": 29.6133901
+            "latitude": -3.083333,
+            "longitude": 29.4,
+            "max_latitude": -3.078209,
+            "max_longitude": 29.4021606,
+            "min_latitude": -3.0908079,
+            "min_longitude": 29.3869686
         },
         "iso_3166_2": "BI-MU",
         "iso_a2": "BI",
         "iso_a3": "BDI",
-        "name": "Muramvya",
+        "name": "Bubanza",
         "postal": "MU",
         "type": "Province",
         "type_en": "Province"
     },
     "MW": {
         "alt_names": [
-            "Mwaro"
+            "Bubanza"
         ],
         "cca2": "BI",
         "cca3": "BDI",
@@ -1796,24 +1804,24 @@
             "woe_name": "Muramvya"
         },
         "geo": {
-            "latitude": -3.511985,
-            "longitude": 29.6991642,
-            "max_latitude": -3.5021983,
-            "max_longitude": 29.7108936,
-            "min_latitude": -3.5229303,
-            "min_longitude": 29.6926975
+            "latitude": -3.083333,
+            "longitude": 29.4,
+            "max_latitude": -3.078209,
+            "max_longitude": 29.4021606,
+            "min_latitude": -3.0908079,
+            "min_longitude": 29.3869686
         },
         "iso_3166_2": "BI-MW",
         "iso_a2": "BI",
         "iso_a3": "BDI",
-        "name": "Mwaro",
+        "name": "Bubanza",
         "postal": "MW",
         "type": "Province",
         "type_en": "Province"
     },
     "MY": {
         "alt_names": [
-            "Muhinga"
+            "Bubanza"
         ],
         "cca2": "BI",
         "cca3": "BDI",
@@ -1936,24 +1944,24 @@
             "woe_name": "Muyinga"
         },
         "geo": {
-            "latitude": -2.85,
-            "longitude": 30.333333,
-            "max_latitude": -2.834775,
-            "max_longitude": 30.3525294,
-            "min_latitude": -2.8562907,
-            "min_longitude": 30.3324412
+            "latitude": -3.083333,
+            "longitude": 29.4,
+            "max_latitude": -3.078209,
+            "max_longitude": 29.4021606,
+            "min_latitude": -3.0908079,
+            "min_longitude": 29.3869686
         },
         "iso_3166_2": "BI-MY",
         "iso_a2": "BI",
         "iso_a3": "BDI",
-        "name": "Muyinga",
+        "name": "Bubanza",
         "postal": "MY",
         "type": "Province",
         "type_en": "Province"
     },
     "NG": {
         "alt_names": [
-            "Ngozi"
+            "Bubanza"
         ],
         "cca2": "BI",
         "cca3": "BDI",
@@ -2076,24 +2084,24 @@
             "woe_name": "Ngozi"
         },
         "geo": {
-            "latitude": -2.9,
-            "longitude": 29.833333,
-            "max_latitude": -2.8970525,
-            "max_longitude": 29.840777,
-            "min_latitude": -2.9199827,
-            "min_longitude": 29.8056935
+            "latitude": -3.083333,
+            "longitude": 29.4,
+            "max_latitude": -3.078209,
+            "max_longitude": 29.4021606,
+            "min_latitude": -3.0908079,
+            "min_longitude": 29.3869686
         },
         "iso_3166_2": "BI-NG",
         "iso_a2": "BI",
         "iso_a3": "BDI",
-        "name": "Ngozi",
+        "name": "Bubanza",
         "postal": "NG",
         "type": "Province",
         "type_en": "Province"
     },
     "RT": {
         "alt_names": [
-            "Rutana"
+            "Bubanza"
         ],
         "cca2": "BI",
         "cca3": "BDI",
@@ -2216,24 +2224,24 @@
             "woe_name": "Rutana"
         },
         "geo": {
-            "latitude": -3.9257199,
-            "longitude": 29.9899512,
-            "max_latitude": -3.9175183,
-            "max_longitude": 29.9962807,
-            "min_latitude": -3.9334453,
-            "min_longitude": 29.9858952
+            "latitude": -3.083333,
+            "longitude": 29.4,
+            "max_latitude": -3.078209,
+            "max_longitude": 29.4021606,
+            "min_latitude": -3.0908079,
+            "min_longitude": 29.3869686
         },
         "iso_3166_2": "BI-RT",
         "iso_a2": "BI",
         "iso_a3": "BDI",
-        "name": "Rutana",
+        "name": "Bubanza",
         "postal": "RT",
         "type": "Province",
         "type_en": "Province"
     },
     "RY": {
         "alt_names": [
-            "Ruyigi"
+            "Bubanza"
         ],
         "cca2": "BI",
         "cca3": "BDI",
@@ -2356,17 +2364,17 @@
             "woe_name": "Ruyigi"
         },
         "geo": {
-            "latitude": -3.4750027,
-            "longitude": 30.2483881,
-            "max_latitude": -3.4652736,
-            "max_longitude": 30.253687,
-            "min_latitude": -3.4831793,
-            "min_longitude": 30.2396965
+            "latitude": -3.083333,
+            "longitude": 29.4,
+            "max_latitude": -3.078209,
+            "max_longitude": 29.4021606,
+            "min_latitude": -3.0908079,
+            "min_longitude": 29.3869686
         },
         "iso_3166_2": "BI-RY",
         "iso_a2": "BI",
         "iso_a3": "BDI",
-        "name": "Ruyigi",
+        "name": "Bubanza",
         "postal": "RY",
         "type": "Province",
         "type_en": "Province"

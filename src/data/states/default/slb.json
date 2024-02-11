@@ -141,7 +141,7 @@
     },
     "CH": {
         "alt_names": [
-            "Lauru"
+            "Central"
         ],
         "cca2": "SB",
         "cca3": "SLB",
@@ -264,24 +264,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": -7.0501494,
-            "longitude": 156.9511459,
-            "max_latitude": -6.5901809,
-            "max_longitude": 157.8805597,
-            "min_latitude": -7.486277,
-            "min_longitude": 156.3830852
+            "latitude": -9.0516057,
+            "longitude": 160.1693949,
+            "max_latitude": -8.84783,
+            "max_longitude": 160.4130619,
+            "min_latitude": -9.287286,
+            "min_longitude": 158.730864
         },
         "iso_3166_2": "SB-CH",
         "iso_a2": "SB",
         "iso_a3": "SLB",
-        "name": "Choiseul",
+        "name": "Central",
         "postal": "CH",
         "type": "Province",
         "type_en": "Province"
     },
     "CT": {
         "alt_names": [
-            "Capital Territory (Honiara)"
+            "Central"
         ],
         "cca2": "SB",
         "cca3": "SLB",
@@ -404,24 +404,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": -9.4343868,
-            "longitude": 159.9609892,
-            "max_latitude": -9.4211729,
-            "max_longitude": 160.0229509,
-            "min_latitude": -9.4572289,
-            "min_longitude": 159.9145083
+            "latitude": -9.0516057,
+            "longitude": 160.1693949,
+            "max_latitude": -8.84783,
+            "max_longitude": 160.4130619,
+            "min_latitude": -9.287286,
+            "min_longitude": 158.730864
         },
         "iso_3166_2": "SB-CT",
         "iso_a2": "SB",
         "iso_a3": "SLB",
-        "name": "Capital Territory (Honiara)",
+        "name": "Central",
         "postal": "CT",
         "type": "Province",
         "type_en": "Province"
     },
     "GU": {
         "alt_names": [
-            "Guadalcanal"
+            "Central"
         ],
         "cca2": "SB",
         "cca3": "SLB",
@@ -544,24 +544,24 @@
             "woe_name": "Guadalcanal"
         },
         "geo": {
-            "latitude": -9.5773284,
-            "longitude": 160.1455805,
-            "max_latitude": -9.2508648,
-            "max_longitude": 160.8318648,
-            "min_latitude": -9.9442284,
-            "min_longitude": 159.5873199
+            "latitude": -9.0516057,
+            "longitude": 160.1693949,
+            "max_latitude": -8.84783,
+            "max_longitude": 160.4130619,
+            "min_latitude": -9.287286,
+            "min_longitude": 158.730864
         },
         "iso_3166_2": "SB-GU",
         "iso_a2": "SB",
         "iso_a3": "SLB",
-        "name": "Guadalcanal",
+        "name": "Central",
         "postal": "GU",
         "type": "Province",
         "type_en": "Province"
     },
     "IS": {
         "alt_names": [
-            "Isabel"
+            "Central"
         ],
         "cca2": "SB",
         "cca3": "SLB",
@@ -684,24 +684,24 @@
             "woe_name": "Isabel"
         },
         "geo": {
-            "latitude": -8.0592353,
-            "longitude": 159.1447081,
-            "max_latitude": -7.359186,
-            "max_longitude": 159.922843,
-            "min_latitude": -8.5734088,
-            "min_longitude": 157.9629997
+            "latitude": -9.0516057,
+            "longitude": 160.1693949,
+            "max_latitude": -8.84783,
+            "max_longitude": 160.4130619,
+            "min_latitude": -9.287286,
+            "min_longitude": 158.730864
         },
         "iso_3166_2": "SB-IS",
         "iso_a2": "SB",
         "iso_a3": "SLB",
-        "name": "Isabel",
+        "name": "Central",
         "postal": "IS",
         "type": "Province",
         "type_en": "Province"
     },
     "MK": {
         "alt_names": [
-            "San Crist\u00f3bal"
+            "Central"
         ],
         "cca2": "SB",
         "cca3": "SLB",
@@ -824,24 +824,24 @@
             "woe_name": "Makira"
         },
         "geo": {
-            "latitude": -10.5737447,
-            "longitude": 161.8096941,
-            "max_latitude": -9.7145769,
-            "max_longitude": 162.4842479,
-            "min_latitude": -10.9010735,
-            "min_longitude": 161.2639239
+            "latitude": -9.0516057,
+            "longitude": 160.1693949,
+            "max_latitude": -8.84783,
+            "max_longitude": 160.4130619,
+            "min_latitude": -9.287286,
+            "min_longitude": 158.730864
         },
         "iso_3166_2": "SB-MK",
         "iso_a2": "SB",
         "iso_a3": "SLB",
-        "name": "Makira",
+        "name": "Central",
         "postal": "MK",
         "type": "Province",
         "type_en": "Province"
     },
     "ML": {
         "alt_names": [
-            "Mala"
+            "Central"
         ],
         "cca2": "SB",
         "cca3": "SLB",
@@ -964,24 +964,24 @@
             "woe_name": "Malaita"
         },
         "geo": {
-            "latitude": -8.9446168,
-            "longitude": 160.9071236,
-            "max_latitude": -8.3105853,
-            "max_longitude": 161.5823776,
-            "min_latitude": -9.7298623,
-            "min_longitude": 160.5585766
+            "latitude": -9.0516057,
+            "longitude": 160.1693949,
+            "max_latitude": -8.84783,
+            "max_longitude": 160.4130619,
+            "min_latitude": -9.287286,
+            "min_longitude": 158.730864
         },
         "iso_3166_2": "SB-ML",
         "iso_a2": "SB",
         "iso_a3": "SLB",
-        "name": "Malaita",
+        "name": "Central",
         "postal": "ML",
         "type": "Province",
         "type_en": "Province"
     },
     "RB": {
         "alt_names": [
-            "Rennell and Bellona"
+            "Central"
         ],
         "cca2": "SB",
         "cca3": "SLB",
@@ -1104,24 +1104,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": -11.6131435,
+            "latitude": -9.0516057,
             "longitude": 160.1693949,
-            "max_latitude": -11.2732136,
-            "max_longitude": 160.5820945,
-            "min_latitude": -11.8505741,
-            "min_longitude": 159.7519747
+            "max_latitude": -8.84783,
+            "max_longitude": 160.4130619,
+            "min_latitude": -9.287286,
+            "min_longitude": 158.730864
         },
         "iso_3166_2": "SB-RB",
         "iso_a2": "SB",
         "iso_a3": "SLB",
-        "name": "Rennell and Bellona",
+        "name": "Central",
         "postal": "RB",
         "type": "Province",
         "type_en": "Province"
     },
     "TE": {
         "alt_names": [
-            "Eastern Islands"
+            "Central"
         ],
         "cca2": "SB",
         "cca3": "SLB",
@@ -1244,17 +1244,17 @@
             "woe_name": "Temotu"
         },
         "geo": {
-            "latitude": -10.686929,
-            "longitude": 166.0623979,
-            "max_latitude": -9.7597709,
-            "max_longitude": 168.8457699,
-            "min_latitude": -12.312529,
-            "min_longitude": 165.650482
+            "latitude": -9.0516057,
+            "longitude": 160.1693949,
+            "max_latitude": -8.84783,
+            "max_longitude": 160.4130619,
+            "min_latitude": -9.287286,
+            "min_longitude": 158.730864
         },
         "iso_3166_2": "SB-TE",
         "iso_a2": "SB",
         "iso_a3": "SLB",
-        "name": "Temotu",
+        "name": "Central",
         "postal": "TE",
         "type": "Province",
         "type_en": "Province"

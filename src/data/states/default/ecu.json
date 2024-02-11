@@ -141,7 +141,7 @@
     },
     "B": {
         "alt_names": [
-            "Bol\u00edvar"
+            "Azuay"
         ],
         "cca2": "EC",
         "cca3": "ECU",
@@ -264,24 +264,24 @@
             "woe_name": "Bolivar"
         },
         "geo": {
-            "latitude": -1.5696244,
+            "latitude": -2.9633245,
             "longitude": -79.1096901,
-            "max_latitude": -1.148095,
-            "max_longitude": -78.850479,
-            "min_latitude": -2.2034861,
-            "min_longitude": -79.4053569
+            "max_latitude": -2.55303,
+            "max_longitude": -78.43985,
+            "min_latitude": -3.620066,
+            "min_longitude": -79.760399
         },
         "iso_3166_2": "EC-B",
         "iso_a2": "EC",
         "iso_a3": "ECU",
-        "name": "Bol\u00edvar",
+        "name": "Azuay",
         "postal": "B",
         "type": "Provincia",
         "type_en": "Province"
     },
     "C": {
         "alt_names": [
-            "Carchi"
+            "Azuay"
         ],
         "cca2": "EC",
         "cca3": "ECU",
@@ -404,24 +404,24 @@
             "woe_name": "Carchi"
         },
         "geo": {
-            "latitude": 0.6625532,
-            "longitude": -78.0195387,
-            "max_latitude": 1.1878679,
-            "max_longitude": -77.5582881,
-            "min_latitude": 0.360788,
-            "min_longitude": -78.5505449
+            "latitude": -2.9633245,
+            "longitude": -79.1096901,
+            "max_latitude": -2.55303,
+            "max_longitude": -78.43985,
+            "min_latitude": -3.620066,
+            "min_longitude": -79.760399
         },
         "iso_3166_2": "EC-C",
         "iso_a2": "EC",
         "iso_a3": "ECU",
-        "name": "Carchi",
+        "name": "Azuay",
         "postal": "C",
         "type": "Provincia",
         "type_en": "Province"
     },
     "D": {
         "alt_names": [
-            "Orellana"
+            "Azuay"
         ],
         "cca2": "EC",
         "cca3": "ECU",
@@ -544,24 +544,24 @@
             "woe_name": "Orellana"
         },
         "geo": {
-            "latitude": -0.7112665,
-            "longitude": -77.1542684,
-            "max_latitude": -0.6898046,
-            "max_longitude": -77.1338939,
-            "min_latitude": -0.7265373,
-            "min_longitude": -77.181015
+            "latitude": -2.9633245,
+            "longitude": -79.1096901,
+            "max_latitude": -2.55303,
+            "max_longitude": -78.43985,
+            "min_latitude": -3.620066,
+            "min_longitude": -79.760399
         },
         "iso_3166_2": "EC-D",
         "iso_a2": "EC",
         "iso_a3": "ECU",
-        "name": "Orellana",
+        "name": "Azuay",
         "postal": "D",
         "type": "Provincia",
         "type_en": "Province"
     },
     "E": {
         "alt_names": [
-            "Esmeraldas"
+            "Azuay"
         ],
         "cca2": "EC",
         "cca3": "ECU",
@@ -684,24 +684,24 @@
             "woe_name": "Esmeraldas"
         },
         "geo": {
-            "latitude": 0.9681789,
-            "longitude": -79.6517202,
-            "max_latitude": 0.9975799,
-            "max_longitude": -79.6095084,
-            "min_latitude": 0.929291,
-            "min_longitude": -79.672122
+            "latitude": -2.9633245,
+            "longitude": -79.1096901,
+            "max_latitude": -2.55303,
+            "max_longitude": -78.43985,
+            "min_latitude": -3.620066,
+            "min_longitude": -79.760399
         },
         "iso_3166_2": "EC-E",
         "iso_a2": "EC",
         "iso_a3": "ECU",
-        "name": "Esmeraldas",
+        "name": "Azuay",
         "postal": "E",
         "type": "Provincia",
         "type_en": "Province"
     },
     "F": {
         "alt_names": [
-            "Ca\u00f1ar"
+            "Azuay"
         ],
         "cca2": "EC",
         "cca3": "ECU",
@@ -824,24 +824,24 @@
             "woe_name": "Ca\u00f1ar"
         },
         "geo": {
-            "latitude": -2.555695,
-            "longitude": -78.9344814,
-            "max_latitude": -2.5385129,
-            "max_longitude": -78.9242364,
-            "min_latitude": -2.5782558,
-            "min_longitude": -78.9535904
+            "latitude": -2.9633245,
+            "longitude": -79.1096901,
+            "max_latitude": -2.55303,
+            "max_longitude": -78.43985,
+            "min_latitude": -3.620066,
+            "min_longitude": -79.760399
         },
         "iso_3166_2": "EC-F",
         "iso_a2": "EC",
         "iso_a3": "ECU",
-        "name": "Ca\u00f1ar",
+        "name": "Azuay",
         "postal": "F",
         "type": "Provincia",
         "type_en": "Province"
     },
     "G": {
         "alt_names": [
-            "Guayas"
+            "Azuay"
         ],
         "cca2": "EC",
         "cca3": "ECU",
@@ -964,24 +964,24 @@
             "woe_name": "Guayas"
         },
         "geo": {
-            "latitude": -1.9574839,
-            "longitude": -79.9192702,
-            "max_latitude": -0.839573,
-            "max_longitude": -79.097282,
-            "min_latitude": -3.062438,
-            "min_longitude": -80.561928
+            "latitude": -2.9633245,
+            "longitude": -79.1096901,
+            "max_latitude": -2.55303,
+            "max_longitude": -78.43985,
+            "min_latitude": -3.620066,
+            "min_longitude": -79.760399
         },
         "iso_3166_2": "EC-G",
         "iso_a2": "EC",
         "iso_a3": "ECU",
-        "name": "Guayas",
+        "name": "Azuay",
         "postal": "G",
         "type": "Provincia",
         "type_en": "Province"
     },
     "H": {
         "alt_names": [
-            "Chimborazo"
+            "Azuay"
         ],
         "cca2": "EC",
         "cca3": "ECU",
@@ -1104,24 +1104,24 @@
             "woe_name": "Chimborazo"
         },
         "geo": {
-            "latitude": -1.4693018,
-            "longitude": -78.8169396,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": -2.9633245,
+            "longitude": -79.1096901,
+            "max_latitude": -2.55303,
+            "max_longitude": -78.43985,
+            "min_latitude": -3.620066,
+            "min_longitude": -79.760399
         },
         "iso_3166_2": "EC-H",
         "iso_a2": "EC",
         "iso_a3": "ECU",
-        "name": "Chimborazo",
+        "name": "Azuay",
         "postal": "H",
         "type": "Provincia",
         "type_en": "Province"
     },
     "I": {
         "alt_names": [
-            "Imbabura"
+            "Azuay"
         ],
         "cca2": "EC",
         "cca3": "ECU",
@@ -1244,24 +1244,24 @@
             "woe_name": "Imbabura"
         },
         "geo": {
-            "latitude": 0.367159,
-            "longitude": -78.3842227,
-            "max_latitude": 0.8569121,
-            "max_longitude": -77.828034,
-            "min_latitude": 0.125442,
-            "min_longitude": -79.230362
+            "latitude": -2.9633245,
+            "longitude": -79.1096901,
+            "max_latitude": -2.55303,
+            "max_longitude": -78.43985,
+            "min_latitude": -3.620066,
+            "min_longitude": -79.760399
         },
         "iso_3166_2": "EC-I",
         "iso_a2": "EC",
         "iso_a3": "ECU",
-        "name": "Imbabura",
+        "name": "Azuay",
         "postal": "I",
         "type": "Provincia",
         "type_en": "Province"
     },
     "L": {
         "alt_names": [
-            "Loja"
+            "Azuay"
         ],
         "cca2": "EC",
         "cca3": "ECU",
@@ -1384,24 +1384,24 @@
             "woe_name": "Loja"
         },
         "geo": {
-            "latitude": -3.983333,
-            "longitude": -79.2,
-            "max_latitude": -3.9635861,
-            "max_longitude": -79.1812133,
-            "min_latitude": -4.0516043,
-            "min_longitude": -79.2355442
+            "latitude": -2.9633245,
+            "longitude": -79.1096901,
+            "max_latitude": -2.55303,
+            "max_longitude": -78.43985,
+            "min_latitude": -3.620066,
+            "min_longitude": -79.760399
         },
         "iso_3166_2": "EC-L",
         "iso_a2": "EC",
         "iso_a3": "ECU",
-        "name": "Loja",
+        "name": "Azuay",
         "postal": "L",
         "type": "Provincia",
         "type_en": "Province"
     },
     "M": {
         "alt_names": [
-            "Manab\u00ed"
+            "Azuay"
         ],
         "cca2": "EC",
         "cca3": "ECU",
@@ -1524,24 +1524,24 @@
             "woe_name": "Manabi"
         },
         "geo": {
-            "latitude": -0.7416532,
-            "longitude": -79.9192702,
-            "max_latitude": 0.394737,
-            "max_longitude": -79.3954009,
-            "min_latitude": -1.92619,
-            "min_longitude": -81.0774715
+            "latitude": -2.9633245,
+            "longitude": -79.1096901,
+            "max_latitude": -2.55303,
+            "max_longitude": -78.43985,
+            "min_latitude": -3.620066,
+            "min_longitude": -79.760399
         },
         "iso_3166_2": "EC-M",
         "iso_a2": "EC",
         "iso_a3": "ECU",
-        "name": "Manab\u00ed",
+        "name": "Azuay",
         "postal": "M",
         "type": "Provincia",
         "type_en": "Province"
     },
     "N": {
         "alt_names": [
-            "Napo"
+            "Azuay"
         ],
         "cca2": "EC",
         "cca3": "ECU",
@@ -1664,24 +1664,24 @@
             "woe_name": "Napo"
         },
         "geo": {
-            "latitude": -0.7371233,
-            "longitude": -78.1108279,
-            "max_latitude": 0.036432,
-            "max_longitude": -77.049857,
-            "min_latitude": -1.273843,
-            "min_longitude": -78.410088
+            "latitude": -2.9633245,
+            "longitude": -79.1096901,
+            "max_latitude": -2.55303,
+            "max_longitude": -78.43985,
+            "min_latitude": -3.620066,
+            "min_longitude": -79.760399
         },
         "iso_3166_2": "EC-N",
         "iso_a2": "EC",
         "iso_a3": "ECU",
-        "name": "Napo",
+        "name": "Azuay",
         "postal": "N",
         "type": "Provincia",
         "type_en": "Province"
     },
     "O": {
         "alt_names": [
-            "El Oro"
+            "Azuay"
         ],
         "cca2": "EC",
         "cca3": "ECU",
@@ -1804,24 +1804,24 @@
             "woe_name": "El Oro"
         },
         "geo": {
-            "latitude": -3.4454787,
-            "longitude": -79.8296743,
-            "max_latitude": -3.0484269,
-            "max_longitude": -79.358108,
-            "min_latitude": -3.90139,
-            "min_longitude": -80.300346
+            "latitude": -2.9633245,
+            "longitude": -79.1096901,
+            "max_latitude": -2.55303,
+            "max_longitude": -78.43985,
+            "min_latitude": -3.620066,
+            "min_longitude": -79.760399
         },
         "iso_3166_2": "EC-O",
         "iso_a2": "EC",
         "iso_a3": "ECU",
-        "name": "El Oro",
+        "name": "Azuay",
         "postal": "O",
         "type": "Provincia",
         "type_en": "Province"
     },
     "P": {
         "alt_names": [
-            "Pichincha"
+            "Azuay"
         ],
         "cca2": "EC",
         "cca3": "ECU",
@@ -1944,24 +1944,24 @@
             "woe_name": "Pichincha"
         },
         "geo": {
-            "latitude": -0.1464847,
-            "longitude": -78.4751945,
-            "max_latitude": 0.344864,
-            "max_longitude": -77.835525,
-            "min_latitude": -0.714463,
-            "min_longitude": -79.368635
+            "latitude": -2.9633245,
+            "longitude": -79.1096901,
+            "max_latitude": -2.55303,
+            "max_longitude": -78.43985,
+            "min_latitude": -3.620066,
+            "min_longitude": -79.760399
         },
         "iso_3166_2": "EC-P",
         "iso_a2": "EC",
         "iso_a3": "ECU",
-        "name": "Pichincha",
+        "name": "Azuay",
         "postal": "P",
         "type": "Provincia",
         "type_en": "Province"
     },
     "R": {
         "alt_names": [
-            "Los R\u00edos"
+            "Azuay"
         ],
         "cca2": "EC",
         "cca3": "ECU",
@@ -2084,24 +2084,24 @@
             "woe_name": "Los Rios"
         },
         "geo": {
-            "latitude": -1.4191719,
-            "longitude": -79.4703885,
-            "max_latitude": -0.5303,
-            "max_longitude": -79.080353,
-            "min_latitude": -2.1302071,
-            "min_longitude": -79.8767999
+            "latitude": -2.9633245,
+            "longitude": -79.1096901,
+            "max_latitude": -2.55303,
+            "max_longitude": -78.43985,
+            "min_latitude": -3.620066,
+            "min_longitude": -79.760399
         },
         "iso_3166_2": "EC-R",
         "iso_a2": "EC",
         "iso_a3": "ECU",
-        "name": "Los R\u00edos",
+        "name": "Azuay",
         "postal": "R",
         "type": "Provincia",
         "type_en": "Province"
     },
     "S": {
         "alt_names": [
-            "Morona-Santiago"
+            "Azuay"
         ],
         "cca2": "EC",
         "cca3": "ECU",
@@ -2224,24 +2224,24 @@
             "woe_name": "Morona Santiago"
         },
         "geo": {
-            "latitude": -2.5628216,
-            "longitude": -78.1108279,
-            "max_latitude": -1.443362,
-            "max_longitude": -76.73909,
-            "min_latitude": -3.823733,
-            "min_longitude": -78.969154
+            "latitude": -2.9633245,
+            "longitude": -79.1096901,
+            "max_latitude": -2.55303,
+            "max_longitude": -78.43985,
+            "min_latitude": -3.620066,
+            "min_longitude": -79.760399
         },
         "iso_3166_2": "EC-S",
         "iso_a2": "EC",
         "iso_a3": "ECU",
-        "name": "Morona-Santiago",
+        "name": "Azuay",
         "postal": "S",
         "type": "Provincia",
         "type_en": "Province"
     },
     "SD": {
         "alt_names": [
-            ""
+            "Azuay"
         ],
         "cca2": "EC",
         "cca3": "ECU",
@@ -2364,20 +2364,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "-0.3483400000",
-            "longitude": "-79.2525000000"
+            "latitude": -2.9633245,
+            "longitude": -79.1096901,
+            "max_latitude": -2.55303,
+            "max_longitude": -78.43985,
+            "min_latitude": -3.620066,
+            "min_longitude": -79.760399
         },
         "iso_3166_2": "EC-SD",
         "iso_a2": "EC",
         "iso_a3": "ECU",
-        "name": "Santo Domingo de los Ts\u00e1chilas",
+        "name": "Azuay",
         "postal": "SD",
         "type": "Provincia",
         "type_en": "Province"
     },
     "SE": {
         "alt_names": [
-            "Santa Elena"
+            "Azuay"
         ],
         "cca2": "EC",
         "cca3": "ECU",
@@ -2500,24 +2504,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": -2.1934804,
-            "longitude": -80.543845,
-            "max_latitude": -1.647962,
-            "max_longitude": -80.2266889,
-            "min_latitude": -2.508378,
-            "min_longitude": -81.0067736
+            "latitude": -2.9633245,
+            "longitude": -79.1096901,
+            "max_latitude": -2.55303,
+            "max_longitude": -78.43985,
+            "min_latitude": -3.620066,
+            "min_longitude": -79.760399
         },
         "iso_3166_2": "EC-SE",
         "iso_a2": "EC",
         "iso_a3": "ECU",
-        "name": "Santa Elena",
+        "name": "Azuay",
         "postal": "SE",
         "type": "Provincia",
         "type_en": "Province"
     },
     "T": {
         "alt_names": [
-            "Tungurahua"
+            "Azuay"
         ],
         "cca2": "EC",
         "cca3": "ECU",
@@ -2640,24 +2644,24 @@
             "woe_name": "Tungurahua"
         },
         "geo": {
-            "latitude": -1.2635284,
-            "longitude": -78.5660852,
-            "max_latitude": -0.980301,
-            "max_longitude": -78.144211,
-            "min_latitude": -1.507969,
-            "min_longitude": -78.933952
+            "latitude": -2.9633245,
+            "longitude": -79.1096901,
+            "max_latitude": -2.55303,
+            "max_longitude": -78.43985,
+            "min_latitude": -3.620066,
+            "min_longitude": -79.760399
         },
         "iso_3166_2": "EC-T",
         "iso_a2": "EC",
         "iso_a3": "ECU",
-        "name": "Tungurahua",
+        "name": "Azuay",
         "postal": "T",
         "type": "Provincia",
         "type_en": "Province"
     },
     "U": {
         "alt_names": [
-            "Sucumb\u00edos"
+            "Azuay"
         ],
         "cca2": "EC",
         "cca3": "ECU",
@@ -2780,24 +2784,24 @@
             "woe_name": "Sucumbios"
         },
         "geo": {
-            "latitude": -0.1452276,
-            "longitude": -76.2710833,
-            "max_latitude": 0.651662,
-            "max_longitude": -75.2348859,
-            "min_latitude": -0.648883,
-            "min_longitude": -77.9738229
+            "latitude": -2.9633245,
+            "longitude": -79.1096901,
+            "max_latitude": -2.55303,
+            "max_longitude": -78.43985,
+            "min_latitude": -3.620066,
+            "min_longitude": -79.760399
         },
         "iso_3166_2": "EC-U",
         "iso_a2": "EC",
         "iso_a3": "ECU",
-        "name": "Sucumb\u00edos",
+        "name": "Azuay",
         "postal": "U",
         "type": "Provincia",
         "type_en": "Province"
     },
     "W": {
         "alt_names": [
-            "Gal\u00e1pagos"
+            "Azuay"
         ],
         "cca2": "EC",
         "cca3": "ECU",
@@ -2920,24 +2924,24 @@
             "woe_name": "Gal\u00e1pagos"
         },
         "geo": {
-            "latitude": -0.8292784,
-            "longitude": -90.9820668,
-            "max_latitude": 1.6815752,
-            "max_longitude": -89.2407955,
-            "min_latitude": -1.4115146,
-            "min_longitude": -92.0084893
+            "latitude": -2.9633245,
+            "longitude": -79.1096901,
+            "max_latitude": -2.55303,
+            "max_longitude": -78.43985,
+            "min_latitude": -3.620066,
+            "min_longitude": -79.760399
         },
         "iso_3166_2": "EC-W",
         "iso_a2": "EC",
         "iso_a3": "ECU",
-        "name": "Gal\u00e1pagos",
+        "name": "Azuay",
         "postal": "W",
         "type": "Provincia",
         "type_en": "Province"
     },
     "X": {
         "alt_names": [
-            "Cotopaxi"
+            "Azuay"
         ],
         "cca2": "EC",
         "cca3": "ECU",
@@ -3060,24 +3064,24 @@
             "woe_name": "Cotopaxi"
         },
         "geo": {
-            "latitude": -0.8139667,
-            "longitude": -78.9288242,
-            "max_latitude": -0.324243,
-            "max_longitude": -78.370667,
-            "min_latitude": -1.2108109,
-            "min_longitude": -79.329689
+            "latitude": -2.9633245,
+            "longitude": -79.1096901,
+            "max_latitude": -2.55303,
+            "max_longitude": -78.43985,
+            "min_latitude": -3.620066,
+            "min_longitude": -79.760399
         },
         "iso_3166_2": "EC-X",
         "iso_a2": "EC",
         "iso_a3": "ECU",
-        "name": "Cotopaxi",
+        "name": "Azuay",
         "postal": "X",
         "type": "Provincia",
         "type_en": "Province"
     },
     "Y": {
         "alt_names": [
-            "Pastaza"
+            "Azuay"
         ],
         "cca2": "EC",
         "cca3": "ECU",
@@ -3200,24 +3204,24 @@
             "woe_name": "Pastaza"
         },
         "geo": {
-            "latitude": -1.6332034,
-            "longitude": -77.010385,
-            "max_latitude": -1.083427,
-            "max_longitude": -75.576691,
-            "min_latitude": -2.6300901,
-            "min_longitude": -78.3036751
+            "latitude": -2.9633245,
+            "longitude": -79.1096901,
+            "max_latitude": -2.55303,
+            "max_longitude": -78.43985,
+            "min_latitude": -3.620066,
+            "min_longitude": -79.760399
         },
         "iso_3166_2": "EC-Y",
         "iso_a2": "EC",
         "iso_a3": "ECU",
-        "name": "Pastaza",
+        "name": "Azuay",
         "postal": "Y",
         "type": "Provincia",
         "type_en": "Province"
     },
     "Z": {
         "alt_names": [
-            "Zamora-Chinchipe"
+            "Azuay"
         ],
         "cca2": "EC",
         "cca3": "ECU",
@@ -3340,17 +3344,17 @@
             "woe_name": "Zamora Chinchipe"
         },
         "geo": {
-            "latitude": -4.1535434,
-            "longitude": -78.8382644,
-            "max_latitude": -3.3357891,
-            "max_longitude": -78.3993,
-            "min_latitude": -4.998823,
-            "min_longitude": -79.427795
+            "latitude": -2.9633245,
+            "longitude": -79.1096901,
+            "max_latitude": -2.55303,
+            "max_longitude": -78.43985,
+            "min_latitude": -3.620066,
+            "min_longitude": -79.760399
         },
         "iso_3166_2": "EC-Z",
         "iso_a2": "EC",
         "iso_a3": "ECU",
-        "name": "Zamora-Chinchipe",
+        "name": "Azuay",
         "postal": "Z",
         "type": "Provincia",
         "type_en": "Province"

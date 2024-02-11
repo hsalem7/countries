@@ -141,8 +141,7 @@
     },
     "39": {
         "alt_names": [
-            "Dagden",
-            "Dag\u00f6"
+            "Harjumaa"
         ],
         "cca2": "EE",
         "cca3": "EST",
@@ -265,24 +264,24 @@
             "woe_name": "Hiiu"
         },
         "geo": {
-            "latitude": 58.9239553,
-            "longitude": 22.5919468,
-            "max_latitude": 59.0929408,
-            "max_longitude": 23.1801319,
-            "min_latitude": 58.6870921,
-            "min_longitude": 22.0388167
+            "latitude": 59.3334239,
+            "longitude": 25.2466973,
+            "max_latitude": 59.6857026,
+            "max_longitude": 25.9551028,
+            "min_latitude": 58.989357,
+            "min_longitude": 23.7301295
         },
         "iso_3166_2": "EE-39",
         "iso_a2": "EE",
         "iso_a3": "EST",
-        "name": "Hiiumaa",
+        "name": "Harjumaa",
         "postal": "39",
         "type": "Maakond",
         "type_en": "County"
     },
     "44": {
         "alt_names": [
-            "Ida-Virumaa"
+            "Harjumaa"
         ],
         "cca2": "EE",
         "cca3": "EST",
@@ -405,24 +404,24 @@
             "woe_name": "Ida-Viru"
         },
         "geo": {
-            "latitude": 59.2592663,
-            "longitude": 27.4136535,
-            "max_latitude": 59.5005651,
-            "max_longitude": 28.2090051,
-            "min_latitude": 58.865638,
-            "min_longitude": 26.7023311
+            "latitude": 59.3334239,
+            "longitude": 25.2466973,
+            "max_latitude": 59.6857026,
+            "max_longitude": 25.9551028,
+            "min_latitude": 58.989357,
+            "min_longitude": 23.7301295
         },
         "iso_3166_2": "EE-44",
         "iso_a2": "EE",
         "iso_a3": "EST",
-        "name": "Ida-Virumaa",
+        "name": "Harjumaa",
         "postal": "44",
         "type": "Maakond",
         "type_en": "County"
     },
     "49": {
         "alt_names": [
-            "Jogevamaa"
+            "Harjumaa"
         ],
         "cca2": "EE",
         "cca3": "EST",
@@ -545,24 +544,24 @@
             "woe_name": "J\u00f5geva"
         },
         "geo": {
-            "latitude": 58.6947229,
-            "longitude": 26.3902301,
-            "max_latitude": 58.968922,
-            "max_longitude": 27.1633907,
-            "min_latitude": 58.4708678,
-            "min_longitude": 25.750229
+            "latitude": 59.3334239,
+            "longitude": 25.2466973,
+            "max_latitude": 59.6857026,
+            "max_longitude": 25.9551028,
+            "min_latitude": 58.989357,
+            "min_longitude": 23.7301295
         },
         "iso_3166_2": "EE-49",
         "iso_a2": "EE",
         "iso_a3": "EST",
-        "name": "J\u00f5gevamaa",
+        "name": "Harjumaa",
         "postal": "49",
         "type": "Maakond",
         "type_en": "County"
     },
     "51": {
         "alt_names": [
-            "J\u00e4rvamaa"
+            "Harjumaa"
         ],
         "cca2": "EE",
         "cca3": "EST",
@@ -685,24 +684,24 @@
             "woe_name": "J\u00e4rva"
         },
         "geo": {
-            "latitude": 58.8866713,
-            "longitude": 25.5000625,
-            "max_latitude": 59.2696539,
-            "max_longitude": 26.1688011,
-            "min_latitude": 58.6061109,
-            "min_longitude": 25.1950171
+            "latitude": 59.3334239,
+            "longitude": 25.2466973,
+            "max_latitude": 59.6857026,
+            "max_longitude": 25.9551028,
+            "min_latitude": 58.989357,
+            "min_longitude": 23.7301295
         },
         "iso_3166_2": "EE-51",
         "iso_a2": "EE",
         "iso_a3": "EST",
-        "name": "J\u00e4rvamaa",
+        "name": "Harjumaa",
         "postal": "51",
         "type": "Maakond",
         "type_en": "County"
     },
     "57": {
         "alt_names": [
-            "L\u00e4\u00e4nemaa"
+            "Harjumaa"
         ],
         "cca2": "EE",
         "cca3": "EST",
@@ -825,24 +824,24 @@
             "woe_name": "L\u00e4\u00e4ne"
         },
         "geo": {
-            "latitude": 58.8907185,
-            "longitude": 23.7925806,
-            "max_latitude": 59.304363,
-            "max_longitude": 24.1925961,
-            "min_latitude": 58.534504,
-            "min_longitude": 23.0778348
+            "latitude": 59.3334239,
+            "longitude": 25.2466973,
+            "max_latitude": 59.6857026,
+            "max_longitude": 25.9551028,
+            "min_latitude": 58.989357,
+            "min_longitude": 23.7301295
         },
         "iso_3166_2": "EE-57",
         "iso_a2": "EE",
         "iso_a3": "EST",
-        "name": "L\u00e4\u00e4nemaa",
+        "name": "Harjumaa",
         "postal": "57",
         "type": "Maakond",
         "type_en": "County"
     },
     "59": {
         "alt_names": [
-            "L\u00e4\u00e4ne-Virumaa"
+            "Harjumaa"
         ],
         "cca2": "EE",
         "cca3": "EST",
@@ -965,24 +964,24 @@
             "woe_name": "L\u00e4\u00e4ne-Viru"
         },
         "geo": {
-            "latitude": 59.3018816,
-            "longitude": 26.3280312,
-            "max_latitude": 59.822016,
-            "max_longitude": 26.9527359,
-            "min_latitude": 58.8769299,
-            "min_longitude": 25.5363979
+            "latitude": 59.3334239,
+            "longitude": 25.2466973,
+            "max_latitude": 59.6857026,
+            "max_longitude": 25.9551028,
+            "min_latitude": 58.989357,
+            "min_longitude": 23.7301295
         },
         "iso_3166_2": "EE-59",
         "iso_a2": "EE",
         "iso_a3": "EST",
-        "name": "L\u00e4\u00e4ne-Virumaa",
+        "name": "Harjumaa",
         "postal": "59",
         "type": "Maakond",
         "type_en": "County"
     },
     "65": {
         "alt_names": [
-            "Polvamaa"
+            "Harjumaa"
         ],
         "cca2": "EE",
         "cca3": "EST",
@@ -1105,24 +1104,24 @@
             "woe_name": "P\u00f5lva"
         },
         "geo": {
-            "latitude": 58.1160622,
-            "longitude": 27.2066395,
-            "max_latitude": 58.2682399,
-            "max_longitude": 27.8189979,
-            "min_latitude": 57.817408,
-            "min_longitude": 26.566258
+            "latitude": 59.3334239,
+            "longitude": 25.2466973,
+            "max_latitude": 59.6857026,
+            "max_longitude": 25.9551028,
+            "min_latitude": 58.989357,
+            "min_longitude": 23.7301295
         },
         "iso_3166_2": "EE-65",
         "iso_a2": "EE",
         "iso_a3": "EST",
-        "name": "P\u00f5lvamaa",
+        "name": "Harjumaa",
         "postal": "65",
         "type": "Maakond",
         "type_en": "County"
     },
     "67": {
         "alt_names": [
-            "P\u00e4rnumaa"
+            "Harjumaa"
         ],
         "cca2": "EE",
         "cca3": "EST",
@@ -1245,24 +1244,24 @@
             "woe_name": "P\u00e4rnu"
         },
         "geo": {
-            "latitude": 58.4663443,
-            "longitude": 24.69612,
-            "max_latitude": 58.7569807,
-            "max_longitude": 25.3071801,
-            "min_latitude": 57.8645448,
-            "min_longitude": 23.6090122
+            "latitude": 59.3334239,
+            "longitude": 25.2466973,
+            "max_latitude": 59.6857026,
+            "max_longitude": 25.9551028,
+            "min_latitude": 58.989357,
+            "min_longitude": 23.7301295
         },
         "iso_3166_2": "EE-67",
         "iso_a2": "EE",
         "iso_a3": "EST",
-        "name": "P\u00e4rnumaa",
+        "name": "Harjumaa",
         "postal": "67",
         "type": "Maakond",
         "type_en": "County"
     },
     "70": {
         "alt_names": [
-            "Raplamaa"
+            "Harjumaa"
         ],
         "cca2": "EE",
         "cca3": "EST",
@@ -1385,25 +1384,24 @@
             "woe_name": "Rapla"
         },
         "geo": {
-            "latitude": 58.8492625,
-            "longitude": 24.7346568,
-            "max_latitude": 59.2279841,
-            "max_longitude": 25.3339442,
-            "min_latitude": 58.655561,
-            "min_longitude": 24.0706308
+            "latitude": 59.3334239,
+            "longitude": 25.2466973,
+            "max_latitude": 59.6857026,
+            "max_longitude": 25.9551028,
+            "min_latitude": 58.989357,
+            "min_longitude": 23.7301295
         },
         "iso_3166_2": "EE-70",
         "iso_a2": "EE",
         "iso_a3": "EST",
-        "name": "Raplamaa",
+        "name": "Harjumaa",
         "postal": "70",
         "type": "Maakond",
         "type_en": "County"
     },
     "74": {
         "alt_names": [
-            "Saare",
-            "\u00d6sel"
+            "Harjumaa"
         ],
         "cca2": "EE",
         "cca3": "EST",
@@ -1526,24 +1524,24 @@
             "woe_name": "Saare"
         },
         "geo": {
-            "latitude": 58.4849721,
-            "longitude": 22.6136407,
-            "max_latitude": 58.6421245,
-            "max_longitude": 23.328579,
-            "min_latitude": 57.9044003,
-            "min_longitude": 21.8281004
+            "latitude": 59.3334239,
+            "longitude": 25.2466973,
+            "max_latitude": 59.6857026,
+            "max_longitude": 25.9551028,
+            "min_latitude": 58.989357,
+            "min_longitude": 23.7301295
         },
         "iso_3166_2": "EE-74",
         "iso_a2": "EE",
         "iso_a3": "EST",
-        "name": "Saaremaa",
+        "name": "Harjumaa",
         "postal": "74",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "78": {
         "alt_names": [
-            "Tartumaa"
+            "Harjumaa"
         ],
         "cca2": "EE",
         "cca3": "EST",
@@ -1666,24 +1664,24 @@
             "woe_name": "Tartu"
         },
         "geo": {
-            "latitude": 58.4057128,
-            "longitude": 26.8015761,
-            "max_latitude": 58.682793,
-            "max_longitude": 27.5323021,
-            "min_latitude": 58.113041,
-            "min_longitude": 26.078548
+            "latitude": 59.3334239,
+            "longitude": 25.2466973,
+            "max_latitude": 59.6857026,
+            "max_longitude": 25.9551028,
+            "min_latitude": 58.989357,
+            "min_longitude": 23.7301295
         },
         "iso_3166_2": "EE-78",
         "iso_a2": "EE",
         "iso_a3": "EST",
-        "name": "Tartumaa",
+        "name": "Harjumaa",
         "postal": "78",
         "type": "Maakond",
         "type_en": "County"
     },
     "82": {
         "alt_names": [
-            "Valgamaa"
+            "Harjumaa"
         ],
         "cca2": "EE",
         "cca3": "EST",
@@ -1806,24 +1804,24 @@
             "woe_name": "Valga"
         },
         "geo": {
-            "latitude": 57.9103441,
-            "longitude": 26.1601819,
-            "max_latitude": 58.184323,
-            "max_longitude": 26.6250823,
-            "min_latitude": 57.5722349,
-            "min_longitude": 25.5805171
+            "latitude": 59.3334239,
+            "longitude": 25.2466973,
+            "max_latitude": 59.6857026,
+            "max_longitude": 25.9551028,
+            "min_latitude": 58.989357,
+            "min_longitude": 23.7301295
         },
         "iso_3166_2": "EE-82",
         "iso_a2": "EE",
         "iso_a3": "EST",
-        "name": "Valgamaa",
+        "name": "Harjumaa",
         "postal": "82",
         "type": "Maakond",
         "type_en": "County"
     },
     "84": {
         "alt_names": [
-            "Viljandimaa"
+            "Harjumaa"
         ],
         "cca2": "EE",
         "cca3": "EST",
@@ -1946,24 +1944,24 @@
             "woe_name": "Viljandi"
         },
         "geo": {
-            "latitude": 58.2821746,
-            "longitude": 25.5752233,
-            "max_latitude": 58.690117,
-            "max_longitude": 26.190842,
-            "min_latitude": 57.9559418,
-            "min_longitude": 24.9719397
+            "latitude": 59.3334239,
+            "longitude": 25.2466973,
+            "max_latitude": 59.6857026,
+            "max_longitude": 25.9551028,
+            "min_latitude": 58.989357,
+            "min_longitude": 23.7301295
         },
         "iso_3166_2": "EE-84",
         "iso_a2": "EE",
         "iso_a3": "EST",
-        "name": "Viljandimaa",
+        "name": "Harjumaa",
         "postal": "84",
         "type": "Maakond",
         "type_en": "County"
     },
     "86": {
         "alt_names": [
-            "Vorumaa"
+            "Harjumaa"
         ],
         "cca2": "EE",
         "cca3": "EST",
@@ -2086,17 +2084,17 @@
             "woe_name": "V\u00f5ru"
         },
         "geo": {
-            "latitude": 57.8038107,
-            "longitude": 26.8524025,
-            "max_latitude": 57.9571869,
-            "max_longitude": 27.554923,
-            "min_latitude": 57.509316,
-            "min_longitude": 26.3708779
+            "latitude": 59.3334239,
+            "longitude": 25.2466973,
+            "max_latitude": 59.6857026,
+            "max_longitude": 25.9551028,
+            "min_latitude": 58.989357,
+            "min_longitude": 23.7301295
         },
         "iso_3166_2": "EE-86",
         "iso_a2": "EE",
         "iso_a3": "EST",
-        "name": "V\u00f5rumaa",
+        "name": "Harjumaa",
         "postal": "86",
         "type": "Maakond",
         "type_en": "County"

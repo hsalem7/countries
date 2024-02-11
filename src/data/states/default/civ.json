@@ -141,7 +141,7 @@
     },
     "02": {
         "alt_names": [
-            "Haut-Sassandra (R\u00e9gion du)"
+            "Lagunes (R\u00e9gion des)"
         ],
         "cca2": "CI",
         "cca3": "CIV",
@@ -264,24 +264,24 @@
             "woe_name": "Haut-Sassandra"
         },
         "geo": {
-            "latitude": 6.8757848,
-            "longitude": -6.5783387,
-            "max_latitude": 7.791552,
-            "max_longitude": -5.9337941,
-            "min_latitude": 6.2390881,
-            "min_longitude": -7.0862301
+            "latitude": 5.4611461,
+            "longitude": -4.479976,
+            "max_latitude": 6.3856509,
+            "max_longitude": -3.4372559,
+            "min_latitude": 5.0976833,
+            "min_longitude": -5.451649
         },
         "iso_3166_2": "CI-02",
         "iso_a2": "CI",
         "iso_a3": "CIV",
-        "name": "Haut-Sassandra (R\u00e9gion du)",
+        "name": "Lagunes (R\u00e9gion des)",
         "postal": "02",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "03": {
         "alt_names": [
-            "Savanes (R\u00e9gion des)"
+            "Lagunes (R\u00e9gion des)"
         ],
         "cca2": "CI",
         "cca3": "CIV",
@@ -404,24 +404,24 @@
             "woe_name": "Savanes"
         },
         "geo": {
-            "latitude": 9.6783614,
-            "longitude": -5.5617279,
-            "max_latitude": 10.736642,
-            "max_longitude": -3.781529,
-            "min_latitude": 8.5461139,
-            "min_longitude": -6.9397169
+            "latitude": 5.4611461,
+            "longitude": -4.479976,
+            "max_latitude": 6.3856509,
+            "max_longitude": -3.4372559,
+            "min_latitude": 5.0976833,
+            "min_longitude": -5.451649
         },
         "iso_3166_2": "CI-03",
         "iso_a2": "CI",
         "iso_a3": "CIV",
-        "name": "Savanes (R\u00e9gion des)",
+        "name": "Lagunes (R\u00e9gion des)",
         "postal": "03",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "04": {
         "alt_names": [
-            "Vall\u00e9e du Bandama (R\u00e9gion de la)"
+            "Lagunes (R\u00e9gion des)"
         ],
         "cca2": "CI",
         "cca3": "CIV",
@@ -544,24 +544,24 @@
             "woe_name": "Vall\u00e9e du Bandama"
         },
         "geo": {
-            "latitude": 8.278978,
-            "longitude": -4.8935627,
-            "max_latitude": 9.3980309,
-            "max_longitude": -3.90265,
-            "min_latitude": 7.222045,
-            "min_longitude": -5.787452
+            "latitude": 5.4611461,
+            "longitude": -4.479976,
+            "max_latitude": 6.3856509,
+            "max_longitude": -3.4372559,
+            "min_latitude": 5.0976833,
+            "min_longitude": -5.451649
         },
         "iso_3166_2": "CI-04",
         "iso_a2": "CI",
         "iso_a3": "CIV",
-        "name": "Vall\u00e9e du Bandama (R\u00e9gion de la)",
+        "name": "Lagunes (R\u00e9gion des)",
         "postal": "04",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "05": {
         "alt_names": [
-            "Moyen-Como\u00e9 (R\u00e9gion du)"
+            "Lagunes (R\u00e9gion des)"
         ],
         "cca2": "CI",
         "cca3": "CIV",
@@ -684,24 +684,24 @@
             "woe_name": "Moyen-Como\u00e9"
         },
         "geo": {
-            "latitude": 6.7419877,
-            "longitude": -3.5073638,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 5.4611461,
+            "longitude": -4.479976,
+            "max_latitude": 6.3856509,
+            "max_longitude": -3.4372559,
+            "min_latitude": 5.0976833,
+            "min_longitude": -5.451649
         },
         "iso_3166_2": "CI-05",
         "iso_a2": "CI",
         "iso_a3": "CIV",
-        "name": "Moyen-Como\u00e9 (R\u00e9gion du)",
+        "name": "Lagunes (R\u00e9gion des)",
         "postal": "05",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "06": {
         "alt_names": [
-            "18 Montagnes (R\u00e9gion des)"
+            "Lagunes (R\u00e9gion des)"
         ],
         "cca2": "CI",
         "cca3": "CIV",
@@ -824,24 +824,24 @@
             "woe_name": "Dix-Huit Montagnes"
         },
         "geo": {
-            "latitude": 7.3762373,
-            "longitude": -7.4381355,
-            "max_latitude": 8.1423519,
-            "max_longitude": -6.978052,
-            "min_latitude": 6.577452,
-            "min_longitude": -8.472179
+            "latitude": 5.4611461,
+            "longitude": -4.479976,
+            "max_latitude": 6.3856509,
+            "max_longitude": -3.4372559,
+            "min_latitude": 5.0976833,
+            "min_longitude": -5.451649
         },
         "iso_3166_2": "CI-06",
         "iso_a2": "CI",
         "iso_a3": "CIV",
-        "name": "18 Montagnes (R\u00e9gion des)",
+        "name": "Lagunes (R\u00e9gion des)",
         "postal": "06",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "07": {
         "alt_names": [
-            "Lacs (R\u00e9gion des)"
+            "Lagunes (R\u00e9gion des)"
         ],
         "cca2": "CI",
         "cca3": "CIV",
@@ -964,24 +964,24 @@
             "woe_name": "Lacs"
         },
         "geo": {
-            "latitude": 6.8924144,
-            "longitude": -5.2266675,
-            "max_latitude": 7.549775,
-            "max_longitude": -4.618318,
-            "min_latitude": 6.2271769,
-            "min_longitude": -5.6588403
+            "latitude": 5.4611461,
+            "longitude": -4.479976,
+            "max_latitude": 6.3856509,
+            "max_longitude": -3.4372559,
+            "min_latitude": 5.0976833,
+            "min_longitude": -5.451649
         },
         "iso_3166_2": "CI-07",
         "iso_a2": "CI",
         "iso_a3": "CIV",
-        "name": "Lacs (R\u00e9gion des)",
+        "name": "Lagunes (R\u00e9gion des)",
         "postal": "07",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "08": {
         "alt_names": [
-            "Zanzan (R\u00e9gion du)"
+            "Lagunes (R\u00e9gion des)"
         ],
         "cca2": "CI",
         "cca3": "CIV",
@@ -1104,24 +1104,24 @@
             "woe_name": "Zanzan"
         },
         "geo": {
-            "latitude": 8.8207904,
-            "longitude": -3.4195527,
-            "max_latitude": 9.9571341,
-            "max_longitude": -2.494897,
-            "min_latitude": 7.059156,
-            "min_longitude": -4.318694
+            "latitude": 5.4611461,
+            "longitude": -4.479976,
+            "max_latitude": 6.3856509,
+            "max_longitude": -3.4372559,
+            "min_latitude": 5.0976833,
+            "min_longitude": -5.451649
         },
         "iso_3166_2": "CI-08",
         "iso_a2": "CI",
         "iso_a3": "CIV",
-        "name": "Zanzan (R\u00e9gion du)",
+        "name": "Lagunes (R\u00e9gion des)",
         "postal": "08",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "09": {
         "alt_names": [
-            "Bas-Sassandra (R\u00e9gion du)"
+            "Lagunes (R\u00e9gion des)"
         ],
         "cca2": "CI",
         "cca3": "CIV",
@@ -1244,24 +1244,24 @@
             "woe_name": "Bas-Sassandra"
         },
         "geo": {
-            "latitude": 5.7841299,
-            "longitude": -6.5957329,
-            "max_latitude": 5.7842469,
-            "max_longitude": -6.5954098,
-            "min_latitude": 5.7840332,
-            "min_longitude": -6.5960402
+            "latitude": 5.4611461,
+            "longitude": -4.479976,
+            "max_latitude": 6.3856509,
+            "max_longitude": -3.4372559,
+            "min_latitude": 5.0976833,
+            "min_longitude": -5.451649
         },
         "iso_3166_2": "CI-09",
         "iso_a2": "CI",
         "iso_a3": "CIV",
-        "name": "Bas-Sassandra (R\u00e9gion du)",
+        "name": "Lagunes (R\u00e9gion des)",
         "postal": "09",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "10": {
         "alt_names": [
-            "Dengu\u00e9l\u00e9 (R\u00e9gion du)"
+            "Lagunes (R\u00e9gion des)"
         ],
         "cca2": "CI",
         "cca3": "CIV",
@@ -1384,24 +1384,24 @@
             "woe_name": "Dengu\u00e9l\u00e9"
         },
         "geo": {
-            "latitude": 9.4662372,
-            "longitude": -7.4381355,
-            "max_latitude": 10.4881189,
-            "max_longitude": -6.570769,
-            "min_latitude": 8.5732291,
-            "min_longitude": -8.1668441
+            "latitude": 5.4611461,
+            "longitude": -4.479976,
+            "max_latitude": 6.3856509,
+            "max_longitude": -3.4372559,
+            "min_latitude": 5.0976833,
+            "min_longitude": -5.451649
         },
         "iso_3166_2": "CI-10",
         "iso_a2": "CI",
         "iso_a3": "CIV",
-        "name": "Dengu\u00e9l\u00e9 (R\u00e9gion du)",
+        "name": "Lagunes (R\u00e9gion des)",
         "postal": "10",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "11": {
         "alt_names": [
-            "Nzi-Como\u00e9 (R\u00e9gion)"
+            "Lagunes (R\u00e9gion des)"
         ],
         "cca2": "CI",
         "cca3": "CIV",
@@ -1524,24 +1524,24 @@
             "woe_name": "N'zi-Como\u00e9"
         },
         "geo": {
-            "latitude": 7.2456749,
-            "longitude": -4.2333355,
-            "max_latitude": 8.0401179,
-            "max_longitude": -3.5027291,
-            "min_latitude": 6.168739,
-            "min_longitude": -4.976705
+            "latitude": 5.4611461,
+            "longitude": -4.479976,
+            "max_latitude": 6.3856509,
+            "max_longitude": -3.4372559,
+            "min_latitude": 5.0976833,
+            "min_longitude": -5.451649
         },
         "iso_3166_2": "CI-11",
         "iso_a2": "CI",
         "iso_a3": "CIV",
-        "name": "Nzi-Como\u00e9 (R\u00e9gion)",
+        "name": "Lagunes (R\u00e9gion des)",
         "postal": "11",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "12": {
         "alt_names": [
-            "Marahou\u00e9 (R\u00e9gion de la)"
+            "Lagunes (R\u00e9gion des)"
         ],
         "cca2": "CI",
         "cca3": "CIV",
@@ -1664,24 +1664,24 @@
             "woe_name": "Marahou\u00e9"
         },
         "geo": {
-            "latitude": 6.8846207,
-            "longitude": -5.8987139,
-            "max_latitude": 7.7434321,
-            "max_longitude": -5.4057449,
-            "min_latitude": 6.474551,
-            "min_longitude": -6.4365789
+            "latitude": 5.4611461,
+            "longitude": -4.479976,
+            "max_latitude": 6.3856509,
+            "max_longitude": -3.4372559,
+            "min_latitude": 5.0976833,
+            "min_longitude": -5.451649
         },
         "iso_3166_2": "CI-12",
         "iso_a2": "CI",
         "iso_a3": "CIV",
-        "name": "Marahou\u00e9 (R\u00e9gion de la)",
+        "name": "Lagunes (R\u00e9gion des)",
         "postal": "12",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "13": {
         "alt_names": [
-            "Sud-Como\u00e9 (R\u00e9gion du)"
+            "Lagunes (R\u00e9gion des)"
         ],
         "cca2": "CI",
         "cca3": "CIV",
@@ -1804,24 +1804,24 @@
             "woe_name": "Sud-Como\u00e9"
         },
         "geo": {
-            "latitude": 5.552793,
-            "longitude": -3.2583626,
-            "max_latitude": 6.244889,
-            "max_longitude": -2.72626,
-            "min_latitude": 5.079289,
-            "min_longitude": -3.8061131
+            "latitude": 5.4611461,
+            "longitude": -4.479976,
+            "max_latitude": 6.3856509,
+            "max_longitude": -3.4372559,
+            "min_latitude": 5.0976833,
+            "min_longitude": -5.451649
         },
         "iso_3166_2": "CI-13",
         "iso_a2": "CI",
         "iso_a3": "CIV",
-        "name": "Sud-Como\u00e9 (R\u00e9gion du)",
+        "name": "Lagunes (R\u00e9gion des)",
         "postal": "13",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "14": {
         "alt_names": [
-            "Worodougou (R\u00e9gion du)"
+            "Lagunes (R\u00e9gion des)"
         ],
         "cca2": "CI",
         "cca3": "CIV",
@@ -1944,24 +1944,24 @@
             "woe_name": "Worodougou"
         },
         "geo": {
-            "latitude": 8.2548962,
-            "longitude": -6.5783387,
-            "max_latitude": 9.2131161,
-            "max_longitude": -5.3440999,
-            "min_latitude": 7.626987,
-            "min_longitude": -7.2327379
+            "latitude": 5.4611461,
+            "longitude": -4.479976,
+            "max_latitude": 6.3856509,
+            "max_longitude": -3.4372559,
+            "min_latitude": 5.0976833,
+            "min_longitude": -5.451649
         },
         "iso_3166_2": "CI-14",
         "iso_a2": "CI",
         "iso_a3": "CIV",
-        "name": "Worodougou (R\u00e9gion du)",
+        "name": "Lagunes (R\u00e9gion des)",
         "postal": "14",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "15": {
         "alt_names": [
-            "Sud-Bandama (R\u00e9gion du)"
+            "Lagunes (R\u00e9gion des)"
         ],
         "cca2": "CI",
         "cca3": "CIV",
@@ -2084,24 +2084,24 @@
             "woe_name": "Sud-Bandama"
         },
         "geo": {
-            "latitude": 5.5357083,
-            "longitude": -5.5617279,
-            "max_latitude": 6.2457021,
-            "max_longitude": -4.917969,
-            "min_latitude": 5.0320867,
-            "min_longitude": -6.0445639
+            "latitude": 5.4611461,
+            "longitude": -4.479976,
+            "max_latitude": 6.3856509,
+            "max_longitude": -3.4372559,
+            "min_latitude": 5.0976833,
+            "min_longitude": -5.451649
         },
         "iso_3166_2": "CI-15",
         "iso_a2": "CI",
         "iso_a3": "CIV",
-        "name": "Sud-Bandama (R\u00e9gion du)",
+        "name": "Lagunes (R\u00e9gion des)",
         "postal": "15",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "16": {
         "alt_names": [
-            "Agn\u00e9bi (R\u00e9gion de l')"
+            "Lagunes (R\u00e9gion des)"
         ],
         "cca2": "CI",
         "cca3": "CIV",
@@ -2224,24 +2224,24 @@
             "woe_name": "Agn\u00e9by"
         },
         "geo": {
-            "latitude": null,
-            "longitude": null,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 5.4611461,
+            "longitude": -4.479976,
+            "max_latitude": 6.3856509,
+            "max_longitude": -3.4372559,
+            "min_latitude": 5.0976833,
+            "min_longitude": -5.451649
         },
         "iso_3166_2": "CI-16",
         "iso_a2": "CI",
         "iso_a3": "CIV",
-        "name": "Agn\u00e9bi (R\u00e9gion de l')",
+        "name": "Lagunes (R\u00e9gion des)",
         "postal": "16",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "17": {
         "alt_names": [
-            "Bafing (R\u00e9gion du)"
+            "Lagunes (R\u00e9gion des)"
         ],
         "cca2": "CI",
         "cca3": "CIV",
@@ -2364,24 +2364,24 @@
             "woe_name": "Bafing"
         },
         "geo": {
-            "latitude": 8.3252047,
-            "longitude": -7.5247243,
-            "max_latitude": 9.082188,
-            "max_longitude": -7.0659409,
-            "min_latitude": 7.830135,
-            "min_longitude": -8.248767
+            "latitude": 5.4611461,
+            "longitude": -4.479976,
+            "max_latitude": 6.3856509,
+            "max_longitude": -3.4372559,
+            "min_latitude": 5.0976833,
+            "min_longitude": -5.451649
         },
         "iso_3166_2": "CI-17",
         "iso_a2": "CI",
         "iso_a3": "CIV",
-        "name": "Bafing (R\u00e9gion du)",
+        "name": "Lagunes (R\u00e9gion des)",
         "postal": "17",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "18": {
         "alt_names": [
-            "Fromager (R\u00e9gion du)"
+            "Lagunes (R\u00e9gion des)"
         ],
         "cca2": "CI",
         "cca3": "CIV",
@@ -2504,24 +2504,24 @@
             "woe_name": "Fromager"
         },
         "geo": {
-            "latitude": 6.2903418,
-            "longitude": -5.8142885,
-            "max_latitude": 6.6425311,
-            "max_longitude": -5.204736,
-            "min_latitude": 5.671126,
-            "min_longitude": -6.4061419
+            "latitude": 5.4611461,
+            "longitude": -4.479976,
+            "max_latitude": 6.3856509,
+            "max_longitude": -3.4372559,
+            "min_latitude": 5.0976833,
+            "min_longitude": -5.451649
         },
         "iso_3166_2": "CI-18",
         "iso_a2": "CI",
         "iso_a3": "CIV",
-        "name": "Fromager (R\u00e9gion du)",
+        "name": "Lagunes (R\u00e9gion des)",
         "postal": "18",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "19": {
         "alt_names": [
-            "Moyen-Cavally (R\u00e9gion du)"
+            "Lagunes (R\u00e9gion des)"
         ],
         "cca2": "CI",
         "cca3": "CIV",
@@ -2644,17 +2644,17 @@
             "woe_name": "Moyen-Cavally"
         },
         "geo": {
-            "latitude": 6.5208793,
-            "longitude": -7.6114217,
-            "max_latitude": 6.967223,
-            "max_longitude": -6.971872,
-            "min_latitude": 5.637331,
-            "min_longitude": -8.5993019
+            "latitude": 5.4611461,
+            "longitude": -4.479976,
+            "max_latitude": 6.3856509,
+            "max_longitude": -3.4372559,
+            "min_latitude": 5.0976833,
+            "min_longitude": -5.451649
         },
         "iso_3166_2": "CI-19",
         "iso_a2": "CI",
         "iso_a3": "CIV",
-        "name": "Moyen-Cavally (R\u00e9gion du)",
+        "name": "Lagunes (R\u00e9gion des)",
         "postal": "19",
         "type": "D\u00e9partement",
         "type_en": "Department"

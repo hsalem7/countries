@@ -141,11 +141,7 @@
     },
     "AD": {
         "alt_names": [
-            "Adan",
-            "\u02bfAdan",
-            "Aden",
-            "Aden",
-            "Ad\u00e9n"
+            "Abyan"
         ],
         "cca2": "YE",
         "cca3": "YEM",
@@ -268,24 +264,24 @@
             "woe_name": "`Adan"
         },
         "geo": {
-            "latitude": 12.8257481,
-            "longitude": 44.7943804,
-            "max_latitude": 12.92427,
-            "max_longitude": 45.0821905,
-            "min_latitude": 12.6697487,
-            "min_longitude": 44.4078031
+            "latitude": 13.6343413,
+            "longitude": 46.0563212,
+            "max_latitude": 14.303409,
+            "max_longitude": 47.166517,
+            "min_latitude": 12.9191754,
+            "min_longitude": 45.046048
         },
         "iso_3166_2": "YE-AD",
         "iso_a2": "YE",
         "iso_a3": "YEM",
-        "name": "\u02bfAdan",
+        "name": "Abyan",
         "postal": "AD",
         "type": "Muhafazah",
         "type_en": "Governorate"
     },
     "AM": {
         "alt_names": [
-            "'Amran"
+            "Abyan"
         ],
         "cca2": "YE",
         "cca3": "YEM",
@@ -408,24 +404,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 16.2569214,
-            "longitude": 43.9436788,
-            "max_latitude": 16.641641,
-            "max_longitude": 44.3594831,
-            "min_latitude": 15.488677,
-            "min_longitude": 43.524034
+            "latitude": 13.6343413,
+            "longitude": 46.0563212,
+            "max_latitude": 14.303409,
+            "max_longitude": 47.166517,
+            "min_latitude": 12.9191754,
+            "min_longitude": 45.046048
         },
         "iso_3166_2": "YE-AM",
         "iso_a2": "YE",
         "iso_a3": "YEM",
-        "name": "'Amran",
+        "name": "Abyan",
         "postal": "AM",
         "type": "Muhafazah",
         "type_en": "Governorate"
     },
     "BA": {
         "alt_names": [
-            "Al Baida"
+            "Abyan"
         ],
         "cca2": "YE",
         "cca3": "YEM",
@@ -548,24 +544,24 @@
             "woe_name": "Al Bayda'"
         },
         "geo": {
-            "latitude": 14.3588662,
-            "longitude": 45.4498065,
-            "max_latitude": 14.7964711,
-            "max_longitude": 46.0480639,
-            "min_latitude": 13.806784,
-            "min_longitude": 44.5807421
+            "latitude": 13.6343413,
+            "longitude": 46.0563212,
+            "max_latitude": 14.303409,
+            "max_longitude": 47.166517,
+            "min_latitude": 12.9191754,
+            "min_longitude": 45.046048
         },
         "iso_3166_2": "YE-BA",
         "iso_a2": "YE",
         "iso_a3": "YEM",
-        "name": "Al Bay?a'",
+        "name": "Abyan",
         "postal": "BA",
         "type": "Muhafazah",
         "type_en": "Governorate"
     },
     "DA": {
         "alt_names": [
-            "Ad\u00b8 D\u00b8ali'"
+            "Abyan"
         ],
         "cca2": "YE",
         "cca3": "YEM",
@@ -688,26 +684,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 13.696667,
-            "longitude": 44.730833,
-            "max_latitude": 13.7195688,
-            "max_longitude": 44.7446966,
-            "min_latitude": 13.6921764,
-            "min_longitude": 44.7181321
+            "latitude": 13.6343413,
+            "longitude": 46.0563212,
+            "max_latitude": 14.303409,
+            "max_longitude": 47.166517,
+            "min_latitude": 12.9191754,
+            "min_longitude": 45.046048
         },
         "iso_3166_2": "YE-DA",
         "iso_a2": "YE",
         "iso_a3": "YEM",
-        "name": "Ad\u00b8 D\u00b8ali'",
+        "name": "Abyan",
         "postal": "DA",
         "type": "Muhafazah",
         "type_en": "Governorate"
     },
     "DH": {
         "alt_names": [
-            "Dhamar",
-            "Dhomar",
-            "\u0110omar"
+            "Abyan"
         ],
         "cca2": "YE",
         "cca3": "YEM",
@@ -830,24 +824,24 @@
             "woe_name": "Dhamar"
         },
         "geo": {
-            "latitude": 14.7195344,
-            "longitude": 44.2479015,
-            "max_latitude": 14.9834611,
-            "max_longitude": 44.8365489,
-            "min_latitude": 14.031811,
-            "min_longitude": 43.475584
+            "latitude": 13.6343413,
+            "longitude": 46.0563212,
+            "max_latitude": 14.303409,
+            "max_longitude": 47.166517,
+            "min_latitude": 12.9191754,
+            "min_longitude": 45.046048
         },
         "iso_3166_2": "YE-DH",
         "iso_a2": "YE",
         "iso_a3": "YEM",
-        "name": "Dhamar",
+        "name": "Abyan",
         "postal": "DH",
         "type": "Muhafazah",
         "type_en": "Governorate"
     },
     "HD": {
         "alt_names": [
-            "Hadramout"
+            "Abyan"
         ],
         "cca2": "YE",
         "cca3": "YEM",
@@ -970,24 +964,24 @@
             "woe_name": "Hadramawt"
         },
         "geo": {
-            "latitude": 16.9304135,
-            "longitude": 49.3653149,
-            "max_latitude": 19.002331,
-            "max_longitude": 54.5305399,
-            "min_latitude": 12.1115582,
-            "min_longitude": 46.2974891
+            "latitude": 13.6343413,
+            "longitude": 46.0563212,
+            "max_latitude": 14.303409,
+            "max_longitude": 47.166517,
+            "min_latitude": 12.9191754,
+            "min_longitude": 45.046048
         },
         "iso_3166_2": "YE-HD",
         "iso_a2": "YE",
         "iso_a3": "YEM",
-        "name": "Hadramawt",
+        "name": "Abyan",
         "postal": "HD",
         "type": "Muhafazah",
         "type_en": "Governorate"
     },
     "HJ": {
         "alt_names": [
-            "Hajjah"
+            "Abyan"
         ],
         "cca2": "YE",
         "cca3": "YEM",
@@ -1110,28 +1104,24 @@
             "woe_name": "Hajjah"
         },
         "geo": {
-            "latitude": 16.1180631,
-            "longitude": 43.329466,
-            "max_latitude": 16.6797261,
-            "max_longitude": 43.766581,
-            "min_latitude": 15.463984,
-            "min_longitude": 42.778236
+            "latitude": 13.6343413,
+            "longitude": 46.0563212,
+            "max_latitude": 14.303409,
+            "max_longitude": 47.166517,
+            "min_latitude": 12.9191754,
+            "min_longitude": 45.046048
         },
         "iso_3166_2": "YE-HJ",
         "iso_a2": "YE",
         "iso_a3": "YEM",
-        "name": "Hajjah",
+        "name": "Abyan",
         "postal": "HJ",
         "type": "Muhafazah",
         "type_en": "Governorate"
     },
     "HU": {
         "alt_names": [
-            "Hodeida",
-            "Hodeidah",
-            "Hode\u00efah",
-            "H\u0328udaydah",
-            "al-Hudaydah"
+            "Abyan"
         ],
         "cca2": "YE",
         "cca3": "YEM",
@@ -1254,24 +1244,24 @@
             "woe_name": "Al Hudaydah"
         },
         "geo": {
-            "latitude": 15.3053072,
-            "longitude": 43.0194897,
-            "max_latitude": 15.9224578,
-            "max_longitude": 43.777108,
-            "min_latitude": 13.6042295,
-            "min_longitude": 41.8160553
+            "latitude": 13.6343413,
+            "longitude": 46.0563212,
+            "max_latitude": 14.303409,
+            "max_longitude": 47.166517,
+            "min_latitude": 12.9191754,
+            "min_longitude": 45.046048
         },
         "iso_3166_2": "YE-HU",
         "iso_a2": "YE",
         "iso_a3": "YEM",
-        "name": "Al ?udaydah",
+        "name": "Abyan",
         "postal": "HU",
         "type": "Muhafazah",
         "type_en": "Governorate"
     },
     "IB": {
         "alt_names": [
-            "Ibb"
+            "Abyan"
         ],
         "cca2": "YE",
         "cca3": "YEM",
@@ -1394,24 +1384,24 @@
             "woe_name": "Ibb"
         },
         "geo": {
-            "latitude": 14.1415717,
-            "longitude": 44.2479015,
-            "max_latitude": 14.433573,
-            "max_longitude": 44.6729879,
-            "min_latitude": 13.674915,
-            "min_longitude": 43.647663
+            "latitude": 13.6343413,
+            "longitude": 46.0563212,
+            "max_latitude": 14.303409,
+            "max_longitude": 47.166517,
+            "min_latitude": 12.9191754,
+            "min_longitude": 45.046048
         },
         "iso_3166_2": "YE-IB",
         "iso_a2": "YE",
         "iso_a3": "YEM",
-        "name": "Ibb",
+        "name": "Abyan",
         "postal": "IB",
         "type": "Muhafazah",
         "type_en": "Governorate"
     },
     "JA": {
         "alt_names": [
-            "Al Jawf"
+            "Abyan"
         ],
         "cca2": "YE",
         "cca3": "YEM",
@@ -1534,25 +1524,24 @@
             "woe_name": "Al Jawf"
         },
         "geo": {
-            "latitude": 16.7901819,
-            "longitude": 45.2993862,
-            "max_latitude": 17.4041709,
-            "max_longitude": 47.0087311,
-            "min_latitude": 15.722451,
-            "min_longitude": 44.067691
+            "latitude": 13.6343413,
+            "longitude": 46.0563212,
+            "max_latitude": 14.303409,
+            "max_longitude": 47.166517,
+            "min_latitude": 12.9191754,
+            "min_longitude": 45.046048
         },
         "iso_3166_2": "YE-JA",
         "iso_a2": "YE",
         "iso_a3": "YEM",
-        "name": "Al Jawf",
+        "name": "Abyan",
         "postal": "JA",
         "type": "Muhafazah",
         "type_en": "Governorate"
     },
     "LA": {
         "alt_names": [
-            "Lahej",
-            "Lahj"
+            "Abyan"
         ],
         "cca2": "YE",
         "cca3": "YEM",
@@ -1675,25 +1664,24 @@
             "woe_name": "Lahij"
         },
         "geo": {
-            "latitude": 16.4022222,
-            "longitude": 44.3238889,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 13.6343413,
+            "longitude": 46.0563212,
+            "max_latitude": 14.303409,
+            "max_longitude": 47.166517,
+            "min_latitude": 12.9191754,
+            "min_longitude": 45.046048
         },
         "iso_3166_2": "YE-LA",
         "iso_a2": "YE",
         "iso_a3": "YEM",
-        "name": "La?ij",
+        "name": "Abyan",
         "postal": "LA",
         "type": "Muhafazah",
         "type_en": "Governorate"
     },
     "MA": {
         "alt_names": [
-            "Marab",
-            "Mareb"
+            "Abyan"
         ],
         "cca2": "YE",
         "cca3": "YEM",
@@ -1816,24 +1804,24 @@
             "woe_name": "Ma'rib"
         },
         "geo": {
-            "latitude": 15.4700312,
-            "longitude": 45.3228575,
-            "max_latitude": 15.4981702,
-            "max_longitude": 45.3470603,
-            "min_latitude": 15.4511678,
-            "min_longitude": 45.2984496
+            "latitude": 13.6343413,
+            "longitude": 46.0563212,
+            "max_latitude": 14.303409,
+            "max_longitude": 47.166517,
+            "min_latitude": 12.9191754,
+            "min_longitude": 45.046048
         },
         "iso_3166_2": "YE-MA",
         "iso_a2": "YE",
         "iso_a3": "YEM",
-        "name": "Ma'rib",
+        "name": "Abyan",
         "postal": "MA",
         "type": "Muhafazah",
         "type_en": "Governorate"
     },
     "MR": {
         "alt_names": [
-            "Al Mahrah"
+            "Abyan"
         ],
         "cca2": "YE",
         "cca3": "YEM",
@@ -1956,24 +1944,24 @@
             "woe_name": "Al Mahrah"
         },
         "geo": {
-            "latitude": 16.5238423,
-            "longitude": 51.6834275,
-            "max_latitude": 19.002331,
-            "max_longitude": 53.0783,
-            "min_latitude": 15.0801567,
-            "min_longitude": 50.1137559
+            "latitude": 13.6343413,
+            "longitude": 46.0563212,
+            "max_latitude": 14.303409,
+            "max_longitude": 47.166517,
+            "min_latitude": 12.9191754,
+            "min_longitude": 45.046048
         },
         "iso_3166_2": "YE-MR",
         "iso_a2": "YE",
         "iso_a3": "YEM",
-        "name": "Al Mahrah",
+        "name": "Abyan",
         "postal": "MR",
         "type": "Muhafazah",
         "type_en": "Governorate"
     },
     "MW": {
         "alt_names": [
-            "Al Mahwit"
+            "Abyan"
         ],
         "cca2": "YE",
         "cca3": "YEM",
@@ -2096,24 +2084,24 @@
             "woe_name": "Al Mahwit"
         },
         "geo": {
-            "latitude": 15.3963229,
-            "longitude": 43.5606946,
-            "max_latitude": 15.5304159,
-            "max_longitude": 43.924874,
-            "min_latitude": 15.006784,
-            "min_longitude": 43.2522971
+            "latitude": 13.6343413,
+            "longitude": 46.0563212,
+            "max_latitude": 14.303409,
+            "max_longitude": 47.166517,
+            "min_latitude": 12.9191754,
+            "min_longitude": 45.046048
         },
         "iso_3166_2": "YE-MW",
         "iso_a2": "YE",
         "iso_a3": "YEM",
-        "name": "Al Mahwit",
+        "name": "Abyan",
         "postal": "MW",
         "type": "Muhafazah",
         "type_en": "Governorate"
     },
     "RA": {
         "alt_names": [
-            ""
+            "Abyan"
         ],
         "cca2": "YE",
         "cca3": "YEM",
@@ -2236,20 +2224,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "14.6655000000",
-            "longitude": "43.7580000000"
+            "latitude": 13.6343413,
+            "longitude": 46.0563212,
+            "max_latitude": 14.303409,
+            "max_longitude": 47.166517,
+            "min_latitude": 12.9191754,
+            "min_longitude": 45.046048
         },
         "iso_3166_2": "YE-RA",
         "iso_a2": "YE",
         "iso_a3": "YEM",
-        "name": "Raymah",
+        "name": "Abyan",
         "postal": "RA",
         "type": "Muhafazah",
         "type_en": "Governorate"
     },
     "SA": {
         "alt_names": [
-            ""
+            "Abyan"
         ],
         "cca2": "YE",
         "cca3": "YEM",
@@ -2372,20 +2364,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "15.3494000000",
-            "longitude": "44.2115000000"
+            "latitude": 13.6343413,
+            "longitude": 46.0563212,
+            "max_latitude": 14.303409,
+            "max_longitude": 47.166517,
+            "min_latitude": 12.9191754,
+            "min_longitude": 45.046048
         },
         "iso_3166_2": "YE-SA",
         "iso_a2": "YE",
         "iso_a3": "YEM",
-        "name": "Amanat Al Asimah",
+        "name": "Abyan",
         "postal": "SA",
         "type": "Muhafazah",
         "type_en": "Governorate"
     },
     "SD": {
         "alt_names": [
-            "Sa\u02bfadah"
+            "Abyan"
         ],
         "cca2": "YE",
         "cca3": "YEM",
@@ -2508,24 +2504,24 @@
             "woe_name": "Sa`dah"
         },
         "geo": {
-            "latitude": 16.9509413,
-            "longitude": 43.7477743,
-            "max_latitude": 16.9842336,
-            "max_longitude": 43.7776101,
-            "min_latitude": 16.9213471,
-            "min_longitude": 43.7216377
+            "latitude": 13.6343413,
+            "longitude": 46.0563212,
+            "max_latitude": 14.303409,
+            "max_longitude": 47.166517,
+            "min_latitude": 12.9191754,
+            "min_longitude": 45.046048
         },
         "iso_3166_2": "YE-SD",
         "iso_a2": "YE",
         "iso_a3": "YEM",
-        "name": "Sa`dah",
+        "name": "Abyan",
         "postal": "SD",
         "type": "Muhafazah",
         "type_en": "Governorate"
     },
     "SH": {
         "alt_names": [
-            "Shabwah"
+            "Abyan"
         ],
         "cca2": "YE",
         "cca3": "YEM",
@@ -2648,28 +2644,24 @@
             "woe_name": "Shabwah"
         },
         "geo": {
-            "latitude": 15.368889,
-            "longitude": 47.023611,
-            "max_latitude": 15.3717846,
-            "max_longitude": 47.0317305,
-            "min_latitude": 15.3665084,
-            "min_longitude": 47.0220423
+            "latitude": 13.6343413,
+            "longitude": 46.0563212,
+            "max_latitude": 14.303409,
+            "max_longitude": 47.166517,
+            "min_latitude": 12.9191754,
+            "min_longitude": 45.046048
         },
         "iso_3166_2": "YE-SH",
         "iso_a2": "YE",
         "iso_a3": "YEM",
-        "name": "Shabwah",
+        "name": "Abyan",
         "postal": "SH",
         "type": "Muhafazah",
         "type_en": "Governorate"
     },
     "SN": {
         "alt_names": [
-            "Sana",
-            "Sanaa",
-            "Sana\u02bfa",
-            "Sana\u02bfa City",
-            "San\u02bfa\u02bf"
+            "Abyan"
         ],
         "cca2": "YE",
         "cca3": "YEM",
@@ -2792,24 +2784,24 @@
             "woe_name": "Sana'a"
         },
         "geo": {
-            "latitude": 16.0905301,
-            "longitude": 49.6554124,
-            "max_latitude": 16.0981446,
-            "max_longitude": 49.6662712,
-            "min_latitude": 16.08029,
-            "min_longitude": 49.6457148
+            "latitude": 13.6343413,
+            "longitude": 46.0563212,
+            "max_latitude": 14.303409,
+            "max_longitude": 47.166517,
+            "min_latitude": 12.9191754,
+            "min_longitude": 45.046048
         },
         "iso_3166_2": "YE-SN",
         "iso_a2": "YE",
         "iso_a3": "YEM",
-        "name": "San\u02bf\u0101",
+        "name": "Abyan",
         "postal": "SN",
         "type": "Muhafazah",
         "type_en": "Governorate"
     },
     "TA": {
         "alt_names": [
-            "Taiz"
+            "Abyan"
         ],
         "cca2": "YE",
         "cca3": "YEM",
@@ -2932,17 +2924,17 @@
             "woe_name": "Ta`izz"
         },
         "geo": {
-            "latitude": 13.4131166,
-            "longitude": 43.6375314,
-            "max_latitude": 13.887883,
-            "max_longitude": 44.510999,
-            "min_latitude": 12.6340961,
-            "min_longitude": 43.2397839
+            "latitude": 13.6343413,
+            "longitude": 46.0563212,
+            "max_latitude": 14.303409,
+            "max_longitude": 47.166517,
+            "min_latitude": 12.9191754,
+            "min_longitude": 45.046048
         },
         "iso_3166_2": "YE-TA",
         "iso_a2": "YE",
         "iso_a3": "YEM",
-        "name": "Ta\u02bfizz",
+        "name": "Abyan",
         "postal": "TA",
         "type": "Muhafazah",
         "type_en": "Governorate"

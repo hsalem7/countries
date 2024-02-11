@@ -141,7 +141,7 @@
     },
     "DK": {
         "alt_names": [
-            "Dakar"
+            "Diourbel"
         ],
         "cca2": "SN",
         "cca3": "SEN",
@@ -264,24 +264,24 @@
             "woe_name": "Dakar"
         },
         "geo": {
-            "latitude": 14.7645042,
-            "longitude": -17.3660286,
-            "max_latitude": 14.8178645,
-            "max_longitude": -17.2463906,
-            "min_latitude": 14.6469399,
-            "min_longitude": -17.5298482
+            "latitude": 14.6561238,
+            "longitude": -16.2345633,
+            "max_latitude": 14.6780086,
+            "max_longitude": -16.1984396,
+            "min_latitude": 14.6305864,
+            "min_longitude": -16.2716103
         },
         "iso_3166_2": "SN-DK",
         "iso_a2": "SN",
         "iso_a3": "SEN",
-        "name": "Dakar",
+        "name": "Diourbel",
         "postal": "DK",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "FK": {
         "alt_names": [
-            "Fatick"
+            "Diourbel"
         ],
         "cca2": "SN",
         "cca3": "SEN",
@@ -404,24 +404,24 @@
             "woe_name": "Fatick"
         },
         "geo": {
-            "latitude": 14.333333,
-            "longitude": -16.406944,
-            "max_latitude": 14.3521257,
-            "max_longitude": -16.3943481,
-            "min_latitude": 14.3167832,
-            "min_longitude": -16.4239168
+            "latitude": 14.6561238,
+            "longitude": -16.2345633,
+            "max_latitude": 14.6780086,
+            "max_longitude": -16.1984396,
+            "min_latitude": 14.6305864,
+            "min_longitude": -16.2716103
         },
         "iso_3166_2": "SN-FK",
         "iso_a2": "SN",
         "iso_a3": "SEN",
-        "name": "Fatick",
+        "name": "Diourbel",
         "postal": "FK",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "KA": {
         "alt_names": [
-            ""
+            "Diourbel"
         ],
         "cca2": "SN",
         "cca3": "SEN",
@@ -544,20 +544,24 @@
             "woe_name": "Kaolack"
         },
         "geo": {
-            "latitude": "14.2364000000",
-            "longitude": "-15.2014000000"
+            "latitude": 14.6561238,
+            "longitude": -16.2345633,
+            "max_latitude": 14.6780086,
+            "max_longitude": -16.1984396,
+            "min_latitude": 14.6305864,
+            "min_longitude": -16.2716103
         },
         "iso_3166_2": "SN-KA",
         "iso_a2": "SN",
         "iso_a3": "SEN",
-        "name": "Kaffrine",
+        "name": "Diourbel",
         "postal": "KA",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "KD": {
         "alt_names": [
-            "Kolda"
+            "Diourbel"
         ],
         "cca2": "SN",
         "cca3": "SEN",
@@ -680,24 +684,24 @@
             "woe_name": "Kolda"
         },
         "geo": {
-            "latitude": 12.883333,
-            "longitude": -14.95,
-            "max_latitude": 12.9560481,
-            "max_longitude": -14.9008942,
-            "min_latitude": 12.8554019,
-            "min_longitude": -14.9931822
+            "latitude": 14.6561238,
+            "longitude": -16.2345633,
+            "max_latitude": 14.6780086,
+            "max_longitude": -16.1984396,
+            "min_latitude": 14.6305864,
+            "min_longitude": -16.2716103
         },
         "iso_3166_2": "SN-KD",
         "iso_a2": "SN",
         "iso_a3": "SEN",
-        "name": "Kolda",
+        "name": "Diourbel",
         "postal": "KD",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "KE": {
         "alt_names": [
-            ""
+            "Diourbel"
         ],
         "cca2": "SN",
         "cca3": "SEN",
@@ -820,20 +824,24 @@
             "woe_name": "Tambacounda"
         },
         "geo": {
-            "latitude": "12.8420000000",
-            "longitude": "-12.1903000000"
+            "latitude": 14.6561238,
+            "longitude": -16.2345633,
+            "max_latitude": 14.6780086,
+            "max_longitude": -16.1984396,
+            "min_latitude": 14.6305864,
+            "min_longitude": -16.2716103
         },
         "iso_3166_2": "SN-KE",
         "iso_a2": "SN",
         "iso_a3": "SEN",
-        "name": "K\u00e9dougou",
+        "name": "Diourbel",
         "postal": "KE",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "KL": {
         "alt_names": [
-            "Kaolack"
+            "Diourbel"
         ],
         "cca2": "SN",
         "cca3": "SEN",
@@ -956,24 +964,24 @@
             "woe_name": "Kaolack"
         },
         "geo": {
-            "latitude": 14.1652083,
-            "longitude": -16.0757749,
-            "max_latitude": 14.1926668,
-            "max_longitude": -16.0231304,
-            "min_latitude": 14.1218433,
-            "min_longitude": -16.1165143
+            "latitude": 14.6561238,
+            "longitude": -16.2345633,
+            "max_latitude": 14.6780086,
+            "max_longitude": -16.1984396,
+            "min_latitude": 14.6305864,
+            "min_longitude": -16.2716103
         },
         "iso_3166_2": "SN-KL",
         "iso_a2": "SN",
         "iso_a3": "SEN",
-        "name": "Kaolack",
+        "name": "Diourbel",
         "postal": "KL",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "LG": {
         "alt_names": [
-            "Louga"
+            "Diourbel"
         ],
         "cca2": "SN",
         "cca3": "SEN",
@@ -1096,24 +1104,24 @@
             "woe_name": "Louga"
         },
         "geo": {
-            "latitude": 15.616667,
-            "longitude": -16.216667,
-            "max_latitude": 15.6584121,
-            "max_longitude": -16.1677551,
-            "min_latitude": 15.5760808,
-            "min_longitude": -16.273842
+            "latitude": 14.6561238,
+            "longitude": -16.2345633,
+            "max_latitude": 14.6780086,
+            "max_longitude": -16.1984396,
+            "min_latitude": 14.6305864,
+            "min_longitude": -16.2716103
         },
         "iso_3166_2": "SN-LG",
         "iso_a2": "SN",
         "iso_a3": "SEN",
-        "name": "Louga",
+        "name": "Diourbel",
         "postal": "LG",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "MT": {
         "alt_names": [
-            "Matam"
+            "Diourbel"
         ],
         "cca2": "SN",
         "cca3": "SEN",
@@ -1236,24 +1244,24 @@
             "woe_name": "Matam"
         },
         "geo": {
-            "latitude": 15.6600225,
-            "longitude": -13.2576906,
-            "max_latitude": 15.6690317,
-            "max_longitude": -13.2462503,
-            "min_latitude": 15.6390722,
-            "min_longitude": -13.2636738
+            "latitude": 14.6561238,
+            "longitude": -16.2345633,
+            "max_latitude": 14.6780086,
+            "max_longitude": -16.1984396,
+            "min_latitude": 14.6305864,
+            "min_longitude": -16.2716103
         },
         "iso_3166_2": "SN-MT",
         "iso_a2": "SN",
         "iso_a3": "SEN",
-        "name": "Matam",
+        "name": "Diourbel",
         "postal": "MT",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "SE": {
         "alt_names": [
-            ""
+            "Diourbel"
         ],
         "cca2": "SN",
         "cca3": "SEN",
@@ -1376,20 +1384,24 @@
             "woe_name": "Kolda"
         },
         "geo": {
-            "latitude": "12.8803000000",
-            "longitude": "-15.6151000000"
+            "latitude": 14.6561238,
+            "longitude": -16.2345633,
+            "max_latitude": 14.6780086,
+            "max_longitude": -16.1984396,
+            "min_latitude": 14.6305864,
+            "min_longitude": -16.2716103
         },
         "iso_3166_2": "SN-SE",
         "iso_a2": "SN",
         "iso_a3": "SEN",
-        "name": "S\u00e9dhiou",
+        "name": "Diourbel",
         "postal": "SE",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "SL": {
         "alt_names": [
-            "Saint-Louis"
+            "Diourbel"
         ],
         "cca2": "SN",
         "cca3": "SEN",
@@ -1512,24 +1524,24 @@
             "woe_name": "Matam"
         },
         "geo": {
-            "latitude": 16.0326307,
-            "longitude": -16.4818167,
-            "max_latitude": 16.0760986,
-            "max_longitude": -16.403041,
-            "min_latitude": 15.9638125,
-            "min_longitude": -16.5135574
+            "latitude": 14.6561238,
+            "longitude": -16.2345633,
+            "max_latitude": 14.6780086,
+            "max_longitude": -16.1984396,
+            "min_latitude": 14.6305864,
+            "min_longitude": -16.2716103
         },
         "iso_3166_2": "SN-SL",
         "iso_a2": "SN",
         "iso_a3": "SEN",
-        "name": "Saint-Louis",
+        "name": "Diourbel",
         "postal": "SL",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "TC": {
         "alt_names": [
-            "Tambacounda"
+            "Diourbel"
         ],
         "cca2": "SN",
         "cca3": "SEN",
@@ -1652,24 +1664,24 @@
             "woe_name": "Tambacounda"
         },
         "geo": {
-            "latitude": 13.768889,
-            "longitude": -13.667222,
-            "max_latitude": 13.7971567,
-            "max_longitude": -13.6352349,
-            "min_latitude": 13.7446376,
-            "min_longitude": -13.7030293
+            "latitude": 14.6561238,
+            "longitude": -16.2345633,
+            "max_latitude": 14.6780086,
+            "max_longitude": -16.1984396,
+            "min_latitude": 14.6305864,
+            "min_longitude": -16.2716103
         },
         "iso_3166_2": "SN-TC",
         "iso_a2": "SN",
         "iso_a3": "SEN",
-        "name": "Tambacounda",
+        "name": "Diourbel",
         "postal": "TC",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "TH": {
         "alt_names": [
-            "Thi\u00e8s"
+            "Diourbel"
         ],
         "cca2": "SN",
         "cca3": "SEN",
@@ -1792,24 +1804,24 @@
             "woe_name": "Thi\u00e8s"
         },
         "geo": {
-            "latitude": 14.766667,
-            "longitude": -16.9,
-            "max_latitude": 14.8497212,
-            "max_longitude": -16.8717166,
-            "min_latitude": 14.7351422,
-            "min_longitude": -16.9828215
+            "latitude": 14.6561238,
+            "longitude": -16.2345633,
+            "max_latitude": 14.6780086,
+            "max_longitude": -16.1984396,
+            "min_latitude": 14.6305864,
+            "min_longitude": -16.2716103
         },
         "iso_3166_2": "SN-TH",
         "iso_a2": "SN",
         "iso_a3": "SEN",
-        "name": "Thi\u00e8s",
+        "name": "Diourbel",
         "postal": "TH",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "ZG": {
         "alt_names": [
-            "Ziguinchor"
+            "Diourbel"
         ],
         "cca2": "SN",
         "cca3": "SEN",
@@ -1932,17 +1944,17 @@
             "woe_name": "Ziguinchor"
         },
         "geo": {
-            "latitude": 12.583333,
-            "longitude": -16.266667,
-            "max_latitude": 12.5895155,
-            "max_longitude": -16.2420399,
-            "min_latitude": 12.5297862,
-            "min_longitude": -16.3063271
+            "latitude": 14.6561238,
+            "longitude": -16.2345633,
+            "max_latitude": 14.6780086,
+            "max_longitude": -16.1984396,
+            "min_latitude": 14.6305864,
+            "min_longitude": -16.2716103
         },
         "iso_3166_2": "SN-ZG",
         "iso_a2": "SN",
         "iso_a3": "SEN",
-        "name": "Ziguinchor",
+        "name": "Diourbel",
         "postal": "ZG",
         "type": "R\u00e9gion",
         "type_en": "Region"

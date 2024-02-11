@@ -1,7 +1,7 @@
 {
     "DU": {
         "alt_names": [
-            ""
+            "Gorno-Badah\u015fan"
         ],
         "cca2": "TJ",
         "cca3": "TJK",
@@ -124,13 +124,17 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "38.5518000000",
-            "longitude": "68.7695000000"
+            "latitude": 38.412732,
+            "longitude": 73.087749,
+            "max_latitude": 39.468815,
+            "max_longitude": 75.1514831,
+            "min_latitude": 36.671535,
+            "min_longitude": 70.216537
         },
         "iso_3166_2": "TJ-DU",
         "iso_a2": "TJ",
         "iso_a3": "TJK",
-        "name": "Dushanbe",
+        "name": "Gorno-Badakhshan",
         "postal": "DU",
         "type": "Viloyati Avtonomii",
         "type_en": "Independent City"
@@ -277,7 +281,7 @@
     },
     "KT": {
         "alt_names": [
-            "Hatlon"
+            "Gorno-Badah\u015fan"
         ],
         "cca2": "TJ",
         "cca3": "TJK",
@@ -400,31 +404,24 @@
             "woe_name": "Khatlon"
         },
         "geo": {
-            "latitude": 37.9113562,
-            "longitude": 69.097023,
-            "max_latitude": 38.783459,
-            "max_longitude": 70.349647,
-            "min_latitude": 36.9281721,
-            "min_longitude": 67.786146
+            "latitude": 38.412732,
+            "longitude": 73.087749,
+            "max_latitude": 39.468815,
+            "max_longitude": 75.1514831,
+            "min_latitude": 36.671535,
+            "min_longitude": 70.216537
         },
         "iso_3166_2": "TJ-KT",
         "iso_a2": "TJ",
         "iso_a3": "TJK",
-        "name": "Khatlon",
+        "name": "Gorno-Badakhshan",
         "postal": "KT",
         "type": "Viloyat",
         "type_en": "Region"
     },
     "SU": {
         "alt_names": [
-            "Chudjand",
-            "Hucand",
-            "Hud\u017eand",
-            "H\u00fccand",
-            "Khodzent",
-            "Khodzhent",
-            "Khudzhand",
-            "Leninabad"
+            "Gorno-Badah\u015fan"
         ],
         "cca2": "TJ",
         "cca3": "TJK",
@@ -547,24 +544,24 @@
             "woe_name": "Leninabad"
         },
         "geo": {
-            "latitude": 39.5155326,
-            "longitude": 69.097023,
-            "max_latitude": 41.0422438,
-            "max_longitude": 70.984337,
-            "min_latitude": 38.926113,
-            "min_longitude": 67.3871309
+            "latitude": 38.412732,
+            "longitude": 73.087749,
+            "max_latitude": 39.468815,
+            "max_longitude": 75.1514831,
+            "min_latitude": 36.671535,
+            "min_longitude": 70.216537
         },
         "iso_3166_2": "TJ-SU",
         "iso_a2": "TJ",
         "iso_a3": "TJK",
-        "name": "Sughd",
+        "name": "Gorno-Badakhshan",
         "postal": "SU",
         "type": "Viloyat",
         "type_en": "Region"
     },
     "X01~": {
         "alt_names": [
-            ""
+            "Gorno-Badah\u015fan"
         ],
         "cca2": "TJ",
         "cca3": "TJK",
@@ -687,13 +684,17 @@
             "woe_name": "Tadzhikistan Territories"
         },
         "geo": {
-            "latitude": "38.9773000000",
-            "longitude": "70.1331000000"
+            "latitude": 38.412732,
+            "longitude": 73.087749,
+            "max_latitude": 39.468815,
+            "max_longitude": 75.1514831,
+            "min_latitude": 36.671535,
+            "min_longitude": 70.216537
         },
         "iso_3166_2": "TJ-X01~",
         "iso_a2": "TJ",
         "iso_a3": "TJK",
-        "name": "Tadzhikistan Territories",
+        "name": "Gorno-Badakhshan",
         "postal": "X01~",
         "type": "Viloyat",
         "type_en": "Region"

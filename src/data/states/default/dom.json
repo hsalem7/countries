@@ -141,7 +141,7 @@
     },
     "02": {
         "alt_names": [
-            "Azua"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -264,25 +264,24 @@
             "woe_name": "Azua"
         },
         "geo": {
-            "latitude": 18.46,
-            "longitude": -70.74,
-            "max_latitude": 18.4683747,
-            "max_longitude": -70.706486,
-            "min_latitude": 18.4351155,
-            "min_longitude": -70.7587766
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-02",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "Azua",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "02",
         "type": "Provincia",
         "type_en": "Province"
     },
     "03": {
         "alt_names": [
-            "Bahoruco",
-            "Baoruco"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -405,24 +404,24 @@
             "woe_name": "Bahoruco"
         },
         "geo": {
-            "latitude": 18.4752899,
-            "longitude": -71.3349322,
-            "max_latitude": 18.6551589,
-            "max_longitude": -70.9938029,
-            "min_latitude": 18.3329619,
-            "min_longitude": -71.628498
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-03",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "Bahoruco",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "03",
         "type": "Provincia",
         "type_en": "Province"
     },
     "04": {
         "alt_names": [
-            "Barahona"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -545,24 +544,24 @@
             "woe_name": "Barahona"
         },
         "geo": {
-            "latitude": 18.2120807,
-            "longitude": -71.1024076,
-            "max_latitude": 18.2363322,
-            "max_longitude": -71.0814747,
-            "min_latitude": 18.183971,
-            "min_longitude": -71.125048
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-04",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "Barahona",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "04",
         "type": "Provincia",
         "type_en": "Province"
     },
     "05": {
         "alt_names": [
-            "Dajab\u00f3n"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -685,24 +684,24 @@
             "woe_name": "Dajab\u00f3n"
         },
         "geo": {
-            "latitude": 19.5499241,
-            "longitude": -71.7086514,
-            "max_latitude": 19.5652088,
-            "max_longitude": -71.6943526,
-            "min_latitude": 19.5324915,
-            "min_longitude": -71.7128062
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-05",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "Dajab\u00f3n",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "05",
         "type": "Provincia",
         "type_en": "Province"
     },
     "06": {
         "alt_names": [
-            "Duarte"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -825,24 +824,24 @@
             "woe_name": "Duarte"
         },
         "geo": {
-            "latitude": 19.2535285,
-            "longitude": -70.0979491,
-            "max_latitude": 19.4983759,
-            "max_longitude": -69.642184,
-            "min_latitude": 19.023292,
-            "min_longitude": -70.3589371
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-06",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "Duarte",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "06",
         "type": "Provincia",
         "type_en": "Province"
     },
     "07": {
         "alt_names": [
-            "La Estrelleta [El\u00edas Pi\u00f1a]"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -965,24 +964,24 @@
             "woe_name": "La Estrelleta"
         },
         "geo": {
-            "latitude": 18.8766964,
-            "longitude": -71.7044138,
-            "max_latitude": 18.8846859,
-            "max_longitude": -71.6910266,
-            "min_latitude": 18.8692959,
-            "min_longitude": -71.7103385
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-07",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "La Estrelleta [El\u00edas Pi\u00f1a]",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "07",
         "type": "Provincia",
         "type_en": "Province"
     },
     "08": {
         "alt_names": [
-            "El Seybo [El Seibo]"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -1105,24 +1104,24 @@
             "woe_name": "El Seybo"
         },
         "geo": {
-            "latitude": 18.763,
-            "longitude": -69.042,
-            "max_latitude": 18.7788351,
-            "max_longitude": -69.0306616,
-            "min_latitude": 18.7496595,
-            "min_longitude": -69.0513898
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-08",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "El Seybo [El Seibo]",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "08",
         "type": "Provincia",
         "type_en": "Province"
     },
     "09": {
         "alt_names": [
-            "Espaillat"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -1245,24 +1244,24 @@
             "woe_name": "Espaillat"
         },
         "geo": {
-            "latitude": 19.5788064,
-            "longitude": -70.3598758,
-            "max_latitude": 19.6954355,
-            "max_longitude": -70.0608123,
-            "min_latitude": 19.356488,
-            "min_longitude": -70.625559
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-09",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "Espaillat",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "09",
         "type": "Provincia",
         "type_en": "Province"
     },
     "10": {
         "alt_names": [
-            "Independencia"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -1385,24 +1384,24 @@
             "woe_name": "Independencia"
         },
         "geo": {
-            "latitude": 18.4126807,
-            "longitude": -71.6198686,
-            "max_latitude": 18.6965481,
-            "max_longitude": -71.2074061,
-            "min_latitude": 18.167527,
-            "min_longitude": -72.003487
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-10",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "Independencia",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "10",
         "type": "Provincia",
         "type_en": "Province"
     },
     "11": {
         "alt_names": [
-            "La Altagracia"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -1525,24 +1524,24 @@
             "woe_name": "La Altagracia"
         },
         "geo": {
-            "latitude": 18.5850236,
-            "longitude": -68.6201072,
-            "max_latitude": 18.9641829,
-            "max_longitude": -68.3234068,
-            "min_latitude": 18.1104096,
-            "min_longitude": -68.914192
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-11",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "La Altagracia",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "11",
         "type": "Provincia",
         "type_en": "Province"
     },
     "12": {
         "alt_names": [
-            "La Romana"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -1665,24 +1664,24 @@
             "woe_name": "La Romana"
         },
         "geo": {
-            "latitude": 18.43,
-            "longitude": -68.97,
-            "max_latitude": 18.4692704,
-            "max_longitude": -68.8850681,
-            "min_latitude": 18.3971731,
-            "min_longitude": -69.0599727
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-12",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "La Romana",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "12",
         "type": "Provincia",
         "type_en": "Province"
     },
     "13": {
         "alt_names": [
-            "La Vega"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -1805,24 +1804,24 @@
             "woe_name": "La Vega"
         },
         "geo": {
-            "latitude": 19.22,
-            "longitude": -70.53,
-            "max_latitude": 19.250633,
-            "max_longitude": -70.4960917,
-            "min_latitude": 19.1902093,
-            "min_longitude": -70.5602932
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-13",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "La Vega",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "13",
         "type": "Provincia",
         "type_en": "Province"
     },
     "14": {
         "alt_names": [
-            "Mar\u00eda Trinidad S\u00e1nchez"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -1945,24 +1944,24 @@
             "woe_name": "Mar\u00eda Trinidad S\u00e1nchez"
         },
         "geo": {
-            "latitude": 19.4245445,
-            "longitude": -70.0026756,
-            "max_latitude": 19.6834869,
-            "max_longitude": -69.7155799,
-            "min_latitude": 19.1959421,
-            "min_longitude": -70.1728659
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-14",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "Mar\u00eda Trinidad S\u00e1nchez",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "14",
         "type": "Provincia",
         "type_en": "Province"
     },
     "15": {
         "alt_names": [
-            "Monte Cristi"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -2085,24 +2084,24 @@
             "woe_name": "Monte Cristi"
         },
         "geo": {
-            "latitude": 19.8473452,
-            "longitude": -71.6406361,
-            "max_latitude": 19.8610592,
-            "max_longitude": -71.6298294,
-            "min_latitude": 19.8294117,
-            "min_longitude": -71.6594409
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-15",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "Monte Cristi",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "15",
         "type": "Provincia",
         "type_en": "Province"
     },
     "16": {
         "alt_names": [
-            "Pedernales"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -2225,24 +2224,24 @@
             "woe_name": "Pedernales"
         },
         "geo": {
-            "latitude": 18.033333,
-            "longitude": -71.75,
-            "max_latitude": 18.0537032,
-            "max_longitude": -71.7323972,
-            "min_latitude": 18.027098,
-            "min_longitude": -71.7515374
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-16",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "Pedernales",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "16",
         "type": "Provincia",
         "type_en": "Province"
     },
     "17": {
         "alt_names": [
-            "Peravia"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -2365,24 +2364,24 @@
             "woe_name": "Peravia"
         },
         "geo": {
-            "latitude": 18.2855033,
-            "longitude": -70.3836815,
-            "max_latitude": 18.5075071,
-            "max_longitude": -70.1509938,
-            "min_latitude": 18.193577,
-            "min_longitude": -70.5862268
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-17",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "Peravia",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "17",
         "type": "Provincia",
         "type_en": "Province"
     },
     "18": {
         "alt_names": [
-            "Puerto Plata"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -2505,24 +2504,24 @@
             "woe_name": "Puerto Plata"
         },
         "geo": {
-            "latitude": 19.7807686,
-            "longitude": -70.6871091,
-            "max_latitude": 19.8284223,
-            "max_longitude": -70.6315428,
-            "min_latitude": 19.7499826,
-            "min_longitude": -70.7406234
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-18",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "Puerto Plata",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "18",
         "type": "Provincia",
         "type_en": "Province"
     },
     "19": {
         "alt_names": [
-            "Salcedo"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -2645,24 +2644,24 @@
             "woe_name": "Hermanas"
         },
         "geo": {
-            "latitude": 19.3966586,
-            "longitude": -70.3598758,
-            "max_latitude": 19.574569,
-            "max_longitude": -70.2323139,
-            "min_latitude": 19.2355209,
-            "min_longitude": -70.462923
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-19",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "Salcedo",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "19",
         "type": "Provincia",
         "type_en": "Province"
     },
     "20": {
         "alt_names": [
-            "Saman\u00e1"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -2785,24 +2784,24 @@
             "woe_name": "Saman\u00e1"
         },
         "geo": {
-            "latitude": 19.2080704,
-            "longitude": -69.3324518,
-            "max_latitude": 19.2204978,
-            "max_longitude": -69.3263911,
-            "min_latitude": 19.1966887,
-            "min_longitude": -69.3520117
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-20",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "Saman\u00e1",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "20",
         "type": "Provincia",
         "type_en": "Province"
     },
     "21": {
         "alt_names": [
-            "San Crist\u00f3bal"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -2925,24 +2924,24 @@
             "woe_name": "San Crist\u00f3bal"
         },
         "geo": {
-            "latitude": 18.4188797,
-            "longitude": -70.1030668,
-            "max_latitude": 18.4918471,
-            "max_longitude": -70.0852203,
-            "min_latitude": 18.3786707,
-            "min_longitude": -70.1531982
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-21",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "San Crist\u00f3bal",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "21",
         "type": "Provincia",
         "type_en": "Province"
     },
     "22": {
         "alt_names": [
-            "San Juan"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -3065,24 +3064,24 @@
             "woe_name": "San Juan"
         },
         "geo": {
-            "latitude": 18.8810919,
-            "longitude": -71.2874209,
-            "max_latitude": 19.237646,
-            "max_longitude": -70.876805,
-            "min_latitude": 18.505682,
-            "min_longitude": -71.618114
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-22",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "San Juan",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "22",
         "type": "Provincia",
         "type_en": "Province"
     },
     "23": {
         "alt_names": [
-            "San Pedro de Macor\u00eds"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -3205,24 +3204,24 @@
             "woe_name": "San Pedro de Macor\u00eds"
         },
         "geo": {
-            "latitude": 18.45,
-            "longitude": -69.3,
-            "max_latitude": 18.5051913,
-            "max_longitude": -69.2550814,
-            "min_latitude": 18.4340059,
-            "min_longitude": -69.35021
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-23",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "San Pedro de Macor\u00eds",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "23",
         "type": "Provincia",
         "type_en": "Province"
     },
     "24": {
         "alt_names": [
-            "S\u00e1nchez Ram\u00edrez"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -3345,24 +3344,24 @@
             "woe_name": "S\u00e1nchez Ram\u00edrez"
         },
         "geo": {
-            "latitude": 18.9808932,
-            "longitude": -70.0979491,
-            "max_latitude": 19.159525,
-            "max_longitude": -69.912096,
-            "min_latitude": 18.854074,
-            "min_longitude": -70.3728849
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-24",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "S\u00e1nchez Ram\u00edrez",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "24",
         "type": "Provincia",
         "type_en": "Province"
     },
     "25": {
         "alt_names": [
-            "Santiago"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -3485,24 +3484,24 @@
             "woe_name": "Santiago"
         },
         "geo": {
-            "latitude": 19.466667,
-            "longitude": -70.7,
-            "max_latitude": 19.5146896,
-            "max_longitude": -70.5895568,
-            "min_latitude": 19.3650005,
-            "min_longitude": -70.7564899
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-25",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "Santiago",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "25",
         "type": "Provincia",
         "type_en": "Province"
     },
     "26": {
         "alt_names": [
-            "Santiago Rodr\u00edguez"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -3625,24 +3624,24 @@
             "woe_name": "Santiago Rodr\u00edguez"
         },
         "geo": {
-            "latitude": 19.4713181,
-            "longitude": -71.3395801,
-            "max_latitude": 19.4742671,
-            "max_longitude": -71.3354799,
-            "min_latitude": 19.4681499,
-            "min_longitude": -71.3439197
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-26",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "Santiago Rodr\u00edguez",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "26",
         "type": "Provincia",
         "type_en": "Province"
     },
     "27": {
         "alt_names": [
-            "Valverde"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -3765,24 +3764,24 @@
             "woe_name": "Valverde"
         },
         "geo": {
-            "latitude": 19.6323442,
-            "longitude": -71.0497768,
-            "max_latitude": 19.77729,
-            "max_longitude": -70.875855,
-            "min_latitude": 19.498182,
-            "min_longitude": -71.21335
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-27",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "Valverde",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "27",
         "type": "Provincia",
         "type_en": "Province"
     },
     "28": {
         "alt_names": [
-            "Monse\u00f1or Nouel"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -3905,24 +3904,24 @@
             "woe_name": "Monse\u00f1or Nouel"
         },
         "geo": {
-            "latitude": 18.9215234,
-            "longitude": -70.3836815,
-            "max_latitude": 19.124081,
-            "max_longitude": -70.2046211,
-            "min_latitude": 18.7310471,
-            "min_longitude": -70.565095
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-28",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "Monse\u00f1or Nouel",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "28",
         "type": "Provincia",
         "type_en": "Province"
     },
     "29": {
         "alt_names": [
-            "Monte Plata"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -4045,24 +4044,24 @@
             "woe_name": "Monte Plata"
         },
         "geo": {
-            "latitude": 18.81,
-            "longitude": -69.79,
-            "max_latitude": 18.8225077,
-            "max_longitude": -69.7759295,
-            "min_latitude": 18.7976463,
-            "min_longitude": -69.8058844
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-29",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "Monte Plata",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "29",
         "type": "Provincia",
         "type_en": "Province"
     },
     "30": {
         "alt_names": [
-            "Hato Mayor"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -4185,24 +4184,24 @@
             "woe_name": "Hato Mayor"
         },
         "geo": {
-            "latitude": 18.766667,
-            "longitude": -69.25,
-            "max_latitude": 18.7849907,
-            "max_longitude": -69.2366016,
-            "min_latitude": 18.7412879,
-            "min_longitude": -69.2666531
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-30",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "Hato Mayor",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "30",
         "type": "Provincia",
         "type_en": "Province"
     },
     "31": {
         "alt_names": [
-            "San Jose de Ocoa"
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -4325,24 +4324,24 @@
             "woe_name": "San Jos\u00e9 de Ocoa"
         },
         "geo": {
-            "latitude": 18.55,
-            "longitude": -70.5,
-            "max_latitude": 18.555543,
-            "max_longitude": -70.4983234,
-            "min_latitude": 18.5308865,
-            "min_longitude": -70.5147601
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-31",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "San Jose de Ocoa",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "31",
         "type": "Provincia",
         "type_en": "Province"
     },
     "32": {
         "alt_names": [
-            ""
+            "Distrito Nacional (Santo Domingo)"
         ],
         "cca2": "DO",
         "cca3": "DOM",
@@ -4465,13 +4464,17 @@
             "woe_name": "Santo Domingo"
         },
         "geo": {
-            "latitude": "18.5664000000",
-            "longitude": "-69.8427000000"
+            "latitude": 18.466667,
+            "longitude": -69.95,
+            "max_latitude": 18.5475279,
+            "max_longitude": -69.8750532,
+            "min_latitude": 18.4130476,
+            "min_longitude": -70.0187874
         },
         "iso_3166_2": "DO-32",
         "iso_a2": "DO",
         "iso_a3": "DOM",
-        "name": "Santo Domingo",
+        "name": "Distrito Nacional (Santo Domingo)",
         "postal": "32",
         "type": "Provincia",
         "type_en": "Province"

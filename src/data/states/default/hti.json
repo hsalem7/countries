@@ -141,7 +141,7 @@
     },
     "CE": {
         "alt_names": [
-            "Centre"
+            "L\u02bfArtibonite"
         ],
         "cca2": "HT",
         "cca3": "HTI",
@@ -264,24 +264,24 @@
             "woe_name": "Centre"
         },
         "geo": {
-            "latitude": 18.9582742,
-            "longitude": -72.0468164,
-            "max_latitude": 19.327567,
-            "max_longitude": -71.613358,
-            "min_latitude": 18.6777091,
-            "min_longitude": -72.349538
+            "latitude": 19.362902,
+            "longitude": -72.4258145,
+            "max_latitude": 19.81222,
+            "max_longitude": -72.1843108,
+            "min_latitude": 18.8393919,
+            "min_longitude": -73.1348189
         },
         "iso_3166_2": "HT-CE",
         "iso_a2": "HT",
         "iso_a3": "HTI",
-        "name": "Centre",
+        "name": "Artibonite",
         "postal": "CE",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "GA": {
         "alt_names": [
-            "Grande Anse"
+            "L\u02bfArtibonite"
         ],
         "cca2": "HT",
         "cca3": "HTI",
@@ -404,24 +404,24 @@
             "woe_name": "Grand'Anse"
         },
         "geo": {
-            "latitude": 18.5489259,
-            "longitude": -74.07701,
-            "max_latitude": 18.6759873,
-            "max_longitude": -73.698699,
-            "min_latitude": 18.357681,
-            "min_longitude": -74.4768955
+            "latitude": 19.362902,
+            "longitude": -72.4258145,
+            "max_latitude": 19.81222,
+            "max_longitude": -72.1843108,
+            "min_latitude": 18.8393919,
+            "min_longitude": -73.1348189
         },
         "iso_3166_2": "HT-GA",
         "iso_a2": "HT",
         "iso_a3": "HTI",
-        "name": "Grande-Anse",
+        "name": "Artibonite",
         "postal": "GA",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "ND": {
         "alt_names": [
-            "Nord"
+            "L\u02bfArtibonite"
         ],
         "cca2": "HT",
         "cca3": "HTI",
@@ -544,24 +544,24 @@
             "woe_name": "Nord"
         },
         "geo": {
-            "latitude": 19.5687715,
-            "longitude": -72.189,
-            "max_latitude": 19.8828792,
-            "max_longitude": -71.961071,
-            "min_latitude": 19.2473899,
-            "min_longitude": -72.6788249
+            "latitude": 19.362902,
+            "longitude": -72.4258145,
+            "max_latitude": 19.81222,
+            "max_longitude": -72.1843108,
+            "min_latitude": 18.8393919,
+            "min_longitude": -73.1348189
         },
         "iso_3166_2": "HT-ND",
         "iso_a2": "HT",
         "iso_a3": "HTI",
-        "name": "Nord",
+        "name": "Artibonite",
         "postal": "ND",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "NE": {
         "alt_names": [
-            "Nord-Est"
+            "L\u02bfArtibonite"
         ],
         "cca2": "HT",
         "cca3": "HTI",
@@ -684,24 +684,24 @@
             "woe_name": "Nord-Est"
         },
         "geo": {
-            "latitude": 19.4889723,
-            "longitude": -71.8571331,
-            "max_latitude": 19.7289295,
-            "max_longitude": -71.675034,
-            "min_latitude": 19.2588809,
-            "min_longitude": -72.11789
+            "latitude": 19.362902,
+            "longitude": -72.4258145,
+            "max_latitude": 19.81222,
+            "max_longitude": -72.1843108,
+            "min_latitude": 18.8393919,
+            "min_longitude": -73.1348189
         },
         "iso_3166_2": "HT-NE",
         "iso_a2": "HT",
         "iso_a3": "HTI",
-        "name": "Nord-Est",
+        "name": "Artibonite",
         "postal": "NE",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "NI": {
         "alt_names": [
-            ""
+            "L\u02bfArtibonite"
         ],
         "cca2": "HT",
         "cca3": "HTI",
@@ -824,20 +824,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "18.4297000000",
-            "longitude": "-73.3909000000"
+            "latitude": 19.362902,
+            "longitude": -72.4258145,
+            "max_latitude": 19.81222,
+            "max_longitude": -72.1843108,
+            "min_latitude": 18.8393919,
+            "min_longitude": -73.1348189
         },
         "iso_3166_2": "HT-NI",
         "iso_a2": "HT",
         "iso_a3": "HTI",
-        "name": "Nippes",
+        "name": "Artibonite",
         "postal": "NI",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "NO": {
         "alt_names": [
-            "Nord-Ouest"
+            "L\u02bfArtibonite"
         ],
         "cca2": "HT",
         "cca3": "HTI",
@@ -960,24 +964,24 @@
             "woe_name": "Nord-Ouest"
         },
         "geo": {
-            "latitude": 19.8374009,
-            "longitude": -73.0405277,
-            "max_latitude": 20.0877688,
-            "max_longitude": -72.565755,
-            "min_latitude": 19.625431,
-            "min_longitude": -73.451469
+            "latitude": 19.362902,
+            "longitude": -72.4258145,
+            "max_latitude": 19.81222,
+            "max_longitude": -72.1843108,
+            "min_latitude": 18.8393919,
+            "min_longitude": -73.1348189
         },
         "iso_3166_2": "HT-NO",
         "iso_a2": "HT",
         "iso_a3": "HTI",
-        "name": "Nord-Ouest",
+        "name": "Artibonite",
         "postal": "NO",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "OU": {
         "alt_names": [
-            "Ouest"
+            "L\u02bfArtibonite"
         ],
         "cca2": "HT",
         "cca3": "HTI",
@@ -1100,24 +1104,24 @@
             "woe_name": "Ouest"
         },
         "geo": {
-            "latitude": 18.4957015,
-            "longitude": -72.4731529,
-            "max_latitude": 18.9696918,
-            "max_longitude": -71.6928559,
-            "min_latitude": 18.2460119,
-            "min_longitude": -73.299515
+            "latitude": 19.362902,
+            "longitude": -72.4258145,
+            "max_latitude": 19.81222,
+            "max_longitude": -72.1843108,
+            "min_latitude": 18.8393919,
+            "min_longitude": -73.1348189
         },
         "iso_3166_2": "HT-OU",
         "iso_a2": "HT",
         "iso_a3": "HTI",
-        "name": "Ouest",
+        "name": "Artibonite",
         "postal": "OU",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "SD": {
         "alt_names": [
-            "Sud"
+            "L\u02bfArtibonite"
         ],
         "cca2": "HT",
         "cca3": "HTI",
@@ -1240,24 +1244,24 @@
             "woe_name": "Sud"
         },
         "geo": {
-            "latitude": 18.3320005,
-            "longitude": -73.7007088,
-            "max_latitude": 18.423093,
-            "max_longitude": -72.9886701,
-            "min_latitude": 18.0220783,
-            "min_longitude": -74.446304
+            "latitude": 19.362902,
+            "longitude": -72.4258145,
+            "max_latitude": 19.81222,
+            "max_longitude": -72.1843108,
+            "min_latitude": 18.8393919,
+            "min_longitude": -73.1348189
         },
         "iso_3166_2": "HT-SD",
         "iso_a2": "HT",
         "iso_a3": "HTI",
-        "name": "Sud",
+        "name": "Artibonite",
         "postal": "SD",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "SE": {
         "alt_names": [
-            "Sud-Est"
+            "L\u02bfArtibonite"
         ],
         "cca2": "HT",
         "cca3": "HTI",
@@ -1380,17 +1384,17 @@
             "woe_name": "Sud-Est"
         },
         "geo": {
-            "latitude": 18.2783598,
-            "longitude": -72.3547915,
-            "max_latitude": 18.384912,
-            "max_longitude": -71.7241439,
-            "min_latitude": 18.0301479,
-            "min_longitude": -73.0131649
+            "latitude": 19.362902,
+            "longitude": -72.4258145,
+            "max_latitude": 19.81222,
+            "max_longitude": -72.1843108,
+            "min_latitude": 18.8393919,
+            "min_longitude": -73.1348189
         },
         "iso_3166_2": "HT-SE",
         "iso_a2": "HT",
         "iso_a3": "HTI",
-        "name": "Sud-Est",
+        "name": "Artibonite",
         "postal": "SE",
         "type": "D\u00e9partement",
         "type_en": "Department"

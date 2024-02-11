@@ -1,7 +1,7 @@
 {
     "X01~": {
         "alt_names": [
-            ""
+            "Gilbert Islands"
         ],
         "cca2": "KI",
         "cca3": "KIR",
@@ -124,20 +124,24 @@
             "woe_name": "Kiribati"
         },
         "geo": {
-            "latitude": "-0.8577640000",
-            "longitude": "169.5460000000"
+            "latitude": -1.3611379,
+            "longitude": 176.4521827,
+            "max_latitude": 3.3917201,
+            "max_longitude": 176.847766,
+            "min_latitude": -2.6717827,
+            "min_longitude": 169.5233729
         },
         "iso_3166_2": "KI-X01~",
         "iso_a2": "KI",
         "iso_a3": "KIR",
-        "name": "Kiribati",
+        "name": "Gilbert Islands",
         "postal": "X01~",
         "type": "",
         "type_en": ""
     },
     "X02~": {
         "alt_names": [
-            ""
+            "Gilbert Islands"
         ],
         "cca2": "KI",
         "cca3": "KIR",
@@ -260,13 +264,17 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "-4.6896700000",
-            "longitude": "-174.5110000000"
+            "latitude": -1.3611379,
+            "longitude": 176.4521827,
+            "max_latitude": 3.3917201,
+            "max_longitude": 176.847766,
+            "min_latitude": -2.6717827,
+            "min_longitude": 169.5233729
         },
         "iso_3166_2": "KI-X02~",
         "iso_a2": "KI",
         "iso_a3": "KIR",
-        "name": "",
+        "name": "Gilbert Islands",
         "postal": "X02~",
         "type": "",
         "type_en": ""

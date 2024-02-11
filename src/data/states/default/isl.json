@@ -1,7 +1,7 @@
 {
     "1": {
         "alt_names": [
-            "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i utan Reykjav\u00edkur"
+            "Reykjav\u00edk"
         ],
         "cca2": "IS",
         "cca3": "ISL",
@@ -124,24 +124,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 64.1475182,
-            "longitude": -21.9428079,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 64.133333,
+            "longitude": -21.933333,
+            "max_latitude": 64.1750702,
+            "max_longitude": -21.7183826,
+            "min_latitude": 64.0898138,
+            "min_longitude": -21.9865021
         },
         "iso_3166_2": "IS-1",
         "iso_a2": "IS",
         "iso_a3": "ISL",
-        "name": "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i utan Reykjav\u00edkur",
+        "name": "Reykjav\u00edk",
         "postal": "1",
         "type": "Landsv\u00e6\u00f0i",
         "type_en": "Region"
     },
     "2": {
         "alt_names": [
-            "Su\u00f0urnes"
+            "Reykjav\u00edk"
         ],
         "cca2": "IS",
         "cca3": "ISL",
@@ -264,24 +264,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 63.9154803,
-            "longitude": -22.3649667,
-            "max_latitude": 64.0824468,
-            "max_longitude": -21.7119429,
-            "min_latitude": 63.8000178,
-            "min_longitude": -22.7544665
+            "latitude": 64.133333,
+            "longitude": -21.933333,
+            "max_latitude": 64.1750702,
+            "max_longitude": -21.7183826,
+            "min_latitude": 64.0898138,
+            "min_longitude": -21.9865021
         },
         "iso_3166_2": "IS-2",
         "iso_a2": "IS",
         "iso_a3": "ISL",
-        "name": "Su\u00f0urnes",
+        "name": "Reykjav\u00edk",
         "postal": "2",
         "type": "Kaupstadir",
         "type_en": "Independent Town"
     },
     "3": {
         "alt_names": [
-            "Vesturland"
+            "Reykjav\u00edk"
         ],
         "cca2": "IS",
         "cca3": "ISL",
@@ -404,24 +404,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 64.770434,
-            "longitude": -21.5341294,
-            "max_latitude": 65.517339,
-            "max_longitude": -19.7810714,
-            "min_latitude": 64.302399,
-            "min_longitude": -24.0609395
+            "latitude": 64.133333,
+            "longitude": -21.933333,
+            "max_latitude": 64.1750702,
+            "max_longitude": -21.7183826,
+            "min_latitude": 64.0898138,
+            "min_longitude": -21.9865021
         },
         "iso_3166_2": "IS-3",
         "iso_a2": "IS",
         "iso_a3": "ISL",
-        "name": "Vesturland",
+        "name": "Reykjav\u00edk",
         "postal": "3",
         "type": "Landsv\u00e6\u00f0i",
         "type_en": "Region"
     },
     "4": {
         "alt_names": [
-            "Vestfir\u00f0ir"
+            "Reykjav\u00edk"
         ],
         "cca2": "IS",
         "cca3": "ISL",
@@ -544,24 +544,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 65.919615,
-            "longitude": -21.8811763,
-            "max_latitude": 66.4699707,
-            "max_longitude": -20.9746663,
-            "min_latitude": 64.962922,
-            "min_longitude": -24.5465237
+            "latitude": 64.133333,
+            "longitude": -21.933333,
+            "max_latitude": 64.1750702,
+            "max_longitude": -21.7183826,
+            "min_latitude": 64.0898138,
+            "min_longitude": -21.9865021
         },
         "iso_3166_2": "IS-4",
         "iso_a2": "IS",
         "iso_a3": "ISL",
-        "name": "Vestfir\u00f0ir",
+        "name": "Reykjav\u00edk",
         "postal": "4",
         "type": "Landsv\u00e6\u00f0i",
         "type_en": "Region"
     },
     "5": {
         "alt_names": [
-            "Nor\u00f0urland vestra"
+            "Reykjav\u00edk"
         ],
         "cca2": "IS",
         "cca3": "ISL",
@@ -684,24 +684,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 65.1962505,
-            "longitude": -19.2425804,
-            "max_latitude": 66.1600471,
-            "max_longitude": -18.295774,
-            "min_latitude": 64.773222,
-            "min_longitude": -21.1190769
+            "latitude": 64.133333,
+            "longitude": -21.933333,
+            "max_latitude": 64.1750702,
+            "max_longitude": -21.7183826,
+            "min_latitude": 64.0898138,
+            "min_longitude": -21.9865021
         },
         "iso_3166_2": "IS-5",
         "iso_a2": "IS",
         "iso_a3": "ISL",
-        "name": "Nor\u00f0urland vestra",
+        "name": "Reykjav\u00edk",
         "postal": "5",
         "type": "Landsv\u00e6\u00f0i",
         "type_en": "Region"
     },
     "6": {
         "alt_names": [
-            "Nor\u00f0urland eystra"
+            "Reykjav\u00edk"
         ],
         "cca2": "IS",
         "cca3": "ISL",
@@ -824,24 +824,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 65.4713712,
-            "longitude": -17.0280279,
-            "max_latitude": 66.5637741,
-            "max_longitude": -14.5419811,
-            "min_latitude": 64.4100729,
-            "min_longitude": -19.0427822
+            "latitude": 64.133333,
+            "longitude": -21.933333,
+            "max_latitude": 64.1750702,
+            "max_longitude": -21.7183826,
+            "min_latitude": 64.0898138,
+            "min_longitude": -21.9865021
         },
         "iso_3166_2": "IS-6",
         "iso_a2": "IS",
         "iso_a3": "ISL",
-        "name": "Nor\u00f0urland eystra",
+        "name": "Reykjav\u00edk",
         "postal": "6",
         "type": "Landsv\u00e6\u00f0i",
         "type_en": "Region"
     },
     "7": {
         "alt_names": [
-            "Austurland"
+            "Reykjav\u00edk"
         ],
         "cca2": "IS",
         "cca3": "ISL",
@@ -964,24 +964,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 64.8329974,
-            "longitude": -15.7433981,
-            "max_latitude": 66.1899378,
-            "max_longitude": -13.4958154,
-            "min_latitude": 63.7761383,
-            "min_longitude": -17.3681851
+            "latitude": 64.133333,
+            "longitude": -21.933333,
+            "max_latitude": 64.1750702,
+            "max_longitude": -21.7183826,
+            "min_latitude": 64.0898138,
+            "min_longitude": -21.9865021
         },
         "iso_3166_2": "IS-7",
         "iso_a2": "IS",
         "iso_a3": "ISL",
-        "name": "Austurland",
+        "name": "Reykjav\u00edk",
         "postal": "7",
         "type": "Landsv\u00e6\u00f0i",
         "type_en": "Region"
     },
     "8": {
         "alt_names": [
-            "Su\u00f0urland"
+            "Reykjav\u00edk"
         ],
         "cca2": "IS",
         "cca3": "ISL",
@@ -1104,17 +1104,17 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 64.2661426,
-            "longitude": -18.8158138,
-            "max_latitude": 64.877306,
-            "max_longitude": -17.2659519,
-            "min_latitude": 63.2973824,
-            "min_longitude": -21.9220031
+            "latitude": 64.133333,
+            "longitude": -21.933333,
+            "max_latitude": 64.1750702,
+            "max_longitude": -21.7183826,
+            "min_latitude": 64.0898138,
+            "min_longitude": -21.9865021
         },
         "iso_3166_2": "IS-8",
         "iso_a2": "IS",
         "iso_a3": "ISL",
-        "name": "Su\u00f0urland",
+        "name": "Reykjav\u00edk",
         "postal": "8",
         "type": "Landsv\u00e6\u00f0i",
         "type_en": "Region"

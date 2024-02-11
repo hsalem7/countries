@@ -141,7 +141,7 @@
     },
     "02": {
         "alt_names": [
-            "Adiyaman"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -264,24 +264,24 @@
             "woe_name": "Adiyaman"
         },
         "geo": {
-            "latitude": 37.7647509,
-            "longitude": 38.278561,
-            "max_latitude": 37.793365,
-            "max_longitude": 38.320623,
-            "min_latitude": 37.741438,
-            "min_longitude": 38.2312051
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-02",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Adiyaman",
+        "name": "Adana",
         "postal": "02",
         "type": "Il",
         "type_en": "Province"
     },
     "03": {
         "alt_names": [
-            "Afyon"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -404,24 +404,24 @@
             "woe_name": "Afyon"
         },
         "geo": {
-            "latitude": 38.754167,
-            "longitude": 30.540278,
-            "max_latitude": 38.796503,
-            "max_longitude": 30.5979509,
-            "min_latitude": 38.716577,
-            "min_longitude": 30.5121179
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-03",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Afyon",
+        "name": "Adana",
         "postal": "03",
         "type": "Il",
         "type_en": "Province"
     },
     "04": {
         "alt_names": [
-            "Agri"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -544,24 +544,24 @@
             "woe_name": "Agri"
         },
         "geo": {
-            "latitude": 39.7188318,
-            "longitude": 43.0484269,
-            "max_latitude": 39.751162,
-            "max_longitude": 43.0799288,
-            "min_latitude": 39.692784,
-            "min_longitude": 42.9903562
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-04",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Agri",
+        "name": "Adana",
         "postal": "04",
         "type": "Il",
         "type_en": "Province"
     },
     "05": {
         "alt_names": [
-            "Amasya"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -684,24 +684,24 @@
             "woe_name": "Amasya"
         },
         "geo": {
-            "latitude": 40.64991,
-            "longitude": 35.83532,
-            "max_latitude": 40.672106,
-            "max_longitude": 35.8556602,
-            "min_latitude": 40.64035,
-            "min_longitude": 35.788518
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-05",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Amasya",
+        "name": "Adana",
         "postal": "05",
         "type": "Il",
         "type_en": "Province"
     },
     "06": {
         "alt_names": [
-            "Ankara"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -824,24 +824,24 @@
             "woe_name": "Ankara"
         },
         "geo": {
-            "latitude": 39.92077,
-            "longitude": 32.85411,
-            "max_latitude": 40.076332,
-            "max_longitude": 33.0070561,
-            "min_latitude": 39.730421,
-            "min_longitude": 32.5286899
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-06",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Ankara",
+        "name": "Adana",
         "postal": "06",
         "type": "Il",
         "type_en": "Province"
     },
     "07": {
         "alt_names": [
-            "Antalya"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -964,24 +964,24 @@
             "woe_name": "Antalya"
         },
         "geo": {
-            "latitude": 36.88414,
-            "longitude": 30.70563,
-            "max_latitude": 36.975586,
-            "max_longitude": 30.8552512,
-            "min_latitude": 36.820289,
-            "min_longitude": 30.5809589
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-07",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Antalya",
+        "name": "Adana",
         "postal": "07",
         "type": "Il",
         "type_en": "Province"
     },
     "08": {
         "alt_names": [
-            "Artvin"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -1104,24 +1104,24 @@
             "woe_name": "Artvin"
         },
         "geo": {
-            "latitude": 41.18277,
-            "longitude": 41.818291,
-            "max_latitude": 41.191183,
-            "max_longitude": 41.8366858,
-            "min_latitude": 41.168135,
-            "min_longitude": 41.799222
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-08",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Artvin",
+        "name": "Adana",
         "postal": "08",
         "type": "Il",
         "type_en": "Province"
     },
     "09": {
         "alt_names": [
-            "Aydin"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -1244,24 +1244,24 @@
             "woe_name": "Aydin"
         },
         "geo": {
-            "latitude": 37.848056,
-            "longitude": 27.845278,
-            "max_latitude": 37.867569,
-            "max_longitude": 27.9005062,
-            "min_latitude": 37.803987,
-            "min_longitude": 27.794327
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-09",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Aydin",
+        "name": "Adana",
         "postal": "09",
         "type": "Il",
         "type_en": "Province"
     },
     "10": {
         "alt_names": [
-            "Balikesir"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -1384,24 +1384,24 @@
             "woe_name": "Balikesir"
         },
         "geo": {
-            "latitude": 39.648369,
-            "longitude": 27.88261,
-            "max_latitude": 39.683234,
-            "max_longitude": 27.9411919,
-            "min_latitude": 39.612411,
-            "min_longitude": 27.8383129
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-10",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Balikesir",
+        "name": "Adana",
         "postal": "10",
         "type": "Il",
         "type_en": "Province"
     },
     "11": {
         "alt_names": [
-            "Bilecik"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -1524,24 +1524,24 @@
             "woe_name": "Bilecik"
         },
         "geo": {
-            "latitude": 40.150131,
-            "longitude": 29.983061,
-            "max_latitude": 40.2001,
-            "max_longitude": 29.991397,
-            "min_latitude": 40.12762,
-            "min_longitude": 29.957953
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-11",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Bilecik",
+        "name": "Adana",
         "postal": "11",
         "type": "Il",
         "type_en": "Province"
     },
     "12": {
         "alt_names": [
-            "Bing\u00f6l"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -1664,24 +1664,24 @@
             "woe_name": "Bing\u00f6l"
         },
         "geo": {
-            "latitude": 38.885349,
-            "longitude": 40.498291,
-            "max_latitude": 38.89169,
-            "max_longitude": 40.5216061,
-            "min_latitude": 38.874678,
-            "min_longitude": 40.4800891
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-12",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Bing\u00f6l",
+        "name": "Adana",
         "postal": "12",
         "type": "Il",
         "type_en": "Province"
     },
     "13": {
         "alt_names": [
-            "Bitlis"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -1804,24 +1804,24 @@
             "woe_name": "Bitlis"
         },
         "geo": {
-            "latitude": 38.393799,
-            "longitude": 42.12318,
-            "max_latitude": 38.429029,
-            "max_longitude": 42.1383121,
-            "min_latitude": 38.37997,
-            "min_longitude": 42.0875269
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-13",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Bitlis",
+        "name": "Adana",
         "postal": "13",
         "type": "Il",
         "type_en": "Province"
     },
     "14": {
         "alt_names": [
-            "Bolu"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -1944,24 +1944,24 @@
             "woe_name": "Bolu"
         },
         "geo": {
-            "latitude": 40.739479,
-            "longitude": 31.611561,
-            "max_latitude": 40.765095,
-            "max_longitude": 31.658418,
-            "min_latitude": 40.706339,
-            "min_longitude": 31.564409
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-14",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Bolu",
+        "name": "Adana",
         "postal": "14",
         "type": "Il",
         "type_en": "Province"
     },
     "15": {
         "alt_names": [
-            "Burdur"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -2084,24 +2084,24 @@
             "woe_name": "Burdur"
         },
         "geo": {
-            "latitude": 37.726909,
-            "longitude": 30.288876,
-            "max_latitude": 37.760559,
-            "max_longitude": 30.3362129,
-            "min_latitude": 37.704594,
-            "min_longitude": 30.2286262
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-15",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Burdur",
+        "name": "Adana",
         "postal": "15",
         "type": "Il",
         "type_en": "Province"
     },
     "16": {
         "alt_names": [
-            "Bursa"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -2224,24 +2224,24 @@
             "woe_name": "Bursa"
         },
         "geo": {
-            "latitude": 40.266864,
-            "longitude": 29.0634479,
-            "max_latitude": 40.318955,
-            "max_longitude": 29.114446,
-            "min_latitude": 40.254332,
-            "min_longitude": 29.0490682
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-16",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Bursa",
+        "name": "Adana",
         "postal": "16",
         "type": "Il",
         "type_en": "Province"
     },
     "17": {
         "alt_names": [
-            "\u00c7anakkale"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -2364,24 +2364,24 @@
             "woe_name": "\u00c7anakkale"
         },
         "geo": {
-            "latitude": 40.147778,
-            "longitude": 26.405556,
-            "max_latitude": 40.171196,
-            "max_longitude": 26.468447,
-            "min_latitude": 40.089921,
-            "min_longitude": 26.3857388
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-17",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "\u00c7anakkale",
+        "name": "Adana",
         "postal": "17",
         "type": "Il",
         "type_en": "Province"
     },
     "18": {
         "alt_names": [
-            "\u00c7ankiri"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -2504,24 +2504,24 @@
             "woe_name": "\u00c7ankiri"
         },
         "geo": {
-            "latitude": 40.6013428,
-            "longitude": 33.6134213,
-            "max_latitude": 40.647551,
-            "max_longitude": 33.635831,
-            "min_latitude": 40.567176,
-            "min_longitude": 33.5933449
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-18",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "\u00c7ankiri",
+        "name": "Adana",
         "postal": "18",
         "type": "Il",
         "type_en": "Province"
     },
     "19": {
         "alt_names": [
-            "\u00c7orum"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -2644,24 +2644,24 @@
             "woe_name": "\u00c7orum"
         },
         "geo": {
-            "latitude": 40.554371,
-            "longitude": 34.963718,
-            "max_latitude": 40.583577,
-            "max_longitude": 34.9962619,
-            "min_latitude": 40.486869,
-            "min_longitude": 34.887546
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-19",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "\u00c7orum",
+        "name": "Adana",
         "postal": "19",
         "type": "Il",
         "type_en": "Province"
     },
     "20": {
         "alt_names": [
-            "Denizli"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -2784,24 +2784,24 @@
             "woe_name": "Denizli"
         },
         "geo": {
-            "latitude": 37.77652,
-            "longitude": 29.08639,
-            "max_latitude": 37.843464,
-            "max_longitude": 29.1701542,
-            "min_latitude": 37.722339,
-            "min_longitude": 28.9931389
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-20",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Denizli",
+        "name": "Adana",
         "postal": "20",
         "type": "Il",
         "type_en": "Province"
     },
     "21": {
         "alt_names": [
-            "Diyarbakir"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -2924,24 +2924,24 @@
             "woe_name": "Diyarbakir"
         },
         "geo": {
-            "latitude": 37.9144099,
-            "longitude": 40.230629,
-            "max_latitude": 37.979755,
-            "max_longitude": 40.24692,
-            "min_latitude": 37.86583,
-            "min_longitude": 40.078436
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-21",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Diyarbakir",
+        "name": "Adana",
         "postal": "21",
         "type": "Il",
         "type_en": "Province"
     },
     "22": {
         "alt_names": [
-            "Edirne"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -3064,24 +3064,24 @@
             "woe_name": "Edirne"
         },
         "geo": {
-            "latitude": 41.674444,
-            "longitude": 26.560833,
-            "max_latitude": 41.695851,
-            "max_longitude": 26.6036879,
-            "min_latitude": 41.6419,
-            "min_longitude": 26.5429609
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-22",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Edirne",
+        "name": "Adana",
         "postal": "22",
         "type": "Il",
         "type_en": "Province"
     },
     "23": {
         "alt_names": [
-            "Elazig"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -3204,24 +3204,24 @@
             "woe_name": "Elazig"
         },
         "geo": {
-            "latitude": 38.680969,
-            "longitude": 39.226398,
-            "max_latitude": 38.697375,
-            "max_longitude": 39.2757401,
-            "min_latitude": 38.631944,
-            "min_longitude": 39.1205639
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-23",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Elazig",
+        "name": "Adana",
         "postal": "23",
         "type": "Il",
         "type_en": "Province"
     },
     "24": {
         "alt_names": [
-            "Erzincan"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -3344,24 +3344,24 @@
             "woe_name": "Erzincan"
         },
         "geo": {
-            "latitude": 39.7399289,
-            "longitude": 39.504501,
-            "max_latitude": 39.781213,
-            "max_longitude": 39.547508,
-            "min_latitude": 39.712936,
-            "min_longitude": 39.4603087
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-24",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Erzincan",
+        "name": "Adana",
         "postal": "24",
         "type": "Il",
         "type_en": "Province"
     },
     "25": {
         "alt_names": [
-            "Erzurum"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -3484,24 +3484,24 @@
             "woe_name": "Erzurum"
         },
         "geo": {
-            "latitude": 39.908611,
-            "longitude": 41.276944,
-            "max_latitude": 39.955924,
-            "max_longitude": 41.3105771,
-            "min_latitude": 39.867876,
-            "min_longitude": 41.2164562
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-25",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Erzurum",
+        "name": "Adana",
         "postal": "25",
         "type": "Il",
         "type_en": "Province"
     },
     "26": {
         "alt_names": [
-            "Eskisehir"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -3624,24 +3624,24 @@
             "woe_name": "Eskisehir"
         },
         "geo": {
-            "latitude": 39.776667,
-            "longitude": 30.520556,
-            "max_latitude": 39.828122,
-            "max_longitude": 30.6805741,
-            "min_latitude": 39.702564,
-            "min_longitude": 30.4090549
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-26",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Eskisehir",
+        "name": "Adana",
         "postal": "26",
         "type": "Il",
         "type_en": "Province"
     },
     "27": {
         "alt_names": [
-            "Gaziantep"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -3764,24 +3764,24 @@
             "woe_name": "Gaziantep"
         },
         "geo": {
-            "latitude": 37.06622,
-            "longitude": 37.38332,
-            "max_latitude": 37.108291,
-            "max_longitude": 37.4567749,
-            "min_latitude": 37.009252,
-            "min_longitude": 37.3034992
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-27",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Gaziantep",
+        "name": "Adana",
         "postal": "27",
         "type": "Il",
         "type_en": "Province"
     },
     "28": {
         "alt_names": [
-            "Giresun"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -3904,24 +3904,24 @@
             "woe_name": "Giresun"
         },
         "geo": {
-            "latitude": 40.912811,
-            "longitude": 38.38953,
-            "max_latitude": 40.92777,
-            "max_longitude": 38.4476309,
-            "min_latitude": 40.880759,
-            "min_longitude": 38.3108371
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-28",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Giresun",
+        "name": "Adana",
         "postal": "28",
         "type": "Il",
         "type_en": "Province"
     },
     "29": {
         "alt_names": [
-            "G\u00fcm\u00fcshane"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -4044,24 +4044,24 @@
             "woe_name": "G\u00fcm\u00fcshane"
         },
         "geo": {
-            "latitude": 40.4385883,
-            "longitude": 39.5085557,
-            "max_latitude": 40.4684801,
-            "max_longitude": 39.5207309,
-            "min_latitude": 40.4282392,
-            "min_longitude": 39.4586489
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-29",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "G\u00fcm\u00fcshane",
+        "name": "Adana",
         "postal": "29",
         "type": "Il",
         "type_en": "Province"
     },
     "30": {
         "alt_names": [
-            "Hakk\u00e2ri"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -4184,24 +4184,24 @@
             "woe_name": "Hakkari"
         },
         "geo": {
-            "latitude": 37.576389,
-            "longitude": 43.736667,
-            "max_latitude": 37.592381,
-            "max_longitude": 43.754594,
-            "min_latitude": 37.556175,
-            "min_longitude": 43.7149901
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-30",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Hakk\u00e2ri",
+        "name": "Adana",
         "postal": "30",
         "type": "Il",
         "type_en": "Province"
     },
     "31": {
         "alt_names": [
-            "Hatay"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -4324,24 +4324,24 @@
             "woe_name": "Hatay"
         },
         "geo": {
-            "latitude": 36.2,
-            "longitude": 36.166667,
-            "max_latitude": 36.27726,
-            "max_longitude": 36.231053,
-            "min_latitude": 36.16479,
-            "min_longitude": 36.1002049
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-31",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Hatay",
+        "name": "Adana",
         "postal": "31",
         "type": "Il",
         "type_en": "Province"
     },
     "32": {
         "alt_names": [
-            "Isparta"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -4464,24 +4464,24 @@
             "woe_name": "Isparta"
         },
         "geo": {
-            "latitude": 37.764771,
-            "longitude": 30.556561,
-            "max_latitude": 37.834092,
-            "max_longitude": 30.5919461,
-            "min_latitude": 37.746192,
-            "min_longitude": 30.5077259
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-32",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Isparta",
+        "name": "Adana",
         "postal": "32",
         "type": "Il",
         "type_en": "Province"
     },
     "33": {
         "alt_names": [
-            "Ichili"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -4604,24 +4604,24 @@
             "woe_name": "Mersin"
         },
         "geo": {
-            "latitude": 36.6321731,
-            "longitude": 33.617577,
-            "max_latitude": 37.435227,
-            "max_longitude": 35.14063,
-            "min_latitude": 36.01681,
-            "min_longitude": 32.5361768
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-33",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "I\u00e7el",
+        "name": "Adana",
         "postal": "33",
         "type": "Il",
         "type_en": "Province"
     },
     "34": {
         "alt_names": [
-            "Istanbul"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -4744,24 +4744,24 @@
             "woe_name": "Istanbul"
         },
         "geo": {
-            "latitude": 41.00527,
-            "longitude": 28.97696,
-            "max_latitude": 41.199239,
-            "max_longitude": 29.4288052,
-            "min_latitude": 40.811404,
-            "min_longitude": 28.5955538
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-34",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Istanbul",
+        "name": "Adana",
         "postal": "34",
         "type": "Il",
         "type_en": "Province"
     },
     "35": {
         "alt_names": [
-            "Izmir"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -4884,24 +4884,24 @@
             "woe_name": "Izmir"
         },
         "geo": {
-            "latitude": 38.41885,
-            "longitude": 27.12872,
-            "max_latitude": 38.545237,
-            "max_longitude": 27.3044851,
-            "min_latitude": 38.290113,
-            "min_longitude": 26.8549492
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-35",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Izmir",
+        "name": "Adana",
         "postal": "35",
         "type": "Il",
         "type_en": "Province"
     },
     "36": {
         "alt_names": [
-            "Kars"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -5024,24 +5024,24 @@
             "woe_name": "Kars"
         },
         "geo": {
-            "latitude": 40.616667,
-            "longitude": 43.1,
-            "max_latitude": 40.623337,
-            "max_longitude": 43.1325241,
-            "min_latitude": 40.570057,
-            "min_longitude": 43.071051
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-36",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Kars",
+        "name": "Adana",
         "postal": "36",
         "type": "Il",
         "type_en": "Province"
     },
     "37": {
         "alt_names": [
-            "Kastamonu"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -5164,24 +5164,24 @@
             "woe_name": "Kastamonu"
         },
         "geo": {
-            "latitude": 41.38871,
-            "longitude": 33.78273,
-            "max_latitude": 41.437135,
-            "max_longitude": 33.8178499,
-            "min_latitude": 41.358148,
-            "min_longitude": 33.7584892
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-37",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Kastamonu",
+        "name": "Adana",
         "postal": "37",
         "type": "Il",
         "type_en": "Province"
     },
     "38": {
         "alt_names": [
-            "Kayseri"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -5304,24 +5304,24 @@
             "woe_name": "Kayseri"
         },
         "geo": {
-            "latitude": 38.73122,
-            "longitude": 35.478729,
-            "max_latitude": 38.8248,
-            "max_longitude": 35.627675,
-            "min_latitude": 38.622002,
-            "min_longitude": 35.3126992
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-38",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Kayseri",
+        "name": "Adana",
         "postal": "38",
         "type": "Il",
         "type_en": "Province"
     },
     "39": {
         "alt_names": [
-            "Kirklareli"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -5444,24 +5444,24 @@
             "woe_name": "Kirklareli"
         },
         "geo": {
-            "latitude": 41.742908,
-            "longitude": 27.226089,
-            "max_latitude": 41.760377,
-            "max_longitude": 27.244107,
-            "min_latitude": 41.712183,
-            "min_longitude": 27.1916528
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-39",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Kirklareli",
+        "name": "Adana",
         "postal": "39",
         "type": "Il",
         "type_en": "Province"
     },
     "40": {
         "alt_names": [
-            "Kirsehir"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -5584,24 +5584,24 @@
             "woe_name": "Kirsehir"
         },
         "geo": {
-            "latitude": 39.146,
-            "longitude": 34.1607,
-            "max_latitude": 39.199712,
-            "max_longitude": 34.21962,
-            "min_latitude": 39.083829,
-            "min_longitude": 34.119774
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-40",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Kirsehir",
+        "name": "Adana",
         "postal": "40",
         "type": "Il",
         "type_en": "Province"
     },
     "41": {
         "alt_names": [
-            "Kocaeli"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -5724,24 +5724,24 @@
             "woe_name": "Kocaeli"
         },
         "geo": {
-            "latitude": 40.8532704,
-            "longitude": 29.8815203,
-            "max_latitude": 41.20976,
-            "max_longitude": 30.3677431,
-            "min_latitude": 40.521065,
-            "min_longitude": 29.3331263
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-41",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Kocaeli",
+        "name": "Adana",
         "postal": "41",
         "type": "Il",
         "type_en": "Province"
     },
     "42": {
         "alt_names": [
-            "Konya"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -5864,24 +5864,24 @@
             "woe_name": "Konya"
         },
         "geo": {
-            "latitude": 37.866667,
-            "longitude": 32.483333,
-            "max_latitude": 38.034311,
-            "max_longitude": 32.647959,
-            "min_latitude": 37.722702,
-            "min_longitude": 32.3650058
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-42",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Konya",
+        "name": "Adana",
         "postal": "42",
         "type": "Il",
         "type_en": "Province"
     },
     "43": {
         "alt_names": [
-            "K\u00fctahya"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -6004,24 +6004,24 @@
             "woe_name": "K\u00fctahya"
         },
         "geo": {
-            "latitude": 39.4167,
-            "longitude": 29.9833,
-            "max_latitude": 39.448665,
-            "max_longitude": 30.053083,
-            "min_latitude": 39.383705,
-            "min_longitude": 29.9209691
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-43",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "K\u00fctahya",
+        "name": "Adana",
         "postal": "43",
         "type": "Il",
         "type_en": "Province"
     },
     "44": {
         "alt_names": [
-            "Malatya"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -6144,24 +6144,24 @@
             "woe_name": "Malatya"
         },
         "geo": {
-            "latitude": 38.35,
-            "longitude": 38.3,
-            "max_latitude": 38.392921,
-            "max_longitude": 38.3802232,
-            "min_latitude": 38.312895,
-            "min_longitude": 38.1716921
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-44",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Malatya",
+        "name": "Adana",
         "postal": "44",
         "type": "Il",
         "type_en": "Province"
     },
     "45": {
         "alt_names": [
-            "Manisa"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -6284,26 +6284,24 @@
             "woe_name": "Manisa"
         },
         "geo": {
-            "latitude": 38.619099,
-            "longitude": 27.428921,
-            "max_latitude": 38.645072,
-            "max_longitude": 27.4787759,
-            "min_latitude": 38.602441,
-            "min_longitude": 27.3085369
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-45",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Manisa",
+        "name": "Adana",
         "postal": "45",
         "type": "Il",
         "type_en": "Province"
     },
     "46": {
         "alt_names": [
-            "Kahramanmaras",
-            "Maras",
-            "Marash"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -6426,24 +6424,24 @@
             "woe_name": "K. Maras"
         },
         "geo": {
-            "latitude": 37.583333,
-            "longitude": 36.933333,
-            "max_latitude": 37.610065,
-            "max_longitude": 37.0086919,
-            "min_latitude": 37.500703,
-            "min_longitude": 36.8144921
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-46",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Kahramanmaras",
+        "name": "Adana",
         "postal": "46",
         "type": "Il",
         "type_en": "Province"
     },
     "47": {
         "alt_names": [
-            "Mardin"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -6566,24 +6564,24 @@
             "woe_name": "Mardin"
         },
         "geo": {
-            "latitude": 37.3211634,
-            "longitude": 40.7244774,
-            "max_latitude": 37.340449,
-            "max_longitude": 40.7663849,
-            "min_latitude": 37.300656,
-            "min_longitude": 40.6910659
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-47",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Mardin",
+        "name": "Adana",
         "postal": "47",
         "type": "Il",
         "type_en": "Province"
     },
     "48": {
         "alt_names": [
-            "Mugla"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -6706,24 +6704,24 @@
             "woe_name": "Mugla"
         },
         "geo": {
-            "latitude": 37.216667,
-            "longitude": 28.366667,
-            "max_latitude": 37.225165,
-            "max_longitude": 28.3861861,
-            "min_latitude": 37.195114,
-            "min_longitude": 28.342408
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-48",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Mugla",
+        "name": "Adana",
         "postal": "48",
         "type": "Il",
         "type_en": "Province"
     },
     "49": {
         "alt_names": [
-            "Mus"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -6846,24 +6844,24 @@
             "woe_name": "Mus"
         },
         "geo": {
-            "latitude": 38.733333,
-            "longitude": 41.491111,
-            "max_latitude": 38.783503,
-            "max_longitude": 41.540625,
-            "min_latitude": 38.718225,
-            "min_longitude": 41.4723059
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-49",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Mus",
+        "name": "Adana",
         "postal": "49",
         "type": "Il",
         "type_en": "Province"
     },
     "50": {
         "alt_names": [
-            "Nevsehir"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -6986,24 +6984,24 @@
             "woe_name": "Nevsehir"
         },
         "geo": {
-            "latitude": 38.62442,
-            "longitude": 34.7239689,
-            "max_latitude": 38.676487,
-            "max_longitude": 34.7477789,
-            "min_latitude": 38.589047,
-            "min_longitude": 34.6697521
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-50",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Nevsehir",
+        "name": "Adana",
         "postal": "50",
         "type": "Il",
         "type_en": "Province"
     },
     "51": {
         "alt_names": [
-            "Nigde"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -7126,24 +7124,24 @@
             "woe_name": "Nigde"
         },
         "geo": {
-            "latitude": 37.97646,
-            "longitude": 34.69376,
-            "max_latitude": 38.005885,
-            "max_longitude": 34.7289149,
-            "min_latitude": 37.93935,
-            "min_longitude": 34.633795
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-51",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Nigde",
+        "name": "Adana",
         "postal": "51",
         "type": "Il",
         "type_en": "Province"
     },
     "52": {
         "alt_names": [
-            "Ordu"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -7266,24 +7264,24 @@
             "woe_name": "Ordu"
         },
         "geo": {
-            "latitude": 40.983879,
-            "longitude": 37.876411,
-            "max_latitude": 41.038519,
-            "max_longitude": 38.0206169,
-            "min_latitude": 40.948541,
-            "min_longitude": 37.7917351
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-52",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Ordu",
+        "name": "Adana",
         "postal": "52",
         "type": "Il",
         "type_en": "Province"
     },
     "53": {
         "alt_names": [
-            "Rize"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -7406,24 +7404,24 @@
             "woe_name": "Rize"
         },
         "geo": {
-            "latitude": 41.02005,
-            "longitude": 40.523449,
-            "max_latitude": 41.052146,
-            "max_longitude": 40.6146409,
-            "min_latitude": 41.010782,
-            "min_longitude": 40.4785778
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-53",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Rize",
+        "name": "Adana",
         "postal": "53",
         "type": "Il",
         "type_en": "Province"
     },
     "54": {
         "alt_names": [
-            "Sakarya"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -7546,24 +7544,24 @@
             "woe_name": "Sakarya"
         },
         "geo": {
-            "latitude": 40.783333,
-            "longitude": 30.4,
-            "max_latitude": 40.816299,
-            "max_longitude": 30.439832,
-            "min_latitude": 40.68175,
-            "min_longitude": 30.3247559
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-54",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Sakarya",
+        "name": "Adana",
         "postal": "54",
         "type": "Il",
         "type_en": "Province"
     },
     "55": {
         "alt_names": [
-            "Samsun"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -7686,24 +7684,24 @@
             "woe_name": "Samsun"
         },
         "geo": {
-            "latitude": 41.292782,
-            "longitude": 36.33128,
-            "max_latitude": 41.343598,
-            "max_longitude": 36.3819319,
-            "min_latitude": 41.239349,
-            "min_longitude": 36.2428711
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-55",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Samsun",
+        "name": "Adana",
         "postal": "55",
         "type": "Il",
         "type_en": "Province"
     },
     "56": {
         "alt_names": [
-            "Siirt"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -7826,24 +7824,24 @@
             "woe_name": "Siirt"
         },
         "geo": {
-            "latitude": 37.9355471,
-            "longitude": 41.9368268,
-            "max_latitude": 37.949366,
-            "max_longitude": 41.9638651,
-            "min_latitude": 37.911382,
-            "min_longitude": 41.9029088
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-56",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Siirt",
+        "name": "Adana",
         "postal": "56",
         "type": "Il",
         "type_en": "Province"
     },
     "57": {
         "alt_names": [
-            "Sinop"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -7966,24 +7964,24 @@
             "woe_name": "Sinop"
         },
         "geo": {
-            "latitude": 42.02314,
-            "longitude": 35.153069,
-            "max_latitude": 42.034432,
-            "max_longitude": 35.1922838,
-            "min_latitude": 41.993839,
-            "min_longitude": 35.0675269
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-57",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Sinop",
+        "name": "Adana",
         "postal": "57",
         "type": "Il",
         "type_en": "Province"
     },
     "58": {
         "alt_names": [
-            "Sivas"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -8106,24 +8104,24 @@
             "woe_name": "Sivas"
         },
         "geo": {
-            "latitude": 39.747662,
-            "longitude": 37.017879,
-            "max_latitude": 39.781486,
-            "max_longitude": 37.0647389,
-            "min_latitude": 39.715307,
-            "min_longitude": 36.9270799
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-58",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Sivas",
+        "name": "Adana",
         "postal": "58",
         "type": "Il",
         "type_en": "Province"
     },
     "59": {
         "alt_names": [
-            "Tekirdag"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -8246,24 +8244,24 @@
             "woe_name": "Tekirdag"
         },
         "geo": {
-            "latitude": 40.977778,
-            "longitude": 27.515278,
-            "max_latitude": 40.999544,
-            "max_longitude": 27.6462518,
-            "min_latitude": 40.920071,
-            "min_longitude": 27.469809
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-59",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Tekirdag",
+        "name": "Adana",
         "postal": "59",
         "type": "Il",
         "type_en": "Province"
     },
     "60": {
         "alt_names": [
-            "Tokat"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -8386,24 +8384,24 @@
             "woe_name": "Tokat"
         },
         "geo": {
-            "latitude": 40.313889,
-            "longitude": 36.554167,
-            "max_latitude": 40.358932,
-            "max_longitude": 36.5932192,
-            "min_latitude": 40.267868,
-            "min_longitude": 36.4696621
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-60",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Tokat",
+        "name": "Adana",
         "postal": "60",
         "type": "Il",
         "type_en": "Province"
     },
     "61": {
         "alt_names": [
-            "Trabzon"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -8526,24 +8524,24 @@
             "woe_name": "Trabzon"
         },
         "geo": {
-            "latitude": 41.00145,
-            "longitude": 39.7177999,
-            "max_latitude": 41.01237,
-            "max_longitude": 39.808463,
-            "min_latitude": 40.973513,
-            "min_longitude": 39.6524071
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-61",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Trabzon",
+        "name": "Adana",
         "postal": "61",
         "type": "Il",
         "type_en": "Province"
     },
     "62": {
         "alt_names": [
-            "Tunceli"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -8666,24 +8664,24 @@
             "woe_name": "Tunceli"
         },
         "geo": {
-            "latitude": 39.1058251,
-            "longitude": 39.5455166,
-            "max_latitude": 39.118647,
-            "max_longitude": 39.5571623,
-            "min_latitude": 39.067998,
-            "min_longitude": 39.5122501
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-62",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Tunceli",
+        "name": "Adana",
         "postal": "62",
         "type": "Il",
         "type_en": "Province"
     },
     "63": {
         "alt_names": [
-            "Sanliurfa"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -8806,24 +8804,24 @@
             "woe_name": "Sanliurfa"
         },
         "geo": {
-            "latitude": 37.159149,
-            "longitude": 38.796909,
-            "max_latitude": 37.233371,
-            "max_longitude": 38.891956,
-            "min_latitude": 37.100904,
-            "min_longitude": 38.7599281
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-63",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Sanliurfa",
+        "name": "Adana",
         "postal": "63",
         "type": "Il",
         "type_en": "Province"
     },
     "64": {
         "alt_names": [
-            "Usak"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -8946,24 +8944,24 @@
             "woe_name": "Usak"
         },
         "geo": {
-            "latitude": 38.682301,
-            "longitude": 29.40819,
-            "max_latitude": 38.705018,
-            "max_longitude": 29.456464,
-            "min_latitude": 38.633352,
-            "min_longitude": 29.3559361
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-64",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Usak",
+        "name": "Adana",
         "postal": "64",
         "type": "Il",
         "type_en": "Province"
     },
     "65": {
         "alt_names": [
-            "Van"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -9086,24 +9084,24 @@
             "woe_name": "Van"
         },
         "geo": {
-            "latitude": 38.494167,
-            "longitude": 43.38,
-            "max_latitude": 38.580314,
-            "max_longitude": 43.447585,
-            "min_latitude": 38.425492,
-            "min_longitude": 43.2695239
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-65",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Van",
+        "name": "Adana",
         "postal": "65",
         "type": "Il",
         "type_en": "Province"
     },
     "66": {
         "alt_names": [
-            "Yozgat"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -9226,24 +9224,24 @@
             "woe_name": "Yozgat"
         },
         "geo": {
-            "latitude": 39.818081,
-            "longitude": 34.81469,
-            "max_latitude": 39.837859,
-            "max_longitude": 34.8495329,
-            "min_latitude": 39.792581,
-            "min_longitude": 34.7747827
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-66",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Yozgat",
+        "name": "Adana",
         "postal": "66",
         "type": "Il",
         "type_en": "Province"
     },
     "67": {
         "alt_names": [
-            "Zonguldak"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -9366,24 +9364,24 @@
             "woe_name": "Zinguldak"
         },
         "geo": {
-            "latitude": 41.456409,
-            "longitude": 31.798731,
-            "max_latitude": 41.495178,
-            "max_longitude": 31.8742409,
-            "min_latitude": 41.42287,
-            "min_longitude": 31.72608
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-67",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Zonguldak",
+        "name": "Adana",
         "postal": "67",
         "type": "Il",
         "type_en": "Province"
     },
     "68": {
         "alt_names": [
-            "Aksaray"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -9506,24 +9504,24 @@
             "woe_name": "Aksaray"
         },
         "geo": {
-            "latitude": 38.36869,
-            "longitude": 34.03698,
-            "max_latitude": 38.428766,
-            "max_longitude": 34.0744111,
-            "min_latitude": 38.292834,
-            "min_longitude": 33.9268219
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-68",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Aksaray",
+        "name": "Adana",
         "postal": "68",
         "type": "Il",
         "type_en": "Province"
     },
     "69": {
         "alt_names": [
-            "Bayburt"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -9646,24 +9644,24 @@
             "woe_name": "Bayburt"
         },
         "geo": {
-            "latitude": 40.255169,
-            "longitude": 40.22488,
-            "max_latitude": 40.282803,
-            "max_longitude": 40.259813,
-            "min_latitude": 40.235426,
-            "min_longitude": 40.192893
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-69",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Bayburt",
+        "name": "Adana",
         "postal": "69",
         "type": "Il",
         "type_en": "Province"
     },
     "70": {
         "alt_names": [
-            "Karaman"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -9786,24 +9784,24 @@
             "woe_name": "Karaman"
         },
         "geo": {
-            "latitude": 37.17593,
-            "longitude": 33.228748,
-            "max_latitude": 37.212325,
-            "max_longitude": 33.271025,
-            "min_latitude": 37.146256,
-            "min_longitude": 33.179099
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-70",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Karaman",
+        "name": "Adana",
         "postal": "70",
         "type": "Il",
         "type_en": "Province"
     },
     "71": {
         "alt_names": [
-            "Kirrikkale"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -9926,24 +9924,24 @@
             "woe_name": "Kinkkale"
         },
         "geo": {
-            "latitude": 39.846821,
-            "longitude": 33.515251,
-            "max_latitude": 39.869203,
-            "max_longitude": 33.5761229,
-            "min_latitude": 39.814633,
-            "min_longitude": 33.4698919
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-71",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Kirikkale",
+        "name": "Adana",
         "postal": "71",
         "type": "Il",
         "type_en": "Province"
     },
     "72": {
         "alt_names": [
-            "Batman"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -10066,24 +10064,24 @@
             "woe_name": "Batman"
         },
         "geo": {
-            "latitude": 37.881168,
-            "longitude": 41.13509,
-            "max_latitude": 37.934147,
-            "max_longitude": 41.1744038,
-            "min_latitude": 37.856892,
-            "min_longitude": 41.0890702
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-72",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Batman",
+        "name": "Adana",
         "postal": "72",
         "type": "Il",
         "type_en": "Province"
     },
     "73": {
         "alt_names": [
-            "Sirnak"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -10206,24 +10204,24 @@
             "woe_name": "Sirnak"
         },
         "geo": {
-            "latitude": 37.516389,
-            "longitude": 42.461111,
-            "max_latitude": 37.53534,
-            "max_longitude": 42.4721549,
-            "min_latitude": 37.508777,
-            "min_longitude": 42.440616
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-73",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Sirnak",
+        "name": "Adana",
         "postal": "73",
         "type": "Il",
         "type_en": "Province"
     },
     "74": {
         "alt_names": [
-            "Bartin"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -10346,24 +10344,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 41.641521,
-            "longitude": 32.345581,
-            "max_latitude": 41.654625,
-            "max_longitude": 32.3715931,
-            "min_latitude": 41.604933,
-            "min_longitude": 32.3046411
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-74",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Bartin",
+        "name": "Adana",
         "postal": "74",
         "type": "Il",
         "type_en": "Province"
     },
     "75": {
         "alt_names": [
-            "Ardahan"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -10486,24 +10484,24 @@
             "woe_name": "Ardahan"
         },
         "geo": {
-            "latitude": 41.110481,
-            "longitude": 42.702171,
-            "max_latitude": 41.125951,
-            "max_longitude": 42.7281391,
-            "min_latitude": 41.099811,
-            "min_longitude": 42.6801308
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-75",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Ardahan",
+        "name": "Adana",
         "postal": "75",
         "type": "Il",
         "type_en": "Province"
     },
     "76": {
         "alt_names": [
-            "Igdir"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -10626,24 +10624,24 @@
             "woe_name": "I\u00c4\u0178d\u00c4\u00b1r"
         },
         "geo": {
-            "latitude": 39.9193,
-            "longitude": 44.065498,
-            "max_latitude": 39.950163,
-            "max_longitude": 44.0928248,
-            "min_latitude": 39.884109,
-            "min_longitude": 43.9807291
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-76",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Igdir",
+        "name": "Adana",
         "postal": "76",
         "type": "Il",
         "type_en": "Province"
     },
     "77": {
         "alt_names": [
-            "Yalova"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -10766,24 +10764,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 40.65,
-            "longitude": 29.266667,
-            "max_latitude": 40.66593,
-            "max_longitude": 29.3150099,
-            "min_latitude": 40.619459,
-            "min_longitude": 29.2101232
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-77",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Yalova",
+        "name": "Adana",
         "postal": "77",
         "type": "Il",
         "type_en": "Province"
     },
     "78": {
         "alt_names": [
-            "Karab\u00fck"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -10906,24 +10904,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 41.2061,
-            "longitude": 32.62035,
-            "max_latitude": 41.239923,
-            "max_longitude": 32.7121672,
-            "min_latitude": 41.172524,
-            "min_longitude": 32.589157
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-78",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Karab\u00fck",
+        "name": "Adana",
         "postal": "78",
         "type": "Il",
         "type_en": "Province"
     },
     "79": {
         "alt_names": [
-            "Kilis"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -11046,24 +11044,24 @@
             "woe_name": "Kilis"
         },
         "geo": {
-            "latitude": 36.718399,
-            "longitude": 37.12122,
-            "max_latitude": 36.736896,
-            "max_longitude": 37.1601428,
-            "min_latitude": 36.70222,
-            "min_longitude": 37.0916161
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-79",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Kilis",
+        "name": "Adana",
         "postal": "79",
         "type": "Il",
         "type_en": "Province"
     },
     "80": {
         "alt_names": [
-            "Osmaniye"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -11186,24 +11184,24 @@
             "woe_name": "Osmaniye"
         },
         "geo": {
-            "latitude": 37.06805,
-            "longitude": 36.261589,
-            "max_latitude": 37.104061,
-            "max_longitude": 36.2902399,
-            "min_latitude": 37.04694,
-            "min_longitude": 36.2080339
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-80",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "Osmaniye",
+        "name": "Adana",
         "postal": "80",
         "type": "Il",
         "type_en": "Province"
     },
     "81": {
         "alt_names": [
-            "D\u00fczce"
+            "Seyhan"
         ],
         "cca2": "TR",
         "cca3": "TUR",
@@ -11326,17 +11324,17 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 40.843849,
-            "longitude": 31.15654,
-            "max_latitude": 40.886112,
-            "max_longitude": 31.1883682,
-            "min_latitude": 40.820133,
-            "min_longitude": 31.116829
+            "latitude": 37,
+            "longitude": 35.321333,
+            "max_latitude": 37.065693,
+            "max_longitude": 35.4720578,
+            "min_latitude": 36.929137,
+            "min_longitude": 35.1040759
         },
         "iso_3166_2": "TR-81",
         "iso_a2": "TR",
         "iso_a3": "TUR",
-        "name": "D\u00fczce",
+        "name": "Adana",
         "postal": "81",
         "type": "Il",
         "type_en": "Province"

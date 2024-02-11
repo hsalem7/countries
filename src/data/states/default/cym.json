@@ -1,7 +1,7 @@
 {
     "X01~": {
         "alt_names": [
-            ""
+            "Bodden Town"
         ],
         "cca2": "KY",
         "cca3": "CYM",
@@ -124,13 +124,17 @@
             "woe_name": "Cayman Islands"
         },
         "geo": {
-            "latitude": "19.3167000000",
-            "longitude": "-81.2592000000"
+            "latitude": 19.2833,
+            "longitude": -81.25,
+            "max_latitude": 19.2955093,
+            "max_longitude": -81.2319991,
+            "min_latitude": 19.2637998,
+            "min_longitude": -81.2832928
         },
         "iso_3166_2": "KY-X01~",
         "iso_a2": "KY",
         "iso_a3": "CYM",
-        "name": "Cayman Islands",
+        "name": "Bodden Town",
         "postal": "X01~",
         "type": "",
         "type_en": ""

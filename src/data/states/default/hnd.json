@@ -141,7 +141,7 @@
     },
     "CH": {
         "alt_names": [
-            "Choluteca"
+            "Atl\u00e1ntida"
         ],
         "cca2": "HN",
         "cca3": "HND",
@@ -264,24 +264,24 @@
             "woe_name": "Choluteca"
         },
         "geo": {
-            "latitude": 13.3198572,
-            "longitude": -87.1622344,
-            "max_latitude": 13.3577214,
-            "max_longitude": -87.114973,
-            "min_latitude": 13.2443735,
-            "min_longitude": -87.2275829
+            "latitude": 15.6696283,
+            "longitude": -87.1422895,
+            "max_latitude": 15.9182919,
+            "max_longitude": -86.3275431,
+            "min_latitude": 15.430607,
+            "min_longitude": -87.7970871
         },
         "iso_3166_2": "HN-CH",
         "iso_a2": "HN",
         "iso_a3": "HND",
-        "name": "Choluteca",
+        "name": "Atl\u00e1ntida",
         "postal": "CH",
         "type": "Departamento",
         "type_en": "Department"
     },
     "CL": {
         "alt_names": [
-            "Col\u00f3n"
+            "Atl\u00e1ntida"
         ],
         "cca2": "HN",
         "cca3": "HND",
@@ -404,24 +404,24 @@
             "woe_name": "Col\u00f3n"
         },
         "geo": {
-            "latitude": 15.6391768,
-            "longitude": -85.354965,
-            "max_latitude": 16.0269222,
-            "max_longitude": -84.9903293,
-            "min_latitude": 15.0795581,
-            "min_longitude": -86.4258461
+            "latitude": 15.6696283,
+            "longitude": -87.1422895,
+            "max_latitude": 15.9182919,
+            "max_longitude": -86.3275431,
+            "min_latitude": 15.430607,
+            "min_longitude": -87.7970871
         },
         "iso_3166_2": "HN-CL",
         "iso_a2": "HN",
         "iso_a3": "HND",
-        "name": "Col\u00f3n",
+        "name": "Atl\u00e1ntida",
         "postal": "CL",
         "type": "Departamento",
         "type_en": "Department"
     },
     "CM": {
         "alt_names": [
-            "Comayagua"
+            "Atl\u00e1ntida"
         ],
         "cca2": "HN",
         "cca3": "HND",
@@ -544,24 +544,24 @@
             "woe_name": "Comayagua"
         },
         "geo": {
-            "latitude": 14.5534828,
-            "longitude": -87.6186379,
-            "max_latitude": 15.0569,
-            "max_longitude": -87.261583,
-            "min_latitude": 14.0668049,
-            "min_longitude": -88.083211
+            "latitude": 15.6696283,
+            "longitude": -87.1422895,
+            "max_latitude": 15.9182919,
+            "max_longitude": -86.3275431,
+            "min_latitude": 15.430607,
+            "min_longitude": -87.7970871
         },
         "iso_3166_2": "HN-CM",
         "iso_a2": "HN",
         "iso_a3": "HND",
-        "name": "Comayagua",
+        "name": "Atl\u00e1ntida",
         "postal": "CM",
         "type": "Departamento",
         "type_en": "Department"
     },
     "CP": {
         "alt_names": [
-            "Cop\u00e1n"
+            "Atl\u00e1ntida"
         ],
         "cca2": "HN",
         "cca3": "HND",
@@ -684,24 +684,24 @@
             "woe_name": "Cop\u00e1n"
         },
         "geo": {
-            "latitude": 14.9360838,
-            "longitude": -88.864698,
-            "max_latitude": 15.294539,
-            "max_longitude": -88.63253,
-            "min_latitude": 14.5260461,
-            "min_longitude": -89.22522
+            "latitude": 15.6696283,
+            "longitude": -87.1422895,
+            "max_latitude": 15.9182919,
+            "max_longitude": -86.3275431,
+            "min_latitude": 15.430607,
+            "min_longitude": -87.7970871
         },
         "iso_3166_2": "HN-CP",
         "iso_a2": "HN",
         "iso_a3": "HND",
-        "name": "Cop\u00e1n",
+        "name": "Atl\u00e1ntida",
         "postal": "CP",
         "type": "Departamento",
         "type_en": "Department"
     },
     "CR": {
         "alt_names": [
-            "Cort\u00e9s"
+            "Atl\u00e1ntida"
         ],
         "cca2": "HN",
         "cca3": "HND",
@@ -824,24 +824,24 @@
             "woe_name": "Cort\u00e9s"
         },
         "geo": {
-            "latitude": 15.4909515,
-            "longitude": -87.9334803,
-            "max_latitude": 15.9198125,
-            "max_longitude": -87.7257844,
-            "min_latitude": 14.8104159,
-            "min_longitude": -88.442526
+            "latitude": 15.6696283,
+            "longitude": -87.1422895,
+            "max_latitude": 15.9182919,
+            "max_longitude": -86.3275431,
+            "min_latitude": 15.430607,
+            "min_longitude": -87.7970871
         },
         "iso_3166_2": "HN-CR",
         "iso_a2": "HN",
         "iso_a3": "HND",
-        "name": "Cort\u00e9s",
+        "name": "Atl\u00e1ntida",
         "postal": "CR",
         "type": "Departamento",
         "type_en": "Department"
     },
     "EP": {
         "alt_names": [
-            "El Para\u00edso"
+            "Atl\u00e1ntida"
         ],
         "cca2": "HN",
         "cca3": "HND",
@@ -964,24 +964,24 @@
             "woe_name": "El Para\u00edso"
         },
         "geo": {
-            "latitude": 14.0736932,
-            "longitude": -86.4187308,
-            "max_latitude": 14.3801481,
-            "max_longitude": -85.5764771,
-            "min_latitude": 13.5013601,
-            "min_longitude": -87.235605
+            "latitude": 15.6696283,
+            "longitude": -87.1422895,
+            "max_latitude": 15.9182919,
+            "max_longitude": -86.3275431,
+            "min_latitude": 15.430607,
+            "min_longitude": -87.7970871
         },
         "iso_3166_2": "HN-EP",
         "iso_a2": "HN",
         "iso_a3": "HND",
-        "name": "El Para\u00edso",
+        "name": "Atl\u00e1ntida",
         "postal": "EP",
         "type": "Departamento",
         "type_en": "Department"
     },
     "FM": {
         "alt_names": [
-            "Francisco Moraz\u00e1n"
+            "Atl\u00e1ntida"
         ],
         "cca2": "HN",
         "cca3": "HND",
@@ -1104,24 +1104,24 @@
             "woe_name": "Francisco Moraz\u00e1n"
         },
         "geo": {
-            "latitude": 14.45411,
-            "longitude": -87.0624261,
-            "max_latitude": 15.013803,
-            "max_longitude": -86.70462,
-            "min_latitude": 13.662749,
-            "min_longitude": -87.648878
+            "latitude": 15.6696283,
+            "longitude": -87.1422895,
+            "max_latitude": 15.9182919,
+            "max_longitude": -86.3275431,
+            "min_latitude": 15.430607,
+            "min_longitude": -87.7970871
         },
         "iso_3166_2": "HN-FM",
         "iso_a2": "HN",
         "iso_a3": "HND",
-        "name": "Francisco Moraz\u00e1n",
+        "name": "Atl\u00e1ntida",
         "postal": "FM",
         "type": "Departamento",
         "type_en": "Department"
     },
     "GD": {
         "alt_names": [
-            "Gracias a Dios"
+            "Atl\u00e1ntida"
         ],
         "cca2": "HN",
         "cca3": "HND",
@@ -1244,24 +1244,24 @@
             "woe_name": "Gracias a Dios"
         },
         "geo": {
-            "latitude": 15.341806,
-            "longitude": -84.6060449,
-            "max_latitude": 15.9782862,
-            "max_longitude": -83.155403,
-            "min_latitude": 14.614529,
-            "min_longitude": -84.99412
+            "latitude": 15.6696283,
+            "longitude": -87.1422895,
+            "max_latitude": 15.9182919,
+            "max_longitude": -86.3275431,
+            "min_latitude": 15.430607,
+            "min_longitude": -87.7970871
         },
         "iso_3166_2": "HN-GD",
         "iso_a2": "HN",
         "iso_a3": "HND",
-        "name": "Gracias a Dios",
+        "name": "Atl\u00e1ntida",
         "postal": "GD",
         "type": "Departamento",
         "type_en": "Department"
     },
     "IB": {
         "alt_names": [
-            "Islas de la Bah\u00eda"
+            "Atl\u00e1ntida"
         ],
         "cca2": "HN",
         "cca3": "HND",
@@ -1384,24 +1384,24 @@
             "woe_name": "Islas de la Bah\u00eda"
         },
         "geo": {
-            "latitude": 16.3526078,
-            "longitude": -86.4895463,
-            "max_latitude": 17.415835,
-            "max_longitude": -83.9287665,
-            "min_latitude": 16.069366,
-            "min_longitude": -86.9898641
+            "latitude": 15.6696283,
+            "longitude": -87.1422895,
+            "max_latitude": 15.9182919,
+            "max_longitude": -86.3275431,
+            "min_latitude": 15.430607,
+            "min_longitude": -87.7970871
         },
         "iso_3166_2": "HN-IB",
         "iso_a2": "HN",
         "iso_a3": "HND",
-        "name": "Islas de la Bah\u00eda",
+        "name": "Atl\u00e1ntida",
         "postal": "IB",
         "type": "Departamento",
         "type_en": "Department"
     },
     "IN": {
         "alt_names": [
-            "Intibuc\u00e1"
+            "Atl\u00e1ntida"
         ],
         "cca2": "HN",
         "cca3": "HND",
@@ -1524,24 +1524,24 @@
             "woe_name": "Intibuc\u00e1"
         },
         "geo": {
-            "latitude": 14.316667,
-            "longitude": -88.166667,
-            "max_latitude": 14.3376566,
-            "max_longitude": -88.1368732,
-            "min_latitude": 14.309215,
-            "min_longitude": -88.1977272
+            "latitude": 15.6696283,
+            "longitude": -87.1422895,
+            "max_latitude": 15.9182919,
+            "max_longitude": -86.3275431,
+            "min_latitude": 15.430607,
+            "min_longitude": -87.7970871
         },
         "iso_3166_2": "HN-IN",
         "iso_a2": "HN",
         "iso_a3": "HND",
-        "name": "Intibuc\u00e1",
+        "name": "Atl\u00e1ntida",
         "postal": "IN",
         "type": "Departamento",
         "type_en": "Department"
     },
     "LE": {
         "alt_names": [
-            "Lempira"
+            "Atl\u00e1ntida"
         ],
         "cca2": "HN",
         "cca3": "HND",
@@ -1664,24 +1664,24 @@
             "woe_name": "Lempira"
         },
         "geo": {
-            "latitude": 14.1887698,
-            "longitude": -88.556531,
-            "max_latitude": 14.955633,
-            "max_longitude": -88.3192471,
-            "min_latitude": 13.978775,
-            "min_longitude": -88.990234
+            "latitude": 15.6696283,
+            "longitude": -87.1422895,
+            "max_latitude": 15.9182919,
+            "max_longitude": -86.3275431,
+            "min_latitude": 15.430607,
+            "min_longitude": -87.7970871
         },
         "iso_3166_2": "HN-LE",
         "iso_a2": "HN",
         "iso_a3": "HND",
-        "name": "Lempira",
+        "name": "Atl\u00e1ntida",
         "postal": "LE",
         "type": "Departamento",
         "type_en": "Department"
     },
     "LP": {
         "alt_names": [
-            "La Paz"
+            "Atl\u00e1ntida"
         ],
         "cca2": "HN",
         "cca3": "HND",
@@ -1804,24 +1804,24 @@
             "woe_name": "La Paz"
         },
         "geo": {
-            "latitude": 13.9984833,
-            "longitude": -87.9334803,
-            "max_latitude": 14.417439,
-            "max_longitude": -87.6088089,
-            "min_latitude": 13.822687,
-            "min_longitude": -88.237582
+            "latitude": 15.6696283,
+            "longitude": -87.1422895,
+            "max_latitude": 15.9182919,
+            "max_longitude": -86.3275431,
+            "min_latitude": 15.430607,
+            "min_longitude": -87.7970871
         },
         "iso_3166_2": "HN-LP",
         "iso_a2": "HN",
         "iso_a3": "HND",
-        "name": "La Paz",
+        "name": "Atl\u00e1ntida",
         "postal": "LP",
         "type": "Departamento",
         "type_en": "Department"
     },
     "OC": {
         "alt_names": [
-            "Ocotepeque"
+            "Atl\u00e1ntida"
         ],
         "cca2": "HN",
         "cca3": "HND",
@@ -1944,24 +1944,24 @@
             "woe_name": "Ocotepeque"
         },
         "geo": {
-            "latitude": 14.5170347,
-            "longitude": -89.0561532,
-            "max_latitude": 14.747355,
-            "max_longitude": -88.716308,
-            "min_latitude": 14.249759,
-            "min_longitude": -89.350792
+            "latitude": 15.6696283,
+            "longitude": -87.1422895,
+            "max_latitude": 15.9182919,
+            "max_longitude": -86.3275431,
+            "min_latitude": 15.430607,
+            "min_longitude": -87.7970871
         },
         "iso_3166_2": "HN-OC",
         "iso_a2": "HN",
         "iso_a3": "HND",
-        "name": "Ocotepeque",
+        "name": "Atl\u00e1ntida",
         "postal": "OC",
         "type": "Departamento",
         "type_en": "Department"
     },
     "OL": {
         "alt_names": [
-            "Olancho"
+            "Atl\u00e1ntida"
         ],
         "cca2": "HN",
         "cca3": "HND",
@@ -2084,24 +2084,24 @@
             "woe_name": "Olancho"
         },
         "geo": {
-            "latitude": 14.8067406,
-            "longitude": -85.7666645,
-            "max_latitude": 15.61391,
-            "max_longitude": -84.987854,
-            "min_latitude": 14.046359,
-            "min_longitude": -86.9544921
+            "latitude": 15.6696283,
+            "longitude": -87.1422895,
+            "max_latitude": 15.9182919,
+            "max_longitude": -86.3275431,
+            "min_latitude": 15.430607,
+            "min_longitude": -87.7970871
         },
         "iso_3166_2": "HN-OL",
         "iso_a2": "HN",
         "iso_a3": "HND",
-        "name": "Olancho",
+        "name": "Atl\u00e1ntida",
         "postal": "OL",
         "type": "Departamento",
         "type_en": "Department"
     },
     "SB": {
         "alt_names": [
-            "Santa B\u00e1rbara"
+            "Atl\u00e1ntida"
         ],
         "cca2": "HN",
         "cca3": "HND",
@@ -2224,24 +2224,24 @@
             "woe_name": "Santa B\u00e1rbara"
         },
         "geo": {
-            "latitude": 15.1202795,
-            "longitude": -88.4016041,
-            "max_latitude": 15.53789,
-            "max_longitude": -87.9959605,
-            "min_latitude": 14.5849759,
-            "min_longitude": -88.751592
+            "latitude": 15.6696283,
+            "longitude": -87.1422895,
+            "max_latitude": 15.9182919,
+            "max_longitude": -86.3275431,
+            "min_latitude": 15.430607,
+            "min_longitude": -87.7970871
         },
         "iso_3166_2": "HN-SB",
         "iso_a2": "HN",
         "iso_a3": "HND",
-        "name": "Santa B\u00e1rbara",
+        "name": "Atl\u00e1ntida",
         "postal": "SB",
         "type": "Departamento",
         "type_en": "Department"
     },
     "VA": {
         "alt_names": [
-            "Valle"
+            "Atl\u00e1ntida"
         ],
         "cca2": "HN",
         "cca3": "HND",
@@ -2364,24 +2364,24 @@
             "woe_name": "Valle"
         },
         "geo": {
-            "latitude": 13.5782936,
-            "longitude": -87.5791287,
-            "max_latitude": 13.853783,
-            "max_longitude": -87.361198,
-            "min_latitude": 13.2487044,
-            "min_longitude": -87.8682931
+            "latitude": 15.6696283,
+            "longitude": -87.1422895,
+            "max_latitude": 15.9182919,
+            "max_longitude": -86.3275431,
+            "min_latitude": 15.430607,
+            "min_longitude": -87.7970871
         },
         "iso_3166_2": "HN-VA",
         "iso_a2": "HN",
         "iso_a3": "HND",
-        "name": "Valle",
+        "name": "Atl\u00e1ntida",
         "postal": "VA",
         "type": "Departamento",
         "type_en": "Department"
     },
     "YO": {
         "alt_names": [
-            "Yoro"
+            "Atl\u00e1ntida"
         ],
         "cca2": "HN",
         "cca3": "HND",
@@ -2504,17 +2504,17 @@
             "woe_name": "Yoro"
         },
         "geo": {
-            "latitude": 15.2949679,
+            "latitude": 15.6696283,
             "longitude": -87.1422895,
-            "max_latitude": 15.729222,
-            "max_longitude": -86.2196529,
-            "min_latitude": 14.7905061,
-            "min_longitude": -87.9417579
+            "max_latitude": 15.9182919,
+            "max_longitude": -86.3275431,
+            "min_latitude": 15.430607,
+            "min_longitude": -87.7970871
         },
         "iso_3166_2": "HN-YO",
         "iso_a2": "HN",
         "iso_a3": "HND",
-        "name": "Yoro",
+        "name": "Atl\u00e1ntida",
         "postal": "YO",
         "type": "Departamento",
         "type_en": "Department"

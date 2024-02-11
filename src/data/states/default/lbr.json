@@ -141,7 +141,7 @@
     },
     "BM": {
         "alt_names": [
-            "Bomi"
+            "Bong"
         ],
         "cca2": "LR",
         "cca3": "LBR",
@@ -264,24 +264,24 @@
             "woe_name": "Bomi"
         },
         "geo": {
-            "latitude": 6.7562926,
-            "longitude": -10.8451467,
-            "max_latitude": 6.970269,
-            "max_longitude": -10.4870661,
-            "min_latitude": 6.479747,
-            "min_longitude": -11.0814981
+            "latitude": 6.8295019,
+            "longitude": -9.3673084,
+            "max_latitude": 7.430015,
+            "max_longitude": -9.094152,
+            "min_latitude": 6.397581,
+            "min_longitude": -10.4769088
         },
         "iso_3166_2": "LR-BM",
         "iso_a2": "LR",
         "iso_a3": "LBR",
-        "name": "Bomi",
+        "name": "Bong",
         "postal": "BM",
         "type": "County",
         "type_en": "County"
     },
     "CM": {
         "alt_names": [
-            "Grand Cape Mount"
+            "Bong"
         ],
         "cca2": "LR",
         "cca3": "LBR",
@@ -404,24 +404,24 @@
             "woe_name": "Grand Cape Mount"
         },
         "geo": {
-            "latitude": 7.0467758,
-            "longitude": -11.0711758,
-            "max_latitude": 7.527847,
-            "max_longitude": -10.5165701,
-            "min_latitude": 6.577183,
-            "min_longitude": -11.486138
+            "latitude": 6.8295019,
+            "longitude": -9.3673084,
+            "max_latitude": 7.430015,
+            "max_longitude": -9.094152,
+            "min_latitude": 6.397581,
+            "min_longitude": -10.4769088
         },
         "iso_3166_2": "LR-CM",
         "iso_a2": "LR",
         "iso_a3": "LBR",
-        "name": "Grand Cape Mount",
+        "name": "Bong",
         "postal": "CM",
         "type": "County",
         "type_en": "County"
     },
     "GB": {
         "alt_names": [
-            "Grand Bassa"
+            "Bong"
         ],
         "cca2": "LR",
         "cca3": "LBR",
@@ -544,24 +544,24 @@
             "woe_name": "Grand Bassa"
         },
         "geo": {
-            "latitude": 6.2308452,
-            "longitude": -9.8124935,
-            "max_latitude": 6.7131769,
-            "max_longitude": -9.0244939,
-            "min_latitude": 5.5731877,
-            "min_longitude": -10.3763649
+            "latitude": 6.8295019,
+            "longitude": -9.3673084,
+            "max_latitude": 7.430015,
+            "max_longitude": -9.094152,
+            "min_latitude": 6.397581,
+            "min_longitude": -10.4769088
         },
         "iso_3166_2": "LR-GB",
         "iso_a2": "LR",
         "iso_a3": "LBR",
-        "name": "Grand Bassa",
+        "name": "Bong",
         "postal": "GB",
         "type": "County",
         "type_en": "County"
     },
     "GG": {
         "alt_names": [
-            "Grand Gedah"
+            "Bong"
         ],
         "cca2": "LR",
         "cca3": "LBR",
@@ -684,24 +684,24 @@
             "woe_name": "Grand Gedeh"
         },
         "geo": {
-            "latitude": 5.9222078,
-            "longitude": -8.2212979,
-            "max_latitude": 6.5055949,
-            "max_longitude": -7.3714779,
-            "min_latitude": 5.514285,
-            "min_longitude": -9.0887029
+            "latitude": 6.8295019,
+            "longitude": -9.3673084,
+            "max_latitude": 7.430015,
+            "max_longitude": -9.094152,
+            "min_latitude": 6.397581,
+            "min_longitude": -10.4769088
         },
         "iso_3166_2": "LR-GG",
         "iso_a2": "LR",
         "iso_a3": "LBR",
-        "name": "Grand Gedeh",
+        "name": "Bong",
         "postal": "GG",
         "type": "County",
         "type_en": "County"
     },
     "GK": {
         "alt_names": [
-            "Grand Kru"
+            "Bong"
         ],
         "cca2": "LR",
         "cca3": "LBR",
@@ -824,24 +824,24 @@
             "woe_name": "Grand Kru"
         },
         "geo": {
-            "latitude": 4.7613862,
-            "longitude": -8.2212979,
-            "max_latitude": 5.2333999,
-            "max_longitude": -7.759546,
-            "min_latitude": 4.434164,
-            "min_longitude": -8.6776371
+            "latitude": 6.8295019,
+            "longitude": -9.3673084,
+            "max_latitude": 7.430015,
+            "max_longitude": -9.094152,
+            "min_latitude": 6.397581,
+            "min_longitude": -10.4769088
         },
         "iso_3166_2": "LR-GK",
         "iso_a2": "LR",
         "iso_a3": "LBR",
-        "name": "Grand Kru",
+        "name": "Bong",
         "postal": "GK",
         "type": "County",
         "type_en": "County"
     },
     "LO": {
         "alt_names": [
-            "Lofa"
+            "Bong"
         ],
         "cca2": "LR",
         "cca3": "LBR",
@@ -964,24 +964,24 @@
             "woe_name": "Lofa"
         },
         "geo": {
-            "latitude": 8.1911184,
-            "longitude": -9.7232673,
-            "max_latitude": 8.5517911,
-            "max_longitude": -9.343918,
-            "min_latitude": 7.178835,
-            "min_longitude": -10.606035
+            "latitude": 6.8295019,
+            "longitude": -9.3673084,
+            "max_latitude": 7.430015,
+            "max_longitude": -9.094152,
+            "min_latitude": 6.397581,
+            "min_longitude": -10.4769088
         },
         "iso_3166_2": "LR-LO",
         "iso_a2": "LR",
         "iso_a3": "LBR",
-        "name": "Lofa",
+        "name": "Bong",
         "postal": "LO",
         "type": "County",
         "type_en": "County"
     },
     "MG": {
         "alt_names": [
-            "Margibi"
+            "Bong"
         ],
         "cca2": "LR",
         "cca3": "LBR",
@@ -1104,24 +1104,24 @@
             "woe_name": "Margibi"
         },
         "geo": {
-            "latitude": 6.5151875,
-            "longitude": -10.3048897,
-            "max_latitude": 6.8118709,
-            "max_longitude": -9.722209,
-            "min_latitude": 6.1389843,
-            "min_longitude": -10.647893
+            "latitude": 6.8295019,
+            "longitude": -9.3673084,
+            "max_latitude": 7.430015,
+            "max_longitude": -9.094152,
+            "min_latitude": 6.397581,
+            "min_longitude": -10.4769088
         },
         "iso_3166_2": "LR-MG",
         "iso_a2": "LR",
         "iso_a3": "LBR",
-        "name": "Margibi",
+        "name": "Bong",
         "postal": "MG",
         "type": "County",
         "type_en": "County"
     },
     "MO": {
         "alt_names": [
-            "Montserrado"
+            "Bong"
         ],
         "cca2": "LR",
         "cca3": "LBR",
@@ -1244,24 +1244,24 @@
             "woe_name": "Montserrado"
         },
         "geo": {
-            "latitude": 6.5525815,
-            "longitude": -10.5296115,
-            "max_latitude": 6.8513641,
-            "max_longitude": -10.3692761,
-            "min_latitude": 6.22048,
-            "min_longitude": -10.9532799
+            "latitude": 6.8295019,
+            "longitude": -9.3673084,
+            "max_latitude": 7.430015,
+            "max_longitude": -9.094152,
+            "min_latitude": 6.397581,
+            "min_longitude": -10.4769088
         },
         "iso_3166_2": "LR-MO",
         "iso_a2": "LR",
         "iso_a3": "LBR",
-        "name": "Montserrado",
+        "name": "Bong",
         "postal": "MO",
         "type": "County",
         "type_en": "County"
     },
     "MY": {
         "alt_names": [
-            "Maryland"
+            "Bong"
         ],
         "cca2": "LR",
         "cca3": "LBR",
@@ -1384,24 +1384,24 @@
             "woe_name": "Maryland"
         },
         "geo": {
-            "latitude": 4.7258878,
-            "longitude": -7.7416703,
-            "max_latitude": 5.130765,
-            "max_longitude": -7.5213661,
-            "min_latitude": 4.3541994,
-            "min_longitude": -8.0795251
+            "latitude": 6.8295019,
+            "longitude": -9.3673084,
+            "max_latitude": 7.430015,
+            "max_longitude": -9.094152,
+            "min_latitude": 6.397581,
+            "min_longitude": -10.4769088
         },
         "iso_3166_2": "LR-MY",
         "iso_a2": "LR",
         "iso_a3": "LBR",
-        "name": "Maryland",
+        "name": "Bong",
         "postal": "MY",
         "type": "County",
         "type_en": "County"
     },
     "NI": {
         "alt_names": [
-            "Nimba"
+            "Bong"
         ],
         "cca2": "LR",
         "cca3": "LBR",
@@ -1524,24 +1524,24 @@
             "woe_name": "Nimba"
         },
         "geo": {
-            "latitude": 6.8427612,
-            "longitude": -8.6600586,
-            "max_latitude": 7.6961631,
-            "max_longitude": -8.27361,
-            "min_latitude": 5.823794,
-            "min_longitude": -9.2169951
+            "latitude": 6.8295019,
+            "longitude": -9.3673084,
+            "max_latitude": 7.430015,
+            "max_longitude": -9.094152,
+            "min_latitude": 6.397581,
+            "min_longitude": -10.4769088
         },
         "iso_3166_2": "LR-NI",
         "iso_a2": "LR",
         "iso_a3": "LBR",
-        "name": "Nimba",
+        "name": "Bong",
         "postal": "NI",
         "type": "County",
         "type_en": "County"
     },
     "RI": {
         "alt_names": [
-            "Rivercess"
+            "Bong"
         ],
         "cca2": "LR",
         "cca3": "LBR",
@@ -1664,24 +1664,24 @@
             "woe_name": "River Cess"
         },
         "geo": {
-            "latitude": 5.9025328,
-            "longitude": -9.456155,
-            "max_latitude": 6.378757,
-            "max_longitude": -9.058736,
-            "min_latitude": 5.269763,
-            "min_longitude": -9.733109
+            "latitude": 6.8295019,
+            "longitude": -9.3673084,
+            "max_latitude": 7.430015,
+            "max_longitude": -9.094152,
+            "min_latitude": 6.397581,
+            "min_longitude": -10.4769088
         },
         "iso_3166_2": "LR-RI",
         "iso_a2": "LR",
         "iso_a3": "LBR",
-        "name": "Rivercess",
+        "name": "Bong",
         "postal": "RI",
         "type": "County",
         "type_en": "County"
     },
     "SI": {
         "alt_names": [
-            "Sinoe"
+            "Bong"
         ],
         "cca2": "LR",
         "cca3": "LBR",
@@ -1804,24 +1804,24 @@
             "woe_name": "Sinoe"
         },
         "geo": {
-            "latitude": 5.49871,
-            "longitude": -8.6600586,
-            "max_latitude": 5.844906,
-            "max_longitude": -8.2341789,
-            "min_latitude": 4.804354,
-            "min_longitude": -9.4184888
+            "latitude": 6.8295019,
+            "longitude": -9.3673084,
+            "max_latitude": 7.430015,
+            "max_longitude": -9.094152,
+            "min_latitude": 6.397581,
+            "min_longitude": -10.4769088
         },
         "iso_3166_2": "LR-SI",
         "iso_a2": "LR",
         "iso_a3": "LBR",
-        "name": "Sinoe",
+        "name": "Bong",
         "postal": "SI",
         "type": "County",
         "type_en": "County"
     },
     "X1~": {
         "alt_names": [
-            "Gbarpolu"
+            "Bong"
         ],
         "cca2": "LR",
         "cca3": "LBR",
@@ -1944,24 +1944,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 7.4952637,
-            "longitude": -10.0807298,
-            "max_latitude": 7.998692,
-            "max_longitude": -9.636509,
-            "min_latitude": 6.829072,
-            "min_longitude": -10.9533111
+            "latitude": 6.8295019,
+            "longitude": -9.3673084,
+            "max_latitude": 7.430015,
+            "max_longitude": -9.094152,
+            "min_latitude": 6.397581,
+            "min_longitude": -10.4769088
         },
         "iso_3166_2": "LR-X1~",
         "iso_a2": "LR",
         "iso_a3": "LBR",
-        "name": "Gbarpolu",
+        "name": "Bong",
         "postal": "X1~",
         "type": "County",
         "type_en": "County"
     },
     "X2~": {
         "alt_names": [
-            "River Gee"
+            "Bong"
         ],
         "cca2": "LR",
         "cca3": "LBR",
@@ -2084,17 +2084,17 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 5.2604894,
-            "longitude": -7.87216,
-            "max_latitude": 5.6097129,
-            "max_longitude": -7.365113,
-            "min_latitude": 4.8041949,
-            "min_longitude": -8.328245
+            "latitude": 6.8295019,
+            "longitude": -9.3673084,
+            "max_latitude": 7.430015,
+            "max_longitude": -9.094152,
+            "min_latitude": 6.397581,
+            "min_longitude": -10.4769088
         },
         "iso_3166_2": "LR-X2~",
         "iso_a2": "LR",
         "iso_a3": "LBR",
-        "name": "River Gee",
+        "name": "Bong",
         "postal": "X2~",
         "type": "County",
         "type_en": "County"

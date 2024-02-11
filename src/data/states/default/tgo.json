@@ -141,7 +141,7 @@
     },
     "K": {
         "alt_names": [
-            "Kara"
+            "Centre"
         ],
         "cca2": "TG",
         "cca3": "TGO",
@@ -264,24 +264,24 @@
             "woe_name": "Kara"
         },
         "geo": {
-            "latitude": 9.548889,
-            "longitude": 1.190556,
-            "max_latitude": 9.5661352,
-            "max_longitude": 1.2201691,
-            "min_latitude": 9.5343101,
-            "min_longitude": 1.1657524
+            "latitude": 8.6586029,
+            "longitude": 1.0586135,
+            "max_latitude": 9.296292,
+            "max_longitude": 1.650187,
+            "min_latitude": 7.9023141,
+            "min_longitude": 0.3816739
         },
         "iso_3166_2": "TG-K",
         "iso_a2": "TG",
         "iso_a3": "TGO",
-        "name": "Kara",
+        "name": "Centre",
         "postal": "K",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "M": {
         "alt_names": [
-            "Maritime (R\u00e9gion)"
+            "Centre"
         ],
         "cca2": "TG",
         "cca3": "TGO",
@@ -404,24 +404,24 @@
             "woe_name": "Maritime"
         },
         "geo": {
-            "latitude": 6.4913504,
-            "longitude": 1.2891036,
-            "max_latitude": 6.918175,
-            "max_longitude": 1.806693,
-            "min_latitude": 6.1091534,
-            "min_longitude": 0.717368
+            "latitude": 8.6586029,
+            "longitude": 1.0586135,
+            "max_latitude": 9.296292,
+            "max_longitude": 1.650187,
+            "min_latitude": 7.9023141,
+            "min_longitude": 0.3816739
         },
         "iso_3166_2": "TG-M",
         "iso_a2": "TG",
         "iso_a3": "TGO",
-        "name": "Maritime (R\u00e9gion)",
+        "name": "Centre",
         "postal": "M",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "P": {
         "alt_names": [
-            "Plateaux"
+            "Centre"
         ],
         "cca2": "TG",
         "cca3": "TGO",
@@ -544,24 +544,24 @@
             "woe_name": "Plateaux"
         },
         "geo": {
-            "latitude": 7.6101378,
+            "latitude": 8.6586029,
             "longitude": 1.0586135,
-            "max_latitude": 8.3681309,
-            "max_longitude": 1.677525,
-            "min_latitude": 6.542187,
-            "min_longitude": 0.501813
+            "max_latitude": 9.296292,
+            "max_longitude": 1.650187,
+            "min_latitude": 7.9023141,
+            "min_longitude": 0.3816739
         },
         "iso_3166_2": "TG-P",
         "iso_a2": "TG",
         "iso_a3": "TGO",
-        "name": "Plateaux",
+        "name": "Centre",
         "postal": "P",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "S": {
         "alt_names": [
-            "Savannes"
+            "Centre"
         ],
         "cca2": "TG",
         "cca3": "TGO",
@@ -684,17 +684,17 @@
             "woe_name": "Savanes"
         },
         "geo": {
-            "latitude": 10.5291781,
-            "longitude": 0.5257823,
-            "max_latitude": 11.138977,
-            "max_longitude": 0.9969091,
-            "min_latitude": 9.879532,
-            "min_longitude": -0.1473239
+            "latitude": 8.6586029,
+            "longitude": 1.0586135,
+            "max_latitude": 9.296292,
+            "max_longitude": 1.650187,
+            "min_latitude": 7.9023141,
+            "min_longitude": 0.3816739
         },
         "iso_3166_2": "TG-S",
         "iso_a2": "TG",
         "iso_a3": "TGO",
-        "name": "Savannes",
+        "name": "Centre",
         "postal": "S",
         "type": "R\u00e9gion",
         "type_en": "Region"

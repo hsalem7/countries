@@ -141,7 +141,7 @@
     },
     "B": {
         "alt_names": [
-            "Anzo\u00e1tegui"
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -264,24 +264,24 @@
             "woe_name": "Anzo\u00e1tegui"
         },
         "geo": {
-            "latitude": 8.5913073,
-            "longitude": -63.9586111,
-            "max_latitude": 10.3062849,
-            "max_longitude": -62.690419,
-            "min_latitude": 7.662309,
-            "min_longitude": -65.7231031
+            "latitude": 10.4883092,
+            "longitude": -66.8201397,
+            "max_latitude": 10.4915618,
+            "max_longitude": -66.8186636,
+            "min_latitude": 10.4846835,
+            "min_longitude": -66.8206768
         },
         "iso_3166_2": "VE-B",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "Anzo\u00e1tegui",
+        "name": "Distrito Federal",
         "postal": "B",
         "type": "Estado",
         "type_en": "State"
     },
     "C": {
         "alt_names": [
-            "Apure"
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -404,24 +404,24 @@
             "woe_name": "Apure"
         },
         "geo": {
-            "latitude": 6.9269483,
-            "longitude": -68.5247149,
-            "max_latitude": 8.071935,
-            "max_longitude": -66.387362,
-            "min_latitude": 6.0870821,
-            "min_longitude": -72.449402
+            "latitude": 10.4883092,
+            "longitude": -66.8201397,
+            "max_latitude": 10.4915618,
+            "max_longitude": -66.8186636,
+            "min_latitude": 10.4846835,
+            "min_longitude": -66.8206768
         },
         "iso_3166_2": "VE-C",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "Apure",
+        "name": "Distrito Federal",
         "postal": "C",
         "type": "Estado",
         "type_en": "State"
     },
     "D": {
         "alt_names": [
-            "Aragua"
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -544,24 +544,24 @@
             "woe_name": "Aragua"
         },
         "geo": {
-            "latitude": 10.2313205,
-            "longitude": -67.2847875,
-            "max_latitude": 10.5348419,
-            "max_longitude": -66.577714,
-            "min_latitude": 9.236194,
-            "min_longitude": -67.8416931
+            "latitude": 10.4883092,
+            "longitude": -66.8201397,
+            "max_latitude": 10.4915618,
+            "max_longitude": -66.8186636,
+            "min_latitude": 10.4846835,
+            "min_longitude": -66.8206768
         },
         "iso_3166_2": "VE-D",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "Aragua",
+        "name": "Distrito Federal",
         "postal": "D",
         "type": "Estado",
         "type_en": "State"
     },
     "E": {
         "alt_names": [
-            "Barinas"
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -684,24 +684,24 @@
             "woe_name": "Barinas"
         },
         "geo": {
-            "latitude": 8.6231498,
-            "longitude": -70.2371045,
-            "max_latitude": 8.676318,
-            "max_longitude": -70.1549148,
-            "min_latitude": 8.5676964,
-            "min_longitude": -70.3161825
+            "latitude": 10.4883092,
+            "longitude": -66.8201397,
+            "max_latitude": 10.4915618,
+            "max_longitude": -66.8186636,
+            "min_latitude": 10.4846835,
+            "min_longitude": -66.8206768
         },
         "iso_3166_2": "VE-E",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "Barinas",
+        "name": "Distrito Federal",
         "postal": "E",
         "type": "Estado",
         "type_en": "State"
     },
     "F": {
         "alt_names": [
-            "Bol\u00edvar"
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -824,24 +824,24 @@
             "woe_name": "Bol\u00edvar"
         },
         "geo": {
-            "latitude": 28.6002894,
-            "longitude": 77.1857196,
-            "max_latitude": 28.6005899,
-            "max_longitude": 77.1860916,
-            "min_latitude": 28.5999888,
-            "min_longitude": 77.1853477
+            "latitude": 10.4883092,
+            "longitude": -66.8201397,
+            "max_latitude": 10.4915618,
+            "max_longitude": -66.8186636,
+            "min_latitude": 10.4846835,
+            "min_longitude": -66.8206768
         },
         "iso_3166_2": "VE-F",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "Bol\u00edvar",
+        "name": "Distrito Federal",
         "postal": "F",
         "type": "Estado",
         "type_en": "State"
     },
     "G": {
         "alt_names": [
-            "Carabobo"
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -964,24 +964,24 @@
             "woe_name": "Carabobo"
         },
         "geo": {
-            "latitude": 10.1176433,
-            "longitude": -68.0477509,
-            "max_latitude": 10.582696,
-            "max_longitude": -67.500586,
-            "min_latitude": 9.8406099,
-            "min_longitude": -68.3616419
+            "latitude": 10.4883092,
+            "longitude": -66.8201397,
+            "max_latitude": 10.4915618,
+            "max_longitude": -66.8186636,
+            "min_latitude": 10.4846835,
+            "min_longitude": -66.8206768
         },
         "iso_3166_2": "VE-G",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "Carabobo",
+        "name": "Distrito Federal",
         "postal": "G",
         "type": "Estado",
         "type_en": "State"
     },
     "H": {
         "alt_names": [
-            "Cojedes"
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -1104,24 +1104,24 @@
             "woe_name": "Cojedes"
         },
         "geo": {
-            "latitude": 9.3816682,
-            "longitude": -68.3339275,
-            "max_latitude": 10.136926,
-            "max_longitude": -67.729923,
-            "min_latitude": 8.447204,
-            "min_longitude": -68.973962
+            "latitude": 10.4883092,
+            "longitude": -66.8201397,
+            "max_latitude": 10.4915618,
+            "max_longitude": -66.8186636,
+            "min_latitude": 10.4846835,
+            "min_longitude": -66.8206768
         },
         "iso_3166_2": "VE-H",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "Cojedes",
+        "name": "Distrito Federal",
         "postal": "H",
         "type": "Estado",
         "type_en": "State"
     },
     "I": {
         "alt_names": [
-            "Falc\u00f3n"
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -1244,24 +1244,24 @@
             "woe_name": "Falc\u00f3n"
         },
         "geo": {
-            "latitude": 11.1810674,
-            "longitude": -69.8597406,
-            "max_latitude": 12.1967488,
-            "max_longitude": -68.2239176,
-            "min_latitude": 10.3007589,
-            "min_longitude": -71.2543781
+            "latitude": 10.4883092,
+            "longitude": -66.8201397,
+            "max_latitude": 10.4915618,
+            "max_longitude": -66.8186636,
+            "min_latitude": 10.4846835,
+            "min_longitude": -66.8206768
         },
         "iso_3166_2": "VE-I",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "Falc\u00f3n",
+        "name": "Distrito Federal",
         "postal": "I",
         "type": "Estado",
         "type_en": "State"
     },
     "J": {
         "alt_names": [
-            "Gu\u00e1rico"
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -1384,24 +1384,24 @@
             "woe_name": "Gu\u00e1rico"
         },
         "geo": {
-            "latitude": 8.7489309,
-            "longitude": -66.2367172,
-            "max_latitude": 10.057669,
-            "max_longitude": -64.7539921,
-            "min_latitude": 7.60517,
-            "min_longitude": -68.0238901
+            "latitude": 10.4883092,
+            "longitude": -66.8201397,
+            "max_latitude": 10.4915618,
+            "max_longitude": -66.8186636,
+            "min_latitude": 10.4846835,
+            "min_longitude": -66.8206768
         },
         "iso_3166_2": "VE-J",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "Gu\u00e1rico",
+        "name": "Distrito Federal",
         "postal": "J",
         "type": "Estado",
         "type_en": "State"
     },
     "K": {
         "alt_names": [
-            "Lara"
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -1524,24 +1524,24 @@
             "woe_name": "Lara"
         },
         "geo": {
-            "latitude": 10.1537842,
-            "longitude": -69.8597406,
-            "max_latitude": 10.7833261,
-            "max_longitude": -68.863127,
-            "min_latitude": 9.471193,
-            "min_longitude": -70.86321
+            "latitude": 10.4883092,
+            "longitude": -66.8201397,
+            "max_latitude": 10.4915618,
+            "max_longitude": -66.8186636,
+            "min_latitude": 10.4846835,
+            "min_longitude": -66.8206768
         },
         "iso_3166_2": "VE-K",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "Lara",
+        "name": "Distrito Federal",
         "postal": "K",
         "type": "Estado",
         "type_en": "State"
     },
     "L": {
         "alt_names": [
-            "M\u00e9rida"
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -1664,24 +1664,24 @@
             "woe_name": "M\u00e9rida"
         },
         "geo": {
-            "latitude": 8.6,
-            "longitude": -71.15,
-            "max_latitude": 8.6325337,
-            "max_longitude": -71.1248876,
-            "min_latitude": 8.5508064,
-            "min_longitude": -71.2217046
+            "latitude": 10.4883092,
+            "longitude": -66.8201397,
+            "max_latitude": 10.4915618,
+            "max_longitude": -66.8186636,
+            "min_latitude": 10.4846835,
+            "min_longitude": -66.8206768
         },
         "iso_3166_2": "VE-L",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "M\u00e9rida",
+        "name": "Distrito Federal",
         "postal": "L",
         "type": "Estado",
         "type_en": "State"
     },
     "M": {
         "alt_names": [
-            "Miranda"
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -1814,14 +1814,14 @@
         "iso_3166_2": "VE-M",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "Miranda",
+        "name": "Distrito Federal",
         "postal": "M",
         "type": "Estado",
         "type_en": "State"
     },
     "N": {
         "alt_names": [
-            "Monagas"
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -1944,24 +1944,24 @@
             "woe_name": "Monagas"
         },
         "geo": {
-            "latitude": 9.3241652,
-            "longitude": -63.0147578,
-            "max_latitude": 10.313212,
-            "max_longitude": -61.992819,
-            "min_latitude": 8.370352,
-            "min_longitude": -64.060521
+            "latitude": 10.4883092,
+            "longitude": -66.8201397,
+            "max_latitude": 10.4915618,
+            "max_longitude": -66.8186636,
+            "min_latitude": 10.4846835,
+            "min_longitude": -66.8206768
         },
         "iso_3166_2": "VE-N",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "Monagas",
+        "name": "Distrito Federal",
         "postal": "N",
         "type": "Estado",
         "type_en": "State"
     },
     "O": {
         "alt_names": [
-            "Nueva Esparta"
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -2084,24 +2084,24 @@
             "woe_name": "Nueva Esparta"
         },
         "geo": {
-            "latitude": 10.9970723,
-            "longitude": -63.9113296,
-            "max_latitude": 11.1751676,
-            "max_longitude": -63.7801904,
-            "min_latitude": 10.7362473,
-            "min_longitude": -64.408394
+            "latitude": 10.4883092,
+            "longitude": -66.8201397,
+            "max_latitude": 10.4915618,
+            "max_longitude": -66.8186636,
+            "min_latitude": 10.4846835,
+            "min_longitude": -66.8206768
         },
         "iso_3166_2": "VE-O",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "Nueva Esparta",
+        "name": "Distrito Federal",
         "postal": "O",
         "type": "Estado",
         "type_en": "State"
     },
     "P": {
         "alt_names": [
-            "Portuguesa"
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -2224,24 +2224,24 @@
             "woe_name": "Portuguesa"
         },
         "geo": {
-            "latitude": 9.0943999,
-            "longitude": -69.097023,
-            "max_latitude": 9.936261,
-            "max_longitude": -68.4286499,
-            "min_latitude": 8.0664041,
-            "min_longitude": -70.20323
+            "latitude": 10.4883092,
+            "longitude": -66.8201397,
+            "max_latitude": 10.4915618,
+            "max_longitude": -66.8186636,
+            "min_latitude": 10.4846835,
+            "min_longitude": -66.8206768
         },
         "iso_3166_2": "VE-P",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "Portuguesa",
+        "name": "Distrito Federal",
         "postal": "P",
         "type": "Estado",
         "type_en": "State"
     },
     "R": {
         "alt_names": [
-            "Sucre"
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -2374,14 +2374,14 @@
         "iso_3166_2": "VE-R",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "Sucre",
+        "name": "Distrito Federal",
         "postal": "R",
         "type": "Estado",
         "type_en": "State"
     },
     "S": {
         "alt_names": [
-            "T\u00e1chira"
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -2504,24 +2504,24 @@
             "woe_name": "T\u00e1chira"
         },
         "geo": {
-            "latitude": 7.9137001,
-            "longitude": -72.1416132,
-            "max_latitude": 8.6657761,
-            "max_longitude": -71.349119,
-            "min_latitude": 7.328788,
-            "min_longitude": -72.487198
+            "latitude": 10.4883092,
+            "longitude": -66.8201397,
+            "max_latitude": 10.4915618,
+            "max_longitude": -66.8186636,
+            "min_latitude": 10.4846835,
+            "min_longitude": -66.8206768
         },
         "iso_3166_2": "VE-S",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "T\u00e1chira",
+        "name": "Distrito Federal",
         "postal": "S",
         "type": "Estado",
         "type_en": "State"
     },
     "T": {
         "alt_names": [
-            "Trujillo"
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -2644,24 +2644,24 @@
             "woe_name": "Trujillo"
         },
         "geo": {
-            "latitude": 9.366667,
-            "longitude": -70.433056,
-            "max_latitude": 9.3980627,
-            "max_longitude": -70.4230498,
-            "min_latitude": 9.3437211,
-            "min_longitude": -70.4553008
+            "latitude": 10.4883092,
+            "longitude": -66.8201397,
+            "max_latitude": 10.4915618,
+            "max_longitude": -66.8186636,
+            "min_latitude": 10.4846835,
+            "min_longitude": -66.8206768
         },
         "iso_3166_2": "VE-T",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "Trujillo",
+        "name": "Distrito Federal",
         "postal": "T",
         "type": "Estado",
         "type_en": "State"
     },
     "U": {
         "alt_names": [
-            "Yaracuy"
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -2784,24 +2784,24 @@
             "woe_name": "Yaracuy"
         },
         "geo": {
-            "latitude": 10.417644,
-            "longitude": -68.7154975,
-            "max_latitude": 10.7661631,
-            "max_longitude": -68.239899,
-            "min_latitude": 9.898343,
-            "min_longitude": -69.1803231
+            "latitude": 10.4883092,
+            "longitude": -66.8201397,
+            "max_latitude": 10.4915618,
+            "max_longitude": -66.8186636,
+            "min_latitude": 10.4846835,
+            "min_longitude": -66.8206768
         },
         "iso_3166_2": "VE-U",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "Yaracuy",
+        "name": "Distrito Federal",
         "postal": "U",
         "type": "Estado",
         "type_en": "State"
     },
     "V": {
         "alt_names": [
-            "Zulia"
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -2924,24 +2924,24 @@
             "woe_name": "Zulia"
         },
         "geo": {
-            "latitude": 9.967492,
-            "longitude": -72.5204827,
-            "max_latitude": 11.8552741,
-            "max_longitude": -70.63523,
-            "min_latitude": 8.387665,
-            "min_longitude": -73.3743129
+            "latitude": 10.4883092,
+            "longitude": -66.8201397,
+            "max_latitude": 10.4915618,
+            "max_longitude": -66.8186636,
+            "min_latitude": 10.4846835,
+            "min_longitude": -66.8206768
         },
         "iso_3166_2": "VE-V",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "Zulia",
+        "name": "Distrito Federal",
         "postal": "V",
         "type": "Estado",
         "type_en": "State"
     },
     "W": {
         "alt_names": [
-            "Dependencias Federales"
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -3064,24 +3064,24 @@
             "woe_name": "Dependencias Federales"
         },
         "geo": {
-            "latitude": 10.9377053,
-            "longitude": -65.3569573,
-            "max_latitude": 11.9848232,
-            "max_longitude": -63.078728,
-            "min_latitude": 10.889361,
-            "min_longitude": -67.6694946
+            "latitude": 10.4883092,
+            "longitude": -66.8201397,
+            "max_latitude": 10.4915618,
+            "max_longitude": -66.8186636,
+            "min_latitude": 10.4846835,
+            "min_longitude": -66.8206768
         },
         "iso_3166_2": "VE-W",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "Dependencias Federales",
+        "name": "Distrito Federal",
         "postal": "W",
         "type": "Dependencias Federales",
         "type_en": "Federal Dependency"
     },
     "X": {
         "alt_names": [
-            "Vargas"
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -3204,24 +3204,24 @@
             "woe_name": "Vargas"
         },
         "geo": {
-            "latitude": 10.5890015,
-            "longitude": -66.7367345,
-            "max_latitude": 10.6304144,
-            "max_longitude": -66.337891,
-            "min_latitude": 10.417451,
-            "min_longitude": -67.3725891
+            "latitude": 10.4883092,
+            "longitude": -66.8201397,
+            "max_latitude": 10.4915618,
+            "max_longitude": -66.8186636,
+            "min_latitude": 10.4846835,
+            "min_longitude": -66.8206768
         },
         "iso_3166_2": "VE-X",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "Vargas",
+        "name": "Distrito Federal",
         "postal": "X",
         "type": "Estado",
         "type_en": "State"
     },
     "X01~": {
         "alt_names": [
-            ""
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -3344,20 +3344,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "15.6990000000",
-            "longitude": "-63.6388000000"
+            "latitude": 10.4883092,
+            "longitude": -66.8201397,
+            "max_latitude": 10.4915618,
+            "max_longitude": -66.8186636,
+            "min_latitude": 10.4846835,
+            "min_longitude": -66.8206768
         },
         "iso_3166_2": "VE-X01~",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "",
+        "name": "Distrito Federal",
         "postal": "X01~",
         "type": "",
         "type_en": ""
     },
     "Y": {
         "alt_names": [
-            "Delta Amacuro"
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -3480,24 +3484,24 @@
             "woe_name": "Delta Amacuro"
         },
         "geo": {
-            "latitude": 8.8315945,
-            "longitude": -61.5180455,
-            "max_latitude": 10.053239,
-            "max_longitude": -59.80378,
-            "min_latitude": 7.608759,
-            "min_longitude": -62.6149749
+            "latitude": 10.4883092,
+            "longitude": -66.8201397,
+            "max_latitude": 10.4915618,
+            "max_longitude": -66.8186636,
+            "min_latitude": 10.4846835,
+            "min_longitude": -66.8206768
         },
         "iso_3166_2": "VE-Y",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "Delta Amacuro",
+        "name": "Distrito Federal",
         "postal": "Y",
         "type": "Estado",
         "type_en": "State"
     },
     "Z": {
         "alt_names": [
-            "Amazonas"
+            "Distrito Federal"
         ],
         "cca2": "VE",
         "cca3": "VEN",
@@ -3620,17 +3624,17 @@
             "woe_name": "Amazonas"
         },
         "geo": {
-            "latitude": 2.8101413,
-            "longitude": -65.0957792,
-            "max_latitude": 6.1556791,
-            "max_longitude": -63.371844,
-            "min_latitude": 0.674502,
-            "min_longitude": -67.877792
+            "latitude": 10.4883092,
+            "longitude": -66.8201397,
+            "max_latitude": 10.4915618,
+            "max_longitude": -66.8186636,
+            "min_latitude": 10.4846835,
+            "min_longitude": -66.8206768
         },
         "iso_3166_2": "VE-Z",
         "iso_a2": "VE",
         "iso_a3": "VEN",
-        "name": "Amazonas",
+        "name": "Distrito Federal",
         "postal": "Z",
         "type": "Estado",
         "type_en": "State"

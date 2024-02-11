@@ -141,7 +141,7 @@
     },
     "CE": {
         "alt_names": [
-            "Centre"
+            "Adamawa"
         ],
         "cca2": "CM",
         "cca3": "CMR",
@@ -264,24 +264,24 @@
             "woe_name": "Centre"
         },
         "geo": {
-            "latitude": 4.6298411,
-            "longitude": 11.7068294,
-            "max_latitude": 6.262234,
-            "max_longitude": 13.248086,
-            "min_latitude": 3.139809,
-            "min_longitude": 10.2618951
+            "latitude": 6.9181954,
+            "longitude": 12.8054753,
+            "max_latitude": 8.1690449,
+            "max_longitude": 15.2492441,
+            "min_latitude": 5.992985,
+            "min_longitude": 11.173742
         },
         "iso_3166_2": "CM-CE",
         "iso_a2": "CM",
         "iso_a3": "CMR",
-        "name": "Centre",
+        "name": "Adamaoua",
         "postal": "CE",
         "type": "Province",
         "type_en": "Province"
     },
     "EN": {
         "alt_names": [
-            "Far North"
+            "Adamawa"
         ],
         "cca2": "CM",
         "cca3": "CMR",
@@ -404,24 +404,24 @@
             "woe_name": "Extr\u00eame-Nord"
         },
         "geo": {
-            "latitude": 10.6315589,
-            "longitude": 14.6587821,
-            "max_latitude": 12.9797045,
-            "max_longitude": 15.683687,
-            "min_latitude": 9.9244931,
-            "min_longitude": 13.363565
+            "latitude": 6.9181954,
+            "longitude": 12.8054753,
+            "max_latitude": 8.1690449,
+            "max_longitude": 15.2492441,
+            "min_latitude": 5.992985,
+            "min_longitude": 11.173742
         },
         "iso_3166_2": "CM-EN",
         "iso_a2": "CM",
         "iso_a3": "CMR",
-        "name": "Far North",
+        "name": "Adamaoua",
         "postal": "EN",
         "type": "Province",
         "type_en": "Province"
     },
     "ES": {
         "alt_names": [
-            "East"
+            "Adamawa"
         ],
         "cca2": "CM",
         "cca3": "CMR",
@@ -544,24 +544,24 @@
             "woe_name": "Est"
         },
         "geo": {
-            "latitude": 3.9505128,
-            "longitude": 13.914399,
-            "max_latitude": 6.0856641,
-            "max_longitude": 16.1921161,
-            "min_latitude": 1.6525479,
-            "min_longitude": 12.5253721
+            "latitude": 6.9181954,
+            "longitude": 12.8054753,
+            "max_latitude": 8.1690449,
+            "max_longitude": 15.2492441,
+            "min_latitude": 5.992985,
+            "min_longitude": 11.173742
         },
         "iso_3166_2": "CM-ES",
         "iso_a2": "CM",
         "iso_a3": "CMR",
-        "name": "East",
+        "name": "Adamaoua",
         "postal": "ES",
         "type": "Province",
         "type_en": "Province"
     },
     "LT": {
         "alt_names": [
-            "Littoral"
+            "Adamawa"
         ],
         "cca2": "CM",
         "cca3": "CMR",
@@ -684,24 +684,24 @@
             "woe_name": "Littoral"
         },
         "geo": {
-            "latitude": 4.1682138,
-            "longitude": 10.0807298,
-            "max_latitude": 5.3471799,
-            "max_longitude": 11.133462,
-            "min_latitude": 3.2601088,
-            "min_longitude": 9.3282494
+            "latitude": 6.9181954,
+            "longitude": 12.8054753,
+            "max_latitude": 8.1690449,
+            "max_longitude": 15.2492441,
+            "min_latitude": 5.992985,
+            "min_longitude": 11.173742
         },
         "iso_3166_2": "CM-LT",
         "iso_a2": "CM",
         "iso_a3": "CMR",
-        "name": "Littoral",
+        "name": "Adamaoua",
         "postal": "LT",
         "type": "Province",
         "type_en": "Province"
     },
     "NO": {
         "alt_names": [
-            "B\u00e9nou\u00e9"
+            "Adamawa"
         ],
         "cca2": "CM",
         "cca3": "CMR",
@@ -824,24 +824,24 @@
             "woe_name": "Nord"
         },
         "geo": {
-            "latitude": 8.5809013,
-            "longitude": 13.914399,
-            "max_latitude": 10.219281,
-            "max_longitude": 15.598204,
-            "min_latitude": 7.029079,
-            "min_longitude": 12.2255
+            "latitude": 6.9181954,
+            "longitude": 12.8054753,
+            "max_latitude": 8.1690449,
+            "max_longitude": 15.2492441,
+            "min_latitude": 5.992985,
+            "min_longitude": 11.173742
         },
         "iso_3166_2": "CM-NO",
         "iso_a2": "CM",
         "iso_a3": "CMR",
-        "name": "North",
+        "name": "Adamaoua",
         "postal": "NO",
         "type": "Province",
         "type_en": "Province"
     },
     "NW": {
         "alt_names": [
-            "North-West"
+            "Adamawa"
         ],
         "cca2": "CM",
         "cca3": "CMR",
@@ -964,24 +964,24 @@
             "woe_name": "Nord-Ouest"
         },
         "geo": {
-            "latitude": 6.4703739,
-            "longitude": 10.439656,
-            "max_latitude": 7.1616911,
-            "max_longitude": 11.194967,
-            "min_latitude": 5.733761,
-            "min_longitude": 9.6307759
+            "latitude": 6.9181954,
+            "longitude": 12.8054753,
+            "max_latitude": 8.1690449,
+            "max_longitude": 15.2492441,
+            "min_latitude": 5.992985,
+            "min_longitude": 11.173742
         },
         "iso_3166_2": "CM-NW",
         "iso_a2": "CM",
         "iso_a3": "CMR",
-        "name": "North-West",
+        "name": "Adamaoua",
         "postal": "NW",
         "type": "Province",
         "type_en": "Province"
     },
     "OU": {
         "alt_names": [
-            "West"
+            "Adamawa"
         ],
         "cca2": "CM",
         "cca3": "CMR",
@@ -1104,24 +1104,24 @@
             "woe_name": "Ouest"
         },
         "geo": {
-            "latitude": 5.4638158,
-            "longitude": 10.8000051,
-            "max_latitude": 6.2716239,
-            "max_longitude": 11.3210561,
-            "min_latitude": 4.897808,
-            "min_longitude": 9.881679
+            "latitude": 6.9181954,
+            "longitude": 12.8054753,
+            "max_latitude": 8.1690449,
+            "max_longitude": 15.2492441,
+            "min_latitude": 5.992985,
+            "min_longitude": 11.173742
         },
         "iso_3166_2": "CM-OU",
         "iso_a2": "CM",
         "iso_a3": "CMR",
-        "name": "West",
+        "name": "Adamaoua",
         "postal": "OU",
         "type": "Province",
         "type_en": "Province"
     },
     "SU": {
         "alt_names": [
-            "South"
+            "Adamawa"
         ],
         "cca2": "CM",
         "cca3": "CMR",
@@ -1244,24 +1244,24 @@
             "woe_name": "Sud"
         },
         "geo": {
-            "latitude": 2.7202832,
-            "longitude": 11.7068294,
-            "max_latitude": 3.6768781,
-            "max_longitude": 13.681523,
-            "min_latitude": 2.1588319,
-            "min_longitude": 9.820998
+            "latitude": 6.9181954,
+            "longitude": 12.8054753,
+            "max_latitude": 8.1690449,
+            "max_longitude": 15.2492441,
+            "min_latitude": 5.992985,
+            "min_longitude": 11.173742
         },
         "iso_3166_2": "CM-SU",
         "iso_a2": "CM",
         "iso_a3": "CMR",
-        "name": "South",
+        "name": "Adamaoua",
         "postal": "SU",
         "type": "Province",
         "type_en": "Province"
     },
     "SW": {
         "alt_names": [
-            "South-West"
+            "Adamawa"
         ],
         "cca2": "CM",
         "cca3": "CMR",
@@ -1384,17 +1384,17 @@
             "woe_name": "Sud-Ouest"
         },
         "geo": {
-            "latitude": 5.1573493,
-            "longitude": 9.3673084,
-            "max_latitude": 6.5307839,
-            "max_longitude": 10.15105,
-            "min_latitude": 3.9221987,
-            "min_longitude": 8.4947634
+            "latitude": 6.9181954,
+            "longitude": 12.8054753,
+            "max_latitude": 8.1690449,
+            "max_longitude": 15.2492441,
+            "min_latitude": 5.992985,
+            "min_longitude": 11.173742
         },
         "iso_3166_2": "CM-SW",
         "iso_a2": "CM",
         "iso_a3": "CMR",
-        "name": "South-West",
+        "name": "Adamaoua",
         "postal": "SW",
         "type": "Province",
         "type_en": "Province"

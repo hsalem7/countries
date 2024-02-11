@@ -141,7 +141,7 @@
     },
     "02": {
         "alt_names": [
-            "Saint Anne Sandy Point"
+            "Christ Church Nichola Town"
         ],
         "cca2": "KN",
         "cca3": "KNA",
@@ -264,24 +264,24 @@
             "woe_name": "Saint Anne Sandy Point"
         },
         "geo": {
-            "latitude": 17.3725333,
-            "longitude": -62.8441133,
-            "max_latitude": 17.388191,
-            "max_longitude": -62.8066349,
-            "min_latitude": 17.3414441,
-            "min_longitude": -62.8640468
+            "latitude": 17.3604812,
+            "longitude": -62.7617837,
+            "max_latitude": 17.3861474,
+            "max_longitude": -62.737677,
+            "min_latitude": 17.330067,
+            "min_longitude": -62.7906411
         },
         "iso_3166_2": "KN-02",
         "iso_a2": "KN",
         "iso_a3": "KNA",
-        "name": "Saint Anne Sandy Point",
+        "name": "Christ Church Nichola Town",
         "postal": "02",
         "type": "Parish",
         "type_en": "Parish"
     },
     "03": {
         "alt_names": [
-            "Saint George Basseterre"
+            "Christ Church Nichola Town"
         ],
         "cca2": "KN",
         "cca3": "KNA",
@@ -404,24 +404,24 @@
             "woe_name": "Saint George Basseterre"
         },
         "geo": {
-            "latitude": 17.2350612,
-            "longitude": -62.6442284,
-            "max_latitude": 17.320862,
-            "max_longitude": -62.6222161,
-            "min_latitude": 17.213127,
-            "min_longitude": -62.751238
+            "latitude": 17.3604812,
+            "longitude": -62.7617837,
+            "max_latitude": 17.3861474,
+            "max_longitude": -62.737677,
+            "min_latitude": 17.330067,
+            "min_longitude": -62.7906411
         },
         "iso_3166_2": "KN-03",
         "iso_a2": "KN",
         "iso_a3": "KNA",
-        "name": "Saint George Basseterre",
+        "name": "Christ Church Nichola Town",
         "postal": "03",
         "type": "Parish",
         "type_en": "Parish"
     },
     "04": {
         "alt_names": [
-            "Saint George Gingerland"
+            "Christ Church Nichola Town"
         ],
         "cca2": "KN",
         "cca3": "KNA",
@@ -544,24 +544,24 @@
             "woe_name": "Saint George Gingerland"
         },
         "geo": {
-            "latitude": 17.1257759,
-            "longitude": -62.5619811,
-            "max_latitude": 17.1527401,
-            "max_longitude": -62.541476,
-            "min_latitude": 17.1033729,
-            "min_longitude": -62.587347
+            "latitude": 17.3604812,
+            "longitude": -62.7617837,
+            "max_latitude": 17.3861474,
+            "max_longitude": -62.737677,
+            "min_latitude": 17.330067,
+            "min_longitude": -62.7906411
         },
         "iso_3166_2": "KN-04",
         "iso_a2": "KN",
         "iso_a3": "KNA",
-        "name": "Saint George Gingerland",
+        "name": "Christ Church Nichola Town",
         "postal": "04",
         "type": "Parish",
         "type_en": "Parish"
     },
     "05": {
         "alt_names": [
-            "Saint James Windward"
+            "Christ Church Nichola Town"
         ],
         "cca2": "KN",
         "cca3": "KNA",
@@ -684,24 +684,24 @@
             "woe_name": "Saint James Windward"
         },
         "geo": {
-            "latitude": 17.1769633,
-            "longitude": -62.5796026,
-            "max_latitude": 17.2077199,
-            "max_longitude": -62.5399407,
-            "min_latitude": 17.1396658,
-            "min_longitude": -62.615414
+            "latitude": 17.3604812,
+            "longitude": -62.7617837,
+            "max_latitude": 17.3861474,
+            "max_longitude": -62.737677,
+            "min_latitude": 17.330067,
+            "min_longitude": -62.7906411
         },
         "iso_3166_2": "KN-05",
         "iso_a2": "KN",
         "iso_a3": "KNA",
-        "name": "Saint James Windward",
+        "name": "Christ Church Nichola Town",
         "postal": "05",
         "type": "Parish",
         "type_en": "Parish"
     },
     "06": {
         "alt_names": [
-            "Saint John Capisterre"
+            "Christ Church Nichola Town"
         ],
         "cca2": "KN",
         "cca3": "KNA",
@@ -824,24 +824,24 @@
             "woe_name": "Saint John Capesterre"
         },
         "geo": {
-            "latitude": 17.3810341,
-            "longitude": -62.7911833,
-            "max_latitude": 17.4180288,
-            "max_longitude": -62.7606673,
-            "min_latitude": 17.350457,
-            "min_longitude": -62.820196
+            "latitude": 17.3604812,
+            "longitude": -62.7617837,
+            "max_latitude": 17.3861474,
+            "max_longitude": -62.737677,
+            "min_latitude": 17.330067,
+            "min_longitude": -62.7906411
         },
         "iso_3166_2": "KN-06",
         "iso_a2": "KN",
         "iso_a3": "KNA",
-        "name": "Saint John Capisterre",
+        "name": "Christ Church Nichola Town",
         "postal": "06",
         "type": "Parish",
         "type_en": "Parish"
     },
     "07": {
         "alt_names": [
-            "Saint John Figtree"
+            "Christ Church Nichola Town"
         ],
         "cca2": "KN",
         "cca3": "KNA",
@@ -964,24 +964,24 @@
             "woe_name": "Saint John Figtree"
         },
         "geo": {
-            "latitude": 17.1155748,
-            "longitude": -62.6031004,
-            "max_latitude": 17.1527401,
-            "max_longitude": -62.5767418,
-            "min_latitude": 17.094282,
-            "min_longitude": -62.6318761
+            "latitude": 17.3604812,
+            "longitude": -62.7617837,
+            "max_latitude": 17.3861474,
+            "max_longitude": -62.737677,
+            "min_latitude": 17.330067,
+            "min_longitude": -62.7906411
         },
         "iso_3166_2": "KN-07",
         "iso_a2": "KN",
         "iso_a3": "KNA",
-        "name": "Saint John Figtree",
+        "name": "Christ Church Nichola Town",
         "postal": "07",
         "type": "Parish",
         "type_en": "Parish"
     },
     "08": {
         "alt_names": [
-            "Saint Mary Cayon"
+            "Christ Church Nichola Town"
         ],
         "cca2": "KN",
         "cca3": "KNA",
@@ -1104,24 +1104,24 @@
             "woe_name": "Saint Mary Cayon"
         },
         "geo": {
-            "latitude": 17.3462071,
-            "longitude": -62.7382671,
-            "max_latitude": 17.371466,
-            "max_longitude": -62.705425,
-            "min_latitude": 17.3288279,
-            "min_longitude": -62.757481
+            "latitude": 17.3604812,
+            "longitude": -62.7617837,
+            "max_latitude": 17.3861474,
+            "max_longitude": -62.737677,
+            "min_latitude": 17.330067,
+            "min_longitude": -62.7906411
         },
         "iso_3166_2": "KN-08",
         "iso_a2": "KN",
         "iso_a3": "KNA",
-        "name": "Saint Mary Cayon",
+        "name": "Christ Church Nichola Town",
         "postal": "08",
         "type": "Parish",
         "type_en": "Parish"
     },
     "09": {
         "alt_names": [
-            "Saint Paul Capisterre"
+            "Christ Church Nichola Town"
         ],
         "cca2": "KN",
         "cca3": "KNA",
@@ -1244,24 +1244,24 @@
             "woe_name": "Saint Paul Capesterre"
         },
         "geo": {
-            "latitude": 17.3924804,
-            "longitude": -62.8323499,
-            "max_latitude": 17.4171859,
-            "max_longitude": -62.8066299,
-            "min_latitude": 17.368374,
-            "min_longitude": -62.8625519
+            "latitude": 17.3604812,
+            "longitude": -62.7617837,
+            "max_latitude": 17.3861474,
+            "max_longitude": -62.737677,
+            "min_latitude": 17.330067,
+            "min_longitude": -62.7906411
         },
         "iso_3166_2": "KN-09",
         "iso_a2": "KN",
         "iso_a3": "KNA",
-        "name": "Saint Paul Capisterre",
+        "name": "Christ Church Nichola Town",
         "postal": "09",
         "type": "Parish",
         "type_en": "Parish"
     },
     "10": {
         "alt_names": [
-            "Saint Paul Charlestown"
+            "Christ Church Nichola Town"
         ],
         "cca2": "KN",
         "cca3": "KNA",
@@ -1384,24 +1384,24 @@
             "woe_name": "Saint Paul Charlestown"
         },
         "geo": {
-            "latitude": 17.1346297,
-            "longitude": -62.6133816,
-            "max_latitude": 17.1527401,
-            "max_longitude": -62.587347,
-            "min_latitude": 17.128093,
-            "min_longitude": -62.633529
+            "latitude": 17.3604812,
+            "longitude": -62.7617837,
+            "max_latitude": 17.3861474,
+            "max_longitude": -62.737677,
+            "min_latitude": 17.330067,
+            "min_longitude": -62.7906411
         },
         "iso_3166_2": "KN-10",
         "iso_a2": "KN",
         "iso_a3": "KNA",
-        "name": "Saint Paul Charlestown",
+        "name": "Christ Church Nichola Town",
         "postal": "10",
         "type": "Parish",
         "type_en": "Parish"
     },
     "11": {
         "alt_names": [
-            "Saint Peter Basseterre"
+            "Christ Church Nichola Town"
         ],
         "cca2": "KN",
         "cca3": "KNA",
@@ -1524,24 +1524,24 @@
             "woe_name": "Saint Peter Basseterre"
         },
         "geo": {
-            "latitude": 17.3102911,
-            "longitude": -62.7147533,
-            "max_latitude": 17.3356745,
-            "max_longitude": -62.6831199,
-            "min_latitude": 17.287303,
-            "min_longitude": -62.751235
+            "latitude": 17.3604812,
+            "longitude": -62.7617837,
+            "max_latitude": 17.3861474,
+            "max_longitude": -62.737677,
+            "min_latitude": 17.330067,
+            "min_longitude": -62.7906411
         },
         "iso_3166_2": "KN-11",
         "iso_a2": "KN",
         "iso_a3": "KNA",
-        "name": "Saint Peter Basseterre",
+        "name": "Christ Church Nichola Town",
         "postal": "11",
         "type": "Parish",
         "type_en": "Parish"
     },
     "12": {
         "alt_names": [
-            "Saint Thomas Lowland"
+            "Christ Church Nichola Town"
         ],
         "cca2": "KN",
         "cca3": "KNA",
@@ -1664,24 +1664,24 @@
             "woe_name": "Saint Thomas Lowland"
         },
         "geo": {
-            "latitude": 17.1650513,
-            "longitude": -62.6089753,
-            "max_latitude": 17.1947334,
-            "max_longitude": -62.587347,
-            "min_latitude": 17.137172,
-            "min_longitude": -62.6300681
+            "latitude": 17.3604812,
+            "longitude": -62.7617837,
+            "max_latitude": 17.3861474,
+            "max_longitude": -62.737677,
+            "min_latitude": 17.330067,
+            "min_longitude": -62.7906411
         },
         "iso_3166_2": "KN-12",
         "iso_a2": "KN",
         "iso_a3": "KNA",
-        "name": "Saint Thomas Lowland",
+        "name": "Christ Church Nichola Town",
         "postal": "12",
         "type": "Parish",
         "type_en": "Parish"
     },
     "13": {
         "alt_names": [
-            "Saint Thomas Middle Island"
+            "Christ Church Nichola Town"
         ],
         "cca2": "KN",
         "cca3": "KNA",
@@ -1804,24 +1804,24 @@
             "woe_name": "Saint Thomas Middle Island"
         },
         "geo": {
-            "latitude": 17.3348813,
-            "longitude": -62.8088251,
-            "max_latitude": 17.368374,
-            "max_longitude": -62.763293,
-            "min_latitude": 17.3065335,
-            "min_longitude": -62.8386144
+            "latitude": 17.3604812,
+            "longitude": -62.7617837,
+            "max_latitude": 17.3861474,
+            "max_longitude": -62.737677,
+            "min_latitude": 17.330067,
+            "min_longitude": -62.7906411
         },
         "iso_3166_2": "KN-13",
         "iso_a2": "KN",
         "iso_a3": "KNA",
-        "name": "Saint Thomas Middle Island",
+        "name": "Christ Church Nichola Town",
         "postal": "13",
         "type": "Parish",
         "type_en": "Parish"
     },
     "14": {
         "alt_names": [
-            "Trinity Palmetto Point"
+            "Christ Church Nichola Town"
         ],
         "cca2": "KN",
         "cca3": "KNA",
@@ -1944,17 +1944,17 @@
             "woe_name": "Trinity Palmetto Point"
         },
         "geo": {
-            "latitude": 17.3063519,
+            "latitude": 17.3604812,
             "longitude": -62.7617837,
-            "max_latitude": 17.331379,
-            "max_longitude": -62.7432759,
-            "min_latitude": 17.2906355,
-            "min_longitude": -62.7902801
+            "max_latitude": 17.3861474,
+            "max_longitude": -62.737677,
+            "min_latitude": 17.330067,
+            "min_longitude": -62.7906411
         },
         "iso_3166_2": "KN-14",
         "iso_a2": "KN",
         "iso_a3": "KNA",
-        "name": "Trinity Palmetto Point",
+        "name": "Christ Church Nichola Town",
         "postal": "14",
         "type": "Parish",
         "type_en": "Parish"

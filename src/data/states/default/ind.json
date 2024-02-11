@@ -141,7 +141,7 @@
     },
     "AP": {
         "alt_names": [
-            "Andhra Pradesh"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -264,24 +264,24 @@
             "woe_name": "Andhra Pradesh"
         },
         "geo": {
-            "latitude": 15.9128998,
-            "longitude": 79.7399875,
-            "max_latitude": 19.1565479,
-            "max_longitude": 84.7919452,
-            "min_latitude": 12.596836,
-            "min_longitude": 76.749786
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-AP",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Andhra Pradesh",
+        "name": "Andaman and Nicobar Islands",
         "postal": "AP",
         "type": "State",
         "type_en": "State"
     },
     "AR": {
         "alt_names": [
-            "Arunachal Pradesh"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -404,24 +404,24 @@
             "woe_name": "Arunachal Pradesh"
         },
         "geo": {
-            "latitude": 28.2179994,
-            "longitude": 94.7277528,
-            "max_latitude": 29.453453,
-            "max_longitude": 97.403297,
-            "min_latitude": 26.64258,
-            "min_longitude": 91.558064
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-AR",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Arunachal Pradesh",
+        "name": "Andaman and Nicobar Islands",
         "postal": "AR",
         "type": "State",
         "type_en": "State"
     },
     "AS": {
         "alt_names": [
-            "Assam"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -544,24 +544,24 @@
             "woe_name": "Assam"
         },
         "geo": {
-            "latitude": 26.2006043,
-            "longitude": 92.9375739,
-            "max_latitude": 27.968216,
-            "max_longitude": 96.0131609,
-            "min_latitude": 24.1384989,
-            "min_longitude": 89.6856379
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-AS",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Assam",
+        "name": "Andaman and Nicobar Islands",
         "postal": "AS",
         "type": "State",
         "type_en": "State"
     },
     "BR": {
         "alt_names": [
-            "Bihar"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -684,24 +684,24 @@
             "woe_name": "Bihar"
         },
         "geo": {
-            "latitude": 25.0960742,
-            "longitude": 85.3131194,
-            "max_latitude": 27.520895,
-            "max_longitude": 88.289752,
-            "min_latitude": 24.286278,
-            "min_longitude": 83.31777
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-BR",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Bihar",
+        "name": "Andaman and Nicobar Islands",
         "postal": "BR",
         "type": "State",
         "type_en": "State"
     },
     "CH": {
         "alt_names": [
-            "Chandigarh"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -824,24 +824,24 @@
             "woe_name": "Chandigarh"
         },
         "geo": {
-            "latitude": 30.7333148,
-            "longitude": 76.7794179,
-            "max_latitude": 30.7958938,
-            "max_longitude": 76.8529701,
-            "min_latitude": 30.5944928,
-            "min_longitude": 76.6798587
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-CH",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Chandigarh",
+        "name": "Andaman and Nicobar Islands",
         "postal": "CH",
         "type": "Union Territor",
         "type_en": "Union Territory"
     },
     "CT": {
         "alt_names": [
-            "Chhattisgarh"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -964,24 +964,24 @@
             "woe_name": "Chhattisgarh"
         },
         "geo": {
-            "latitude": 21.2786567,
-            "longitude": 81.8661442,
-            "max_latitude": 24.1187091,
-            "max_longitude": 84.395998,
-            "min_latitude": 17.782531,
-            "min_longitude": 80.2439
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-CT",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Chhattisgarh",
+        "name": "Andaman and Nicobar Islands",
         "postal": "CT",
         "type": "State",
         "type_en": "State"
     },
     "DH": {
         "alt_names": [
-            "Dadra and Nagar Haveli"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -1104,24 +1104,24 @@
             "woe_name": "Dadra and Nagar Haveli"
         },
         "geo": {
-            "latitude": 20.1808672,
-            "longitude": 73.0169135,
-            "max_latitude": 20.3625029,
-            "max_longitude": 73.2258921,
-            "min_latitude": 20.052287,
-            "min_longitude": 72.921629
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-DH",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Dadra and Nagar Haveli",
+        "name": "Andaman and Nicobar Islands",
         "postal": "DH",
         "type": "Union Territory",
         "type_en": "Union Territory"
     },
     "DL": {
         "alt_names": [
-            "Delhi"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -1244,24 +1244,24 @@
             "woe_name": "Delhi"
         },
         "geo": {
-            "latitude": 28.6139391,
-            "longitude": 77.2090212,
-            "max_latitude": 28.889816,
-            "max_longitude": 77.3418147,
-            "min_latitude": 28.4010669,
-            "min_longitude": 76.8396999
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-DL",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Delhi",
+        "name": "Andaman and Nicobar Islands",
         "postal": "DL",
         "type": "Union Territor",
         "type_en": "Union Territory"
     },
     "GA": {
         "alt_names": [
-            "Goa"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -1384,24 +1384,24 @@
             "woe_name": "Goa"
         },
         "geo": {
-            "latitude": 15.2993265,
-            "longitude": 74.123996,
-            "max_latitude": 15.799917,
-            "max_longitude": 74.3405329,
-            "min_latitude": 14.8971223,
-            "min_longitude": 73.6894238
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-GA",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Goa",
+        "name": "Andaman and Nicobar Islands",
         "postal": "GA",
         "type": "State",
         "type_en": "State"
     },
     "GJ": {
         "alt_names": [
-            "Gujarat"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -1524,24 +1524,24 @@
             "woe_name": "Gujarat"
         },
         "geo": {
-            "latitude": 22.258652,
-            "longitude": 71.1923805,
-            "max_latitude": 24.705709,
-            "max_longitude": 74.4764881,
-            "min_latitude": 20.127954,
-            "min_longitude": 68.1915379
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-GJ",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Gujarat",
+        "name": "Andaman and Nicobar Islands",
         "postal": "GJ",
         "type": "",
         "type_en": ""
     },
     "HP": {
         "alt_names": [
-            "Himachal Pradesh"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -1664,24 +1664,24 @@
             "woe_name": "Himachal Pradesh"
         },
         "geo": {
-            "latitude": 31.1048294,
-            "longitude": 77.1733901,
-            "max_latitude": 33.257958,
-            "max_longitude": 79.003309,
-            "min_latitude": 30.382469,
-            "min_longitude": 75.5874709
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-HP",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Himachal Pradesh",
+        "name": "Andaman and Nicobar Islands",
         "postal": "HP",
         "type": "Union Territor",
         "type_en": "Union Territory"
     },
     "HR": {
         "alt_names": [
-            "Haryana"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -1804,24 +1804,24 @@
             "woe_name": "Haryana"
         },
         "geo": {
-            "latitude": 29.0587757,
-            "longitude": 76.085601,
-            "max_latitude": 30.9128649,
-            "max_longitude": 77.595448,
-            "min_latitude": 27.6529931,
-            "min_longitude": 74.457616
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-HR",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Haryana",
+        "name": "Andaman and Nicobar Islands",
         "postal": "HR",
         "type": "State",
         "type_en": "State"
     },
     "JH": {
         "alt_names": [
-            "Vananchal"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -1944,24 +1944,24 @@
             "woe_name": "Jharkhand"
         },
         "geo": {
-            "latitude": 23.6101808,
-            "longitude": 85.2799354,
-            "max_latitude": 25.328823,
-            "max_longitude": 87.947529,
-            "min_latitude": 21.9729309,
-            "min_longitude": 83.323828
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-JH",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Jharkhand",
+        "name": "Andaman and Nicobar Islands",
         "postal": "JH",
         "type": "State",
         "type_en": "State"
     },
     "JK": {
         "alt_names": [
-            "Jammu and Kashmir"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -2084,24 +2084,24 @@
             "woe_name": "Jammu and Kashmir"
         },
         "geo": {
-            "latitude": 34.1490875,
-            "longitude": 76.8259652,
-            "max_latitude": 35.5042109,
-            "max_longitude": 79.5642929,
-            "min_latitude": 32.252741,
-            "min_longitude": 73.7632221
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-JK",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Jammu and Kashmir",
+        "name": "Andaman and Nicobar Islands",
         "postal": "JK",
         "type": "Union Territory",
         "type_en": "Union Territory"
     },
     "KA": {
         "alt_names": [
-            "Kanara"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -2224,24 +2224,24 @@
             "woe_name": "Karnataka"
         },
         "geo": {
-            "latitude": 15.3172775,
-            "longitude": 75.7138884,
-            "max_latitude": 18.4411689,
-            "max_longitude": 78.5860101,
-            "min_latitude": 11.593352,
-            "min_longitude": 74.0928802
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-KA",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Karnataka",
+        "name": "Andaman and Nicobar Islands",
         "postal": "KA",
         "type": "State",
         "type_en": "State"
     },
     "KL": {
         "alt_names": [
-            "Kerala"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -2364,24 +2364,24 @@
             "woe_name": "Kerala"
         },
         "geo": {
-            "latitude": 10.8505159,
-            "longitude": 76.2710833,
-            "max_latitude": 12.7883001,
-            "max_longitude": 77.3956369,
-            "min_latitude": 8.294897,
-            "min_longitude": 74.8649065
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-KL",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Kerala",
+        "name": "Andaman and Nicobar Islands",
         "postal": "KL",
         "type": "State",
         "type_en": "State"
     },
     "LA": {
         "alt_names": [
-            ""
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -2504,21 +2504,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "34.0255867581",
-            "longitude": "77.4806135651"
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-LA",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Ladakh",
+        "name": "Andaman and Nicobar Islands",
         "postal": "LA",
         "type": "Union Territory",
         "type_en": "Union Territory"
     },
     "LD": {
         "alt_names": [
-            "Laccadive",
-            "Lakkadiven"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -2641,24 +2644,24 @@
             "woe_name": "Lakshadweep"
         },
         "geo": {
-            "latitude": 10.0760115,
-            "longitude": 73.6303446,
-            "max_latitude": 12.3934258,
-            "max_longitude": 73.6848297,
-            "min_latitude": 8.2658179,
-            "min_longitude": 71.8844221
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-LD",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Lakshadweep",
+        "name": "Andaman and Nicobar Islands",
         "postal": "LD",
         "type": "Union Territor",
         "type_en": "Union Territory"
     },
     "MH": {
         "alt_names": [
-            "Maharashtra"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -2781,24 +2784,24 @@
             "woe_name": "Maharashtra"
         },
         "geo": {
-            "latitude": 19.7514798,
-            "longitude": 75.7138884,
-            "max_latitude": 22.028441,
-            "max_longitude": 80.890924,
-            "min_latitude": 15.6024121,
-            "min_longitude": 72.659363
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-MH",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Maharashtra",
+        "name": "Andaman and Nicobar Islands",
         "postal": "MH",
         "type": "State",
         "type_en": "State"
     },
     "ML": {
         "alt_names": [
-            "Meghalaya"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -2921,24 +2924,24 @@
             "woe_name": "Meghalaya"
         },
         "geo": {
-            "latitude": 25.4670308,
-            "longitude": 91.366216,
-            "max_latitude": 26.1204059,
-            "max_longitude": 92.802266,
-            "min_latitude": 25.0333579,
-            "min_longitude": 89.815674
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-ML",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Meghalaya",
+        "name": "Andaman and Nicobar Islands",
         "postal": "ML",
         "type": "State",
         "type_en": "State"
     },
     "MN": {
         "alt_names": [
-            "Manipur"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -3061,24 +3064,24 @@
             "woe_name": "Manipur"
         },
         "geo": {
-            "latitude": 24.6637173,
-            "longitude": 93.9062688,
-            "max_latitude": 25.691874,
-            "max_longitude": 94.74324,
-            "min_latitude": 23.8360479,
-            "min_longitude": 92.971078
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-MN",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Manipur",
+        "name": "Andaman and Nicobar Islands",
         "postal": "MN",
         "type": "State",
         "type_en": "State"
     },
     "MP": {
         "alt_names": [
-            "Madhya Pradesh"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -3201,24 +3204,24 @@
             "woe_name": "Madhya Pradesh"
         },
         "geo": {
-            "latitude": 22.9734229,
-            "longitude": 78.6568942,
-            "max_latitude": 26.8681089,
-            "max_longitude": 82.809674,
-            "min_latitude": 21.0799139,
-            "min_longitude": 74.0362481
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-MP",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Madhya Pradesh",
+        "name": "Andaman and Nicobar Islands",
         "postal": "MP",
         "type": "State",
         "type_en": "State"
     },
     "MZ": {
         "alt_names": [
-            "Mizoram"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -3341,24 +3344,24 @@
             "woe_name": "Mizoram"
         },
         "geo": {
-            "latitude": 23.164543,
-            "longitude": 92.9375739,
-            "max_latitude": 24.5174359,
-            "max_longitude": 93.4375611,
-            "min_latitude": 21.946661,
-            "min_longitude": 92.258479
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-MZ",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Mizoram",
+        "name": "Andaman and Nicobar Islands",
         "postal": "MZ",
         "type": "State",
         "type_en": "State"
     },
     "NL": {
         "alt_names": [
-            "Nagaland"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -3481,24 +3484,24 @@
             "woe_name": "Nagaland"
         },
         "geo": {
-            "latitude": 26.1584354,
-            "longitude": 94.5624426,
-            "max_latitude": 27.036123,
-            "max_longitude": 95.244715,
-            "min_latitude": 25.198068,
-            "min_longitude": 93.327578
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-NL",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Nagaland",
+        "name": "Andaman and Nicobar Islands",
         "postal": "NL",
         "type": "State",
         "type_en": "State"
     },
     "OR": {
         "alt_names": [
-            "Orissa"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -3621,24 +3624,24 @@
             "woe_name": "Orissa"
         },
         "geo": {
-            "latitude": 20.9516658,
-            "longitude": 85.0985236,
-            "max_latitude": 22.5700271,
-            "max_longitude": 87.483385,
-            "min_latitude": 17.8120961,
-            "min_longitude": 81.388607
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-OR",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Orissa",
+        "name": "Andaman and Nicobar Islands",
         "postal": "OR",
         "type": "State",
         "type_en": "State"
     },
     "PB": {
         "alt_names": [
-            "Punjab"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -3761,24 +3764,24 @@
             "woe_name": "Punjab"
         },
         "geo": {
-            "latitude": 31.1471305,
-            "longitude": 75.3412179,
-            "max_latitude": 32.4981352,
-            "max_longitude": 76.9217581,
-            "min_latitude": 29.537147,
-            "min_longitude": 73.8708879
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-PB",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Punjab",
+        "name": "Andaman and Nicobar Islands",
         "postal": "PB",
         "type": "State",
         "type_en": "State"
     },
     "PY": {
         "alt_names": [
-            "Pondicherry"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -3901,24 +3904,24 @@
             "woe_name": "Puducherry"
         },
         "geo": {
-            "latitude": 11.9138598,
-            "longitude": 79.8144722,
-            "max_latitude": 11.973176,
-            "max_longitude": 79.8405723,
-            "min_latitude": 11.8994375,
-            "min_longitude": 79.7857511
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-PY",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Pondicherry",
+        "name": "Andaman and Nicobar Islands",
         "postal": "PY",
         "type": "Union Territor",
         "type_en": "Union Territory"
     },
     "RJ": {
         "alt_names": [
-            "Rajasthan"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -4041,24 +4044,24 @@
             "woe_name": "Rajasthan"
         },
         "geo": {
-            "latitude": 27.0238036,
-            "longitude": 74.2179326,
-            "max_latitude": 30.195124,
-            "max_longitude": 78.2633811,
-            "min_latitude": 23.0632669,
-            "min_longitude": 69.483734
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-RJ",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Rajasthan",
+        "name": "Andaman and Nicobar Islands",
         "postal": "RJ",
         "type": "State",
         "type_en": "State"
     },
     "SK": {
         "alt_names": [
-            "Denjong"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -4181,24 +4184,24 @@
             "woe_name": "Sikkim"
         },
         "geo": {
-            "latitude": 27.5329718,
-            "longitude": 88.5122178,
-            "max_latitude": 28.128759,
-            "max_longitude": 88.9108059,
-            "min_latitude": 27.079261,
-            "min_longitude": 88.0063541
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-SK",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Sikkim",
+        "name": "Andaman and Nicobar Islands",
         "postal": "SK",
         "type": "State",
         "type_en": "State"
     },
     "TG": {
         "alt_names": [
-            "Telangana"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -4321,24 +4324,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 18.1124372,
-            "longitude": 79.0192997,
-            "max_latitude": 19.916715,
-            "max_longitude": 81.3075465,
-            "min_latitude": 15.83535,
-            "min_longitude": 77.237913
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-TG",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Telangana",
+        "name": "Andaman and Nicobar Islands",
         "postal": "TG",
         "type": "State",
         "type_en": "State"
     },
     "TN": {
         "alt_names": [
-            "Tamil Nadu"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -4461,24 +4464,24 @@
             "woe_name": "Tamil Nadu"
         },
         "geo": {
-            "latitude": 11.1271225,
-            "longitude": 78.6568942,
-            "max_latitude": 13.496666,
-            "max_longitude": 80.3464511,
-            "min_latitude": 8.0774077,
-            "min_longitude": 76.2305541
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-TN",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Tamil Nadu",
+        "name": "Andaman and Nicobar Islands",
         "postal": "TN",
         "type": "State",
         "type_en": "State"
     },
     "TR": {
         "alt_names": [
-            "Tripura"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -4601,24 +4604,24 @@
             "woe_name": "Tripura"
         },
         "geo": {
-            "latitude": 23.9408482,
-            "longitude": 91.9881527,
-            "max_latitude": 24.533733,
-            "max_longitude": 92.336001,
-            "min_latitude": 22.929054,
-            "min_longitude": 91.1509319
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-TR",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Tripura",
+        "name": "Andaman and Nicobar Islands",
         "postal": "TR",
         "type": "State",
         "type_en": "State"
     },
     "UP": {
         "alt_names": [
-            "Uttar Pradesh"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -4741,24 +4744,24 @@
             "woe_name": "Uttar Pradesh"
         },
         "geo": {
-            "latitude": 27.5705886,
-            "longitude": 80.0981869,
-            "max_latitude": 30.411635,
-            "max_longitude": 84.6743269,
-            "min_latitude": 23.870839,
-            "min_longitude": 77.0924369
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-UP",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Uttar Pradesh",
+        "name": "Andaman and Nicobar Islands",
         "postal": "UP",
         "type": "State",
         "type_en": "State"
     },
     "UT": {
         "alt_names": [
-            "Uttaranchal"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -4881,24 +4884,24 @@
             "woe_name": "Uttaranchal"
         },
         "geo": {
-            "latitude": 30.066753,
-            "longitude": 79.0192997,
-            "max_latitude": 31.454615,
-            "max_longitude": 81.0556638,
-            "min_latitude": 28.710125,
-            "min_longitude": 77.5786089
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-UT",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "Uttaranchal",
+        "name": "Andaman and Nicobar Islands",
         "postal": "UT",
         "type": "State",
         "type_en": "State"
     },
     "WB": {
         "alt_names": [
-            "West Bengal"
+            "Andaman and Nicobar Islands"
         ],
         "cca2": "IN",
         "cca3": "IND",
@@ -5021,17 +5024,17 @@
             "woe_name": "West Bengal"
         },
         "geo": {
-            "latitude": 22.9867569,
-            "longitude": 87.8549755,
-            "max_latitude": 27.220707,
-            "max_longitude": 89.880039,
-            "min_latitude": 21.528355,
-            "min_longitude": 85.820958
+            "latitude": 11.7400867,
+            "longitude": 92.6586401,
+            "max_latitude": 13.6746932,
+            "max_longitude": 94.3014984,
+            "min_latitude": 6.7535159,
+            "min_longitude": 92.2080496
         },
         "iso_3166_2": "IN-WB",
         "iso_a2": "IN",
         "iso_a3": "IND",
-        "name": "West Bengal",
+        "name": "Andaman and Nicobar Islands",
         "postal": "WB",
         "type": "State",
         "type_en": "State"

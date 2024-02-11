@@ -141,7 +141,7 @@
     },
     "AI": {
         "alt_names": [
-            "Appenzell Innerrhoden (de)"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -264,24 +264,24 @@
             "woe_name": "Appenzell Innerrhoden"
         },
         "geo": {
-            "latitude": 47.3161925,
-            "longitude": 9.4316573,
-            "max_latitude": 47.43874,
-            "max_longitude": 9.61748,
-            "min_latitude": 47.2339999,
-            "min_longitude": 9.30981
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-AI",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Appenzell Innerrhoden (de)",
+        "name": "Aargau (de)",
         "postal": "AI",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"
     },
     "AR": {
         "alt_names": [
-            "Appenzell-Ausser Rhoden"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -404,24 +404,24 @@
             "woe_name": "Appenzell Ausserrhoden"
         },
         "geo": {
-            "latitude": 47.366481,
-            "longitude": 9.3000916,
-            "max_latitude": 47.4690301,
-            "max_longitude": 9.63088,
-            "min_latitude": 47.24695,
-            "min_longitude": 9.1910399
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-AR",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Appenzell Ausserrhoden (de)",
+        "name": "Aargau (de)",
         "postal": "AR",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"
     },
     "BE": {
         "alt_names": [
-            "Berne"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -544,24 +544,24 @@
             "woe_name": "Bern"
         },
         "geo": {
-            "latitude": 46.9479222,
-            "longitude": 7.4446085,
-            "max_latitude": 46.99019,
-            "max_longitude": 7.4955101,
-            "min_latitude": 46.9191499,
-            "min_longitude": 7.29423
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-BE",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Bern (de)",
+        "name": "Aargau (de)",
         "postal": "BE",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"
     },
     "BL": {
         "alt_names": [
-            "B\u00e2le-Campagne"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -684,28 +684,24 @@
             "woe_name": "Basel-Landschaft"
         },
         "geo": {
-            "latitude": 47.4418122,
-            "longitude": 7.7644002,
-            "max_latitude": 47.56441,
-            "max_longitude": 7.9618001,
-            "min_latitude": 47.33792,
-            "min_longitude": 7.32527
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-BL",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Basel-Landschaft (de)",
+        "name": "Aargau (de)",
         "postal": "BL",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"
     },
     "BS": {
         "alt_names": [
-            "Basel",
-            "Basilea",
-            "Basle",
-            "Basel-Stadt",
-            "B\u00e2le-Ville"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -828,24 +824,24 @@
             "woe_name": "Basel-Stadt"
         },
         "geo": {
-            "latitude": 47.5674422,
-            "longitude": 7.5975507,
-            "max_latitude": 47.5899201,
-            "max_longitude": 7.6341,
-            "min_latitude": 47.51931,
-            "min_longitude": 7.5548199
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-BS",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Basel-Stadt (de)",
+        "name": "Aargau (de)",
         "postal": "BS",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"
     },
     "FR": {
         "alt_names": [
-            "Freiburg"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -968,27 +964,24 @@
             "woe_name": "Fribourg"
         },
         "geo": {
-            "latitude": 46.8016663,
-            "longitude": 7.1455683,
-            "max_latitude": 46.82144,
-            "max_longitude": 7.1838299,
-            "min_latitude": 46.78489,
-            "min_longitude": 7.1357
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-FR",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Fribourg (fr)",
+        "name": "Aargau (de)",
         "postal": "FR",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"
     },
     "GE": {
         "alt_names": [
-            "Ginevra",
-            "Gen\u00e8ve",
-            "Genf",
-            "Ginebra"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -1111,24 +1104,24 @@
             "woe_name": "Gen\u00e8ve"
         },
         "geo": {
-            "latitude": 46.1983922,
-            "longitude": 6.1422961,
-            "max_latitude": 46.232399,
-            "max_longitude": 6.177857,
-            "min_latitude": 46.17766,
-            "min_longitude": 6.1103201
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-GE",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Gen\u00e8ve (fr)",
+        "name": "Aargau (de)",
         "postal": "GE",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"
     },
     "GL": {
         "alt_names": [
-            "Glaris"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -1251,25 +1244,24 @@
             "woe_name": "Glarus"
         },
         "geo": {
-            "latitude": 47.0404265,
-            "longitude": 9.0672085,
-            "max_latitude": 47.1739299,
-            "max_longitude": 9.25249,
-            "min_latitude": 46.7963601,
-            "min_longitude": 8.87123
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-GL",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Glarus (de)",
+        "name": "Aargau (de)",
         "postal": "GL",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"
     },
     "GR": {
         "alt_names": [
-            "Grigioni",
-            "Grisons"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -1392,24 +1384,24 @@
             "woe_name": "Graub\u00fcnden"
         },
         "geo": {
-            "latitude": 46.6569871,
-            "longitude": 9.5780257,
-            "max_latitude": 47.06496,
-            "max_longitude": 10.4923401,
-            "min_latitude": 46.1690499,
-            "min_longitude": 8.6509399
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-GR",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Graub\u00fcnden (de)",
+        "name": "Aargau (de)",
         "postal": "GR",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"
     },
     "JU": {
         "alt_names": [
-            "Jura (fr)"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -1532,25 +1524,24 @@
             "woe_name": "Jura"
         },
         "geo": {
-            "latitude": 47.3444474,
-            "longitude": 7.1430608,
-            "max_latitude": 47.50452,
-            "max_longitude": 7.55821,
-            "min_latitude": 47.15048,
-            "min_longitude": 6.84042
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-JU",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Jura (fr)",
+        "name": "Aargau (de)",
         "postal": "JU",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"
     },
     "LU": {
         "alt_names": [
-            "Lucerna",
-            "Lucerne"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -1673,24 +1664,24 @@
             "woe_name": "Lucerne"
         },
         "geo": {
-            "latitude": 47.0500376,
-            "longitude": 8.3089295,
-            "max_latitude": 47.08349,
-            "max_longitude": 8.35814,
-            "min_latitude": 47.0260199,
-            "min_longitude": 8.2064701
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-LU",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Luzern (de)",
+        "name": "Aargau (de)",
         "postal": "LU",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"
     },
     "NE": {
         "alt_names": [
-            "Neuenburg"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -1813,24 +1804,24 @@
             "woe_name": "Neuch\u00e2tel"
         },
         "geo": {
-            "latitude": 46.9929793,
-            "longitude": 6.9319325,
-            "max_latitude": 47.06389,
-            "max_longitude": 6.99177,
-            "min_latitude": 46.9781781,
-            "min_longitude": 6.89341
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-NE",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Neuch\u00e2tel (fr)",
+        "name": "Aargau (de)",
         "postal": "NE",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"
     },
     "NW": {
         "alt_names": [
-            "Nidwald"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -1953,24 +1944,24 @@
             "woe_name": "Nidwalden"
         },
         "geo": {
-            "latitude": 46.9267016,
-            "longitude": 8.3849982,
-            "max_latitude": 47.0036169,
-            "max_longitude": 8.57489,
-            "min_latitude": 46.77149,
-            "min_longitude": 8.2182101
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-NW",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Nidwalden (de)",
+        "name": "Aargau (de)",
         "postal": "NW",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"
     },
     "OW": {
         "alt_names": [
-            "Obwald"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -2093,26 +2084,24 @@
             "woe_name": "Obwalden"
         },
         "geo": {
-            "latitude": 46.877858,
-            "longitude": 8.251249,
-            "max_latitude": 46.98021,
-            "max_longitude": 8.50664,
-            "min_latitude": 46.75307,
-            "min_longitude": 8.04235
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-OW",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Obwalden (de)",
+        "name": "Aargau (de)",
         "postal": "OW",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"
     },
     "SG": {
         "alt_names": [
-            "Saint Galle",
-            "Sankt Gallen",
-            "Saint-Gall"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -2235,24 +2224,24 @@
             "woe_name": "Sankt Gallen"
         },
         "geo": {
-            "latitude": 47.4179284,
-            "longitude": 9.3643968,
-            "max_latitude": 47.4530299,
-            "max_longitude": 9.4353001,
-            "min_latitude": 47.3950999,
-            "min_longitude": 9.29144
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-SG",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Sankt Gallen (de)",
+        "name": "Aargau (de)",
         "postal": "SG",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"
     },
     "SH": {
         "alt_names": [
-            "Schaffhouse"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -2375,24 +2364,24 @@
             "woe_name": "Schaffhausen"
         },
         "geo": {
-            "latitude": 47.7077664,
-            "longitude": 8.6414424,
-            "max_latitude": 47.74462,
-            "max_longitude": 8.7058599,
-            "min_latitude": 47.68589,
-            "min_longitude": 8.5858301
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-SH",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Schaffhausen (de)",
+        "name": "Aargau (de)",
         "postal": "SH",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"
     },
     "SO": {
         "alt_names": [
-            "Soleure"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -2515,24 +2504,24 @@
             "woe_name": "Solothurn"
         },
         "geo": {
-            "latitude": 47.2086574,
-            "longitude": 7.5379549,
-            "max_latitude": 47.22025,
-            "max_longitude": 7.55223,
-            "min_latitude": 47.19591,
-            "min_longitude": 7.50923
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-SO",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Solothurn (de)",
+        "name": "Aargau (de)",
         "postal": "SO",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"
     },
     "SZ": {
         "alt_names": [
-            "Schwyz (de)"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -2655,24 +2644,24 @@
             "woe_name": "Schwyz"
         },
         "geo": {
-            "latitude": 47.0198346,
-            "longitude": 8.6473977,
-            "max_latitude": 47.06635,
-            "max_longitude": 8.7787901,
-            "min_latitude": 46.98516,
-            "min_longitude": 8.60339
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-SZ",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Schwyz (de)",
+        "name": "Aargau (de)",
         "postal": "SZ",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"
     },
     "TG": {
         "alt_names": [
-            "Thurgovie"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -2795,25 +2784,24 @@
             "woe_name": "Thurgau"
         },
         "geo": {
-            "latitude": 47.6037856,
-            "longitude": 9.0557371,
-            "max_latitude": 47.6954101,
-            "max_longitude": 9.4764901,
-            "min_latitude": 47.3757001,
-            "min_longitude": 8.66793
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-TG",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Thurgau (de)",
+        "name": "Aargau (de)",
         "postal": "TG",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"
     },
     "TI": {
         "alt_names": [
-            "Tessin",
-            "Tessin"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -2936,24 +2924,24 @@
             "woe_name": "Ticino"
         },
         "geo": {
-            "latitude": 46.331734,
-            "longitude": 8.8004529,
-            "max_latitude": 46.63241,
-            "max_longitude": 9.15973,
-            "min_latitude": 45.81792,
-            "min_longitude": 8.38218
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-TI",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Ticino (it)",
+        "name": "Aargau (de)",
         "postal": "TI",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"
     },
     "UR": {
         "alt_names": [
-            "Uri (de)"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -3076,24 +3064,24 @@
             "woe_name": "Uri"
         },
         "geo": {
-            "latitude": 46.7738629,
-            "longitude": 8.6025153,
-            "max_latitude": 46.9880412,
-            "max_longitude": 8.95788,
-            "min_latitude": 46.52757,
-            "min_longitude": 8.39746
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-UR",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Uri (de)",
+        "name": "Aargau (de)",
         "postal": "UR",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"
     },
     "VD": {
         "alt_names": [
-            "Waadt"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -3216,25 +3204,24 @@
             "woe_name": "Vaud"
         },
         "geo": {
-            "latitude": 46.5613135,
-            "longitude": 6.536765,
-            "max_latitude": 46.9817023,
-            "max_longitude": 7.2492599,
-            "min_latitude": 46.1870301,
-            "min_longitude": 6.06401
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-VD",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Vaud (fr)",
+        "name": "Aargau (de)",
         "postal": "VD",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"
     },
     "VS": {
         "alt_names": [
-            "Vallese",
-            "Wallis"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -3357,24 +3344,24 @@
             "woe_name": "Valais"
         },
         "geo": {
-            "latitude": 46.1904614,
-            "longitude": 7.5449226,
-            "max_latitude": 46.6539699,
-            "max_longitude": 8.4785401,
-            "min_latitude": 45.85827,
-            "min_longitude": 6.77046
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-VS",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Valais (fr)",
+        "name": "Aargau (de)",
         "postal": "VS",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"
     },
     "ZG": {
         "alt_names": [
-            "Zoug"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -3497,26 +3484,24 @@
             "woe_name": "Zug"
         },
         "geo": {
-            "latitude": 47.1745887,
-            "longitude": 8.513854,
-            "max_latitude": 47.18973,
-            "max_longitude": 8.55844,
-            "min_latitude": 47.1144752,
-            "min_longitude": 8.4754
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-ZG",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Zug (de)",
+        "name": "Aargau (de)",
         "postal": "ZG",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"
     },
     "ZH": {
         "alt_names": [
-            "Zurigo",
-            "Z\u00fcrich",
-            "Zurich"
+            "Argovie"
         ],
         "cca2": "CH",
         "cca3": "CHE",
@@ -3639,17 +3624,17 @@
             "woe_name": "Z\u00fcrich"
         },
         "geo": {
-            "latitude": 47.3686498,
-            "longitude": 8.5391825,
-            "max_latitude": 47.43468,
-            "max_longitude": 8.6253701,
-            "min_latitude": 47.32023,
-            "min_longitude": 8.4480599
+            "latitude": 47.3876664,
+            "longitude": 8.2554295,
+            "max_latitude": 47.6209201,
+            "max_longitude": 8.45517,
+            "min_latitude": 47.13755,
+            "min_longitude": 7.7134701
         },
         "iso_3166_2": "CH-ZH",
         "iso_a2": "CH",
         "iso_a3": "CHE",
-        "name": "Z\u00fcrich (de)",
+        "name": "Aargau (de)",
         "postal": "ZH",
         "type": "Canton|Kanton|Chantun",
         "type_en": "Canton"

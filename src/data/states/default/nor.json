@@ -141,7 +141,7 @@
     },
     "02": {
         "alt_names": [
-            "Akershus"
+            "\u00d8stfold"
         ],
         "cca2": "NO",
         "cca3": "NOR",
@@ -264,24 +264,24 @@
             "woe_name": "Akershus"
         },
         "geo": {
-            "latitude": 60.0000202,
-            "longitude": 11.3690301,
-            "max_latitude": 60.5966478,
-            "max_longitude": 11.9260507,
-            "min_latitude": 59.4718821,
-            "min_longitude": 10.3290796
+            "latitude": 59.2558286,
+            "longitude": 11.3279007,
+            "max_latitude": 59.7905146,
+            "max_longitude": 11.9460045,
+            "min_latitude": 58.8768946,
+            "min_longitude": 10.5764046
         },
         "iso_3166_2": "NO-02",
         "iso_a2": "-99",
         "iso_a3": "-99",
-        "name": "Akershus",
+        "name": "\u00d8stfold",
         "postal": "02",
         "type": "Fylke",
         "type_en": "County"
     },
     "03": {
         "alt_names": [
-            "Oslo"
+            "\u00d8stfold"
         ],
         "cca2": "NO",
         "cca3": "NOR",
@@ -404,24 +404,24 @@
             "woe_name": "Oslo"
         },
         "geo": {
-            "latitude": 59.9138688,
-            "longitude": 10.7522454,
-            "max_latitude": 59.978035,
-            "max_longitude": 10.9476642,
-            "min_latitude": 59.8096749,
-            "min_longitude": 10.6225688
+            "latitude": 59.2558286,
+            "longitude": 11.3279007,
+            "max_latitude": 59.7905146,
+            "max_longitude": 11.9460045,
+            "min_latitude": 58.8768946,
+            "min_longitude": 10.5764046
         },
         "iso_3166_2": "NO-03",
         "iso_a2": "-99",
         "iso_a3": "-99",
-        "name": "Oslo",
+        "name": "\u00d8stfold",
         "postal": "03",
         "type": "Fylke",
         "type_en": "County"
     },
     "04": {
         "alt_names": [
-            "Hedmark"
+            "\u00d8stfold"
         ],
         "cca2": "NO",
         "cca3": "NOR",
@@ -544,24 +544,24 @@
             "woe_name": "Hedmark"
         },
         "geo": {
-            "latitude": 61.3967311,
-            "longitude": 11.5627369,
-            "max_latitude": 62.6969236,
-            "max_longitude": 12.8708487,
-            "min_latitude": 59.8413544,
-            "min_longitude": 9.5838267
+            "latitude": 59.2558286,
+            "longitude": 11.3279007,
+            "max_latitude": 59.7905146,
+            "max_longitude": 11.9460045,
+            "min_latitude": 58.8768946,
+            "min_longitude": 10.5764046
         },
         "iso_3166_2": "NO-04",
         "iso_a2": "-99",
         "iso_a3": "-99",
-        "name": "Hedmark",
+        "name": "\u00d8stfold",
         "postal": "04",
         "type": "Fylke",
         "type_en": "County"
     },
     "05": {
         "alt_names": [
-            "Oppland"
+            "\u00d8stfold"
         ],
         "cca2": "NO",
         "cca3": "NOR",
@@ -684,24 +684,24 @@
             "woe_name": "Oppland"
         },
         "geo": {
-            "latitude": 61.5422752,
-            "longitude": 9.7166314,
-            "max_latitude": 62.3784025,
-            "max_longitude": 11.1327999,
-            "min_latitude": 60.1316099,
-            "min_longitude": 7.3425305
+            "latitude": 59.2558286,
+            "longitude": 11.3279007,
+            "max_latitude": 59.7905146,
+            "max_longitude": 11.9460045,
+            "min_latitude": 58.8768946,
+            "min_longitude": 10.5764046
         },
         "iso_3166_2": "NO-05",
         "iso_a2": "-99",
         "iso_a3": "-99",
-        "name": "Oppland",
+        "name": "\u00d8stfold",
         "postal": "05",
         "type": "Fylke",
         "type_en": "County"
     },
     "06": {
         "alt_names": [
-            "Buskerud"
+            "\u00d8stfold"
         ],
         "cca2": "NO",
         "cca3": "NOR",
@@ -824,24 +824,24 @@
             "woe_name": "Buskerud"
         },
         "geo": {
-            "latitude": 60.4846025,
-            "longitude": 8.6983764,
-            "max_latitude": 61.0917205,
-            "max_longitude": 10.6192606,
-            "min_latitude": 59.4078708,
-            "min_longitude": 7.4388423
+            "latitude": 59.2558286,
+            "longitude": 11.3279007,
+            "max_latitude": 59.7905146,
+            "max_longitude": 11.9460045,
+            "min_latitude": 58.8768946,
+            "min_longitude": 10.5764046
         },
         "iso_3166_2": "NO-06",
         "iso_a2": "-99",
         "iso_a3": "-99",
-        "name": "Buskerud",
+        "name": "\u00d8stfold",
         "postal": "06",
         "type": "Fylke",
         "type_en": "County"
     },
     "07": {
         "alt_names": [
-            "Vestfold"
+            "\u00d8stfold"
         ],
         "cca2": "NO",
         "cca3": "NOR",
@@ -964,24 +964,24 @@
             "woe_name": "Vestfold"
         },
         "geo": {
-            "latitude": 59.1707862,
-            "longitude": 10.1144355,
-            "max_latitude": 59.6915912,
-            "max_longitude": 10.6001915,
-            "min_latitude": 58.8402834,
-            "min_longitude": 9.7553356
+            "latitude": 59.2558286,
+            "longitude": 11.3279007,
+            "max_latitude": 59.7905146,
+            "max_longitude": 11.9460045,
+            "min_latitude": 58.8768946,
+            "min_longitude": 10.5764046
         },
         "iso_3166_2": "NO-07",
         "iso_a2": "-99",
         "iso_a3": "-99",
-        "name": "Vestfold",
+        "name": "\u00d8stfold",
         "postal": "07",
         "type": "Fylke",
         "type_en": "County"
     },
     "08": {
         "alt_names": [
-            "Telemark"
+            "\u00d8stfold"
         ],
         "cca2": "NO",
         "cca3": "NOR",
@@ -1104,24 +1104,24 @@
             "woe_name": "Telemark"
         },
         "geo": {
-            "latitude": 59.3913985,
-            "longitude": 8.321121,
-            "max_latitude": 60.1882718,
-            "max_longitude": 9.8950881,
-            "min_latitude": 58.7674049,
-            "min_longitude": 7.0962874
+            "latitude": 59.2558286,
+            "longitude": 11.3279007,
+            "max_latitude": 59.7905146,
+            "max_longitude": 11.9460045,
+            "min_latitude": 58.8768946,
+            "min_longitude": 10.5764046
         },
         "iso_3166_2": "NO-08",
         "iso_a2": "-99",
         "iso_a3": "-99",
-        "name": "Telemark",
+        "name": "\u00d8stfold",
         "postal": "08",
         "type": "Fylke",
         "type_en": "County"
     },
     "09": {
         "alt_names": [
-            "Aust-Agder"
+            "\u00d8stfold"
         ],
         "cca2": "NO",
         "cca3": "NOR",
@@ -1244,24 +1244,24 @@
             "woe_name": "Aust-Agder"
         },
         "geo": {
-            "latitude": 58.6670304,
-            "longitude": 8.0844752,
-            "max_latitude": 59.6704093,
-            "max_longitude": 9.3693846,
-            "min_latitude": 58.1050135,
-            "min_longitude": 6.8245331
+            "latitude": 59.2558286,
+            "longitude": 11.3279007,
+            "max_latitude": 59.7905146,
+            "max_longitude": 11.9460045,
+            "min_latitude": 58.8768946,
+            "min_longitude": 10.5764046
         },
         "iso_3166_2": "NO-09",
         "iso_a2": "-99",
         "iso_a3": "-99",
-        "name": "Aust-Agder",
+        "name": "\u00d8stfold",
         "postal": "09",
         "type": "Fylke",
         "type_en": "County"
     },
     "10": {
         "alt_names": [
-            "Vest-Agder"
+            "\u00d8stfold"
         ],
         "cca2": "NO",
         "cca3": "NOR",
@@ -1384,24 +1384,24 @@
             "woe_name": "Vest-Agder"
         },
         "geo": {
-            "latitude": 58.368605,
-            "longitude": 6.9019616,
-            "max_latitude": 59.1888458,
-            "max_longitude": 8.2098324,
-            "min_latitude": 57.9584971,
-            "min_longitude": 6.3765277
+            "latitude": 59.2558286,
+            "longitude": 11.3279007,
+            "max_latitude": 59.7905146,
+            "max_longitude": 11.9460045,
+            "min_latitude": 58.8768946,
+            "min_longitude": 10.5764046
         },
         "iso_3166_2": "NO-10",
         "iso_a2": "-99",
         "iso_a3": "-99",
-        "name": "Vest-Agder",
+        "name": "\u00d8stfold",
         "postal": "10",
         "type": "Fylke",
         "type_en": "County"
     },
     "11": {
         "alt_names": [
-            "Rogaland"
+            "\u00d8stfold"
         ],
         "cca2": "NO",
         "cca3": "NOR",
@@ -1524,24 +1524,24 @@
             "woe_name": "Rogaland"
         },
         "geo": {
-            "latitude": 59.1489544,
-            "longitude": 6.0143431,
-            "max_latitude": 59.8443338,
-            "max_longitude": 7.2119667,
-            "min_latitude": 58.2776276,
-            "min_longitude": 4.844006
+            "latitude": 59.2558286,
+            "longitude": 11.3279007,
+            "max_latitude": 59.7905146,
+            "max_longitude": 11.9460045,
+            "min_latitude": 58.8768946,
+            "min_longitude": 10.5764046
         },
         "iso_3166_2": "NO-11",
         "iso_a2": "-99",
         "iso_a3": "-99",
-        "name": "Rogaland",
+        "name": "\u00d8stfold",
         "postal": "11",
         "type": "Fylke",
         "type_en": "County"
     },
     "12": {
         "alt_names": [
-            "Hordaland"
+            "\u00d8stfold"
         ],
         "cca2": "NO",
         "cca3": "NOR",
@@ -1664,24 +1664,24 @@
             "woe_name": "Hordaland"
         },
         "geo": {
-            "latitude": 60.2733674,
-            "longitude": 5.7220194,
-            "max_latitude": 61.0352379,
-            "max_longitude": 7.7321147,
-            "min_latitude": 59.4759811,
-            "min_longitude": 4.6334781
+            "latitude": 59.2558286,
+            "longitude": 11.3279007,
+            "max_latitude": 59.7905146,
+            "max_longitude": 11.9460045,
+            "min_latitude": 58.8768946,
+            "min_longitude": 10.5764046
         },
         "iso_3166_2": "NO-12",
         "iso_a2": "-99",
         "iso_a3": "-99",
-        "name": "Hordaland",
+        "name": "\u00d8stfold",
         "postal": "12",
         "type": "Fylke",
         "type_en": "County"
     },
     "14": {
         "alt_names": [
-            "Sogn og Fjordane"
+            "\u00d8stfold"
         ],
         "cca2": "NO",
         "cca3": "NOR",
@@ -1804,24 +1804,24 @@
             "woe_name": "Sogn og Fjordane"
         },
         "geo": {
-            "latitude": 61.5539435,
-            "longitude": 6.3325879,
-            "max_latitude": 62.2168708,
-            "max_longitude": 8.3220528,
-            "min_latitude": 60.6755476,
-            "min_longitude": 4.5000011
+            "latitude": 59.2558286,
+            "longitude": 11.3279007,
+            "max_latitude": 59.7905146,
+            "max_longitude": 11.9460045,
+            "min_latitude": 58.8768946,
+            "min_longitude": 10.5764046
         },
         "iso_3166_2": "NO-14",
         "iso_a2": "-99",
         "iso_a3": "-99",
-        "name": "Sogn og Fjordane",
+        "name": "\u00d8stfold",
         "postal": "14",
         "type": "Fylke",
         "type_en": "County"
     },
     "15": {
         "alt_names": [
-            "M\u00f8re og Romsdal"
+            "\u00d8stfold"
         ],
         "cca2": "NO",
         "cca3": "NOR",
@@ -1944,24 +1944,24 @@
             "woe_name": "M\u00f8re og Romsdal"
         },
         "geo": {
-            "latitude": 62.9760369,
-            "longitude": 8.0182724,
-            "max_latitude": 63.5377568,
-            "max_longitude": 9.5842118,
-            "min_latitude": 61.9565835,
-            "min_longitude": 5.2635845
+            "latitude": 59.2558286,
+            "longitude": 11.3279007,
+            "max_latitude": 59.7905146,
+            "max_longitude": 11.9460045,
+            "min_latitude": 58.8768946,
+            "min_longitude": 10.5764046
         },
         "iso_3166_2": "NO-15",
         "iso_a2": "-99",
         "iso_a3": "-99",
-        "name": "M\u00f8re og Romsdal",
+        "name": "\u00d8stfold",
         "postal": "15",
         "type": "Fylke",
         "type_en": "County"
     },
     "16": {
         "alt_names": [
-            "S\u00f8r-Tr\u00f8ndelag"
+            "\u00d8stfold"
         ],
         "cca2": "NO",
         "cca3": "NOR",
@@ -2084,24 +2084,24 @@
             "woe_name": "S\u00f8r-Tr\u00f8ndelag"
         },
         "geo": {
-            "latitude": 63.0136823,
-            "longitude": 10.3487135,
-            "max_latitude": 64.4653999,
-            "max_longitude": 12.2467012,
-            "min_latitude": 62.2557267,
-            "min_longitude": 8.2337801
+            "latitude": 59.2558286,
+            "longitude": 11.3279007,
+            "max_latitude": 59.7905146,
+            "max_longitude": 11.9460045,
+            "min_latitude": 58.8768946,
+            "min_longitude": 10.5764046
         },
         "iso_3166_2": "NO-16",
         "iso_a2": "-99",
         "iso_a3": "-99",
-        "name": "S\u00f8r-Tr\u00f8ndelag",
+        "name": "\u00d8stfold",
         "postal": "16",
         "type": "Fylke",
         "type_en": "County"
     },
     "17": {
         "alt_names": [
-            "Nord-Tr\u00f8ndelag"
+            "\u00d8stfold"
         ],
         "cca2": "NO",
         "cca3": "NOR",
@@ -2224,24 +2224,24 @@
             "woe_name": "Nord-Tr\u00f8ndelag"
         },
         "geo": {
-            "latitude": 64.4370792,
-            "longitude": 11.7462949,
-            "max_latitude": 65.3944038,
-            "max_longitude": 14.3259858,
-            "min_latitude": 63.1806873,
-            "min_longitude": 10.1335962
+            "latitude": 59.2558286,
+            "longitude": 11.3279007,
+            "max_latitude": 59.7905146,
+            "max_longitude": 11.9460045,
+            "min_latitude": 58.8768946,
+            "min_longitude": 10.5764046
         },
         "iso_3166_2": "NO-17",
         "iso_a2": "-99",
         "iso_a3": "-99",
-        "name": "Nord-Tr\u00f8ndelag",
+        "name": "\u00d8stfold",
         "postal": "17",
         "type": "Fylke",
         "type_en": "County"
     },
     "18": {
         "alt_names": [
-            "Nordland"
+            "\u00d8stfold"
         ],
         "cca2": "NO",
         "cca3": "NOR",
@@ -2364,24 +2364,24 @@
             "woe_name": "Nordland"
         },
         "geo": {
-            "latitude": 67.6916702,
-            "longitude": 12.7019476,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 59.2558286,
+            "longitude": 11.3279007,
+            "max_latitude": 59.7905146,
+            "max_longitude": 11.9460045,
+            "min_latitude": 58.8768946,
+            "min_longitude": 10.5764046
         },
         "iso_3166_2": "NO-18",
         "iso_a2": "-99",
         "iso_a3": "-99",
-        "name": "Nordland",
+        "name": "\u00d8stfold",
         "postal": "18",
         "type": "Fylke",
         "type_en": "County"
     },
     "19": {
         "alt_names": [
-            "Troms"
+            "\u00d8stfold"
         ],
         "cca2": "NO",
         "cca3": "NOR",
@@ -2504,24 +2504,24 @@
             "woe_name": "Troms"
         },
         "geo": {
-            "latitude": 69.8178242,
-            "longitude": 18.7819365,
-            "max_latitude": 70.3197614,
-            "max_longitude": 22.8944657,
-            "min_latitude": 68.3560138,
-            "min_longitude": 15.5925417
+            "latitude": 59.2558286,
+            "longitude": 11.3279007,
+            "max_latitude": 59.7905146,
+            "max_longitude": 11.9460045,
+            "min_latitude": 58.8768946,
+            "min_longitude": 10.5764046
         },
         "iso_3166_2": "NO-19",
         "iso_a2": "-99",
         "iso_a3": "-99",
-        "name": "Troms",
+        "name": "\u00d8stfold",
         "postal": "19",
         "type": "Fylke",
         "type_en": "County"
     },
     "20": {
         "alt_names": [
-            "Finnmarku"
+            "\u00d8stfold"
         ],
         "cca2": "NO",
         "cca3": "NOR",
@@ -2644,24 +2644,24 @@
             "woe_name": "Finnmark"
         },
         "geo": {
-            "latitude": 70.4830388,
-            "longitude": 26.0135108,
-            "max_latitude": 71.1854762,
-            "max_longitude": 31.1682684,
-            "min_latitude": 68.5545918,
-            "min_longitude": 21.173939
+            "latitude": 59.2558286,
+            "longitude": 11.3279007,
+            "max_latitude": 59.7905146,
+            "max_longitude": 11.9460045,
+            "min_latitude": 58.8768946,
+            "min_longitude": 10.5764046
         },
         "iso_3166_2": "NO-20",
         "iso_a2": "-99",
         "iso_a3": "-99",
-        "name": "Finnmark",
+        "name": "\u00d8stfold",
         "postal": "20",
         "type": "Fylke",
         "type_en": "County"
     },
     "21": {
         "alt_names": [
-            ""
+            "\u00d8stfold"
         ],
         "cca2": "NO",
         "cca3": "NOR",
@@ -2784,20 +2784,24 @@
             "woe_name": "Svalbard"
         },
         "geo": {
-            "latitude": "78.8124000000",
-            "longitude": "18.0690000000"
+            "latitude": 59.2558286,
+            "longitude": 11.3279007,
+            "max_latitude": 59.7905146,
+            "max_longitude": 11.9460045,
+            "min_latitude": 58.8768946,
+            "min_longitude": 10.5764046
         },
         "iso_3166_2": "NO-21",
-        "iso_a2": "NO",
-        "iso_a3": "NOR",
-        "name": "Svalbard",
+        "iso_a2": "-99",
+        "iso_a3": "-99",
+        "name": "\u00d8stfold",
         "postal": "21",
         "type": "Territory",
         "type_en": "Territory"
     },
     "X01~": {
         "alt_names": [
-            ""
+            "\u00d8stfold"
         ],
         "cca2": "NO",
         "cca3": "NOR",
@@ -2920,13 +2924,17 @@
             "woe_name": "Bouvet Island"
         },
         "geo": {
-            "latitude": "-54.4151000000",
-            "longitude": "3.4167700000"
+            "latitude": 59.2558286,
+            "longitude": 11.3279007,
+            "max_latitude": 59.7905146,
+            "max_longitude": 11.9460045,
+            "min_latitude": 58.8768946,
+            "min_longitude": 10.5764046
         },
         "iso_3166_2": "NO-X01~",
-        "iso_a2": "NO",
-        "iso_a3": "NOR",
-        "name": "Bouvet Island",
+        "iso_a2": "-99",
+        "iso_a3": "-99",
+        "name": "\u00d8stfold",
         "postal": "X01~",
         "type": "",
         "type_en": ""

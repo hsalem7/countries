@@ -141,7 +141,7 @@
     },
     "C": {
         "alt_names": [
-            "Cartago"
+            "Alajuela"
         ],
         "cca2": "CR",
         "cca3": "CRI",
@@ -264,24 +264,24 @@
             "woe_name": "Cartago"
         },
         "geo": {
-            "latitude": 9.7539596,
-            "longitude": -83.6773928,
-            "max_latitude": 10.1429971,
-            "max_longitude": -83.301808,
-            "min_latitude": 9.5052191,
-            "min_longitude": -84.0711091
+            "latitude": 10.391583,
+            "longitude": -84.4382721,
+            "max_latitude": 11.0793161,
+            "max_longitude": -84.149513,
+            "min_latitude": 9.8215051,
+            "min_longitude": -85.43864
         },
         "iso_3166_2": "CR-C",
         "iso_a2": "CR",
         "iso_a3": "CRI",
-        "name": "Cartago",
+        "name": "Alajuela",
         "postal": "C",
         "type": "Provincia",
         "type_en": "Province"
     },
     "G": {
         "alt_names": [
-            "Guanacaste"
+            "Alajuela"
         ],
         "cca2": "CR",
         "cca3": "CRI",
@@ -404,24 +404,24 @@
             "woe_name": "Guanacaste"
         },
         "geo": {
-            "latitude": 10.4957971,
-            "longitude": -85.354965,
-            "max_latitude": 11.2168181,
-            "max_longitude": -84.760645,
-            "min_latitude": 9.7238611,
-            "min_longitude": -85.9460828
+            "latitude": 10.391583,
+            "longitude": -84.4382721,
+            "max_latitude": 11.0793161,
+            "max_longitude": -84.149513,
+            "min_latitude": 9.8215051,
+            "min_longitude": -85.43864
         },
         "iso_3166_2": "CR-G",
         "iso_a2": "CR",
         "iso_a3": "CRI",
-        "name": "Guanacaste",
+        "name": "Alajuela",
         "postal": "G",
         "type": "Provincia",
         "type_en": "Province"
     },
     "H": {
         "alt_names": [
-            "Heredia"
+            "Alajuela"
         ],
         "cca2": "CR",
         "cca3": "CRI",
@@ -544,24 +544,24 @@
             "woe_name": "Heredia"
         },
         "geo": {
-            "latitude": 10.473523,
-            "longitude": -84.0167423,
-            "max_latitude": 10.789644,
-            "max_longitude": -83.714804,
-            "min_latitude": 9.9513191,
-            "min_longitude": -84.1904659
+            "latitude": 10.391583,
+            "longitude": -84.4382721,
+            "max_latitude": 11.0793161,
+            "max_longitude": -84.149513,
+            "min_latitude": 9.8215051,
+            "min_longitude": -85.43864
         },
         "iso_3166_2": "CR-H",
         "iso_a2": "CR",
         "iso_a3": "CRI",
-        "name": "Heredia",
+        "name": "Alajuela",
         "postal": "H",
         "type": "Provincia",
         "type_en": "Province"
     },
     "L": {
         "alt_names": [
-            "Lim\u00f3n"
+            "Alajuela"
         ],
         "cca2": "CR",
         "cca3": "CRI",
@@ -684,24 +684,24 @@
             "woe_name": "Lim\u00f3n"
         },
         "geo": {
-            "latitude": 9.983333,
-            "longitude": -83.033333,
-            "max_latitude": 10.0114533,
-            "max_longitude": -83.0199856,
-            "min_latitude": 9.9721473,
-            "min_longitude": -83.0664253
+            "latitude": 10.391583,
+            "longitude": -84.4382721,
+            "max_latitude": 11.0793161,
+            "max_longitude": -84.149513,
+            "min_latitude": 9.8215051,
+            "min_longitude": -85.43864
         },
         "iso_3166_2": "CR-L",
         "iso_a2": "CR",
         "iso_a3": "CRI",
-        "name": "Lim\u00f3n",
+        "name": "Alajuela",
         "postal": "L",
         "type": "Provincia",
         "type_en": "Province"
     },
     "P": {
         "alt_names": [
-            "Puntarenas"
+            "Alajuela"
         ],
         "cca2": "CR",
         "cca3": "CRI",
@@ -824,24 +824,24 @@
             "woe_name": "Puntarenas"
         },
         "geo": {
-            "latitude": 9.9778439,
-            "longitude": -84.8294211,
-            "max_latitude": 9.983031,
-            "max_longitude": -84.7929956,
-            "min_latitude": 9.9740775,
-            "min_longitude": -84.8512676
+            "latitude": 10.391583,
+            "longitude": -84.4382721,
+            "max_latitude": 11.0793161,
+            "max_longitude": -84.149513,
+            "min_latitude": 9.8215051,
+            "min_longitude": -85.43864
         },
         "iso_3166_2": "CR-P",
         "iso_a2": "CR",
         "iso_a3": "CRI",
-        "name": "Puntarenas",
+        "name": "Alajuela",
         "postal": "P",
         "type": "Provincia",
         "type_en": "Province"
     },
     "SJ": {
         "alt_names": [
-            "San Jos\u00e9"
+            "Alajuela"
         ],
         "cca2": "CR",
         "cca3": "CRI",
@@ -964,17 +964,17 @@
             "woe_name": "San Jos\u00e9"
         },
         "geo": {
-            "latitude": 9.9280694,
-            "longitude": -84.0907246,
-            "max_latitude": 9.9712598,
-            "max_longitude": -84.047191,
-            "min_latitude": 9.8999687,
-            "min_longitude": -84.1794991
+            "latitude": 10.391583,
+            "longitude": -84.4382721,
+            "max_latitude": 11.0793161,
+            "max_longitude": -84.149513,
+            "min_latitude": 9.8215051,
+            "min_longitude": -85.43864
         },
         "iso_3166_2": "CR-SJ",
         "iso_a2": "CR",
         "iso_a3": "CRI",
-        "name": "San Jos\u00e9",
+        "name": "Alajuela",
         "postal": "SJ",
         "type": "Provincia",
         "type_en": "Province"

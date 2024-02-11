@@ -147,10 +147,13 @@
     },
     "KH": {
         "alt_names": [
-            "H\u0331\u016br",
-            "al-Khawr",
-            "al-Khour",
-            "al-H\u0331awr"
+            "Dawhah",
+            "Doha",
+            "ad-Dawhah",
+            "ad-Dawh\u0328ah",
+            "Doha",
+            "Doha",
+            "Doha"
         ],
         "cca2": "QA",
         "cca3": "QAT",
@@ -273,24 +276,30 @@
             "woe_name": "Al Khawr"
         },
         "geo": {
-            "latitude": 25.6804078,
-            "longitude": 51.4968502,
-            "max_latitude": 25.6959881,
-            "max_longitude": 51.5287971,
-            "min_latitude": 25.6203229,
-            "min_longitude": 51.4761828
+            "latitude": 25.2916097,
+            "longitude": 51.5304368,
+            "max_latitude": 25.4125783,
+            "max_longitude": 51.6281212,
+            "min_latitude": 25.1954283,
+            "min_longitude": 51.4307964
         },
         "iso_3166_2": "QA-KH",
         "iso_a2": "QA",
         "iso_a3": "QAT",
-        "name": "Al Khawr",
+        "name": "Ad Dawhah",
         "postal": "KH",
         "type": "Baladiyah",
         "type_en": "Municipality"
     },
     "MS": {
         "alt_names": [
-            "ash-Shamal"
+            "Dawhah",
+            "Doha",
+            "ad-Dawhah",
+            "ad-Dawh\u0328ah",
+            "Doha",
+            "Doha",
+            "Doha"
         ],
         "cca2": "QA",
         "cca3": "QAT",
@@ -413,25 +422,30 @@
             "woe_name": "Madinat ach Shamal"
         },
         "geo": {
-            "latitude": 26.1156079,
-            "longitude": 51.2218451,
-            "max_latitude": 26.123153,
-            "max_longitude": 51.2382604,
-            "min_latitude": 26.1038857,
-            "min_longitude": 51.2056447
+            "latitude": 25.2916097,
+            "longitude": 51.5304368,
+            "max_latitude": 25.4125783,
+            "max_longitude": 51.6281212,
+            "min_latitude": 25.1954283,
+            "min_longitude": 51.4307964
         },
         "iso_3166_2": "QA-MS",
         "iso_a2": "QA",
         "iso_a3": "QAT",
-        "name": "Madinat ash Shamal",
+        "name": "Ad Dawhah",
         "postal": "MS",
         "type": "Baladiyah",
         "type_en": "Municipality"
     },
     "RA": {
         "alt_names": [
-            "Rayyan",
-            "ar-Rayyan"
+            "Dawhah",
+            "Doha",
+            "ad-Dawhah",
+            "ad-Dawh\u0328ah",
+            "Doha",
+            "Doha",
+            "Doha"
         ],
         "cca2": "QA",
         "cca3": "QAT",
@@ -554,24 +568,30 @@
             "woe_name": "Ar Rayyan"
         },
         "geo": {
-            "latitude": 25.2089787,
-            "longitude": 51.095836,
-            "max_latitude": 25.8087775,
-            "max_longitude": 51.5370008,
-            "min_latitude": 24.471186,
-            "min_longitude": 50.7500553
+            "latitude": 25.2916097,
+            "longitude": 51.5304368,
+            "max_latitude": 25.4125783,
+            "max_longitude": 51.6281212,
+            "min_latitude": 25.1954283,
+            "min_longitude": 51.4307964
         },
         "iso_3166_2": "QA-RA",
         "iso_a2": "QA",
         "iso_a3": "QAT",
-        "name": "Ar Rayyan",
+        "name": "Ad Dawhah",
         "postal": "RA",
         "type": "Baladiyah",
         "type_en": "Municipality"
     },
     "US": {
         "alt_names": [
-            "Umm Shalal"
+            "Dawhah",
+            "Doha",
+            "ad-Dawhah",
+            "ad-Dawh\u0328ah",
+            "Doha",
+            "Doha",
+            "Doha"
         ],
         "cca2": "QA",
         "cca3": "QAT",
@@ -694,25 +714,30 @@
             "woe_name": "Umm Salal"
         },
         "geo": {
-            "latitude": 25.3981114,
-            "longitude": 51.4250849,
-            "max_latitude": 25.4387563,
-            "max_longitude": 51.4667945,
-            "min_latitude": 25.3710324,
-            "min_longitude": 51.3913962
+            "latitude": 25.2916097,
+            "longitude": 51.5304368,
+            "max_latitude": 25.4125783,
+            "max_longitude": 51.6281212,
+            "min_latitude": 25.1954283,
+            "min_longitude": 51.4307964
         },
         "iso_3166_2": "QA-US",
         "iso_a2": "QA",
         "iso_a3": "QAT",
-        "name": "Umm Salal",
+        "name": "Ad Dawhah",
         "postal": "US",
         "type": "Baladiyah",
         "type_en": "Municipality"
     },
     "WA": {
         "alt_names": [
-            "Wakra",
-            "Wakrah"
+            "Dawhah",
+            "Doha",
+            "ad-Dawhah",
+            "ad-Dawh\u0328ah",
+            "Doha",
+            "Doha",
+            "Doha"
         ],
         "cca2": "QA",
         "cca3": "QAT",
@@ -835,24 +860,30 @@
             "woe_name": "Al Wakrah"
         },
         "geo": {
-            "latitude": 25.1768157,
-            "longitude": 51.6048431,
-            "max_latitude": 25.233427,
-            "max_longitude": 51.6284578,
-            "min_latitude": 24.473726,
-            "min_longitude": 51.1108249
+            "latitude": 25.2916097,
+            "longitude": 51.5304368,
+            "max_latitude": 25.4125783,
+            "max_longitude": 51.6281212,
+            "min_latitude": 25.1954283,
+            "min_longitude": 51.4307964
         },
         "iso_3166_2": "QA-WA",
         "iso_a2": "QA",
         "iso_a3": "QAT",
-        "name": "Al Wakrah",
+        "name": "Ad Dawhah",
         "postal": "WA",
         "type": "Baladiyah",
         "type_en": "Municipality"
     },
     "ZA": {
         "alt_names": [
-            "Az\u0327 Za\u0327`\u0101yin"
+            "Dawhah",
+            "Doha",
+            "ad-Dawhah",
+            "ad-Dawh\u0328ah",
+            "Doha",
+            "Doha",
+            "Doha"
         ],
         "cca2": "QA",
         "cca3": "QAT",
@@ -975,13 +1006,17 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "25.4579000000",
-            "longitude": "51.4671000000"
+            "latitude": 25.2916097,
+            "longitude": 51.5304368,
+            "max_latitude": 25.4125783,
+            "max_longitude": 51.6281212,
+            "min_latitude": 25.1954283,
+            "min_longitude": 51.4307964
         },
         "iso_3166_2": "QA-ZA",
         "iso_a2": "QA",
         "iso_a3": "QAT",
-        "name": "Al Daayen",
+        "name": "Ad Dawhah",
         "postal": "ZA",
         "type": "Baladiyah",
         "type_en": "Municipality"

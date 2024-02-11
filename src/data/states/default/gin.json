@@ -141,7 +141,7 @@
     },
     "BF": {
         "alt_names": [
-            "Boffa"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -264,24 +264,24 @@
             "woe_name": "Boke"
         },
         "geo": {
-            "latitude": 10.1808254,
-            "longitude": -14.0391615,
-            "max_latitude": 10.1955781,
-            "max_longitude": -14.0259361,
-            "min_latitude": 10.1706568,
-            "min_longitude": -14.050312
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-BF",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Boffa",
+        "name": "Beyla",
         "postal": "BF",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "BK": {
         "alt_names": [
-            "Bok\u00e9"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -404,24 +404,24 @@
             "woe_name": "Boke"
         },
         "geo": {
-            "latitude": 11.1864672,
-            "longitude": -14.1001326,
-            "max_latitude": 12.67622,
-            "max_longitude": -12.555448,
-            "min_latitude": 9.8103916,
-            "min_longitude": -15.0782058
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-BK",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Bok\u00e9",
+        "name": "Beyla",
         "postal": "BK",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "C": {
         "alt_names": [
-            "Conakry"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -544,24 +544,24 @@
             "woe_name": "Conakry"
         },
         "geo": {
-            "latitude": 9.509167,
-            "longitude": -13.712222,
-            "max_latitude": 9.7704412,
-            "max_longitude": -13.4295724,
-            "min_latitude": 9.5007226,
-            "min_longitude": -13.7279041
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-C",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Conakry",
+        "name": "Beyla",
         "postal": "C",
         "type": "Gouvernorat",
         "type_en": "Administrative Zone"
     },
     "CO": {
         "alt_names": [
-            "Coyah"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -684,24 +684,24 @@
             "woe_name": "Kindia"
         },
         "geo": {
-            "latitude": 9.7,
-            "longitude": -13.383333,
-            "max_latitude": 9.7186919,
-            "max_longitude": -13.3728929,
-            "min_latitude": 9.6927239,
-            "min_longitude": -13.4085811
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-CO",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Coyah",
+        "name": "Beyla",
         "postal": "CO",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "DB": {
         "alt_names": [
-            "Dabola"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -824,24 +824,24 @@
             "woe_name": "Faranah"
         },
         "geo": {
-            "latitude": 10.75,
-            "longitude": -11.116667,
-            "max_latitude": 10.7523239,
-            "max_longitude": -11.0782528,
-            "min_latitude": 10.7100748,
-            "min_longitude": -11.142025
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-DB",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Dabola",
+        "name": "Beyla",
         "postal": "DB",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "DI": {
         "alt_names": [
-            "Dinguiraye"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -964,24 +964,24 @@
             "woe_name": "Faranah"
         },
         "geo": {
-            "latitude": 11.3,
-            "longitude": -10.716667,
-            "max_latitude": 11.3052249,
-            "max_longitude": -10.6942462,
-            "min_latitude": 11.2771965,
-            "min_longitude": -10.7283639
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-DI",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Dinguiraye",
+        "name": "Beyla",
         "postal": "DI",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "DL": {
         "alt_names": [
-            "Dalaba"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -1104,24 +1104,24 @@
             "woe_name": "Mamou"
         },
         "geo": {
-            "latitude": 10.166667,
-            "longitude": -9.383333,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-DL",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Dalaba",
+        "name": "Beyla",
         "postal": "DL",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "DU": {
         "alt_names": [
-            "Dubr\u00e9ka"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -1244,24 +1244,24 @@
             "woe_name": "Kindia"
         },
         "geo": {
-            "latitude": 9.783333,
-            "longitude": -13.516667,
-            "max_latitude": 9.8077938,
-            "max_longitude": -13.472023,
-            "min_latitude": 9.7699298,
-            "min_longitude": -13.5531284
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-DU",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Dubr\u00e9ka",
+        "name": "Beyla",
         "postal": "DU",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "FA": {
         "alt_names": [
-            "Faranah"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -1384,24 +1384,24 @@
             "woe_name": "Faranah"
         },
         "geo": {
-            "latitude": 10.033333,
-            "longitude": -10.733333,
-            "max_latitude": 10.0750513,
-            "max_longitude": -10.7218838,
-            "min_latitude": 10.0104814,
-            "min_longitude": -10.7830811
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-FA",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Faranah",
+        "name": "Beyla",
         "postal": "FA",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "FO": {
         "alt_names": [
-            "For\u00e9caria"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -1524,24 +1524,24 @@
             "woe_name": "Kindia"
         },
         "geo": {
-            "latitude": 9.433333,
-            "longitude": -13.083333,
-            "max_latitude": 9.4440889,
-            "max_longitude": -13.0725472,
-            "min_latitude": 9.4211622,
-            "min_longitude": -13.1032728
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-FO",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "For\u00e9cariah",
+        "name": "Beyla",
         "postal": "FO",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "FR": {
         "alt_names": [
-            "Fria"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -1664,24 +1664,24 @@
             "woe_name": "Boke"
         },
         "geo": {
-            "latitude": 10.3674543,
-            "longitude": -13.5841871,
-            "max_latitude": 10.3925134,
-            "max_longitude": -13.5586739,
-            "min_latitude": 10.3439033,
-            "min_longitude": -13.5969328
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-FR",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Fria",
+        "name": "Beyla",
         "postal": "FR",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "GA": {
         "alt_names": [
-            "Gaoual"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -1804,24 +1804,24 @@
             "woe_name": "Boke"
         },
         "geo": {
-            "latitude": 11.75,
-            "longitude": -13.2,
-            "max_latitude": 11.7684275,
-            "max_longitude": -13.1911039,
-            "min_latitude": 11.7405713,
-            "min_longitude": -13.2174969
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-GA",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Gaoual",
+        "name": "Beyla",
         "postal": "GA",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "GU": {
         "alt_names": [
-            "Gu\u00e9k\u00e9dou"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -1944,24 +1944,24 @@
             "woe_name": "Nz\u00e9r\u00e9kor\u00e9"
         },
         "geo": {
-            "latitude": 8.566667,
-            "longitude": -10.133333,
-            "max_latitude": 8.5970612,
-            "max_longitude": -10.094719,
-            "min_latitude": 8.5333639,
-            "min_longitude": -10.1548433
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-GU",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Gu\u00e9k\u00e9dou",
+        "name": "Beyla",
         "postal": "GU",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "K": {
         "alt_names": [
-            "Kankan"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -2084,24 +2084,24 @@
             "woe_name": "Kankan"
         },
         "geo": {
-            "latitude": 10.120923,
-            "longitude": -9.5450974,
-            "max_latitude": 12.5026249,
-            "max_longitude": -7.9472039,
-            "min_latitude": 8.7616421,
-            "min_longitude": -10.90847
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-K",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Kankan",
+        "name": "Beyla",
         "postal": "K",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "KB": {
         "alt_names": [
-            "Koubia"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -2224,24 +2224,24 @@
             "woe_name": "Lab\u00e9"
         },
         "geo": {
-            "latitude": 11.583333,
-            "longitude": -11.9,
-            "max_latitude": 11.5942277,
-            "max_longitude": -11.8801688,
-            "min_latitude": 11.5748048,
-            "min_longitude": -11.9058323
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-KB",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Koubia",
+        "name": "Beyla",
         "postal": "KB",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "KD": {
         "alt_names": [
-            "Kindia"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -2364,24 +2364,24 @@
             "woe_name": "Kindia"
         },
         "geo": {
-            "latitude": 10.066667,
-            "longitude": -12.85,
-            "max_latitude": 10.0824454,
-            "max_longitude": -12.8158951,
-            "min_latitude": 10.0121295,
-            "min_longitude": -12.8973483
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-KD",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Kindia",
+        "name": "Beyla",
         "postal": "KD",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "KE": {
         "alt_names": [
-            "K\u00e9rouan\u00e9"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -2504,24 +2504,24 @@
             "woe_name": "Kankan"
         },
         "geo": {
-            "latitude": 9.266667,
-            "longitude": -9.016667,
-            "max_latitude": 9.282653,
-            "max_longitude": -8.9937686,
-            "min_latitude": 9.2568165,
-            "min_longitude": -9.023037
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-KE",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "K\u00e9rouan\u00e9",
+        "name": "Beyla",
         "postal": "KE",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "KN": {
         "alt_names": [
-            "Koundara"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -2644,24 +2644,24 @@
             "woe_name": "Boke"
         },
         "geo": {
-            "latitude": 12.483333,
-            "longitude": -13.3,
-            "max_latitude": 12.5115815,
-            "max_longitude": -13.2766341,
-            "min_latitude": 12.4696819,
-            "min_longitude": -13.3191205
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-KN",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Koundara",
+        "name": "Beyla",
         "postal": "KN",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "KO": {
         "alt_names": [
-            "Kouroussa"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -2784,24 +2784,24 @@
             "woe_name": "Kankan"
         },
         "geo": {
-            "latitude": 10.65,
-            "longitude": -9.883333,
-            "max_latitude": 10.6671028,
-            "max_longitude": -9.866495,
-            "min_latitude": 10.6314216,
-            "min_longitude": -9.9002372
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-KO",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Kouroussa",
+        "name": "Beyla",
         "postal": "KO",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "KS": {
         "alt_names": [
-            "Kissidougou"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -2924,24 +2924,24 @@
             "woe_name": "Faranah"
         },
         "geo": {
-            "latitude": 9.183333,
-            "longitude": -10.1,
-            "max_latitude": 9.234621,
-            "max_longitude": -10.0576401,
-            "min_latitude": 9.1458251,
-            "min_longitude": -10.1441575
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-KS",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Kissidougou",
+        "name": "Beyla",
         "postal": "KS",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "LA": {
         "alt_names": [
-            "Lab\u00e9"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -3064,24 +3064,24 @@
             "woe_name": "Lab\u00e9"
         },
         "geo": {
-            "latitude": 11.641159,
-            "longitude": -11.8891721,
-            "max_latitude": 12.4428371,
-            "max_longitude": -11.109311,
-            "min_latitude": 11.0049169,
-            "min_longitude": -13.027551
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-LA",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Lab\u00e9",
+        "name": "Beyla",
         "postal": "LA",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "LE": {
         "alt_names": [
-            "L\u00e9louma"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -3204,24 +3204,24 @@
             "woe_name": "Lab\u00e9"
         },
         "geo": {
-            "latitude": 11.4739967,
-            "longitude": -12.6675575,
-            "max_latitude": 11.831968,
-            "max_longitude": -12.424321,
-            "min_latitude": 11.102719,
-            "min_longitude": -13.027551
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-LE",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "L\u00e9louma",
+        "name": "Beyla",
         "postal": "LE",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "LO": {
         "alt_names": [
-            "Lola"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -3344,24 +3344,24 @@
             "woe_name": "Nz\u00e9r\u00e9kor\u00e9"
         },
         "geo": {
-            "latitude": 7.8,
-            "longitude": -8.533333,
-            "max_latitude": 7.8204807,
-            "max_longitude": -8.5110372,
-            "min_latitude": 7.7845284,
-            "min_longitude": -8.5487326
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-LO",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Lola",
+        "name": "Beyla",
         "postal": "LO",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "MC": {
         "alt_names": [
-            "Macenta"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -3484,24 +3484,24 @@
             "woe_name": "Nz\u00e9r\u00e9kor\u00e9"
         },
         "geo": {
-            "latitude": 8.55,
-            "longitude": -9.466667,
-            "max_latitude": 8.563368,
-            "max_longitude": -9.4360541,
-            "min_latitude": 8.5163448,
-            "min_longitude": -9.496479
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-MC",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Macenta",
+        "name": "Beyla",
         "postal": "MC",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "MD": {
         "alt_names": [
-            "Mandiana"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -3624,24 +3624,24 @@
             "woe_name": "Kankan"
         },
         "geo": {
-            "latitude": 10.6172827,
-            "longitude": -8.6985716,
-            "max_latitude": 10.640026,
-            "max_longitude": -8.6830616,
-            "min_latitude": 10.6024858,
-            "min_longitude": -8.7058068
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-MD",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Mandiana",
+        "name": "Beyla",
         "postal": "MD",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "ML": {
         "alt_names": [
-            "Mali"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -3764,24 +3764,24 @@
             "woe_name": "Lab\u00e9"
         },
         "geo": {
-            "latitude": 12.083333,
-            "longitude": -12.3,
-            "max_latitude": 12.087919,
-            "max_longitude": -12.2849035,
-            "min_latitude": 12.0613546,
-            "min_longitude": -12.310524
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-ML",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Mali",
+        "name": "Beyla",
         "postal": "ML",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "MM": {
         "alt_names": [
-            "Mamou"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -3904,24 +3904,24 @@
             "woe_name": "Mamou"
         },
         "geo": {
-            "latitude": 10.5736024,
-            "longitude": -11.8891721,
-            "max_latitude": 11.335539,
-            "max_longitude": -11.3715681,
-            "min_latitude": 9.871375,
-            "min_longitude": -12.976967
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-MM",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Mamou",
+        "name": "Beyla",
         "postal": "MM",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "NZ": {
         "alt_names": [
-            "Nz\u00e9r\u00e9kor\u00e9"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -4044,24 +4044,24 @@
             "woe_name": "Nz\u00e9r\u00e9kor\u00e9"
         },
         "geo": {
-            "latitude": 7.75,
-            "longitude": -8.816667,
-            "max_latitude": 7.8033508,
-            "max_longitude": -8.7803078,
-            "min_latitude": 7.7149041,
-            "min_longitude": -8.8453674
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-NZ",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Nz\u00e9r\u00e9kor\u00e9",
+        "name": "Beyla",
         "postal": "NZ",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "PI": {
         "alt_names": [
-            "Pita"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -4184,24 +4184,24 @@
             "woe_name": "Mamou"
         },
         "geo": {
-            "latitude": 11.059568,
-            "longitude": -12.395582,
-            "max_latitude": 11.0790367,
-            "max_longitude": -12.370305,
-            "min_latitude": 11.0282726,
-            "min_longitude": -12.4155379
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-PI",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Pita",
+        "name": "Beyla",
         "postal": "PI",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "SI": {
         "alt_names": [
-            "Siguiri"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -4324,24 +4324,24 @@
             "woe_name": "Kankan"
         },
         "geo": {
-            "latitude": 11.416667,
-            "longitude": -9.166667,
-            "max_latitude": 11.440052,
-            "max_longitude": -9.1520426,
-            "min_latitude": 11.3927665,
-            "min_longitude": -9.2001034
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-SI",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Siguiri",
+        "name": "Beyla",
         "postal": "SI",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "TE": {
         "alt_names": [
-            "T\u00e9lim\u00e9l\u00e9"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -4464,24 +4464,24 @@
             "woe_name": "Kindia"
         },
         "geo": {
-            "latitude": 10.9,
-            "longitude": -13.033333,
-            "max_latitude": 10.9323432,
-            "max_longitude": -13.0202578,
-            "min_latitude": 10.8810167,
-            "min_longitude": -13.0482388
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-TE",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "T\u00e9lim\u00e9l\u00e9",
+        "name": "Beyla",
         "postal": "TE",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "TO": {
         "alt_names": [
-            "Tougu\u00e9"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -4604,24 +4604,24 @@
             "woe_name": "Lab\u00e9"
         },
         "geo": {
-            "latitude": 11.4464221,
-            "longitude": -11.6641388,
-            "max_latitude": 11.4590797,
-            "max_longitude": -11.6549492,
-            "min_latitude": 11.4313187,
-            "min_longitude": -11.6786385
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-TO",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Tougu\u00e9",
+        "name": "Beyla",
         "postal": "TO",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "YO": {
         "alt_names": [
-            "Yomou"
+            "Beyla"
         ],
         "cca2": "GN",
         "cca3": "GIN",
@@ -4744,17 +4744,17 @@
             "woe_name": "Nz\u00e9r\u00e9kor\u00e9"
         },
         "geo": {
-            "latitude": 7.566,
-            "longitude": -9.2533,
-            "max_latitude": 7.5800725,
-            "max_longitude": -9.2434503,
-            "min_latitude": 7.5576959,
-            "min_longitude": -9.2723751
+            "latitude": 8.683333,
+            "longitude": -8.633333,
+            "max_latitude": 8.7033838,
+            "max_longitude": -8.6234092,
+            "min_latitude": 8.6760634,
+            "min_longitude": -8.6646938
         },
         "iso_3166_2": "GN-YO",
         "iso_a2": "GN",
         "iso_a3": "GIN",
-        "name": "Yomou",
+        "name": "Beyla",
         "postal": "YO",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"

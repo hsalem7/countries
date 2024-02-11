@@ -141,7 +141,7 @@
     },
     "BH": {
         "alt_names": [
-            "Bheri"
+            "Bagmati"
         ],
         "cca2": "NP",
         "cca3": "NPL",
@@ -264,24 +264,24 @@
             "woe_name": "Bheri"
         },
         "geo": {
-            "latitude": 28.517456,
-            "longitude": 81.7787021,
-            "max_latitude": 29.135872,
-            "max_longitude": 82.4586491,
-            "min_latitude": 27.85854,
-            "min_longitude": 80.984436
+            "latitude": 28.0367577,
+            "longitude": 85.4375574,
+            "max_latitude": 28.3420049,
+            "max_longitude": 86.06501,
+            "min_latitude": 27.3182049,
+            "min_longitude": 84.626095
         },
         "iso_3166_2": "NP-BH",
         "iso_a2": "NP",
         "iso_a3": "NPL",
-        "name": "Bheri",
+        "name": "Bagmati",
         "postal": "BH",
         "type": "Vikas Kshetra",
         "type_en": "District"
     },
     "DH": {
         "alt_names": [
-            "Dhawalagiri"
+            "Bagmati"
         ],
         "cca2": "NP",
         "cca3": "NPL",
@@ -404,24 +404,24 @@
             "woe_name": "Dhawalagiri"
         },
         "geo": {
-            "latitude": 28.611176,
-            "longitude": 83.5070203,
-            "max_latitude": 29.3155821,
-            "max_longitude": 84.1972049,
-            "min_latitude": 27.9980379,
-            "min_longitude": 82.869958
+            "latitude": 28.0367577,
+            "longitude": 85.4375574,
+            "max_latitude": 28.3420049,
+            "max_longitude": 86.06501,
+            "min_latitude": 27.3182049,
+            "min_longitude": 84.626095
         },
         "iso_3166_2": "NP-DH",
         "iso_a2": "NP",
         "iso_a3": "NPL",
-        "name": "Dhawalagiri",
+        "name": "Bagmati",
         "postal": "DH",
         "type": "Anchal",
         "type_en": "Administrative Zone"
     },
     "GA": {
         "alt_names": [
-            "Gandaki"
+            "Bagmati"
         ],
         "cca2": "NP",
         "cca3": "NPL",
@@ -544,24 +544,24 @@
             "woe_name": "Gandaki"
         },
         "geo": {
-            "latitude": 28.3732037,
-            "longitude": 84.4382721,
-            "max_latitude": 28.91346,
-            "max_longitude": 85.193138,
-            "min_latitude": 27.7426719,
-            "min_longitude": 83.4406971
+            "latitude": 28.0367577,
+            "longitude": 85.4375574,
+            "max_latitude": 28.3420049,
+            "max_longitude": 86.06501,
+            "min_latitude": 27.3182049,
+            "min_longitude": 84.626095
         },
         "iso_3166_2": "NP-GA",
         "iso_a2": "NP",
         "iso_a3": "NPL",
-        "name": "Gandaki",
+        "name": "Bagmati",
         "postal": "GA",
         "type": "Vikas Kshetra",
         "type_en": "District"
     },
     "JA": {
         "alt_names": [
-            "Janakpur"
+            "Bagmati"
         ],
         "cca2": "NP",
         "cca3": "NPL",
@@ -684,24 +684,24 @@
             "woe_name": "Janakpur"
         },
         "geo": {
-            "latitude": 26.728611,
-            "longitude": 85.925,
-            "max_latitude": 26.8383167,
-            "max_longitude": 85.9942174,
-            "min_latitude": 26.6703051,
-            "min_longitude": 85.8793826
+            "latitude": 28.0367577,
+            "longitude": 85.4375574,
+            "max_latitude": 28.3420049,
+            "max_longitude": 86.06501,
+            "min_latitude": 27.3182049,
+            "min_longitude": 84.626095
         },
         "iso_3166_2": "NP-JA",
         "iso_a2": "NP",
         "iso_a3": "NPL",
-        "name": "Janakpur",
+        "name": "Bagmati",
         "postal": "JA",
         "type": "Anchal",
         "type_en": "Administrative Zone"
     },
     "KA": {
         "alt_names": [
-            "Karnali"
+            "Bagmati"
         ],
         "cca2": "NP",
         "cca3": "NPL",
@@ -824,24 +824,24 @@
             "woe_name": "Karnali"
         },
         "geo": {
-            "latitude": 29.3862555,
-            "longitude": 82.3885783,
-            "max_latitude": 30.4333931,
-            "max_longitude": 83.6897499,
-            "min_latitude": 28.7097791,
-            "min_longitude": 81.255875
+            "latitude": 28.0367577,
+            "longitude": 85.4375574,
+            "max_latitude": 28.3420049,
+            "max_longitude": 86.06501,
+            "min_latitude": 27.3182049,
+            "min_longitude": 84.626095
         },
         "iso_3166_2": "NP-KA",
         "iso_a2": "NP",
         "iso_a3": "NPL",
-        "name": "Karnali",
+        "name": "Bagmati",
         "postal": "KA",
         "type": "Anchal",
         "type_en": "Administrative Zone"
     },
     "KO": {
         "alt_names": [
-            "Kosi [Koshi]"
+            "Bagmati"
         ],
         "cca2": "NP",
         "cca3": "NPL",
@@ -964,24 +964,24 @@
             "woe_name": "Kosi"
         },
         "geo": {
-            "latitude": 26.5459247,
-            "longitude": 86.9373716,
-            "max_latitude": 26.8262154,
-            "max_longitude": 87.2665005,
-            "min_latitude": 25.396598,
-            "min_longitude": 86.4182005
+            "latitude": 28.0367577,
+            "longitude": 85.4375574,
+            "max_latitude": 28.3420049,
+            "max_longitude": 86.06501,
+            "min_latitude": 27.3182049,
+            "min_longitude": 84.626095
         },
         "iso_3166_2": "NP-KO",
         "iso_a2": "NP",
         "iso_a3": "NPL",
-        "name": "Kosi [Koshi]",
+        "name": "Bagmati",
         "postal": "KO",
         "type": "Vikas Kshetra",
         "type_en": "District"
     },
     "LU": {
         "alt_names": [
-            "Lumbini"
+            "Bagmati"
         ],
         "cca2": "NP",
         "cca3": "NPL",
@@ -1104,24 +1104,24 @@
             "woe_name": "Lumbini"
         },
         "geo": {
-            "latitude": 27.45,
-            "longitude": 83.25,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 28.0367577,
+            "longitude": 85.4375574,
+            "max_latitude": 28.3420049,
+            "max_longitude": 86.06501,
+            "min_latitude": 27.3182049,
+            "min_longitude": 84.626095
         },
         "iso_3166_2": "NP-LU",
         "iso_a2": "NP",
         "iso_a3": "NPL",
-        "name": "Lumbini",
+        "name": "Bagmati",
         "postal": "LU",
         "type": "Anchal",
         "type_en": "Administrative Zone"
     },
     "MA": {
         "alt_names": [
-            "Mahakali"
+            "Bagmati"
         ],
         "cca2": "NP",
         "cca3": "NPL",
@@ -1244,24 +1244,24 @@
             "woe_name": "Mahakali"
         },
         "geo": {
-            "latitude": 29.39,
-            "longitude": 80.3,
-            "max_latitude": 29.4097501,
-            "max_longitude": 80.3327823,
-            "min_latitude": 29.3691794,
-            "min_longitude": 80.2704906
+            "latitude": 28.0367577,
+            "longitude": 85.4375574,
+            "max_latitude": 28.3420049,
+            "max_longitude": 86.06501,
+            "min_latitude": 27.3182049,
+            "min_longitude": 84.626095
         },
         "iso_3166_2": "NP-MA",
         "iso_a2": "NP",
         "iso_a3": "NPL",
-        "name": "Mahakali",
+        "name": "Bagmati",
         "postal": "MA",
         "type": "Anchal",
         "type_en": "Administrative Zone"
     },
     "ME": {
         "alt_names": [
-            "Mechi"
+            "Bagmati"
         ],
         "cca2": "NP",
         "cca3": "NPL",
@@ -1384,24 +1384,24 @@
             "woe_name": "Mechi"
         },
         "geo": {
-            "latitude": 26.8760007,
-            "longitude": 87.9334803,
-            "max_latitude": 27.9174019,
-            "max_longitude": 88.1993259,
-            "min_latitude": 26.361404,
-            "min_longitude": 87.4689351
+            "latitude": 28.0367577,
+            "longitude": 85.4375574,
+            "max_latitude": 28.3420049,
+            "max_longitude": 86.06501,
+            "min_latitude": 27.3182049,
+            "min_longitude": 84.626095
         },
         "iso_3166_2": "NP-ME",
         "iso_a2": "NP",
         "iso_a3": "NPL",
-        "name": "Mechi",
+        "name": "Bagmati",
         "postal": "ME",
         "type": "Anchal",
         "type_en": "Administrative Zone"
     },
     "NA": {
         "alt_names": [
-            "Narayani"
+            "Bagmati"
         ],
         "cca2": "NP",
         "cca3": "NPL",
@@ -1524,24 +1524,24 @@
             "woe_name": "Narayani"
         },
         "geo": {
-            "latitude": 27.5863482,
-            "longitude": 84.3226488,
-            "max_latitude": 27.6141404,
-            "max_longitude": 84.344962,
-            "min_latitude": 27.5510084,
-            "min_longitude": 84.1606619
+            "latitude": 28.0367577,
+            "longitude": 85.4375574,
+            "max_latitude": 28.3420049,
+            "max_longitude": 86.06501,
+            "min_latitude": 27.3182049,
+            "min_longitude": 84.626095
         },
         "iso_3166_2": "NP-NA",
         "iso_a2": "NP",
         "iso_a3": "NPL",
-        "name": "Narayani",
+        "name": "Bagmati",
         "postal": "NA",
         "type": "Anchal",
         "type_en": "Administrative Zone"
     },
     "RA": {
         "alt_names": [
-            "Rapti"
+            "Bagmati"
         ],
         "cca2": "NP",
         "cca3": "NPL",
@@ -1664,24 +1664,24 @@
             "woe_name": "Rapti"
         },
         "geo": {
-            "latitude": 28.274347,
-            "longitude": 82.3885783,
-            "max_latitude": 28.9921259,
-            "max_longitude": 83.1547849,
-            "min_latitude": 27.682508,
-            "min_longitude": 81.7472689
+            "latitude": 28.0367577,
+            "longitude": 85.4375574,
+            "max_latitude": 28.3420049,
+            "max_longitude": 86.06501,
+            "min_latitude": 27.3182049,
+            "min_longitude": 84.626095
         },
         "iso_3166_2": "NP-RA",
         "iso_a2": "NP",
         "iso_a3": "NPL",
-        "name": "Rapti",
+        "name": "Bagmati",
         "postal": "RA",
         "type": "Anchal",
         "type_en": "Administrative Zone"
     },
     "SA": {
         "alt_names": [
-            "Sagarmatha"
+            "Bagmati"
         ],
         "cca2": "NP",
         "cca3": "NPL",
@@ -1804,24 +1804,24 @@
             "woe_name": "Sagarmatha"
         },
         "geo": {
-            "latitude": 27.9878093,
-            "longitude": 86.9249842,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 28.0367577,
+            "longitude": 85.4375574,
+            "max_latitude": 28.3420049,
+            "max_longitude": 86.06501,
+            "min_latitude": 27.3182049,
+            "min_longitude": 84.626095
         },
         "iso_3166_2": "NP-SA",
         "iso_a2": "NP",
         "iso_a3": "NPL",
-        "name": "Sagarmatha",
+        "name": "Bagmati",
         "postal": "SA",
         "type": "Anchal",
         "type_en": "Administrative Zone"
     },
     "SE": {
         "alt_names": [
-            "Seti"
+            "Bagmati"
         ],
         "cca2": "NP",
         "cca3": "NPL",
@@ -1944,17 +1944,17 @@
             "woe_name": "Seti"
         },
         "geo": {
-            "latitude": 29.6905427,
-            "longitude": 81.3399414,
-            "max_latitude": 30.0715771,
-            "max_longitude": 81.815972,
-            "min_latitude": 28.394239,
-            "min_longitude": 80.5038579
+            "latitude": 28.0367577,
+            "longitude": 85.4375574,
+            "max_latitude": 28.3420049,
+            "max_longitude": 86.06501,
+            "min_latitude": 27.3182049,
+            "min_longitude": 84.626095
         },
         "iso_3166_2": "NP-SE",
         "iso_a2": "NP",
         "iso_a3": "NPL",
-        "name": "Seti",
+        "name": "Bagmati",
         "postal": "SE",
         "type": "Vikas Kshetra",
         "type_en": "District"

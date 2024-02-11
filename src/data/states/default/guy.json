@@ -141,7 +141,7 @@
     },
     "CU": {
         "alt_names": [
-            "Cuyuni-Mazaruni"
+            "Barima-Waini"
         ],
         "cca2": "GY",
         "cca3": "GUY",
@@ -264,24 +264,24 @@
             "woe_name": "Cuyuni-Mazaruni"
         },
         "geo": {
-            "latitude": 6.4642141,
-            "longitude": -60.2110752,
-            "max_latitude": 7.233457,
-            "max_longitude": -58.565688,
-            "min_latitude": 5.16021,
-            "min_longitude": -61.396271
+            "latitude": 7.4882419,
+            "longitude": -59.6564494,
+            "max_latitude": 8.5480995,
+            "max_longitude": -58.8041041,
+            "min_latitude": 6.981004,
+            "min_longitude": -60.7125971
         },
         "iso_3166_2": "GY-CU",
         "iso_a2": "GY",
         "iso_a3": "GUY",
-        "name": "Cuyuni-Mazaruni",
+        "name": "Barima-Waini",
         "postal": "CU",
         "type": "Region",
         "type_en": "Region"
     },
     "DE": {
         "alt_names": [
-            "Demerara-Mahaica"
+            "Barima-Waini"
         ],
         "cca2": "GY",
         "cca3": "GUY",
@@ -404,24 +404,24 @@
             "woe_name": "Demerara-Mahaica"
         },
         "geo": {
-            "latitude": 6.546426,
-            "longitude": -58.0982046,
-            "max_latitude": 6.8263983,
-            "max_longitude": -57.8823981,
-            "min_latitude": 6.096394,
-            "min_longitude": -58.3052001
+            "latitude": 7.4882419,
+            "longitude": -59.6564494,
+            "max_latitude": 8.5480995,
+            "max_longitude": -58.8041041,
+            "min_latitude": 6.981004,
+            "min_longitude": -60.7125971
         },
         "iso_3166_2": "GY-DE",
         "iso_a2": "GY",
         "iso_a3": "GUY",
-        "name": "Demerara-Mahaica",
+        "name": "Barima-Waini",
         "postal": "DE",
         "type": "Region",
         "type_en": "Region"
     },
     "EB": {
         "alt_names": [
-            "East Berbice-Corentyne"
+            "Barima-Waini"
         ],
         "cca2": "GY",
         "cca3": "GUY",
@@ -544,24 +544,24 @@
             "woe_name": "East Berbice-Corentyne"
         },
         "geo": {
-            "latitude": 2.7477922,
-            "longitude": -57.4627259,
-            "max_latitude": 6.3251509,
-            "max_longitude": -56.4802509,
-            "min_latitude": 1.452054,
-            "min_longitude": -58.518758
+            "latitude": 7.4882419,
+            "longitude": -59.6564494,
+            "max_latitude": 8.5480995,
+            "max_longitude": -58.8041041,
+            "min_latitude": 6.981004,
+            "min_longitude": -60.7125971
         },
         "iso_3166_2": "GY-EB",
         "iso_a2": "GY",
         "iso_a3": "GUY",
-        "name": "East Berbice-Corentyne",
+        "name": "Barima-Waini",
         "postal": "EB",
         "type": "Region",
         "type_en": "Region"
     },
     "ES": {
         "alt_names": [
-            "Essequibo Islands-West Demerara"
+            "Barima-Waini"
         ],
         "cca2": "GY",
         "cca3": "GUY",
@@ -684,24 +684,24 @@
             "woe_name": "Essequibo Islands-West Demerara"
         },
         "geo": {
-            "latitude": 6.5720132,
-            "longitude": -58.4629997,
-            "max_latitude": 7.0862864,
-            "max_longitude": -58.1656161,
-            "min_latitude": 6.114976,
-            "min_longitude": -58.835067
+            "latitude": 7.4882419,
+            "longitude": -59.6564494,
+            "max_latitude": 8.5480995,
+            "max_longitude": -58.8041041,
+            "min_latitude": 6.981004,
+            "min_longitude": -60.7125971
         },
         "iso_3166_2": "GY-ES",
         "iso_a2": "GY",
         "iso_a3": "GUY",
-        "name": "Essequibo Islands-West Demerara",
+        "name": "Barima-Waini",
         "postal": "ES",
         "type": "Region",
         "type_en": "Region"
     },
     "MA": {
         "alt_names": [
-            "Mahaica-Berbice"
+            "Barima-Waini"
         ],
         "cca2": "GY",
         "cca3": "GUY",
@@ -824,24 +824,24 @@
             "woe_name": "Mahaica-Berbice"
         },
         "geo": {
-            "latitude": 6.238496,
-            "longitude": -57.9162555,
-            "max_latitude": 6.7012129,
-            "max_longitude": -57.530811,
-            "min_latitude": 5.8556228,
-            "min_longitude": -58.1318211
+            "latitude": 7.4882419,
+            "longitude": -59.6564494,
+            "max_latitude": 8.5480995,
+            "max_longitude": -58.8041041,
+            "min_latitude": 6.981004,
+            "min_longitude": -60.7125971
         },
         "iso_3166_2": "GY-MA",
         "iso_a2": "GY",
         "iso_a3": "GUY",
-        "name": "Mahaica-Berbice",
+        "name": "Barima-Waini",
         "postal": "MA",
         "type": "Region",
         "type_en": "Region"
     },
     "PM": {
         "alt_names": [
-            "Pomeroon-Supenaam"
+            "Barima-Waini"
         ],
         "cca2": "GY",
         "cca3": "GUY",
@@ -964,24 +964,24 @@
             "woe_name": "Pomeroon-Supenaam"
         },
         "geo": {
-            "latitude": 7.1294166,
-            "longitude": -58.9206295,
-            "max_latitude": 7.6828597,
-            "max_longitude": -58.4730149,
-            "min_latitude": 6.7601081,
-            "min_longitude": -59.177107
+            "latitude": 7.4882419,
+            "longitude": -59.6564494,
+            "max_latitude": 8.5480995,
+            "max_longitude": -58.8041041,
+            "min_latitude": 6.981004,
+            "min_longitude": -60.7125971
         },
         "iso_3166_2": "GY-PM",
         "iso_a2": "GY",
         "iso_a3": "GUY",
-        "name": "Pomeroon-Supenaam",
+        "name": "Barima-Waini",
         "postal": "PM",
         "type": "Region",
         "type_en": "Region"
     },
     "PT": {
         "alt_names": [
-            "Potaro-Siparuni"
+            "Barima-Waini"
         ],
         "cca2": "GY",
         "cca3": "GUY",
@@ -1104,24 +1104,24 @@
             "woe_name": "Potaro-Siparuni"
         },
         "geo": {
-            "latitude": 4.7855853,
-            "longitude": -59.2879977,
-            "max_latitude": 5.733892,
-            "max_longitude": -58.272824,
-            "min_latitude": 3.989301,
-            "min_longitude": -60.1633191
+            "latitude": 7.4882419,
+            "longitude": -59.6564494,
+            "max_latitude": 8.5480995,
+            "max_longitude": -58.8041041,
+            "min_latitude": 6.981004,
+            "min_longitude": -60.7125971
         },
         "iso_3166_2": "GY-PT",
         "iso_a2": "GY",
         "iso_a3": "GUY",
-        "name": "Potaro-Siparuni",
+        "name": "Barima-Waini",
         "postal": "PT",
         "type": "Region",
         "type_en": "Region"
     },
     "UD": {
         "alt_names": [
-            "Upper Demerara-Berbice"
+            "Barima-Waini"
         ],
         "cca2": "GY",
         "cca3": "GUY",
@@ -1244,24 +1244,24 @@
             "woe_name": "Upper Demerara-Berbice"
         },
         "geo": {
-            "latitude": 5.3064879,
-            "longitude": -58.1892921,
-            "max_latitude": 6.5082961,
-            "max_longitude": -57.6313739,
-            "min_latitude": 4.601077,
-            "min_longitude": -58.8706361
+            "latitude": 7.4882419,
+            "longitude": -59.6564494,
+            "max_latitude": 8.5480995,
+            "max_longitude": -58.8041041,
+            "min_latitude": 6.981004,
+            "min_longitude": -60.7125971
         },
         "iso_3166_2": "GY-UD",
         "iso_a2": "GY",
         "iso_a3": "GUY",
-        "name": "Upper Demerara-Berbice",
+        "name": "Barima-Waini",
         "postal": "UD",
         "type": "Region",
         "type_en": "Region"
     },
     "UT": {
         "alt_names": [
-            "Upper Takutu-Upper Essequibo"
+            "Barima-Waini"
         ],
         "cca2": "GY",
         "cca3": "GUY",
@@ -1384,17 +1384,17 @@
             "woe_name": "Upper Takutu-Upper Essequibo"
         },
         "geo": {
-            "latitude": 2.9239595,
-            "longitude": -58.7373634,
-            "max_latitude": 4.5214021,
-            "max_longitude": -57.9300299,
-            "min_latitude": 1.1750799,
-            "min_longitude": -59.992054
+            "latitude": 7.4882419,
+            "longitude": -59.6564494,
+            "max_latitude": 8.5480995,
+            "max_longitude": -58.8041041,
+            "min_latitude": 6.981004,
+            "min_longitude": -60.7125971
         },
         "iso_3166_2": "GY-UT",
         "iso_a2": "GY",
         "iso_a3": "GUY",
-        "name": "Upper Takutu-Upper Essequibo",
+        "name": "Barima-Waini",
         "postal": "UT",
         "type": "Region",
         "type_en": "Region"

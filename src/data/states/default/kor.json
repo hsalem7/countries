@@ -142,7 +142,8 @@
     },
     "26": {
         "alt_names": [
-            "Busan"
+            "Seoul",
+            "Soul"
         ],
         "cca2": "KR",
         "cca3": "KOR",
@@ -265,24 +266,25 @@
             "woe_name": "Busan"
         },
         "geo": {
-            "latitude": 35.1795543,
-            "longitude": 129.0756416,
-            "max_latitude": 35.3874414,
-            "max_longitude": 129.3100483,
-            "min_latitude": 34.9835815,
-            "min_longitude": 128.787197
+            "latitude": 37.566535,
+            "longitude": 126.9779692,
+            "max_latitude": 37.7017495,
+            "max_longitude": 127.18359,
+            "min_latitude": 37.4259627,
+            "min_longitude": 126.7645827
         },
         "iso_3166_2": "KR-26",
         "iso_a2": "KR",
         "iso_a3": "KOR",
-        "name": "Busan Gwang'yeogsi [Pusan-Kwangyokshi]",
+        "name": "Seoul Teugbyeolsi [Seoul-T'ukpyolshi]",
         "postal": "26",
         "type": "Gwangyeoksi",
         "type_en": "Metropolitan City"
     },
     "27": {
         "alt_names": [
-            "Daegu"
+            "Seoul",
+            "Soul"
         ],
         "cca2": "KR",
         "cca3": "KOR",
@@ -405,25 +407,25 @@
             "woe_name": "Daegu"
         },
         "geo": {
-            "latitude": 35.8714354,
-            "longitude": 128.601445,
-            "max_latitude": 36.0172827,
-            "max_longitude": 128.7632175,
-            "min_latitude": 35.6071707,
-            "min_longitude": 128.3497208
+            "latitude": 37.566535,
+            "longitude": 126.9779692,
+            "max_latitude": 37.7017495,
+            "max_longitude": 127.18359,
+            "min_latitude": 37.4259627,
+            "min_longitude": 126.7645827
         },
         "iso_3166_2": "KR-27",
         "iso_a2": "KR",
         "iso_a3": "KOR",
-        "name": "Daegu Gwang'yeogsi [Taegu-Kwangyokshi]",
+        "name": "Seoul Teugbyeolsi [Seoul-T'ukpyolshi]",
         "postal": "27",
         "type": "Gwangyeoksi",
         "type_en": "Metropolitan City"
     },
     "28": {
         "alt_names": [
-            "Incheon",
-            "Inchon"
+            "Seoul",
+            "Soul"
         ],
         "cca2": "KR",
         "cca3": "KOR",
@@ -546,24 +548,25 @@
             "woe_name": "Inch'on-gwangyoksi"
         },
         "geo": {
-            "latitude": 37.4562557,
-            "longitude": 126.7052062,
-            "max_latitude": 37.982666,
-            "max_longitude": 126.7936273,
-            "min_latitude": 37.0063057,
-            "min_longitude": 124.608139
+            "latitude": 37.566535,
+            "longitude": 126.9779692,
+            "max_latitude": 37.7017495,
+            "max_longitude": 127.18359,
+            "min_latitude": 37.4259627,
+            "min_longitude": 126.7645827
         },
         "iso_3166_2": "KR-28",
         "iso_a2": "KR",
         "iso_a3": "KOR",
-        "name": "Incheon Gwang'yeogsi [Inch'n-Kwangyokshi]",
+        "name": "Seoul Teugbyeolsi [Seoul-T'ukpyolshi]",
         "postal": "28",
         "type": "Gwangyeoksi",
         "type_en": "Metropolitan City"
     },
     "29": {
         "alt_names": [
-            "Gwangju"
+            "Seoul",
+            "Soul"
         ],
         "cca2": "KR",
         "cca3": "KOR",
@@ -686,26 +689,25 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 35.1595454,
-            "longitude": 126.8526012,
-            "max_latitude": 35.2589426,
-            "max_longitude": 127.0229414,
-            "min_latitude": 35.0508149,
-            "min_longitude": 126.6449036
+            "latitude": 37.566535,
+            "longitude": 126.9779692,
+            "max_latitude": 37.7017495,
+            "max_longitude": 127.18359,
+            "min_latitude": 37.4259627,
+            "min_longitude": 126.7645827
         },
         "iso_3166_2": "KR-29",
         "iso_a2": "KR",
         "iso_a3": "KOR",
-        "name": "Gwangju Gwang'yeogsi [Kwangju-Kwangyokshi]",
+        "name": "Seoul Teugbyeolsi [Seoul-T'ukpyolshi]",
         "postal": "29",
         "type": "Gwangyeoksi",
         "type_en": "Metropolitan City"
     },
     "30": {
         "alt_names": [
-            "Daejeon",
-            "Taejeon",
-            "Taejon"
+            "Seoul",
+            "Soul"
         ],
         "cca2": "KR",
         "cca3": "KOR",
@@ -828,24 +830,25 @@
             "woe_name": "Daejeon"
         },
         "geo": {
-            "latitude": 36.3504119,
-            "longitude": 127.3845475,
-            "max_latitude": 36.4999477,
-            "max_longitude": 127.5590437,
-            "min_latitude": 36.1833708,
-            "min_longitude": 127.2464501
+            "latitude": 37.566535,
+            "longitude": 126.9779692,
+            "max_latitude": 37.7017495,
+            "max_longitude": 127.18359,
+            "min_latitude": 37.4259627,
+            "min_longitude": 126.7645827
         },
         "iso_3166_2": "KR-30",
         "iso_a2": "KR",
         "iso_a3": "KOR",
-        "name": "Daejeon Gwang'yeogsi [Taejon-Kwangyokshi]",
+        "name": "Seoul Teugbyeolsi [Seoul-T'ukpyolshi]",
         "postal": "30",
         "type": "Gwangyeoksi",
         "type_en": "Metropolitan City"
     },
     "31": {
         "alt_names": [
-            "Ulsan Gwang'yeogsi [Ulsan-Kwangyokshi]"
+            "Seoul",
+            "Soul"
         ],
         "cca2": "KR",
         "cca3": "KOR",
@@ -968,24 +971,25 @@
             "woe_name": "Ulsan"
         },
         "geo": {
-            "latitude": 35.5383773,
-            "longitude": 129.3113596,
-            "max_latitude": 35.7252482,
-            "max_longitude": 129.4666138,
-            "min_latitude": 35.3218658,
-            "min_longitude": 128.9756829
+            "latitude": 37.566535,
+            "longitude": 126.9779692,
+            "max_latitude": 37.7017495,
+            "max_longitude": 127.18359,
+            "min_latitude": 37.4259627,
+            "min_longitude": 126.7645827
         },
         "iso_3166_2": "KR-31",
         "iso_a2": "KR",
         "iso_a3": "KOR",
-        "name": "Ulsan Gwang'yeogsi [Ulsan-Kwangyokshi]",
+        "name": "Seoul Teugbyeolsi [Seoul-T'ukpyolshi]",
         "postal": "31",
         "type": "Metropolitan City",
         "type_en": "Metropolitan City"
     },
     "41": {
         "alt_names": [
-            "Gyeonggido [Kyonggi-do]"
+            "Seoul",
+            "Soul"
         ],
         "cca2": "KR",
         "cca3": "KOR",
@@ -1108,24 +1112,25 @@
             "woe_name": "Gyeonggi-do"
         },
         "geo": {
-            "latitude": 37.4138,
-            "longitude": 127.5183,
-            "max_latitude": 38.3026711,
-            "max_longitude": 127.8582527,
-            "min_latitude": 36.8939685,
-            "min_longitude": 126.3763885
+            "latitude": 37.566535,
+            "longitude": 126.9779692,
+            "max_latitude": 37.7017495,
+            "max_longitude": 127.18359,
+            "min_latitude": 37.4259627,
+            "min_longitude": 126.7645827
         },
         "iso_3166_2": "KR-41",
         "iso_a2": "KR",
         "iso_a3": "KOR",
-        "name": "Gyeonggido [Kyonggi-do]",
+        "name": "Seoul Teugbyeolsi [Seoul-T'ukpyolshi]",
         "postal": "41",
         "type": "Do",
         "type_en": "Province"
     },
     "42": {
         "alt_names": [
-            "Kangwon"
+            "Seoul",
+            "Soul"
         ],
         "cca2": "KR",
         "cca3": "KOR",
@@ -1248,24 +1253,25 @@
             "woe_name": "Gangwon-do"
         },
         "geo": {
-            "latitude": null,
-            "longitude": null,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 37.566535,
+            "longitude": 126.9779692,
+            "max_latitude": 37.7017495,
+            "max_longitude": 127.18359,
+            "min_latitude": 37.4259627,
+            "min_longitude": 126.7645827
         },
         "iso_3166_2": "KR-42",
         "iso_a2": "KR",
         "iso_a3": "KOR",
-        "name": "Gang'weondo [Kang-won-do]",
+        "name": "Seoul Teugbyeolsi [Seoul-T'ukpyolshi]",
         "postal": "42",
         "type": "Do",
         "type_en": "Province"
     },
     "43": {
         "alt_names": [
-            "North Chungchong"
+            "Seoul",
+            "Soul"
         ],
         "cca2": "KR",
         "cca3": "KOR",
@@ -1388,24 +1394,25 @@
             "woe_name": "Chungcheongbuk-do"
         },
         "geo": {
-            "latitude": null,
-            "longitude": null,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 37.566535,
+            "longitude": 126.9779692,
+            "max_latitude": 37.7017495,
+            "max_longitude": 127.18359,
+            "min_latitude": 37.4259627,
+            "min_longitude": 126.7645827
         },
         "iso_3166_2": "KR-43",
         "iso_a2": "KR",
         "iso_a3": "KOR",
-        "name": "Chungcheongbugdo [Ch'ungch'ongbuk-do]",
+        "name": "Seoul Teugbyeolsi [Seoul-T'ukpyolshi]",
         "postal": "43",
         "type": "Do",
         "type_en": "Province"
     },
     "44": {
         "alt_names": [
-            "South Chungchong"
+            "Seoul",
+            "Soul"
         ],
         "cca2": "KR",
         "cca3": "KOR",
@@ -1528,25 +1535,25 @@
             "woe_name": "Chungcheongnam-do"
         },
         "geo": {
-            "latitude": 36.5184,
-            "longitude": 126.8,
-            "max_latitude": 37.0618896,
-            "max_longitude": 127.6396353,
-            "min_latitude": 35.9806574,
-            "min_longitude": 125.9581375
+            "latitude": 37.566535,
+            "longitude": 126.9779692,
+            "max_latitude": 37.7017495,
+            "max_longitude": 127.18359,
+            "min_latitude": 37.4259627,
+            "min_longitude": 126.7645827
         },
         "iso_3166_2": "KR-44",
         "iso_a2": "KR",
         "iso_a3": "KOR",
-        "name": "Chungcheongnamdo [Ch'ungch'ongnam-do]",
+        "name": "Seoul Teugbyeolsi [Seoul-T'ukpyolshi]",
         "postal": "44",
         "type": "Do",
         "type_en": "Province"
     },
     "45": {
         "alt_names": [
-            "Chollapuk",
-            "North Cholla"
+            "Seoul",
+            "Soul"
         ],
         "cca2": "KR",
         "cca3": "KOR",
@@ -1669,24 +1676,25 @@
             "woe_name": "Jeollabuk-do"
         },
         "geo": {
-            "latitude": null,
-            "longitude": null,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 37.566535,
+            "longitude": 126.9779692,
+            "max_latitude": 37.7017495,
+            "max_longitude": 127.18359,
+            "min_latitude": 37.4259627,
+            "min_longitude": 126.7645827
         },
         "iso_3166_2": "KR-45",
         "iso_a2": "KR",
         "iso_a3": "KOR",
-        "name": "Jeonrabugdo[Chollabuk-do]",
+        "name": "Seoul Teugbyeolsi [Seoul-T'ukpyolshi]",
         "postal": "45",
         "type": "Do",
         "type_en": "Province"
     },
     "46": {
         "alt_names": [
-            "South Cholla"
+            "Seoul",
+            "Soul"
         ],
         "cca2": "KR",
         "cca3": "KOR",
@@ -1809,24 +1817,25 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": null,
-            "longitude": null,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 37.566535,
+            "longitude": 126.9779692,
+            "max_latitude": 37.7017495,
+            "max_longitude": 127.18359,
+            "min_latitude": 37.4259627,
+            "min_longitude": 126.7645827
         },
         "iso_3166_2": "KR-46",
         "iso_a2": "KR",
         "iso_a3": "KOR",
-        "name": "Jeonranamdo [Chollanam-do]",
+        "name": "Seoul Teugbyeolsi [Seoul-T'ukpyolshi]",
         "postal": "46",
         "type": "Gwangyeoksi",
         "type_en": "Metropolitan City"
     },
     "47": {
         "alt_names": [
-            "North Kyongsang"
+            "Seoul",
+            "Soul"
         ],
         "cca2": "KR",
         "cca3": "KOR",
@@ -1949,24 +1958,25 @@
             "woe_name": "Taegu-gwangyoksi"
         },
         "geo": {
-            "latitude": 36.4919,
-            "longitude": 128.8889,
-            "max_latitude": 37.542778,
-            "max_longitude": 130.9232178,
-            "min_latitude": 35.5664734,
-            "min_longitude": 127.7938878
+            "latitude": 37.566535,
+            "longitude": 126.9779692,
+            "max_latitude": 37.7017495,
+            "max_longitude": 127.18359,
+            "min_latitude": 37.4259627,
+            "min_longitude": 126.7645827
         },
         "iso_3166_2": "KR-47",
         "iso_a2": "KR",
         "iso_a3": "KOR",
-        "name": "Gyeongsangbugdo [Kyongsangbuk-do]",
+        "name": "Seoul Teugbyeolsi [Seoul-T'ukpyolshi]",
         "postal": "47",
         "type": "Gwangyeoksi",
         "type_en": "Metropolitan City"
     },
     "48": {
         "alt_names": [
-            "Gyeongsangnamdo\/ Kyongsang-namdo\/ South Kyongsang"
+            "Seoul",
+            "Soul"
         ],
         "cca2": "KR",
         "cca3": "KOR",
@@ -2089,25 +2099,25 @@
             "woe_name": "Gyeongsangnam-do"
         },
         "geo": {
-            "latitude": 35.4606,
-            "longitude": 128.2132,
-            "max_latitude": 35.9099572,
-            "max_longitude": 129.2198762,
-            "min_latitude": 34.5321655,
-            "min_longitude": 127.5622163
+            "latitude": 37.566535,
+            "longitude": 126.9779692,
+            "max_latitude": 37.7017495,
+            "max_longitude": 127.18359,
+            "min_latitude": 37.4259627,
+            "min_longitude": 126.7645827
         },
         "iso_3166_2": "KR-48",
         "iso_a2": "KR",
         "iso_a3": "KOR",
-        "name": "Gyeongsangnamdo [Kyongsangnam-do]",
+        "name": "Seoul Teugbyeolsi [Seoul-T'ukpyolshi]",
         "postal": "48",
         "type": "Do",
         "type_en": "Province"
     },
     "49": {
         "alt_names": [
-            "Jeju",
-            "Quelpart"
+            "Seoul",
+            "Soul"
         ],
         "cca2": "KR",
         "cca3": "KOR",
@@ -2230,24 +2240,25 @@
             "woe_name": "Jeju"
         },
         "geo": {
-            "latitude": 33.4890113,
-            "longitude": 126.4983023,
-            "max_latitude": 34.0062218,
-            "max_longitude": 126.9742813,
-            "min_latitude": 33.1061096,
-            "min_longitude": 126.1637192
+            "latitude": 37.566535,
+            "longitude": 126.9779692,
+            "max_latitude": 37.7017495,
+            "max_longitude": 127.18359,
+            "min_latitude": 37.4259627,
+            "min_longitude": 126.7645827
         },
         "iso_3166_2": "KR-49",
         "iso_a2": "KR",
         "iso_a3": "KOR",
-        "name": "Jejudo [Cheju-do]",
+        "name": "Seoul Teugbyeolsi [Seoul-T'ukpyolshi]",
         "postal": "49",
         "type": "Do",
         "type_en": "Province"
     },
     "50": {
         "alt_names": [
-            ""
+            "Seoul",
+            "Soul"
         ],
         "cca2": "KR",
         "cca3": "KOR",
@@ -2370,13 +2381,17 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "36.4974000000",
-            "longitude": "127.2290000000"
+            "latitude": 37.566535,
+            "longitude": 126.9779692,
+            "max_latitude": 37.7017495,
+            "max_longitude": 127.18359,
+            "min_latitude": 37.4259627,
+            "min_longitude": 126.7645827
         },
         "iso_3166_2": "KR-50",
         "iso_a2": "KR",
         "iso_a3": "KOR",
-        "name": "Sejong",
+        "name": "Seoul Teugbyeolsi [Seoul-T'ukpyolshi]",
         "postal": "50",
         "type": "Teukbyeol-jachisi",
         "type_en": "Special self-governing city"

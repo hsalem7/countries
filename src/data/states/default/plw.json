@@ -141,7 +141,7 @@
     },
     "004": {
         "alt_names": [
-            "Airai"
+            "Aimeliik"
         ],
         "cca2": "PW",
         "cca3": "PLW",
@@ -264,24 +264,24 @@
             "woe_name": "Airai"
         },
         "geo": {
-            "latitude": 7.3641842,
-            "longitude": 134.5360667,
-            "max_latitude": 7.3903012,
-            "max_longitude": 134.5656967,
-            "min_latitude": 7.3503367,
-            "min_longitude": 134.5076989
+            "latitude": 7.4455859,
+            "longitude": 134.5030878,
+            "max_latitude": 7.479571,
+            "max_longitude": 134.540505,
+            "min_latitude": 7.393169,
+            "min_longitude": 134.4686879
         },
         "iso_3166_2": "PW-004",
         "iso_a2": "PW",
         "iso_a3": "PLW",
-        "name": "Airai",
+        "name": "Aimeliik",
         "postal": "004",
         "type": "",
         "type_en": ""
     },
     "010": {
         "alt_names": [
-            "Angaur"
+            "Aimeliik"
         ],
         "cca2": "PW",
         "cca3": "PLW",
@@ -404,24 +404,24 @@
             "woe_name": "Angaur"
         },
         "geo": {
-            "latitude": 6.909223,
-            "longitude": 134.1387934,
-            "max_latitude": 6.9251063,
-            "max_longitude": 134.1539668,
-            "min_latitude": 6.8877426,
-            "min_longitude": 134.121834
+            "latitude": 7.4455859,
+            "longitude": 134.5030878,
+            "max_latitude": 7.479571,
+            "max_longitude": 134.540505,
+            "min_latitude": 7.393169,
+            "min_longitude": 134.4686879
         },
         "iso_3166_2": "PW-010",
         "iso_a2": "PW",
         "iso_a3": "PLW",
-        "name": "Angaur",
+        "name": "Aimeliik",
         "postal": "010",
         "type": "",
         "type_en": ""
     },
     "050": {
         "alt_names": [
-            "Hatobohei"
+            "Aimeliik"
         ],
         "cca2": "PW",
         "cca3": "PLW",
@@ -544,24 +544,24 @@
             "woe_name": "Hatohobei"
         },
         "geo": {
-            "latitude": 3.0048867,
-            "longitude": 131.1214186,
-            "max_latitude": 3.0074129,
-            "max_longitude": 131.124487,
-            "min_latitude": 3.0008772,
-            "min_longitude": 131.1203134
+            "latitude": 7.4455859,
+            "longitude": 134.5030878,
+            "max_latitude": 7.479571,
+            "max_longitude": 134.540505,
+            "min_latitude": 7.393169,
+            "min_longitude": 134.4686879
         },
         "iso_3166_2": "PW-050",
         "iso_a2": "PW",
         "iso_a3": "PLW",
-        "name": "Hatobohei",
+        "name": "Aimeliik",
         "postal": "050",
         "type": "",
         "type_en": ""
     },
     "100": {
         "alt_names": [
-            "Kayangel"
+            "Aimeliik"
         ],
         "cca2": "PW",
         "cca3": "PLW",
@@ -684,24 +684,24 @@
             "woe_name": "Kayangel"
         },
         "geo": {
-            "latitude": 8.0889471,
-            "longitude": 134.709999,
-            "max_latitude": 8.1035034,
-            "max_longitude": 134.7238827,
-            "min_latitude": 8.0378983,
-            "min_longitude": 134.6807957
+            "latitude": 7.4455859,
+            "longitude": 134.5030878,
+            "max_latitude": 7.479571,
+            "max_longitude": 134.540505,
+            "min_latitude": 7.393169,
+            "min_longitude": 134.4686879
         },
         "iso_3166_2": "PW-100",
         "iso_a2": "PW",
         "iso_a3": "PLW",
-        "name": "Kayangel",
+        "name": "Aimeliik",
         "postal": "100",
         "type": "",
         "type_en": ""
     },
     "150": {
         "alt_names": [
-            "Koror"
+            "Aimeliik"
         ],
         "cca2": "PW",
         "cca3": "PLW",
@@ -824,24 +824,24 @@
             "woe_name": "Koror"
         },
         "geo": {
-            "latitude": 7.3419444,
-            "longitude": 134.4791667,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 7.4455859,
+            "longitude": 134.5030878,
+            "max_latitude": 7.479571,
+            "max_longitude": 134.540505,
+            "min_latitude": 7.393169,
+            "min_longitude": 134.4686879
         },
         "iso_3166_2": "PW-150",
         "iso_a2": "PW",
         "iso_a3": "PLW",
-        "name": "Koror",
+        "name": "Aimeliik",
         "postal": "150",
         "type": "",
         "type_en": ""
     },
     "212": {
         "alt_names": [
-            "Melekeok"
+            "Aimeliik"
         ],
         "cca2": "PW",
         "cca3": "PLW",
@@ -964,24 +964,24 @@
             "woe_name": "Melekeok"
         },
         "geo": {
-            "latitude": 7.4951158,
-            "longitude": 134.6336896,
-            "max_latitude": 7.4995374,
-            "max_longitude": 134.6382129,
-            "min_latitude": 7.491069,
-            "min_longitude": 134.6302414
+            "latitude": 7.4455859,
+            "longitude": 134.5030878,
+            "max_latitude": 7.479571,
+            "max_longitude": 134.540505,
+            "min_latitude": 7.393169,
+            "min_longitude": 134.4686879
         },
         "iso_3166_2": "PW-212",
         "iso_a2": "PW",
         "iso_a3": "PLW",
-        "name": "Melekeok",
+        "name": "Aimeliik",
         "postal": "212",
         "type": "",
         "type_en": ""
     },
     "214": {
         "alt_names": [
-            "Ngaraard"
+            "Aimeliik"
         ],
         "cca2": "PW",
         "cca3": "PLW",
@@ -1104,24 +1104,24 @@
             "woe_name": "Ngaraard"
         },
         "geo": {
-            "latitude": 7.60794,
-            "longitude": 134.6348645,
-            "max_latitude": 7.6869353,
-            "max_longitude": 134.6466028,
-            "min_latitude": 7.5722982,
-            "min_longitude": 134.593708
+            "latitude": 7.4455859,
+            "longitude": 134.5030878,
+            "max_latitude": 7.479571,
+            "max_longitude": 134.540505,
+            "min_latitude": 7.393169,
+            "min_longitude": 134.4686879
         },
         "iso_3166_2": "PW-214",
         "iso_a2": "PW",
         "iso_a3": "PLW",
-        "name": "Ngaraard",
+        "name": "Aimeliik",
         "postal": "214",
         "type": "",
         "type_en": ""
     },
     "218": {
         "alt_names": [
-            "Ngarchelong"
+            "Aimeliik"
         ],
         "cca2": "PW",
         "cca3": "PLW",
@@ -1244,24 +1244,24 @@
             "woe_name": "Ngarchelong"
         },
         "geo": {
-            "latitude": 7.7105469,
-            "longitude": 134.6301646,
-            "max_latitude": 7.7316628,
-            "max_longitude": 134.6457489,
-            "min_latitude": 7.6863351,
-            "min_longitude": 134.609328
+            "latitude": 7.4455859,
+            "longitude": 134.5030878,
+            "max_latitude": 7.479571,
+            "max_longitude": 134.540505,
+            "min_latitude": 7.393169,
+            "min_longitude": 134.4686879
         },
         "iso_3166_2": "PW-218",
         "iso_a2": "PW",
         "iso_a3": "PLW",
-        "name": "Ngarchelong",
+        "name": "Aimeliik",
         "postal": "218",
         "type": "",
         "type_en": ""
     },
     "222": {
         "alt_names": [
-            "Ngardmau"
+            "Aimeliik"
         ],
         "cca2": "PW",
         "cca3": "PLW",
@@ -1384,24 +1384,24 @@
             "woe_name": "Ngardmau"
         },
         "geo": {
-            "latitude": 7.5850486,
-            "longitude": 134.5596089,
-            "max_latitude": 7.6205105,
-            "max_longitude": 134.6022465,
-            "min_latitude": 7.555898,
-            "min_longitude": 134.5350928
+            "latitude": 7.4455859,
+            "longitude": 134.5030878,
+            "max_latitude": 7.479571,
+            "max_longitude": 134.540505,
+            "min_latitude": 7.393169,
+            "min_longitude": 134.4686879
         },
         "iso_3166_2": "PW-222",
         "iso_a2": "PW",
         "iso_a3": "PLW",
-        "name": "Ngardmau",
+        "name": "Aimeliik",
         "postal": "222",
         "type": "",
         "type_en": ""
     },
     "224": {
         "alt_names": [
-            "Ngatpang"
+            "Aimeliik"
         ],
         "cca2": "PW",
         "cca3": "PLW",
@@ -1524,24 +1524,24 @@
             "woe_name": "Ngatpang"
         },
         "geo": {
-            "latitude": 7.4710994,
-            "longitude": 134.5266466,
-            "max_latitude": 7.5069398,
-            "max_longitude": 134.560673,
-            "min_latitude": 7.417311,
-            "min_longitude": 134.484237
+            "latitude": 7.4455859,
+            "longitude": 134.5030878,
+            "max_latitude": 7.479571,
+            "max_longitude": 134.540505,
+            "min_latitude": 7.393169,
+            "min_longitude": 134.4686879
         },
         "iso_3166_2": "PW-224",
         "iso_a2": "PW",
         "iso_a3": "PLW",
-        "name": "Ngatpang",
+        "name": "Aimeliik",
         "postal": "224",
         "type": "",
         "type_en": ""
     },
     "226": {
         "alt_names": [
-            "Ngchesar"
+            "Aimeliik"
         ],
         "cca2": "PW",
         "cca3": "PLW",
@@ -1664,24 +1664,24 @@
             "woe_name": "Ngchesar"
         },
         "geo": {
-            "latitude": 7.452328,
-            "longitude": 134.5784342,
-            "max_latitude": 7.502811,
-            "max_longitude": 134.6229831,
-            "min_latitude": 7.4116455,
-            "min_longitude": 134.549198
+            "latitude": 7.4455859,
+            "longitude": 134.5030878,
+            "max_latitude": 7.479571,
+            "max_longitude": 134.540505,
+            "min_latitude": 7.393169,
+            "min_longitude": 134.4686879
         },
         "iso_3166_2": "PW-226",
         "iso_a2": "PW",
         "iso_a3": "PLW",
-        "name": "Ngchesar",
+        "name": "Aimeliik",
         "postal": "226",
         "type": "",
         "type_en": ""
     },
     "227": {
         "alt_names": [
-            "Ngeremlengui"
+            "Aimeliik"
         ],
         "cca2": "PW",
         "cca3": "PLW",
@@ -1804,24 +1804,24 @@
             "woe_name": "Ngeremlengui"
         },
         "geo": {
-            "latitude": 7.5198397,
-            "longitude": 134.5596089,
-            "max_latitude": 7.5774421,
-            "max_longitude": 134.599446,
-            "min_latitude": 7.464199,
-            "min_longitude": 134.49916
+            "latitude": 7.4455859,
+            "longitude": 134.5030878,
+            "max_latitude": 7.479571,
+            "max_longitude": 134.540505,
+            "min_latitude": 7.393169,
+            "min_longitude": 134.4686879
         },
         "iso_3166_2": "PW-227",
         "iso_a2": "PW",
         "iso_a3": "PLW",
-        "name": "Ngeremlengui",
+        "name": "Aimeliik",
         "postal": "227",
         "type": "",
         "type_en": ""
     },
     "228": {
         "alt_names": [
-            "Ngiwal"
+            "Aimeliik"
         ],
         "cca2": "PW",
         "cca3": "PLW",
@@ -1944,24 +1944,24 @@
             "woe_name": "Ngiwal"
         },
         "geo": {
-            "latitude": 7.5614764,
-            "longitude": 134.6160619,
-            "max_latitude": 7.5800329,
-            "max_longitude": 134.6382236,
-            "min_latitude": 7.5320549,
-            "min_longitude": 134.594404
+            "latitude": 7.4455859,
+            "longitude": 134.5030878,
+            "max_latitude": 7.479571,
+            "max_longitude": 134.540505,
+            "min_latitude": 7.393169,
+            "min_longitude": 134.4686879
         },
         "iso_3166_2": "PW-228",
         "iso_a2": "PW",
         "iso_a3": "PLW",
-        "name": "Ngiwal",
+        "name": "Aimeliik",
         "postal": "228",
         "type": "",
         "type_en": ""
     },
     "350": {
         "alt_names": [
-            "Peleliu"
+            "Aimeliik"
         ],
         "cca2": "PW",
         "cca3": "PLW",
@@ -2084,24 +2084,24 @@
             "woe_name": "Peleliu"
         },
         "geo": {
-            "latitude": 7.0022906,
-            "longitude": 134.2431628,
-            "max_latitude": 7.049378,
-            "max_longitude": 134.2706156,
-            "min_latitude": 6.973422,
-            "min_longitude": 134.2217079
+            "latitude": 7.4455859,
+            "longitude": 134.5030878,
+            "max_latitude": 7.479571,
+            "max_longitude": 134.540505,
+            "min_latitude": 7.393169,
+            "min_longitude": 134.4686879
         },
         "iso_3166_2": "PW-350",
         "iso_a2": "PW",
         "iso_a3": "PLW",
-        "name": "Peleliu",
+        "name": "Aimeliik",
         "postal": "350",
         "type": "",
         "type_en": ""
     },
     "370": {
         "alt_names": [
-            "Sonsorol"
+            "Aimeliik"
         ],
         "cca2": "PW",
         "cca3": "PLW",
@@ -2224,17 +2224,17 @@
             "woe_name": "Sonsorol"
         },
         "geo": {
-            "latitude": 4.3199718,
-            "longitude": 132.3126369,
-            "max_latitude": 4.6583571,
-            "max_longitude": 132.3141002,
-            "min_latitude": 4.3124723,
-            "min_longitude": 131.947925
+            "latitude": 7.4455859,
+            "longitude": 134.5030878,
+            "max_latitude": 7.479571,
+            "max_longitude": 134.540505,
+            "min_latitude": 7.393169,
+            "min_longitude": 134.4686879
         },
         "iso_3166_2": "PW-370",
         "iso_a2": "PW",
         "iso_a3": "PLW",
-        "name": "Sonsorol",
+        "name": "Aimeliik",
         "postal": "370",
         "type": "",
         "type_en": ""

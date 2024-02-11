@@ -145,8 +145,11 @@
     },
     "VAN": {
         "alt_names": [
-            "Antwerpen",
-            "Anvers"
+            "Brussels Hoofdstedelijk Gewest",
+            "R\u00e9gion de Bruxelles-Capitale",
+            "Brussel",
+            "Br\u00fcssel",
+            "Bruxelles"
         ],
         "cca2": "BE",
         "cca3": "BEL",
@@ -269,27 +272,28 @@
             "woe_name": "Antwerp"
         },
         "geo": {
-            "latitude": 51.2194475,
-            "longitude": 4.4024643,
-            "max_latitude": 51.3774301,
-            "max_longitude": 4.49784,
-            "min_latitude": 51.14334,
-            "min_longitude": 4.2176001
+            "latitude": 50.8503396,
+            "longitude": 4.3517103,
+            "max_latitude": 50.91371,
+            "max_longitude": 4.4369799,
+            "min_latitude": 50.7962401,
+            "min_longitude": 4.3138
         },
         "iso_3166_2": "BE-VAN",
         "iso_a2": "BE",
         "iso_a3": "BEL",
-        "name": "Antwerpen (nl)",
+        "name": "Brussels",
         "postal": "VAN",
         "type": "Province",
         "type_en": "Province"
     },
     "VBR": {
         "alt_names": [
-            "Brabant-Vlanderen",
-            "Vlaams-Brabant",
-            "Fl\u00e4misch Brabant",
-            "Brabant-Flamand"
+            "Brussels Hoofdstedelijk Gewest",
+            "R\u00e9gion de Bruxelles-Capitale",
+            "Brussel",
+            "Br\u00fcssel",
+            "Bruxelles"
         ],
         "cca2": "BE",
         "cca3": "BEL",
@@ -412,24 +416,28 @@
             "woe_name": "Flemish Brabant"
         },
         "geo": {
-            "latitude": 51.3663862,
-            "longitude": 5.6157088,
-            "max_latitude": 51.378742,
-            "max_longitude": 5.625843,
-            "min_latitude": 51.3563098,
-            "min_longitude": 5.6001346
+            "latitude": 50.8503396,
+            "longitude": 4.3517103,
+            "max_latitude": 50.91371,
+            "max_longitude": 4.4369799,
+            "min_latitude": 50.7962401,
+            "min_longitude": 4.3138
         },
         "iso_3166_2": "BE-VBR",
         "iso_a2": "BE",
         "iso_a3": "BEL",
-        "name": "Vlaams Brabant (nl)",
+        "name": "Brussels",
         "postal": "VBR",
         "type": "Province",
         "type_en": "Province"
     },
     "VLI": {
         "alt_names": [
-            "Limbourg"
+            "Brussels Hoofdstedelijk Gewest",
+            "R\u00e9gion de Bruxelles-Capitale",
+            "Brussel",
+            "Br\u00fcssel",
+            "Bruxelles"
         ],
         "cca2": "BE",
         "cca3": "BEL",
@@ -552,27 +560,28 @@
             "woe_name": "Limburg"
         },
         "geo": {
-            "latitude": 51.4427238,
-            "longitude": 6.0608726,
-            "max_latitude": 51.778577,
-            "max_longitude": 6.2268014,
-            "min_latitude": 50.7503838,
-            "min_longitude": 5.5660666
+            "latitude": 50.8503396,
+            "longitude": 4.3517103,
+            "max_latitude": 50.91371,
+            "max_longitude": 4.4369799,
+            "min_latitude": 50.7962401,
+            "min_longitude": 4.3138
         },
         "iso_3166_2": "BE-VLI",
         "iso_a2": "BE",
         "iso_a3": "BEL",
-        "name": "Limburg (nl)",
+        "name": "Brussels",
         "postal": "VLI",
         "type": "Province",
         "type_en": "Province"
     },
     "VOV": {
         "alt_names": [
-            "Oos-Vlanderen",
-            "Oost-Vlaanderen",
-            "Ost-Flandern",
-            "Flandre-Orientale"
+            "Brussels Hoofdstedelijk Gewest",
+            "R\u00e9gion de Bruxelles-Capitale",
+            "Brussel",
+            "Br\u00fcssel",
+            "Bruxelles"
         ],
         "cca2": "BE",
         "cca3": "BEL",
@@ -695,27 +704,28 @@
             "woe_name": "East Flanders"
         },
         "geo": {
-            "latitude": 51.0362101,
-            "longitude": 3.7373124,
-            "max_latitude": 51.35284,
-            "max_longitude": 4.3301,
-            "min_latitude": 50.72095,
-            "min_longitude": 3.3312501
+            "latitude": 50.8503396,
+            "longitude": 4.3517103,
+            "max_latitude": 50.91371,
+            "max_longitude": 4.4369799,
+            "min_latitude": 50.7962401,
+            "min_longitude": 4.3138
         },
         "iso_3166_2": "BE-VOV",
         "iso_a2": "BE",
         "iso_a3": "BEL",
-        "name": "Oost-Vlaanderen (nl)",
+        "name": "Brussels",
         "postal": "VOV",
         "type": "Province",
         "type_en": "Province"
     },
     "VWV": {
         "alt_names": [
-            "Wes-Vlanderen",
-            "West-Vlaanderen",
-            "West-Flandern",
-            "Flandre-Occidentale"
+            "Brussels Hoofdstedelijk Gewest",
+            "R\u00e9gion de Bruxelles-Capitale",
+            "Brussel",
+            "Br\u00fcssel",
+            "Bruxelles"
         ],
         "cca2": "BE",
         "cca3": "BEL",
@@ -838,26 +848,28 @@
             "woe_name": "West Flanders"
         },
         "geo": {
-            "latitude": 51.0536024,
-            "longitude": 3.1457942,
-            "max_latitude": 51.3685479,
-            "max_longitude": 3.5232999,
-            "min_latitude": 50.7081601,
-            "min_longitude": 2.5449401
+            "latitude": 50.8503396,
+            "longitude": 4.3517103,
+            "max_latitude": 50.91371,
+            "max_longitude": 4.4369799,
+            "min_latitude": 50.7962401,
+            "min_longitude": 4.3138
         },
         "iso_3166_2": "BE-VWV",
         "iso_a2": "BE",
         "iso_a3": "BEL",
-        "name": "West-Vlaanderen (nl)",
+        "name": "Brussels",
         "postal": "VWV",
         "type": "Province",
         "type_en": "Province"
     },
     "WBR": {
         "alt_names": [
-            "Waals-Brabant",
-            "Wallonisch Brabant",
-            "Walloon Brabant"
+            "Brussels Hoofdstedelijk Gewest",
+            "R\u00e9gion de Bruxelles-Capitale",
+            "Brussel",
+            "Br\u00fcssel",
+            "Bruxelles"
         ],
         "cca2": "BE",
         "cca3": "BEL",
@@ -980,25 +992,28 @@
             "woe_name": "Walloon Brabant"
         },
         "geo": {
-            "latitude": 50.633241,
-            "longitude": 4.524315,
-            "max_latitude": 50.80735,
-            "max_longitude": 5.02037,
-            "min_latitude": 50.52542,
-            "min_longitude": 4.0911501
+            "latitude": 50.8503396,
+            "longitude": 4.3517103,
+            "max_latitude": 50.91371,
+            "max_longitude": 4.4369799,
+            "min_latitude": 50.7962401,
+            "min_longitude": 4.3138
         },
         "iso_3166_2": "BE-WBR",
         "iso_a2": "BE",
         "iso_a3": "BEL",
-        "name": "Brabant Wallon (fr)",
+        "name": "Brussels",
         "postal": "WBR",
         "type": "Province",
         "type_en": "Province"
     },
     "WHT": {
         "alt_names": [
-            "Henegouwen",
-            "Hennegau"
+            "Brussels Hoofdstedelijk Gewest",
+            "R\u00e9gion de Bruxelles-Capitale",
+            "Brussel",
+            "Br\u00fcssel",
+            "Bruxelles"
         ],
         "cca2": "BE",
         "cca3": "BEL",
@@ -1121,25 +1136,28 @@
             "woe_name": "Hainaut"
         },
         "geo": {
-            "latitude": 50.5257076,
-            "longitude": 4.0621017,
-            "max_latitude": 50.81077,
-            "max_longitude": 4.6171299,
-            "min_latitude": 49.94183,
-            "min_longitude": 2.8421299
+            "latitude": 50.8503396,
+            "longitude": 4.3517103,
+            "max_latitude": 50.91371,
+            "max_longitude": 4.4369799,
+            "min_latitude": 50.7962401,
+            "min_longitude": 4.3138
         },
         "iso_3166_2": "BE-WHT",
         "iso_a2": "BE",
         "iso_a3": "BEL",
-        "name": "Hainaut (fr)",
+        "name": "Brussels",
         "postal": "WHT",
         "type": "Province",
         "type_en": "Province"
     },
     "WLG": {
         "alt_names": [
-            "Luik",
-            "L\u00fcttich"
+            "Brussels Hoofdstedelijk Gewest",
+            "R\u00e9gion de Bruxelles-Capitale",
+            "Brussel",
+            "Br\u00fcssel",
+            "Bruxelles"
         ],
         "cca2": "BE",
         "cca3": "BEL",
@@ -1262,25 +1280,28 @@
             "woe_name": "Liege"
         },
         "geo": {
-            "latitude": 50.6325574,
-            "longitude": 5.5796662,
-            "max_latitude": 50.68819,
-            "max_longitude": 5.6751101,
-            "min_latitude": 50.5610901,
-            "min_longitude": 5.5230701
+            "latitude": 50.8503396,
+            "longitude": 4.3517103,
+            "max_latitude": 50.91371,
+            "max_longitude": 4.4369799,
+            "min_latitude": 50.7962401,
+            "min_longitude": 4.3138
         },
         "iso_3166_2": "BE-WLG",
         "iso_a2": "BE",
         "iso_a3": "BEL",
-        "name": "Li\u00e8ge (fr)",
+        "name": "Brussels",
         "postal": "WLG",
         "type": "Province",
         "type_en": "Province"
     },
     "WLX": {
         "alt_names": [
-            "Luxembourg",
-            "Luxemburg"
+            "Brussels Hoofdstedelijk Gewest",
+            "R\u00e9gion de Bruxelles-Capitale",
+            "Brussel",
+            "Br\u00fcssel",
+            "Bruxelles"
         ],
         "cca2": "BE",
         "cca3": "BEL",
@@ -1403,24 +1424,28 @@
             "woe_name": "Luxembourg"
         },
         "geo": {
-            "latitude": 50.0546886,
-            "longitude": 5.4676983,
-            "max_latitude": 50.4306101,
-            "max_longitude": 6.0344,
-            "min_latitude": 49.49701,
-            "min_longitude": 4.9683901
+            "latitude": 50.8503396,
+            "longitude": 4.3517103,
+            "max_latitude": 50.91371,
+            "max_longitude": 4.4369799,
+            "min_latitude": 50.7962401,
+            "min_longitude": 4.3138
         },
         "iso_3166_2": "BE-WLX",
         "iso_a2": "BE",
         "iso_a3": "BEL",
-        "name": "Luxembourg (fr)",
+        "name": "Brussels",
         "postal": "WLX",
         "type": "Province",
         "type_en": "Province"
     },
     "WNA": {
         "alt_names": [
-            "Namen"
+            "Brussels Hoofdstedelijk Gewest",
+            "R\u00e9gion de Bruxelles-Capitale",
+            "Brussel",
+            "Br\u00fcssel",
+            "Bruxelles"
         ],
         "cca2": "BE",
         "cca3": "BEL",
@@ -1543,17 +1568,17 @@
             "woe_name": "Namur"
         },
         "geo": {
-            "latitude": 50.4673883,
-            "longitude": 4.8719854,
-            "max_latitude": 50.5312201,
-            "max_longitude": 4.98398,
-            "min_latitude": 50.38738,
-            "min_longitude": 4.7229
+            "latitude": 50.8503396,
+            "longitude": 4.3517103,
+            "max_latitude": 50.91371,
+            "max_longitude": 4.4369799,
+            "min_latitude": 50.7962401,
+            "min_longitude": 4.3138
         },
         "iso_3166_2": "BE-WNA",
         "iso_a2": "BE",
         "iso_a3": "BEL",
-        "name": "Namur (fr)",
+        "name": "Brussels",
         "postal": "WNA",
         "type": "Province",
         "type_en": "Province"

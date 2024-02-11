@@ -1,7 +1,7 @@
 {
     "CE": {
         "alt_names": [
-            "An Cl\u00e1r"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -124,24 +124,24 @@
             "woe_name": "Clare"
         },
         "geo": {
-            "latitude": 52.8624528,
-            "longitude": -9.0471645,
-            "max_latitude": 53.1686759,
-            "max_longitude": -8.2839238,
-            "min_latitude": 52.5545323,
-            "min_longitude": -9.9386938
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-CE",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Clare",
+        "name": "Cork",
         "postal": "CE",
         "type": "Administrative County",
         "type_en": "County"
     },
     "CN": {
         "alt_names": [
-            "An Cabh\u00e1n"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -264,17 +264,17 @@
             "woe_name": "Cavan"
         },
         "geo": {
-            "latitude": 53.9897186,
-            "longitude": -7.3633319,
-            "max_latitude": 54.0031567,
-            "max_longitude": -7.3168015,
-            "min_latitude": 53.9700812,
-            "min_longitude": -7.3942943
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-CN",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Cavan",
+        "name": "Cork",
         "postal": "CN",
         "type": "Administrative County",
         "type_en": "County"
@@ -421,7 +421,7 @@
     },
     "CW": {
         "alt_names": [
-            "Ceatharlach"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -544,24 +544,24 @@
             "woe_name": "Carlow"
         },
         "geo": {
-            "latitude": 52.7189747,
-            "longitude": -6.8503703,
-            "max_latitude": 52.9179628,
-            "max_longitude": -6.5049107,
-            "min_latitude": 52.4638685,
-            "min_longitude": -7.1079347
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-CW",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Carlow",
+        "name": "Cork",
         "postal": "CW",
         "type": "Administrative County",
         "type_en": "County"
     },
     "D": {
         "alt_names": [
-            "\u00c1tha Cliath"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -684,24 +684,24 @@
             "woe_name": "Dublin"
         },
         "geo": {
-            "latitude": 53.3498053,
-            "longitude": -6.2603097,
-            "max_latitude": 53.4252101,
-            "max_longitude": -6.05255,
-            "min_latitude": 53.2234301,
-            "min_longitude": -6.45084
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-D",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Dublin",
+        "name": "Cork",
         "postal": "D",
         "type": "Administrative County",
         "type_en": "County"
     },
     "DL": {
         "alt_names": [
-            "D\u00fan na nGall"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -824,24 +824,24 @@
             "woe_name": "Donegal"
         },
         "geo": {
-            "latitude": 54.6541972,
-            "longitude": -8.110546,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-DL",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Donegal",
+        "name": "Cork",
         "postal": "DL",
         "type": "Administrative County",
         "type_en": "County"
     },
     "G": {
         "alt_names": [
-            "Gaillimh"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -964,24 +964,24 @@
             "woe_name": "Galway"
         },
         "geo": {
-            "latitude": 53.270668,
-            "longitude": -9.0567905,
-            "max_latitude": 53.3194705,
-            "max_longitude": -8.9548207,
-            "min_latitude": 53.2485394,
-            "min_longitude": -9.1426873
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-G",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Galway",
+        "name": "Cork",
         "postal": "G",
         "type": "Cathair",
         "type_en": "City"
     },
     "KE": {
         "alt_names": [
-            "Cill Dara"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -1104,24 +1104,24 @@
             "woe_name": "Kildare"
         },
         "geo": {
-            "latitude": 53.1589342,
-            "longitude": -6.9095683,
-            "max_latitude": 53.1828601,
-            "max_longitude": -6.8829899,
-            "min_latitude": 53.15196,
-            "min_longitude": -6.92259
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-KE",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Kildare",
+        "name": "Cork",
         "postal": "KE",
         "type": "Administrative County",
         "type_en": "County"
     },
     "KK": {
         "alt_names": [
-            "Cill Chainnigh"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -1244,25 +1244,24 @@
             "woe_name": "Kilkenny"
         },
         "geo": {
-            "latitude": 52.6541454,
-            "longitude": -7.2447879,
-            "max_latitude": 52.67698,
-            "max_longitude": -7.20547,
-            "min_latitude": 52.63111,
-            "min_longitude": -7.2731599
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-KK",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Kilkenny",
+        "name": "Cork",
         "postal": "KK",
         "type": "Administrative County",
         "type_en": "County"
     },
     "KY": {
         "alt_names": [
-            "Ciarraighe",
-            "Ciarra\u00ed"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -1385,25 +1384,24 @@
             "woe_name": "Kerry"
         },
         "geo": {
-            "latitude": 52.1544607,
-            "longitude": -9.5668632,
-            "max_latitude": 52.59184,
-            "max_longitude": -9.118786,
-            "min_latitude": 51.6883223,
-            "min_longitude": -10.6183626
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-KY",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Kerry",
+        "name": "Cork",
         "postal": "KY",
         "type": "Administrative County",
         "type_en": "County"
     },
     "LD": {
         "alt_names": [
-            "Longphort",
-            "Longphuirt"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -1526,25 +1524,24 @@
             "woe_name": "Longford"
         },
         "geo": {
-            "latitude": 53.7275564,
-            "longitude": -7.793109,
-            "max_latitude": 53.9420806,
-            "max_longitude": -7.3749033,
-            "min_latitude": 53.5269053,
-            "min_longitude": -8.0358602
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-LD",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Longford",
+        "name": "Cork",
         "postal": "LD",
         "type": "Administrative County",
         "type_en": "County"
     },
     "LH": {
         "alt_names": [
-            "Lughbhadh",
-            "L\u00fa"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -1667,24 +1664,24 @@
             "woe_name": "Louth"
         },
         "geo": {
-            "latitude": 53.8969758,
-            "longitude": -6.4670971,
-            "max_latitude": 54.1139513,
-            "max_longitude": -6.1030107,
-            "min_latitude": 53.6984916,
-            "min_longitude": -6.6953432
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-LH",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Louth",
+        "name": "Cork",
         "postal": "LH",
         "type": "Administrative County",
         "type_en": "County"
     },
     "LK": {
         "alt_names": [
-            "Luimneach"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -1807,24 +1804,24 @@
             "woe_name": "Limerick"
         },
         "geo": {
-            "latitude": 52.6680204,
-            "longitude": -8.6304975,
-            "max_latitude": 52.6886401,
-            "max_longitude": -8.5703399,
-            "min_latitude": 52.6143899,
-            "min_longitude": -8.68994
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-LK",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Limerick",
+        "name": "Cork",
         "postal": "LK",
         "type": "Cathair",
         "type_en": "City"
     },
     "LM": {
         "alt_names": [
-            "Liathdroim"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -1947,25 +1944,24 @@
             "woe_name": "Leitrim"
         },
         "geo": {
-            "latitude": 53.9926007,
-            "longitude": -8.0655852,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-LM",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Leitrim",
+        "name": "Cork",
         "postal": "LM",
         "type": "Administrative County",
         "type_en": "County"
     },
     "LS": {
         "alt_names": [
-            "Laoighis",
-            "Queen\u02bfs"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -2088,25 +2084,24 @@
             "woe_name": "Laoighis"
         },
         "geo": {
-            "latitude": 52.994295,
-            "longitude": -7.3323007,
-            "max_latitude": 53.2156522,
-            "max_longitude": -6.9321155,
-            "min_latitude": 52.7812693,
-            "min_longitude": -7.7346495
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-LS",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Laois",
+        "name": "Cork",
         "postal": "LS",
         "type": "Administrative County",
         "type_en": "County"
     },
     "MH": {
         "alt_names": [
-            "An Mh\u00ed",
-            "An Mh\u00eddhe"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -2229,24 +2224,24 @@
             "woe_name": "Meath"
         },
         "geo": {
-            "latitude": 53.605548,
-            "longitude": -6.6564169,
-            "max_latitude": 53.9176662,
-            "max_longitude": -6.2126105,
-            "min_latitude": 53.3818664,
-            "min_longitude": -7.33552
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-MH",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Meath",
+        "name": "Cork",
         "postal": "MH",
         "type": "Administrative County",
         "type_en": "County"
     },
     "MN": {
         "alt_names": [
-            "Muineach\u00e1n"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -2369,24 +2364,24 @@
             "woe_name": "Monaghan"
         },
         "geo": {
-            "latitude": 54.2492046,
-            "longitude": -6.9683132,
-            "max_latitude": 54.4213907,
-            "max_longitude": -6.5497282,
-            "min_latitude": 53.9006798,
-            "min_longitude": -7.339506
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-MN",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Monaghan",
+        "name": "Cork",
         "postal": "MN",
         "type": "Administrative County",
         "type_en": "Administrative County"
     },
     "MO": {
         "alt_names": [
-            "Maigh Eo"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -2509,27 +2504,24 @@
             "woe_name": "Mayo"
         },
         "geo": {
-            "latitude": 53.934581,
-            "longitude": -9.3516456,
-            "max_latitude": 54.3454008,
-            "max_longitude": -8.5828617,
-            "min_latitude": 53.4719262,
-            "min_longitude": -10.2510017
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-MO",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Mayo",
+        "name": "Cork",
         "postal": "MO",
         "type": "Administrative County",
         "type_en": "County"
     },
     "OY": {
         "alt_names": [
-            "King\u02bfs",
-            "King\u02bfs County",
-            "Ua U\u00edbh Fhail\u00ed",
-            "U\u00ed F\u00e1ilghe"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -2652,24 +2644,24 @@
             "woe_name": "Offaly"
         },
         "geo": {
-            "latitude": 53.2356871,
-            "longitude": -7.7122229,
-            "max_latitude": 53.424279,
-            "max_longitude": -6.9777077,
-            "min_latitude": 52.8481718,
-            "min_longitude": -8.0838722
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-OY",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Offaly",
+        "name": "Cork",
         "postal": "OY",
         "type": "Administrative County",
         "type_en": "County"
     },
     "RN": {
         "alt_names": [
-            "Ros Com\u00e1in"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -2792,24 +2784,24 @@
             "woe_name": "Roscommon"
         },
         "geo": {
-            "latitude": 53.6275906,
-            "longitude": -8.1890955,
-            "max_latitude": 53.63942,
-            "max_longitude": -8.16418,
-            "min_latitude": 53.6117699,
-            "min_longitude": -8.20713
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-RN",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Roscommon",
+        "name": "Cork",
         "postal": "RN",
         "type": "Administrative County",
         "type_en": "County"
     },
     "SO": {
         "alt_names": [
-            "Sligeach"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -2932,24 +2924,24 @@
             "woe_name": "Sligo"
         },
         "geo": {
-            "latitude": 54.2766103,
-            "longitude": -8.4760888,
-            "max_latitude": 54.2872399,
-            "max_longitude": -8.44213,
-            "min_latitude": 54.24951,
-            "min_longitude": -8.5193301
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-SO",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Sligo",
+        "name": "Cork",
         "postal": "SO",
         "type": "Administrative County",
         "type_en": "County"
     },
     "TA": {
         "alt_names": [
-            "Tiobraid \u00c1rann"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -3072,24 +3064,24 @@
             "woe_name": "Tipperary"
         },
         "geo": {
-            "latitude": 52.4737894,
-            "longitude": -8.1618514,
-            "max_latitude": 53.1675822,
-            "max_longitude": -7.3720558,
-            "min_latitude": 52.2020144,
-            "min_longitude": -8.4800793
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-TA",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Tipperary",
+        "name": "Cork",
         "postal": "TA",
         "type": "Administrative County",
         "type_en": "County"
     },
     "WD": {
         "alt_names": [
-            "Port L\u00e1irge"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -3212,24 +3204,24 @@
             "woe_name": "Waterford"
         },
         "geo": {
-            "latitude": 52.256667,
-            "longitude": -7.129167,
-            "max_latitude": 52.2701999,
-            "max_longitude": -7.0548699,
-            "min_latitude": 52.22481,
-            "min_longitude": -7.17119
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-WD",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Waterford",
+        "name": "Cork",
         "postal": "WD",
         "type": "Cathair",
         "type_en": "City"
     },
     "WH": {
         "alt_names": [
-            "An Iarmhidhe"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -3352,25 +3344,24 @@
             "woe_name": "Westmeath"
         },
         "geo": {
-            "latitude": 53.5345308,
-            "longitude": -7.4653217,
-            "max_latitude": 53.7879599,
-            "max_longitude": -6.9547842,
-            "min_latitude": 53.3179626,
-            "min_longitude": -7.9729531
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-WH",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Westmeath",
+        "name": "Cork",
         "postal": "WH",
         "type": "Administrative County",
         "type_en": "County"
     },
     "WW": {
         "alt_names": [
-            "Cill Maintain",
-            "Cill Mhannt\u00e1in"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -3493,24 +3484,24 @@
             "woe_name": "Wicklow"
         },
         "geo": {
-            "latitude": 52.9808207,
-            "longitude": -6.044589,
-            "max_latitude": 52.99892,
-            "max_longitude": -6.0154599,
-            "min_latitude": 52.9661001,
-            "min_longitude": -6.07004
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-WW",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Wicklow",
+        "name": "Cork",
         "postal": "WW",
         "type": "Administrative County",
         "type_en": "County"
     },
     "WX": {
         "alt_names": [
-            "Loch Garman"
+            "Corcaigh"
         ],
         "cca2": "IE",
         "cca3": "IRL",
@@ -3633,17 +3624,17 @@
             "woe_name": "Wexford"
         },
         "geo": {
-            "latitude": 52.336916,
-            "longitude": -6.4633381,
-            "max_latitude": 52.3470099,
-            "max_longitude": -6.4464301,
-            "min_latitude": 52.32044,
-            "min_longitude": -6.49995
+            "latitude": 51.8968917,
+            "longitude": -8.4863157,
+            "max_latitude": 51.93586,
+            "max_longitude": -8.3805799,
+            "min_latitude": 51.8561501,
+            "min_longitude": -8.54552
         },
         "iso_3166_2": "IE-WX",
         "iso_a2": "IE",
         "iso_a3": "IRL",
-        "name": "Wexford",
+        "name": "Cork",
         "postal": "WX",
         "type": "Administrative County",
         "type_en": "County"

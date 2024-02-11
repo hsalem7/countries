@@ -143,7 +143,9 @@
     },
     "12": {
         "alt_names": [
-            "Gampaha"
+            "Kolamba",
+            "Colombo",
+            "Colombo"
         ],
         "cca2": "LK",
         "cca3": "LKA",
@@ -266,24 +268,26 @@
             "woe_name": "Gampaha"
         },
         "geo": {
-            "latitude": 7.0873101,
-            "longitude": 80.0143656,
-            "max_latitude": 7.1068408,
-            "max_longitude": 80.0507641,
-            "min_latitude": 7.0560045,
-            "min_longitude": 79.9738622
+            "latitude": 6.9270786,
+            "longitude": 79.861243,
+            "max_latitude": 6.9805844,
+            "max_longitude": 79.8900852,
+            "min_latitude": 6.8625113,
+            "min_longitude": 79.8225192
         },
         "iso_3166_2": "LK-12",
         "iso_a2": "LK",
         "iso_a3": "LKA",
-        "name": "Gampaha",
+        "name": "Colombo",
         "postal": "12",
         "type": "Distrikkaya",
         "type_en": "District"
     },
     "13": {
         "alt_names": [
-            "Kalutara"
+            "Kolamba",
+            "Colombo",
+            "Colombo"
         ],
         "cca2": "LK",
         "cca3": "LKA",
@@ -406,25 +410,26 @@
             "woe_name": "Kalutara"
         },
         "geo": {
-            "latitude": 6.5894162,
-            "longitude": 79.9808143,
-            "max_latitude": 6.6178027,
-            "max_longitude": 79.9956179,
-            "min_latitude": 6.5570948,
-            "min_longitude": 79.9578743
+            "latitude": 6.9270786,
+            "longitude": 79.861243,
+            "max_latitude": 6.9805844,
+            "max_longitude": 79.8900852,
+            "min_latitude": 6.8625113,
+            "min_longitude": 79.8225192
         },
         "iso_3166_2": "LK-13",
         "iso_a2": "LK",
         "iso_a3": "LKA",
-        "name": "Kalutara",
+        "name": "Colombo",
         "postal": "13",
         "type": "Distrikkaya",
         "type_en": "District"
     },
     "21": {
         "alt_names": [
-            "Mahe Nuwara",
-            "Maha Nuwara"
+            "Kolamba",
+            "Colombo",
+            "Colombo"
         ],
         "cca2": "LK",
         "cca3": "LKA",
@@ -547,24 +552,26 @@
             "woe_name": "Kandy"
         },
         "geo": {
-            "latitude": 7.2905715,
-            "longitude": 80.6337262,
-            "max_latitude": 7.3305871,
-            "max_longitude": 80.6596685,
-            "min_latitude": 7.2585035,
-            "min_longitude": 80.5918944
+            "latitude": 6.9270786,
+            "longitude": 79.861243,
+            "max_latitude": 6.9805844,
+            "max_longitude": 79.8900852,
+            "min_latitude": 6.8625113,
+            "min_longitude": 79.8225192
         },
         "iso_3166_2": "LK-21",
         "iso_a2": "LK",
         "iso_a3": "LKA",
-        "name": "Kandy",
+        "name": "Colombo",
         "postal": "21",
         "type": "Distrikkaya",
         "type_en": "District"
     },
     "22": {
         "alt_names": [
-            "Matale"
+            "Kolamba",
+            "Colombo",
+            "Colombo"
         ],
         "cca2": "LK",
         "cca3": "LKA",
@@ -687,24 +694,26 @@
             "woe_name": "Matale"
         },
         "geo": {
-            "latitude": 7.467465,
-            "longitude": 80.6234161,
-            "max_latitude": 7.481389,
-            "max_longitude": 80.6516646,
-            "min_latitude": 7.4352836,
-            "min_longitude": 80.6057453
+            "latitude": 6.9270786,
+            "longitude": 79.861243,
+            "max_latitude": 6.9805844,
+            "max_longitude": 79.8900852,
+            "min_latitude": 6.8625113,
+            "min_longitude": 79.8225192
         },
         "iso_3166_2": "LK-22",
         "iso_a2": "LK",
         "iso_a3": "LKA",
-        "name": "Matale",
+        "name": "Colombo",
         "postal": "22",
         "type": "Distrikkaya",
         "type_en": "District"
     },
     "23": {
         "alt_names": [
-            "Nuwara Eliya"
+            "Kolamba",
+            "Colombo",
+            "Colombo"
         ],
         "cca2": "LK",
         "cca3": "LKA",
@@ -827,24 +836,26 @@
             "woe_name": "Nuwara Eliya"
         },
         "geo": {
-            "latitude": 6.9543992,
-            "longitude": 80.7824012,
-            "max_latitude": 6.9898532,
-            "max_longitude": 80.8216953,
-            "min_latitude": 6.9128792,
-            "min_longitude": 80.7401987
+            "latitude": 6.9270786,
+            "longitude": 79.861243,
+            "max_latitude": 6.9805844,
+            "max_longitude": 79.8900852,
+            "min_latitude": 6.8625113,
+            "min_longitude": 79.8225192
         },
         "iso_3166_2": "LK-23",
         "iso_a2": "LK",
         "iso_a3": "LKA",
-        "name": "Nuwara Eliya",
+        "name": "Colombo",
         "postal": "23",
         "type": "Distrikkaya",
         "type_en": "District"
     },
     "31": {
         "alt_names": [
-            "G\u0101lla"
+            "Kolamba",
+            "Colombo",
+            "Colombo"
         ],
         "cca2": "LK",
         "cca3": "LKA",
@@ -967,24 +978,26 @@
             "woe_name": "Galle"
         },
         "geo": {
-            "latitude": 6.0535185,
-            "longitude": 80.2209773,
-            "max_latitude": 6.0881332,
-            "max_longitude": 80.2518654,
-            "min_latitude": 6.0236819,
-            "min_longitude": 80.1721287
+            "latitude": 6.9270786,
+            "longitude": 79.861243,
+            "max_latitude": 6.9805844,
+            "max_longitude": 79.8900852,
+            "min_latitude": 6.8625113,
+            "min_longitude": 79.8225192
         },
         "iso_3166_2": "LK-31",
         "iso_a2": "LK",
         "iso_a3": "LKA",
-        "name": "Galle",
+        "name": "Colombo",
         "postal": "31",
         "type": "Distrikkaya",
         "type_en": "District"
     },
     "32": {
         "alt_names": [
-            "Matara"
+            "Kolamba",
+            "Colombo",
+            "Colombo"
         ],
         "cca2": "LK",
         "cca3": "LKA",
@@ -1107,24 +1120,26 @@
             "woe_name": "Matara"
         },
         "geo": {
-            "latitude": 5.95492,
-            "longitude": 80.5549561,
-            "max_latitude": 5.9693241,
-            "max_longitude": 80.5972454,
-            "min_latitude": 5.9346603,
-            "min_longitude": 80.5042506
+            "latitude": 6.9270786,
+            "longitude": 79.861243,
+            "max_latitude": 6.9805844,
+            "max_longitude": 79.8900852,
+            "min_latitude": 6.8625113,
+            "min_longitude": 79.8225192
         },
         "iso_3166_2": "LK-32",
         "iso_a2": "LK",
         "iso_a3": "LKA",
-        "name": "Matara",
+        "name": "Colombo",
         "postal": "32",
         "type": "Distrikkaya",
         "type_en": "District"
     },
     "33": {
         "alt_names": [
-            "Hambantota"
+            "Kolamba",
+            "Colombo",
+            "Colombo"
         ],
         "cca2": "LK",
         "cca3": "LKA",
@@ -1247,25 +1262,26 @@
             "woe_name": "Hambantota"
         },
         "geo": {
-            "latitude": 6.1317421,
-            "longitude": 81.1085744,
-            "max_latitude": 6.1727689,
-            "max_longitude": 81.1655759,
-            "min_latitude": 6.1097056,
-            "min_longitude": 81.0677156
+            "latitude": 6.9270786,
+            "longitude": 79.861243,
+            "max_latitude": 6.9805844,
+            "max_longitude": 79.8900852,
+            "min_latitude": 6.8625113,
+            "min_longitude": 79.8225192
         },
         "iso_3166_2": "LK-33",
         "iso_a2": "LK",
         "iso_a3": "LKA",
-        "name": "Hambantota",
+        "name": "Colombo",
         "postal": "33",
         "type": "Distrikkaya",
         "type_en": "District"
     },
     "41": {
         "alt_names": [
-            "Yapnaya",
-            "Y\u0101panaya"
+            "Kolamba",
+            "Colombo",
+            "Colombo"
         ],
         "cca2": "LK",
         "cca3": "LKA",
@@ -1388,24 +1404,26 @@
             "woe_name": "Jaffna"
         },
         "geo": {
-            "latitude": 9.6614981,
-            "longitude": 80.0255465,
-            "max_latitude": 9.6938708,
-            "max_longitude": 80.0578452,
-            "min_latitude": 9.6461028,
-            "min_longitude": 79.9990243
+            "latitude": 6.9270786,
+            "longitude": 79.861243,
+            "max_latitude": 6.9805844,
+            "max_longitude": 79.8900852,
+            "min_latitude": 6.8625113,
+            "min_longitude": 79.8225192
         },
         "iso_3166_2": "LK-41",
         "iso_a2": "LK",
         "iso_a3": "LKA",
-        "name": "Jaffna",
+        "name": "Colombo",
         "postal": "41",
         "type": "Distrikkaya",
         "type_en": "District"
     },
     "42": {
         "alt_names": [
-            "Kilinochchi"
+            "Kolamba",
+            "Colombo",
+            "Colombo"
         ],
         "cca2": "LK",
         "cca3": "LKA",
@@ -1528,26 +1546,26 @@
             "woe_name": "Kilinochchi"
         },
         "geo": {
-            "latitude": 9.3802886,
-            "longitude": 80.3769999,
-            "max_latitude": 9.4173529,
-            "max_longitude": 80.435114,
-            "min_latitude": 9.3365197,
-            "min_longitude": 80.3180948
+            "latitude": 6.9270786,
+            "longitude": 79.861243,
+            "max_latitude": 6.9805844,
+            "max_longitude": 79.8900852,
+            "min_latitude": 6.8625113,
+            "min_longitude": 79.8225192
         },
         "iso_3166_2": "LK-42",
         "iso_a2": "LK",
         "iso_a3": "LKA",
-        "name": "Kilinochchi",
+        "name": "Colombo",
         "postal": "42",
         "type": "Distrikkaya",
         "type_en": "District"
     },
     "43": {
         "alt_names": [
-            "Manar",
-            "Mannar",
-            "Mannerama"
+            "Kolamba",
+            "Colombo",
+            "Colombo"
         ],
         "cca2": "LK",
         "cca3": "LKA",
@@ -1670,24 +1688,26 @@
             "woe_name": "Mannar"
         },
         "geo": {
-            "latitude": 8.9893222,
-            "longitude": 79.8800832,
-            "max_latitude": 9.0290349,
-            "max_longitude": 79.9274254,
-            "min_latitude": 8.9625776,
-            "min_longitude": 79.8438262
+            "latitude": 6.9270786,
+            "longitude": 79.861243,
+            "max_latitude": 6.9805844,
+            "max_longitude": 79.8900852,
+            "min_latitude": 6.8625113,
+            "min_longitude": 79.8225192
         },
         "iso_3166_2": "LK-43",
         "iso_a2": "LK",
         "iso_a3": "LKA",
-        "name": "Mannar",
+        "name": "Colombo",
         "postal": "43",
         "type": "Distrikkaya",
         "type_en": "District"
     },
     "44": {
         "alt_names": [
-            "Vavuniy\u0101wa"
+            "Kolamba",
+            "Colombo",
+            "Colombo"
         ],
         "cca2": "LK",
         "cca3": "LKA",
@@ -1810,24 +1830,26 @@
             "woe_name": "Vavuniya"
         },
         "geo": {
-            "latitude": 8.7381572,
-            "longitude": 80.4771472,
-            "max_latitude": 8.8204055,
-            "max_longitude": 80.5478097,
-            "min_latitude": 8.6835302,
-            "min_longitude": 80.4271745
+            "latitude": 6.9270786,
+            "longitude": 79.861243,
+            "max_latitude": 6.9805844,
+            "max_longitude": 79.8900852,
+            "min_latitude": 6.8625113,
+            "min_longitude": 79.8225192
         },
         "iso_3166_2": "LK-44",
         "iso_a2": "LK",
         "iso_a3": "LKA",
-        "name": "Vavuniya",
+        "name": "Colombo",
         "postal": "44",
         "type": "Distrikkaya",
         "type_en": "District"
     },
     "45": {
         "alt_names": [
-            "Mulativu"
+            "Kolamba",
+            "Colombo",
+            "Colombo"
         ],
         "cca2": "LK",
         "cca3": "LKA",
@@ -1950,24 +1972,26 @@
             "woe_name": "Mullaitivu"
         },
         "geo": {
-            "latitude": 9.2670911,
-            "longitude": 80.814248,
-            "max_latitude": 9.2764461,
-            "max_longitude": 80.8227488,
-            "min_latitude": 9.2588919,
-            "min_longitude": 80.8070613
+            "latitude": 6.9270786,
+            "longitude": 79.861243,
+            "max_latitude": 6.9805844,
+            "max_longitude": 79.8900852,
+            "min_latitude": 6.8625113,
+            "min_longitude": 79.8225192
         },
         "iso_3166_2": "LK-45",
         "iso_a2": "LK",
         "iso_a3": "LKA",
-        "name": "Mullaittivu",
+        "name": "Colombo",
         "postal": "45",
         "type": "Distrikkaya",
         "type_en": "District"
     },
     "51": {
         "alt_names": [
-            "Mad\u0328akalp\u016bwa"
+            "Kolamba",
+            "Colombo",
+            "Colombo"
         ],
         "cca2": "LK",
         "cca3": "LKA",
@@ -2090,24 +2114,26 @@
             "woe_name": "Batticaloa"
         },
         "geo": {
-            "latitude": 7.7309971,
-            "longitude": 81.6747295,
-            "max_latitude": 7.77083,
-            "max_longitude": 81.706103,
-            "min_latitude": 7.6971701,
-            "min_longitude": 81.6508591
+            "latitude": 6.9270786,
+            "longitude": 79.861243,
+            "max_latitude": 6.9805844,
+            "max_longitude": 79.8900852,
+            "min_latitude": 6.8625113,
+            "min_longitude": 79.8225192
         },
         "iso_3166_2": "LK-51",
         "iso_a2": "LK",
         "iso_a3": "LKA",
-        "name": "Batticaloa",
+        "name": "Colombo",
         "postal": "51",
         "type": "Distrikkaya",
         "type_en": "District"
     },
     "52": {
         "alt_names": [
-            "Ampara"
+            "Kolamba",
+            "Colombo",
+            "Colombo"
         ],
         "cca2": "LK",
         "cca3": "LKA",
@@ -2230,25 +2256,26 @@
             "woe_name": "Ampara"
         },
         "geo": {
-            "latitude": 7.3017563,
-            "longitude": 81.6747295,
-            "max_latitude": 7.3171365,
-            "max_longitude": 81.709056,
-            "min_latitude": 7.2753244,
-            "min_longitude": 81.6450047
+            "latitude": 6.9270786,
+            "longitude": 79.861243,
+            "max_latitude": 6.9805844,
+            "max_longitude": 79.8900852,
+            "min_latitude": 6.8625113,
+            "min_longitude": 79.8225192
         },
         "iso_3166_2": "LK-52",
         "iso_a2": "LK",
         "iso_a3": "LKA",
-        "name": "Ampara",
+        "name": "Colombo",
         "postal": "52",
         "type": "Distrikkaya",
         "type_en": "District"
     },
     "53": {
         "alt_names": [
-            "Trinkomali",
-            "Tirikun\u0101malaya"
+            "Kolamba",
+            "Colombo",
+            "Colombo"
         ],
         "cca2": "LK",
         "cca3": "LKA",
@@ -2371,24 +2398,26 @@
             "woe_name": "Trincomalee"
         },
         "geo": {
-            "latitude": 8.5922,
-            "longitude": 81.1967958,
-            "max_latitude": 8.6231144,
-            "max_longitude": 81.2461119,
-            "min_latitude": 8.5433042,
-            "min_longitude": 81.1803215
+            "latitude": 6.9270786,
+            "longitude": 79.861243,
+            "max_latitude": 6.9805844,
+            "max_longitude": 79.8900852,
+            "min_latitude": 6.8625113,
+            "min_longitude": 79.8225192
         },
         "iso_3166_2": "LK-53",
         "iso_a2": "LK",
         "iso_a3": "LKA",
-        "name": "Trincomalee",
+        "name": "Colombo",
         "postal": "53",
         "type": "Distrikkaya",
         "type_en": "District"
     },
     "61": {
         "alt_names": [
-            "Kurunegala"
+            "Kolamba",
+            "Colombo",
+            "Colombo"
         ],
         "cca2": "LK",
         "cca3": "LKA",
@@ -2511,24 +2540,26 @@
             "woe_name": "Kurunegala"
         },
         "geo": {
-            "latitude": 7.4729813,
-            "longitude": 80.3547286,
-            "max_latitude": 7.5291488,
-            "max_longitude": 80.4164028,
-            "min_latitude": 7.4320919,
-            "min_longitude": 80.299158
+            "latitude": 6.9270786,
+            "longitude": 79.861243,
+            "max_latitude": 6.9805844,
+            "max_longitude": 79.8900852,
+            "min_latitude": 6.8625113,
+            "min_longitude": 79.8225192
         },
         "iso_3166_2": "LK-61",
         "iso_a2": "LK",
         "iso_a3": "LKA",
-        "name": "Kurunegala",
+        "name": "Colombo",
         "postal": "61",
         "type": "Distrikkaya",
         "type_en": "District"
     },
     "62": {
         "alt_names": [
-            "Puttalam"
+            "Kolamba",
+            "Colombo",
+            "Colombo"
         ],
         "cca2": "LK",
         "cca3": "LKA",
@@ -2651,25 +2682,26 @@
             "woe_name": "Puttalam"
         },
         "geo": {
-            "latitude": 8.0402828,
-            "longitude": 79.8408787,
-            "max_latitude": 8.0697249,
-            "max_longitude": 79.8573579,
-            "min_latitude": 7.9910674,
-            "min_longitude": 79.8081207
+            "latitude": 6.9270786,
+            "longitude": 79.861243,
+            "max_latitude": 6.9805844,
+            "max_longitude": 79.8900852,
+            "min_latitude": 6.8625113,
+            "min_longitude": 79.8225192
         },
         "iso_3166_2": "LK-62",
         "iso_a2": "LK",
         "iso_a3": "LKA",
-        "name": "Puttalam",
+        "name": "Colombo",
         "postal": "62",
         "type": "Distrikkaya",
         "type_en": "District"
     },
     "71": {
         "alt_names": [
-            "Anuradhapur",
-            "Anur\u0101dhap\u016braya"
+            "Kolamba",
+            "Colombo",
+            "Colombo"
         ],
         "cca2": "LK",
         "cca3": "LKA",
@@ -2792,25 +2824,26 @@
             "woe_name": "Anuradhapura"
         },
         "geo": {
-            "latitude": 8.3451852,
-            "longitude": 80.3881333,
-            "max_latitude": 8.4107342,
-            "max_longitude": 80.4681838,
-            "min_latitude": 8.2595695,
-            "min_longitude": 80.3378677
+            "latitude": 6.9270786,
+            "longitude": 79.861243,
+            "max_latitude": 6.9805844,
+            "max_longitude": 79.8900852,
+            "min_latitude": 6.8625113,
+            "min_longitude": 79.8225192
         },
         "iso_3166_2": "LK-71",
         "iso_a2": "LK",
         "iso_a3": "LKA",
-        "name": "Anuradhapura",
+        "name": "Colombo",
         "postal": "71",
         "type": "Distrikkaya",
         "type_en": "District"
     },
     "72": {
         "alt_names": [
-            "Polonaruwa",
-            "Polunnaruwa"
+            "Kolamba",
+            "Colombo",
+            "Colombo"
         ],
         "cca2": "LK",
         "cca3": "LKA",
@@ -2933,24 +2966,26 @@
             "woe_name": "Polonnaruwa"
         },
         "geo": {
-            "latitude": 7.9326358,
-            "longitude": 81.0036821,
-            "max_latitude": 7.9761928,
-            "max_longitude": 81.0447693,
-            "min_latitude": 7.8920338,
-            "min_longitude": 80.9670067
+            "latitude": 6.9270786,
+            "longitude": 79.861243,
+            "max_latitude": 6.9805844,
+            "max_longitude": 79.8900852,
+            "min_latitude": 6.8625113,
+            "min_longitude": 79.8225192
         },
         "iso_3166_2": "LK-72",
         "iso_a2": "LK",
         "iso_a3": "LKA",
-        "name": "Polonnaruwa",
+        "name": "Colombo",
         "postal": "72",
         "type": "Distrikkaya",
         "type_en": "District"
     },
     "81": {
         "alt_names": [
-            "Badulla"
+            "Kolamba",
+            "Colombo",
+            "Colombo"
         ],
         "cca2": "LK",
         "cca3": "LKA",
@@ -3073,25 +3108,26 @@
             "woe_name": "Badulla"
         },
         "geo": {
-            "latitude": 6.9934009,
-            "longitude": 81.0549815,
-            "max_latitude": 7.014605,
-            "max_longitude": 81.0796166,
-            "min_latitude": 6.9629781,
-            "min_longitude": 81.0384179
+            "latitude": 6.9270786,
+            "longitude": 79.861243,
+            "max_latitude": 6.9805844,
+            "max_longitude": 79.8900852,
+            "min_latitude": 6.8625113,
+            "min_longitude": 79.8225192
         },
         "iso_3166_2": "LK-81",
         "iso_a2": "LK",
         "iso_a3": "LKA",
-        "name": "Badulla",
+        "name": "Colombo",
         "postal": "81",
         "type": "Distrikkaya",
         "type_en": "District"
     },
     "82": {
         "alt_names": [
-            "Monaragalla",
-            "Moneragala"
+            "Kolamba",
+            "Colombo",
+            "Colombo"
         ],
         "cca2": "LK",
         "cca3": "LKA",
@@ -3214,24 +3250,26 @@
             "woe_name": "Moneragala"
         },
         "geo": {
-            "latitude": 6.8906454,
-            "longitude": 81.3454417,
-            "max_latitude": 6.9151796,
-            "max_longitude": 81.3671493,
-            "min_latitude": 6.8589402,
-            "min_longitude": 81.3208008
+            "latitude": 6.9270786,
+            "longitude": 79.861243,
+            "max_latitude": 6.9805844,
+            "max_longitude": 79.8900852,
+            "min_latitude": 6.8625113,
+            "min_longitude": 79.8225192
         },
         "iso_3166_2": "LK-82",
         "iso_a2": "LK",
         "iso_a3": "LKA",
-        "name": "Monaragala",
+        "name": "Colombo",
         "postal": "82",
         "type": "Distrikkaya",
         "type_en": "District"
     },
     "91": {
         "alt_names": [
-            "Ratnap\u016braya"
+            "Kolamba",
+            "Colombo",
+            "Colombo"
         ],
         "cca2": "LK",
         "cca3": "LKA",
@@ -3354,24 +3392,26 @@
             "woe_name": "Ratnapura"
         },
         "geo": {
-            "latitude": 6.7081032,
-            "longitude": 80.3769999,
-            "max_latitude": 6.7672387,
-            "max_longitude": 80.4288483,
-            "min_latitude": 6.6663126,
-            "min_longitude": 80.3114319
+            "latitude": 6.9270786,
+            "longitude": 79.861243,
+            "max_latitude": 6.9805844,
+            "max_longitude": 79.8900852,
+            "min_latitude": 6.8625113,
+            "min_longitude": 79.8225192
         },
         "iso_3166_2": "LK-91",
         "iso_a2": "LK",
         "iso_a3": "LKA",
-        "name": "Ratnapura",
+        "name": "Colombo",
         "postal": "91",
         "type": "Distrikkaya",
         "type_en": "District"
     },
     "92": {
         "alt_names": [
-            "Kegalle"
+            "Kolamba",
+            "Colombo",
+            "Colombo"
         ],
         "cca2": "LK",
         "cca3": "LKA",
@@ -3494,17 +3534,17 @@
             "woe_name": "Kegalle"
         },
         "geo": {
-            "latitude": 7.2513317,
-            "longitude": 80.3463754,
-            "max_latitude": 7.2644795,
-            "max_longitude": 80.3595828,
-            "min_latitude": 7.2424698,
-            "min_longitude": 80.3318596
+            "latitude": 6.9270786,
+            "longitude": 79.861243,
+            "max_latitude": 6.9805844,
+            "max_longitude": 79.8900852,
+            "min_latitude": 6.8625113,
+            "min_longitude": 79.8225192
         },
         "iso_3166_2": "LK-92",
         "iso_a2": "LK",
         "iso_a3": "LKA",
-        "name": "Kegalla",
+        "name": "Colombo",
         "postal": "92",
         "type": "Distrikkaya",
         "type_en": "District"

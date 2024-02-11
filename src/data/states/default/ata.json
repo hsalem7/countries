@@ -1,7 +1,9 @@
 {
     "X01~": {
         "alt_names": [
-            ""
+            "Argentinisches Antarktisterritorium",
+            "Ant\u00e1rtida Argentina",
+            "Sector Ant\u00e1rtico Argentino or Argent\u00e1rtida"
         ],
         "cca2": "AQ",
         "cca3": "ATA",
@@ -124,20 +126,26 @@
             "woe_name": "Antarctica"
         },
         "geo": {
-            "latitude": "-81.6905000000",
-            "longitude": "0.2382560000"
+            "latitude": -75,
+            "longitude": -49.5,
+            "max_latitude": -60,
+            "max_longitude": -25,
+            "min_latitude": -90,
+            "min_longitude": -74
         },
         "iso_3166_2": "AQ-X01~",
         "iso_a2": "AQ",
         "iso_a3": "ATA",
-        "name": "Antarctica",
+        "name": "Argentine Antarctica",
         "postal": "X01~",
         "type": "",
         "type_en": ""
     },
     "X02~": {
         "alt_names": [
-            ""
+            "Argentinisches Antarktisterritorium",
+            "Ant\u00e1rtida Argentina",
+            "Sector Ant\u00e1rtico Argentino or Argent\u00e1rtida"
         ],
         "cca2": "AQ",
         "cca3": "ATA",
@@ -260,13 +268,17 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "-83.0384000000",
-            "longitude": "-170.3430000000"
+            "latitude": -75,
+            "longitude": -49.5,
+            "max_latitude": -60,
+            "max_longitude": -25,
+            "min_latitude": -90,
+            "min_longitude": -74
         },
         "iso_3166_2": "AQ-X02~",
         "iso_a2": "AQ",
         "iso_a3": "ATA",
-        "name": "",
+        "name": "Argentine Antarctica",
         "postal": "X02~",
         "type": "",
         "type_en": ""

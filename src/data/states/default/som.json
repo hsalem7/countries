@@ -1,7 +1,7 @@
 {
     "BK": {
         "alt_names": [
-            "Bakool"
+            "Awdal"
         ],
         "cca2": "SO",
         "cca3": "SOM",
@@ -124,24 +124,24 @@
             "woe_name": "Bakool"
         },
         "geo": {
-            "latitude": 4.3657221,
-            "longitude": 44.0960311,
-            "max_latitude": 4.960437,
-            "max_longitude": 44.617615,
-            "min_latitude": 3.529067,
-            "min_longitude": 42.750198
+            "latitude": 10.6334285,
+            "longitude": 43.329466,
+            "max_latitude": 11.5114751,
+            "max_longitude": 44.2172924,
+            "min_latitude": 9.721215,
+            "min_longitude": 42.6830099
         },
         "iso_3166_2": "SO-BK",
         "iso_a2": "SO",
         "iso_a3": "SOM",
-        "name": "Bakool",
+        "name": "Awdal",
         "postal": "BK",
         "type": "Gobolka",
         "type_en": "Region"
     },
     "BN": {
         "alt_names": [
-            "Banaadir"
+            "Awdal"
         ],
         "cca2": "SO",
         "cca3": "SOM",
@@ -264,24 +264,24 @@
             "woe_name": "Banaadir"
         },
         "geo": {
-            "latitude": 2.1187375,
-            "longitude": 45.3369459,
-            "max_latitude": 2.195059,
-            "max_longitude": 45.5860699,
-            "min_latitude": 1.9337841,
-            "min_longitude": 45.1414563
+            "latitude": 10.6334285,
+            "longitude": 43.329466,
+            "max_latitude": 11.5114751,
+            "max_longitude": 44.2172924,
+            "min_latitude": 9.721215,
+            "min_longitude": 42.6830099
         },
         "iso_3166_2": "SO-BN",
         "iso_a2": "SO",
         "iso_a3": "SOM",
-        "name": "Banaadir",
+        "name": "Awdal",
         "postal": "BN",
         "type": "Gobolka",
         "type_en": "Region"
     },
     "BR": {
         "alt_names": [
-            "Bari"
+            "Awdal"
         ],
         "cca2": "SO",
         "cca3": "SOM",
@@ -404,24 +404,24 @@
             "woe_name": "Bari"
         },
         "geo": {
-            "latitude": 10.1203847,
-            "longitude": 49.6911374,
-            "max_latitude": 11.9852029,
-            "max_longitude": 51.4130282,
-            "min_latitude": 8.326447,
-            "min_longitude": 48.906651
+            "latitude": 10.6334285,
+            "longitude": 43.329466,
+            "max_latitude": 11.5114751,
+            "max_longitude": 44.2172924,
+            "min_latitude": 9.721215,
+            "min_longitude": 42.6830099
         },
         "iso_3166_2": "SO-BR",
         "iso_a2": "SO",
         "iso_a3": "SOM",
-        "name": "Bari",
+        "name": "Awdal",
         "postal": "BR",
         "type": "Gobolka",
         "type_en": "Region"
     },
     "BY": {
         "alt_names": [
-            "Bay"
+            "Awdal"
         ],
         "cca2": "SO",
         "cca3": "SOM",
@@ -544,24 +544,24 @@
             "woe_name": "Bay"
         },
         "geo": {
-            "latitude": 2.4825193,
-            "longitude": 43.483738,
-            "max_latitude": 3.543456,
-            "max_longitude": 44.6328321,
-            "min_latitude": 1.625444,
-            "min_longitude": 42.3411179
+            "latitude": 10.6334285,
+            "longitude": 43.329466,
+            "max_latitude": 11.5114751,
+            "max_longitude": 44.2172924,
+            "min_latitude": 9.721215,
+            "min_longitude": 42.6830099
         },
         "iso_3166_2": "SO-BY",
         "iso_a2": "SO",
         "iso_a3": "SOM",
-        "name": "Bay",
+        "name": "Awdal",
         "postal": "BY",
         "type": "Gobolka",
         "type_en": "Region"
     },
     "GA": {
         "alt_names": [
-            "Galguduud"
+            "Awdal"
         ],
         "cca2": "SO",
         "cca3": "SOM",
@@ -684,24 +684,24 @@
             "woe_name": "Galguduud"
         },
         "geo": {
-            "latitude": 5.1850128,
-            "longitude": 46.8252838,
-            "max_latitude": 6.2215999,
-            "max_longitude": 47.939419,
-            "min_latitude": 3.5412981,
-            "min_longitude": 45.5051261
+            "latitude": 10.6334285,
+            "longitude": 43.329466,
+            "max_latitude": 11.5114751,
+            "max_longitude": 44.2172924,
+            "min_latitude": 9.721215,
+            "min_longitude": 42.6830099
         },
         "iso_3166_2": "SO-GA",
         "iso_a2": "SO",
         "iso_a3": "SOM",
-        "name": "Galguduud",
+        "name": "Awdal",
         "postal": "GA",
         "type": "Gobolka",
         "type_en": "Region"
     },
     "GE": {
         "alt_names": [
-            "Gedo"
+            "Awdal"
         ],
         "cca2": "SO",
         "cca3": "SOM",
@@ -824,24 +824,24 @@
             "woe_name": "Gedo"
         },
         "geo": {
-            "latitude": 3.5039227,
-            "longitude": 42.2362435,
-            "max_latitude": 4.264553,
-            "max_longitude": 43.004589,
-            "min_latitude": 2.28444,
-            "min_longitude": 40.992082
+            "latitude": 10.6334285,
+            "longitude": 43.329466,
+            "max_latitude": 11.5114751,
+            "max_longitude": 44.2172924,
+            "min_latitude": 9.721215,
+            "min_longitude": 42.6830099
         },
         "iso_3166_2": "SO-GE",
         "iso_a2": "SO",
         "iso_a3": "SOM",
-        "name": "Gedo",
+        "name": "Awdal",
         "postal": "GE",
         "type": "Gobolka",
         "type_en": "Region"
     },
     "HI": {
         "alt_names": [
-            "Hiiraan"
+            "Awdal"
         ],
         "cca2": "SO",
         "cca3": "SOM",
@@ -964,24 +964,24 @@
             "woe_name": "Hiiraan"
         },
         "geo": {
-            "latitude": 4.321015,
-            "longitude": 45.2993862,
-            "max_latitude": 5.454314,
-            "max_longitude": 46.361508,
-            "min_latitude": 3.3195169,
-            "min_longitude": 44.4159971
+            "latitude": 10.6334285,
+            "longitude": 43.329466,
+            "max_latitude": 11.5114751,
+            "max_longitude": 44.2172924,
+            "min_latitude": 9.721215,
+            "min_longitude": 42.6830099
         },
         "iso_3166_2": "SO-HI",
         "iso_a2": "SO",
         "iso_a3": "SOM",
-        "name": "Hiiraan",
+        "name": "Awdal",
         "postal": "HI",
         "type": "Gobolka",
         "type_en": "Region"
     },
     "JD": {
         "alt_names": [
-            "Jubbada Dhexe"
+            "Awdal"
         ],
         "cca2": "SO",
         "cca3": "SOM",
@@ -1104,24 +1104,24 @@
             "woe_name": "Jubbada Dhexe"
         },
         "geo": {
-            "latitude": 2.0780488,
-            "longitude": 41.6011814,
-            "max_latitude": 2.38058,
-            "max_longitude": 43.4949649,
-            "min_latitude": 0.352452,
-            "min_longitude": 40.990269
+            "latitude": 10.6334285,
+            "longitude": 43.329466,
+            "max_latitude": 11.5114751,
+            "max_longitude": 44.2172924,
+            "min_latitude": 9.721215,
+            "min_longitude": 42.6830099
         },
         "iso_3166_2": "SO-JD",
         "iso_a2": "SO",
         "iso_a3": "SOM",
-        "name": "Jubbada Dhexe",
+        "name": "Awdal",
         "postal": "JD",
         "type": "Gobolka",
         "type_en": "Region"
     },
     "JH": {
         "alt_names": [
-            "Jubbada Hoose"
+            "Awdal"
         ],
         "cca2": "SO",
         "cca3": "SOM",
@@ -1244,24 +1244,24 @@
             "woe_name": "Jubbada Hoose"
         },
         "geo": {
-            "latitude": 0.224021,
-            "longitude": 41.6011814,
-            "max_latitude": 1.382667,
-            "max_longitude": 43.2361241,
-            "min_latitude": -1.6541275,
-            "min_longitude": 40.9886321
+            "latitude": 10.6334285,
+            "longitude": 43.329466,
+            "max_latitude": 11.5114751,
+            "max_longitude": 44.2172924,
+            "min_latitude": 9.721215,
+            "min_longitude": 42.6830099
         },
         "iso_3166_2": "SO-JH",
         "iso_a2": "SO",
         "iso_a3": "SOM",
-        "name": "Jubbada Hoose",
+        "name": "Awdal",
         "postal": "JH",
         "type": "Gobolka",
         "type_en": "Region"
     },
     "MU": {
         "alt_names": [
-            "Mudug"
+            "Awdal"
         ],
         "cca2": "SO",
         "cca3": "SOM",
@@ -1384,24 +1384,24 @@
             "woe_name": "Mudug"
         },
         "geo": {
-            "latitude": 6.5656726,
-            "longitude": 47.7637565,
-            "max_latitude": 7.797689,
-            "max_longitude": 49.635255,
-            "min_latitude": 4.427916,
-            "min_longitude": 46.2261429
+            "latitude": 10.6334285,
+            "longitude": 43.329466,
+            "max_latitude": 11.5114751,
+            "max_longitude": 44.2172924,
+            "min_latitude": 9.721215,
+            "min_longitude": 42.6830099
         },
         "iso_3166_2": "SO-MU",
         "iso_a2": "SO",
         "iso_a3": "SOM",
-        "name": "Mudug",
+        "name": "Awdal",
         "postal": "MU",
         "type": "Gobolka",
         "type_en": "Region"
     },
     "NU": {
         "alt_names": [
-            "Nugaal"
+            "Awdal"
         ],
         "cca2": "SO",
         "cca3": "SOM",
@@ -1524,24 +1524,24 @@
             "woe_name": "Nugaal"
         },
         "geo": {
-            "latitude": 8.2173496,
-            "longitude": 49.2030851,
-            "max_latitude": 8.9382501,
-            "max_longitude": 50.169361,
-            "min_latitude": 7.3863176,
-            "min_longitude": 47.789005
+            "latitude": 10.6334285,
+            "longitude": 43.329466,
+            "max_latitude": 11.5114751,
+            "max_longitude": 44.2172924,
+            "min_latitude": 9.721215,
+            "min_longitude": 42.6830099
         },
         "iso_3166_2": "SO-NU",
         "iso_a2": "SO",
         "iso_a3": "SOM",
-        "name": "Nugaal",
+        "name": "Awdal",
         "postal": "NU",
         "type": "Gobolka",
         "type_en": "Region"
     },
     "SD": {
         "alt_names": [
-            "Shabeellaha Dhexe"
+            "Awdal"
         ],
         "cca2": "SO",
         "cca3": "SOM",
@@ -1664,24 +1664,24 @@
             "woe_name": "Shabeellaha Dhexe"
         },
         "geo": {
-            "latitude": 2.9250247,
-            "longitude": 45.9039689,
-            "max_latitude": 4.030119,
-            "max_longitude": 47.1018296,
-            "min_latitude": 2.170552,
-            "min_longitude": 45.03761
+            "latitude": 10.6334285,
+            "longitude": 43.329466,
+            "max_latitude": 11.5114751,
+            "max_longitude": 44.2172924,
+            "min_latitude": 9.721215,
+            "min_longitude": 42.6830099
         },
         "iso_3166_2": "SO-SD",
         "iso_a2": "SO",
         "iso_a3": "SOM",
-        "name": "Shabeellaha Dhexe",
+        "name": "Awdal",
         "postal": "SD",
         "type": "Gobolka",
         "type_en": "Region"
     },
     "SH": {
         "alt_names": [
-            "Shabeellaha Hoose"
+            "Awdal"
         ],
         "cca2": "SO",
         "cca3": "SOM",
@@ -1804,17 +1804,17 @@
             "woe_name": "Shabeellaha Hoose"
         },
         "geo": {
-            "latitude": 1.8766458,
-            "longitude": 44.2479015,
-            "max_latitude": 3.320112,
-            "max_longitude": 45.317607,
-            "min_latitude": 0.6533486,
-            "min_longitude": 42.904155
+            "latitude": 10.6334285,
+            "longitude": 43.329466,
+            "max_latitude": 11.5114751,
+            "max_longitude": 44.2172924,
+            "min_latitude": 9.721215,
+            "min_longitude": 42.6830099
         },
         "iso_3166_2": "SO-SH",
         "iso_a2": "SO",
         "iso_a3": "SOM",
-        "name": "Shabeellaha Hoose",
+        "name": "Awdal",
         "postal": "SH",
         "type": "Gobolka",
         "type_en": "Region"

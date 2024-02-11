@@ -1,7 +1,7 @@
 {
     "1": {
         "alt_names": [
-            "Bocas del Toro"
+            "Comarca de San Blas"
         ],
         "cca2": "PA",
         "cca3": "PAN",
@@ -124,24 +124,24 @@
             "woe_name": "Bocas del Toro"
         },
         "geo": {
-            "latitude": 9.340556,
-            "longitude": -82.240556,
-            "max_latitude": 9.453332,
-            "max_longitude": -82.2274304,
-            "min_latitude": 9.3292808,
-            "min_longitude": -82.3323584
+            "latitude": 8.537981,
+            "longitude": -80.782127,
+            "max_latitude": 9.6477792,
+            "max_longitude": -77.158488,
+            "min_latitude": 7.2035564,
+            "min_longitude": -83.0522411
         },
         "iso_3166_2": "PA-1",
         "iso_a2": "PA",
         "iso_a3": "PAN",
-        "name": "Bocas del Toro",
+        "name": "Comarca de San Blas",
         "postal": "1",
         "type": "Provincia",
         "type_en": "Province"
     },
     "2": {
         "alt_names": [
-            "Cocl\u00e9"
+            "Comarca de San Blas"
         ],
         "cca2": "PA",
         "cca3": "PAN",
@@ -264,24 +264,24 @@
             "woe_name": "Cocl\u00e9"
         },
         "geo": {
-            "latitude": 8.4001449,
-            "longitude": -80.4215246,
-            "max_latitude": 8.4878652,
-            "max_longitude": -80.3550767,
-            "min_latitude": 8.3281104,
-            "min_longitude": -80.482192
+            "latitude": 8.537981,
+            "longitude": -80.782127,
+            "max_latitude": 9.6477792,
+            "max_longitude": -77.158488,
+            "min_latitude": 7.2035564,
+            "min_longitude": -83.0522411
         },
         "iso_3166_2": "PA-2",
         "iso_a2": "PA",
         "iso_a3": "PAN",
-        "name": "Cocl\u00e9",
+        "name": "Comarca de San Blas",
         "postal": "2",
         "type": "Provincia",
         "type_en": "Province"
     },
     "3": {
         "alt_names": [
-            "Col\u00f3n"
+            "Comarca de San Blas"
         ],
         "cca2": "PA",
         "cca3": "PAN",
@@ -404,24 +404,24 @@
             "woe_name": "Col\u00f3n"
         },
         "geo": {
-            "latitude": 9.333333,
-            "longitude": -79.9,
-            "max_latitude": 9.4046939,
-            "max_longitude": -79.8310263,
-            "min_latitude": 9.2423303,
-            "min_longitude": -80.0446701
+            "latitude": 8.537981,
+            "longitude": -80.782127,
+            "max_latitude": 9.6477792,
+            "max_longitude": -77.158488,
+            "min_latitude": 7.2035564,
+            "min_longitude": -83.0522411
         },
         "iso_3166_2": "PA-3",
         "iso_a2": "PA",
         "iso_a3": "PAN",
-        "name": "Col\u00f3n",
+        "name": "Comarca de San Blas",
         "postal": "3",
         "type": "Provincia",
         "type_en": "Province"
     },
     "4": {
         "alt_names": [
-            "Chiriqu\u00ed"
+            "Comarca de San Blas"
         ],
         "cca2": "PA",
         "cca3": "PAN",
@@ -544,24 +544,24 @@
             "woe_name": "Chiriqu\u00ed"
         },
         "geo": {
-            "latitude": 8.3866964,
-            "longitude": -82.2800546,
-            "max_latitude": 8.4415651,
-            "max_longitude": -82.2074748,
-            "min_latitude": 8.2904865,
-            "min_longitude": -82.3967314
+            "latitude": 8.537981,
+            "longitude": -80.782127,
+            "max_latitude": 9.6477792,
+            "max_longitude": -77.158488,
+            "min_latitude": 7.2035564,
+            "min_longitude": -83.0522411
         },
         "iso_3166_2": "PA-4",
         "iso_a2": "PA",
         "iso_a3": "PAN",
-        "name": "Chiriqu\u00ed",
+        "name": "Comarca de San Blas",
         "postal": "4",
         "type": "Provincia",
         "type_en": "Province"
     },
     "5": {
         "alt_names": [
-            "Dari\u00e9n"
+            "Comarca de San Blas"
         ],
         "cca2": "PA",
         "cca3": "PAN",
@@ -684,24 +684,24 @@
             "woe_name": "Dari\u00e9n"
         },
         "geo": {
-            "latitude": 7.8681713,
-            "longitude": -77.8367282,
-            "max_latitude": 8.9348909,
-            "max_longitude": -77.17411,
-            "min_latitude": 7.2218656,
-            "min_longitude": -78.511646
+            "latitude": 8.537981,
+            "longitude": -80.782127,
+            "max_latitude": 9.6477792,
+            "max_longitude": -77.158488,
+            "min_latitude": 7.2035564,
+            "min_longitude": -83.0522411
         },
         "iso_3166_2": "PA-5",
         "iso_a2": "PA",
         "iso_a3": "PAN",
-        "name": "Dari\u00e9n",
+        "name": "Comarca de San Blas",
         "postal": "5",
         "type": "Provincia",
         "type_en": "Province"
     },
     "6": {
         "alt_names": [
-            "Herrera"
+            "Comarca de San Blas"
         ],
         "cca2": "PA",
         "cca3": "PAN",
@@ -824,24 +824,24 @@
             "woe_name": "Herrera"
         },
         "geo": {
-            "latitude": 7.7704282,
-            "longitude": -80.7214417,
-            "max_latitude": 8.131537,
-            "max_longitude": -80.3965529,
-            "min_latitude": 7.513487,
-            "min_longitude": -80.96242
+            "latitude": 8.537981,
+            "longitude": -80.782127,
+            "max_latitude": 9.6477792,
+            "max_longitude": -77.158488,
+            "min_latitude": 7.2035564,
+            "min_longitude": -83.0522411
         },
         "iso_3166_2": "PA-6",
         "iso_a2": "PA",
         "iso_a3": "PAN",
-        "name": "Herrera",
+        "name": "Comarca de San Blas",
         "postal": "6",
         "type": "Provincia",
         "type_en": "Province"
     },
     "7": {
         "alt_names": [
-            "Los Santos"
+            "Comarca de San Blas"
         ],
         "cca2": "PA",
         "cca3": "PAN",
@@ -964,24 +964,24 @@
             "woe_name": "Los Santos"
         },
         "geo": {
-            "latitude": 7.5909302,
-            "longitude": -80.365865,
-            "max_latitude": 8.000313,
-            "max_longitude": -79.9944531,
-            "min_latitude": 7.2297201,
-            "min_longitude": -80.734346
+            "latitude": 8.537981,
+            "longitude": -80.782127,
+            "max_latitude": 9.6477792,
+            "max_longitude": -77.158488,
+            "min_latitude": 7.2035564,
+            "min_longitude": -83.0522411
         },
         "iso_3166_2": "PA-7",
         "iso_a2": "PA",
         "iso_a3": "PAN",
-        "name": "Los Santos",
+        "name": "Comarca de San Blas",
         "postal": "7",
         "type": "Provincia",
         "type_en": "Province"
     },
     "8": {
         "alt_names": [
-            "Panam\u00e1"
+            "Comarca de San Blas"
         ],
         "cca2": "PA",
         "cca3": "PAN",
@@ -1104,24 +1104,24 @@
             "woe_name": "Panama"
         },
         "geo": {
-            "latitude": 8.983333,
-            "longitude": -79.516667,
-            "max_latitude": 9.2596966,
-            "max_longitude": -79.3068941,
-            "min_latitude": 8.906754,
-            "min_longitude": -79.5978646
+            "latitude": 8.537981,
+            "longitude": -80.782127,
+            "max_latitude": 9.6477792,
+            "max_longitude": -77.158488,
+            "min_latitude": 7.2035564,
+            "min_longitude": -83.0522411
         },
         "iso_3166_2": "PA-8",
         "iso_a2": "PA",
         "iso_a3": "PAN",
-        "name": "Panam\u00e1",
+        "name": "Comarca de San Blas",
         "postal": "8",
         "type": "Provincia",
         "type_en": "Province"
     },
     "9": {
         "alt_names": [
-            "Veraguas"
+            "Comarca de San Blas"
         ],
         "cca2": "PA",
         "cca3": "PAN",
@@ -1244,24 +1244,24 @@
             "woe_name": "Veraguas"
         },
         "geo": {
-            "latitude": 8.866667,
-            "longitude": -80.9,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 8.537981,
+            "longitude": -80.782127,
+            "max_latitude": 9.6477792,
+            "max_longitude": -77.158488,
+            "min_latitude": 7.2035564,
+            "min_longitude": -83.0522411
         },
         "iso_3166_2": "PA-9",
         "iso_a2": "PA",
         "iso_a3": "PAN",
-        "name": "Veraguas",
+        "name": "Comarca de San Blas",
         "postal": "9",
         "type": "Provincia",
         "type_en": "Province"
     },
     "EM": {
         "alt_names": [
-            "Ember\u00e1-Wounaan"
+            "Comarca de San Blas"
         ],
         "cca2": "PA",
         "cca3": "PAN",
@@ -1384,20 +1384,24 @@
             "woe_name": "Ember\u00e1"
         },
         "geo": {
-            "latitude": "7.8601300000",
-            "longitude": "-78.1396000000"
+            "latitude": 8.537981,
+            "longitude": -80.782127,
+            "max_latitude": 9.6477792,
+            "max_longitude": -77.158488,
+            "min_latitude": 7.2035564,
+            "min_longitude": -83.0522411
         },
         "iso_3166_2": "PA-EM",
         "iso_a2": "PA",
         "iso_a3": "PAN",
-        "name": "Ember\u00e1",
+        "name": "Comarca de San Blas",
         "postal": "EM",
         "type": "Comarca Ind\u00edgena",
         "type_en": "Indigenous Territory"
     },
     "KY": {
         "alt_names": [
-            ""
+            "Comarca de San Blas"
         ],
         "cca2": "PA",
         "cca3": "PAN",
@@ -1520,20 +1524,24 @@
             "woe_name": "Kuna Yala"
         },
         "geo": {
-            "latitude": "9.2826900000",
-            "longitude": "-78.3273000000"
+            "latitude": 8.537981,
+            "longitude": -80.782127,
+            "max_latitude": 9.6477792,
+            "max_longitude": -77.158488,
+            "min_latitude": 7.2035564,
+            "min_longitude": -83.0522411
         },
         "iso_3166_2": "PA-KY",
         "iso_a2": "PA",
         "iso_a3": "PAN",
-        "name": "Kuna Yala",
+        "name": "Comarca de San Blas",
         "postal": "KY",
         "type": "Comarca Ind\u00edgena",
         "type_en": "Indigenous Territory"
     },
     "NB": {
         "alt_names": [
-            ""
+            "Comarca de San Blas"
         ],
         "cca2": "PA",
         "cca3": "PAN",
@@ -1656,13 +1664,17 @@
             "woe_name": "Ng\u00f6be Bugl\u00e9"
         },
         "geo": {
-            "latitude": "8.6800000000",
-            "longitude": "-81.7558000000"
+            "latitude": 8.537981,
+            "longitude": -80.782127,
+            "max_latitude": 9.6477792,
+            "max_longitude": -77.158488,
+            "min_latitude": 7.2035564,
+            "min_longitude": -83.0522411
         },
         "iso_3166_2": "PA-NB",
         "iso_a2": "PA",
         "iso_a3": "PAN",
-        "name": "Ng\u00f6be Bugl\u00e9",
+        "name": "Comarca de San Blas",
         "postal": "NB",
         "type": "Comarca Ind\u00edgena",
         "type_en": "Indigenous Territory"

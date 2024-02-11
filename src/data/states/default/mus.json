@@ -141,7 +141,7 @@
     },
     "BL": {
         "alt_names": [
-            "Black River"
+            "Agalega Islands"
         ],
         "cca2": "MU",
         "cca3": "MUS",
@@ -264,24 +264,24 @@
             "woe_name": "Black River"
         },
         "geo": {
-            "latitude": -20.34756,
-            "longitude": 57.3651898,
-            "max_latitude": -20.3339857,
-            "max_longitude": 57.3702022,
-            "min_latitude": -20.3596977,
-            "min_longitude": 57.3608296
+            "latitude": -10.4681988,
+            "longitude": 56.690672,
+            "max_latitude": -10.343819,
+            "max_longitude": 56.7038727,
+            "min_latitude": -10.4908943,
+            "min_longitude": 56.586134
         },
         "iso_3166_2": "MU-BL",
         "iso_a2": "MU",
         "iso_a3": "MUS",
-        "name": "Black River",
+        "name": "Agalega Islands",
         "postal": "BL",
         "type": "District",
         "type_en": "District"
     },
     "BR": {
         "alt_names": [
-            "Beau Bassin-Rose Hill"
+            "Agalega Islands"
         ],
         "cca2": "MU",
         "cca3": "MUS",
@@ -404,24 +404,24 @@
             "woe_name": "Beau Bassin"
         },
         "geo": {
-            "latitude": -20.239806,
-            "longitude": 57.471694,
-            "max_latitude": -20.1898941,
-            "max_longitude": 57.4802459,
-            "min_latitude": -20.2644097,
-            "min_longitude": 57.4477159
+            "latitude": -10.4681988,
+            "longitude": 56.690672,
+            "max_latitude": -10.343819,
+            "max_longitude": 56.7038727,
+            "min_latitude": -10.4908943,
+            "min_longitude": 56.586134
         },
         "iso_3166_2": "MU-BR",
         "iso_a2": "MU",
         "iso_a3": "MUS",
-        "name": "Beau Bassin-Rose Hill",
+        "name": "Agalega Islands",
         "postal": "BR",
         "type": "City",
         "type_en": "City"
     },
     "CU": {
         "alt_names": [
-            "Curepipe"
+            "Agalega Islands"
         ],
         "cca2": "MU",
         "cca3": "MUS",
@@ -544,24 +544,24 @@
             "woe_name": "Curepipe (2)"
         },
         "geo": {
-            "latitude": -20.3170872,
-            "longitude": 57.5265289,
-            "max_latitude": -20.2971679,
-            "max_longitude": 57.5484643,
-            "min_latitude": -20.3392349,
-            "min_longitude": 57.4977753
+            "latitude": -10.4681988,
+            "longitude": 56.690672,
+            "max_latitude": -10.343819,
+            "max_longitude": 56.7038727,
+            "min_latitude": -10.4908943,
+            "min_longitude": 56.586134
         },
         "iso_3166_2": "MU-CU",
         "iso_a2": "MU",
         "iso_a3": "MUS",
-        "name": "Curepipe",
+        "name": "Agalega Islands",
         "postal": "CU",
         "type": "City",
         "type_en": "City"
     },
     "FL": {
         "alt_names": [
-            "Flacq"
+            "Agalega Islands"
         ],
         "cca2": "MU",
         "cca3": "MUS",
@@ -684,24 +684,24 @@
             "woe_name": "Flacq"
         },
         "geo": {
-            "latitude": -20.2257836,
-            "longitude": 57.7119274,
-            "max_latitude": -20.107765,
-            "max_longitude": 57.800854,
-            "min_latitude": -20.3324041,
-            "min_longitude": 57.6163211
+            "latitude": -10.4681988,
+            "longitude": 56.690672,
+            "max_latitude": -10.343819,
+            "max_longitude": 56.7038727,
+            "min_latitude": -10.4908943,
+            "min_longitude": 56.586134
         },
         "iso_3166_2": "MU-FL",
         "iso_a2": "MU",
         "iso_a3": "MUS",
-        "name": "Flacq",
+        "name": "Agalega Islands",
         "postal": "FL",
         "type": "District",
         "type_en": "District"
     },
     "GP": {
         "alt_names": [
-            "Grand Port"
+            "Agalega Islands"
         ],
         "cca2": "MU",
         "cca3": "MUS",
@@ -824,24 +824,24 @@
             "woe_name": "Grand Port"
         },
         "geo": {
-            "latitude": -20.3851546,
-            "longitude": 57.6665742,
-            "max_latitude": -20.313135,
-            "max_longitude": 57.7763398,
-            "min_latitude": -20.4977424,
-            "min_longitude": 57.520995
+            "latitude": -10.4681988,
+            "longitude": 56.690672,
+            "max_latitude": -10.343819,
+            "max_longitude": 56.7038727,
+            "min_latitude": -10.4908943,
+            "min_longitude": 56.586134
         },
         "iso_3166_2": "MU-GP",
         "iso_a2": "MU",
         "iso_a3": "MUS",
-        "name": "Grand Port",
+        "name": "Agalega Islands",
         "postal": "GP",
         "type": "District",
         "type_en": "District"
     },
     "MO": {
         "alt_names": [
-            "Moka"
+            "Agalega Islands"
         ],
         "cca2": "MU",
         "cca3": "MUS",
@@ -964,24 +964,24 @@
             "woe_name": "Moka"
         },
         "geo": {
-            "latitude": -20.219,
-            "longitude": 57.496,
-            "max_latitude": -20.2121464,
-            "max_longitude": 57.5370847,
-            "min_latitude": -20.2391669,
-            "min_longitude": 57.480812
+            "latitude": -10.4681988,
+            "longitude": 56.690672,
+            "max_latitude": -10.343819,
+            "max_longitude": 56.7038727,
+            "min_latitude": -10.4908943,
+            "min_longitude": 56.586134
         },
         "iso_3166_2": "MU-MO",
         "iso_a2": "MU",
         "iso_a3": "MUS",
-        "name": "Moka",
+        "name": "Agalega Islands",
         "postal": "MO",
         "type": "District",
         "type_en": "District"
     },
     "PA": {
         "alt_names": [
-            "Pamplemousses"
+            "Agalega Islands"
         ],
         "cca2": "MU",
         "cca3": "MUS",
@@ -1104,24 +1104,24 @@
             "woe_name": "Pamplemousses"
         },
         "geo": {
-            "latitude": -20.116667,
-            "longitude": 57.583333,
-            "max_latitude": -20.0948687,
-            "max_longitude": 57.5956103,
-            "min_latitude": -20.1210344,
-            "min_longitude": 57.5670416
+            "latitude": -10.4681988,
+            "longitude": 56.690672,
+            "max_latitude": -10.343819,
+            "max_longitude": 56.7038727,
+            "min_latitude": -10.4908943,
+            "min_longitude": 56.586134
         },
         "iso_3166_2": "MU-PA",
         "iso_a2": "MU",
         "iso_a3": "MUS",
-        "name": "Pamplemousses",
+        "name": "Agalega Islands",
         "postal": "PA",
         "type": "District",
         "type_en": "District"
     },
     "PL": {
         "alt_names": [
-            "Port Louis City"
+            "Agalega Islands"
         ],
         "cca2": "MU",
         "cca3": "MUS",
@@ -1244,24 +1244,24 @@
             "woe_name": "Port Louis"
         },
         "geo": {
-            "latitude": -20.166667,
-            "longitude": 57.516667,
-            "max_latitude": -20.124287,
-            "max_longitude": 57.5659989,
-            "min_latitude": -20.2016751,
-            "min_longitude": 57.4276876
+            "latitude": -10.4681988,
+            "longitude": 56.690672,
+            "max_latitude": -10.343819,
+            "max_longitude": 56.7038727,
+            "min_latitude": -10.4908943,
+            "min_longitude": 56.586134
         },
         "iso_3166_2": "MU-PL",
         "iso_a2": "MU",
         "iso_a3": "MUS",
-        "name": "Port Louis City",
+        "name": "Agalega Islands",
         "postal": "PL",
         "type": "City",
         "type_en": "City"
     },
     "PW": {
         "alt_names": [
-            "Plaines Wilhems"
+            "Agalega Islands"
         ],
         "cca2": "MU",
         "cca3": "MUS",
@@ -1384,24 +1384,24 @@
             "woe_name": "Plaines Wilhems"
         },
         "geo": {
-            "latitude": -20.3054872,
-            "longitude": 57.4853561,
-            "max_latitude": -20.187828,
-            "max_longitude": 57.5981641,
-            "min_latitude": -20.4237189,
-            "min_longitude": 57.437775
+            "latitude": -10.4681988,
+            "longitude": 56.690672,
+            "max_latitude": -10.343819,
+            "max_longitude": 56.7038727,
+            "min_latitude": -10.4908943,
+            "min_longitude": 56.586134
         },
         "iso_3166_2": "MU-PW",
         "iso_a2": "MU",
         "iso_a3": "MUS",
-        "name": "Plaines Wilhems",
+        "name": "Agalega Islands",
         "postal": "PW",
         "type": "District",
         "type_en": "District"
     },
     "QB": {
         "alt_names": [
-            "Quatre Bornes"
+            "Agalega Islands"
         ],
         "cca2": "MU",
         "cca3": "MUS",
@@ -1524,24 +1524,24 @@
             "woe_name": "Quatre Bornes"
         },
         "geo": {
-            "latitude": -20.265358,
-            "longitude": 57.479053,
-            "max_latitude": -20.2386383,
-            "max_longitude": 57.5246287,
-            "min_latitude": -20.3044439,
-            "min_longitude": 57.4409653
+            "latitude": -10.4681988,
+            "longitude": 56.690672,
+            "max_latitude": -10.343819,
+            "max_longitude": 56.7038727,
+            "min_latitude": -10.4908943,
+            "min_longitude": 56.586134
         },
         "iso_3166_2": "MU-QB",
         "iso_a2": "MU",
         "iso_a3": "MUS",
-        "name": "Quatre Bornes",
+        "name": "Agalega Islands",
         "postal": "QB",
         "type": "City",
         "type_en": "City"
     },
     "RO": {
         "alt_names": [
-            "Rodrigues Island"
+            "Agalega Islands"
         ],
         "cca2": "MU",
         "cca3": "MUS",
@@ -1664,24 +1664,24 @@
             "woe_name": "Rodrigues"
         },
         "geo": {
-            "latitude": -19.7245385,
-            "longitude": 63.4272185,
-            "max_latitude": -19.6657049,
-            "max_longitude": 63.5035945,
-            "min_latitude": -19.7743364,
-            "min_longitude": 63.328886
+            "latitude": -10.4681988,
+            "longitude": 56.690672,
+            "max_latitude": -10.343819,
+            "max_longitude": 56.7038727,
+            "min_latitude": -10.4908943,
+            "min_longitude": 56.586134
         },
         "iso_3166_2": "MU-RO",
         "iso_a2": "MU",
         "iso_a3": "MUS",
-        "name": "Rodrigues Island",
+        "name": "Agalega Islands",
         "postal": "RO",
         "type": "Dependency",
         "type_en": "Dependency"
     },
     "RR": {
         "alt_names": [
-            "Rivi\u00e8re du Rempart"
+            "Agalega Islands"
         ],
         "cca2": "MU",
         "cca3": "MUS",
@@ -1804,24 +1804,24 @@
             "woe_name": "Riviere du Rempart"
         },
         "geo": {
-            "latitude": -20.0905351,
-            "longitude": 57.6949177,
-            "max_latitude": -20.0736276,
-            "max_longitude": 57.7115289,
-            "min_latitude": -20.1159055,
-            "min_longitude": 57.6779652
+            "latitude": -10.4681988,
+            "longitude": 56.690672,
+            "max_latitude": -10.343819,
+            "max_longitude": 56.7038727,
+            "min_latitude": -10.4908943,
+            "min_longitude": 56.586134
         },
         "iso_3166_2": "MU-RR",
         "iso_a2": "MU",
         "iso_a3": "MUS",
-        "name": "Rivi\u00e8re du Rempart",
+        "name": "Agalega Islands",
         "postal": "RR",
         "type": "District",
         "type_en": "District"
     },
     "SA": {
         "alt_names": [
-            "Savanne"
+            "Agalega Islands"
         ],
         "cca2": "MU",
         "cca3": "MUS",
@@ -1944,24 +1944,24 @@
             "woe_name": "Savanne"
         },
         "geo": {
-            "latitude": -20.473953,
-            "longitude": 57.4853561,
-            "max_latitude": -20.396972,
-            "max_longitude": 57.6193767,
-            "min_latitude": -20.5254986,
-            "min_longitude": 57.3708685
+            "latitude": -10.4681988,
+            "longitude": 56.690672,
+            "max_latitude": -10.343819,
+            "max_longitude": 56.7038727,
+            "min_latitude": -10.4908943,
+            "min_longitude": 56.586134
         },
         "iso_3166_2": "MU-SA",
         "iso_a2": "MU",
         "iso_a3": "MUS",
-        "name": "Savanne",
+        "name": "Agalega Islands",
         "postal": "SA",
         "type": "District",
         "type_en": "District"
     },
     "VP": {
         "alt_names": [
-            "Vacoas-Phoenix"
+            "Agalega Islands"
         ],
         "cca2": "MU",
         "cca3": "MUS",
@@ -2084,17 +2084,17 @@
             "woe_name": "Vacoas"
         },
         "geo": {
-            "latitude": -20.300047,
-            "longitude": 57.474508,
-            "max_latitude": -20.2580787,
-            "max_longitude": 57.5513649,
-            "min_latitude": -20.3481117,
-            "min_longitude": 57.4674004
+            "latitude": -10.4681988,
+            "longitude": 56.690672,
+            "max_latitude": -10.343819,
+            "max_longitude": 56.7038727,
+            "min_latitude": -10.4908943,
+            "min_longitude": 56.586134
         },
         "iso_3166_2": "MU-VP",
         "iso_a2": "MU",
         "iso_a3": "MUS",
-        "name": "Vacoas-Phoenix",
+        "name": "Agalega Islands",
         "postal": "VP",
         "type": "City",
         "type_en": "City"

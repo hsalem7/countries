@@ -141,7 +141,7 @@
     },
     "HA": {
         "alt_names": [
-            "Harare"
+            "Bulawayo"
         ],
         "cca2": "ZW",
         "cca3": "ZWE",
@@ -264,24 +264,24 @@
             "woe_name": "Harare"
         },
         "geo": {
-            "latitude": -17.863889,
-            "longitude": 31.029722,
-            "max_latitude": -17.6775542,
-            "max_longitude": 31.2246813,
-            "min_latitude": -17.955721,
-            "min_longitude": 30.8890352
+            "latitude": -20.1325066,
+            "longitude": 28.626479,
+            "max_latitude": -19.9920628,
+            "max_longitude": 28.7632372,
+            "min_latitude": -20.2712278,
+            "min_longitude": 28.4270096
         },
         "iso_3166_2": "ZW-HA",
         "iso_a2": "ZW",
         "iso_a3": "ZWE",
-        "name": "Harare",
+        "name": "Bulawayo",
         "postal": "HA",
         "type": "City",
         "type_en": "City"
     },
     "MA": {
         "alt_names": [
-            "Manicaland"
+            "Bulawayo"
         ],
         "cca2": "ZW",
         "cca3": "ZWE",
@@ -404,24 +404,24 @@
             "woe_name": "Manicaland"
         },
         "geo": {
-            "latitude": -18.9216386,
-            "longitude": 32.174605,
-            "max_latitude": -17.250581,
-            "max_longitude": 33.0563049,
-            "min_latitude": -21.328112,
-            "min_longitude": 31.233463
+            "latitude": -20.1325066,
+            "longitude": 28.626479,
+            "max_latitude": -19.9920628,
+            "max_longitude": 28.7632372,
+            "min_latitude": -20.2712278,
+            "min_longitude": 28.4270096
         },
         "iso_3166_2": "ZW-MA",
         "iso_a2": "ZW",
         "iso_a3": "ZWE",
-        "name": "Manicaland",
+        "name": "Bulawayo",
         "postal": "MA",
         "type": "Province",
         "type_en": "Province"
     },
     "MC": {
         "alt_names": [
-            "Mashonaland Central"
+            "Bulawayo"
         ],
         "cca2": "ZW",
         "cca3": "ZWE",
@@ -544,24 +544,24 @@
             "woe_name": "Mashonaland Central"
         },
         "geo": {
-            "latitude": -16.7644295,
-            "longitude": 31.0793705,
-            "max_latitude": -15.617567,
-            "max_longitude": 32.7613351,
-            "min_latitude": -17.744136,
-            "min_longitude": 30.048639
+            "latitude": -20.1325066,
+            "longitude": 28.626479,
+            "max_latitude": -19.9920628,
+            "max_longitude": 28.7632372,
+            "min_latitude": -20.2712278,
+            "min_longitude": 28.4270096
         },
         "iso_3166_2": "ZW-MC",
         "iso_a2": "ZW",
         "iso_a3": "ZWE",
-        "name": "Mashonaland Central",
+        "name": "Bulawayo",
         "postal": "MC",
         "type": "Province",
         "type_en": "Province"
     },
     "ME": {
         "alt_names": [
-            "Mashonaland East"
+            "Bulawayo"
         ],
         "cca2": "ZW",
         "cca3": "ZWE",
@@ -684,24 +684,24 @@
             "woe_name": "Mashonaland East"
         },
         "geo": {
-            "latitude": -18.5871642,
-            "longitude": 31.2626366,
-            "max_latitude": -16.6989399,
-            "max_longitude": 32.9946659,
-            "min_latitude": -19.2712461,
-            "min_longitude": 30.485893
+            "latitude": -20.1325066,
+            "longitude": 28.626479,
+            "max_latitude": -19.9920628,
+            "max_longitude": 28.7632372,
+            "min_latitude": -20.2712278,
+            "min_longitude": 28.4270096
         },
         "iso_3166_2": "ZW-ME",
         "iso_a2": "ZW",
         "iso_a3": "ZWE",
-        "name": "Mashonaland East",
+        "name": "Bulawayo",
         "postal": "ME",
         "type": "Province",
         "type_en": "Province"
     },
     "MI": {
         "alt_names": [
-            "Midlands"
+            "Bulawayo"
         ],
         "cca2": "ZW",
         "cca3": "ZWE",
@@ -824,24 +824,24 @@
             "woe_name": "Midlands"
         },
         "geo": {
-            "latitude": -19.0552009,
-            "longitude": 29.6035495,
-            "max_latitude": -17.132798,
-            "max_longitude": 30.8542231,
-            "min_latitude": -21.045869,
-            "min_longitude": 27.989973
+            "latitude": -20.1325066,
+            "longitude": 28.626479,
+            "max_latitude": -19.9920628,
+            "max_longitude": 28.7632372,
+            "min_latitude": -20.2712278,
+            "min_longitude": 28.4270096
         },
         "iso_3166_2": "ZW-MI",
         "iso_a2": "ZW",
         "iso_a3": "ZWE",
-        "name": "Midlands",
+        "name": "Bulawayo",
         "postal": "MI",
         "type": "Province",
         "type_en": "Province"
     },
     "MN": {
         "alt_names": [
-            "Matabeleland North"
+            "Bulawayo"
         ],
         "cca2": "ZW",
         "cca3": "ZWE",
@@ -964,24 +964,24 @@
             "woe_name": "Matabeleland North"
         },
         "geo": {
-            "latitude": -18.5331566,
-            "longitude": 27.5495846,
-            "max_latitude": -17.0204861,
-            "max_longitude": 29.2292519,
-            "min_latitude": -20.343325,
-            "min_longitude": 25.237028
+            "latitude": -20.1325066,
+            "longitude": 28.626479,
+            "max_latitude": -19.9920628,
+            "max_longitude": 28.7632372,
+            "min_latitude": -20.2712278,
+            "min_longitude": 28.4270096
         },
         "iso_3166_2": "ZW-MN",
         "iso_a2": "ZW",
         "iso_a3": "ZWE",
-        "name": "Matabeleland North",
+        "name": "Bulawayo",
         "postal": "MN",
         "type": "Province",
         "type_en": "Province"
     },
     "MS": {
         "alt_names": [
-            "Matabeleland South"
+            "Bulawayo"
         ],
         "cca2": "ZW",
         "cca3": "ZWE",
@@ -1104,24 +1104,24 @@
             "woe_name": "Matabeleland South"
         },
         "geo": {
-            "latitude": -21.052337,
-            "longitude": 29.0459927,
-            "max_latitude": -19.48262,
-            "max_longitude": 31.1148949,
-            "min_latitude": -22.351074,
-            "min_longitude": 26.6982439
+            "latitude": -20.1325066,
+            "longitude": 28.626479,
+            "max_latitude": -19.9920628,
+            "max_longitude": 28.7632372,
+            "min_latitude": -20.2712278,
+            "min_longitude": 28.4270096
         },
         "iso_3166_2": "ZW-MS",
         "iso_a2": "ZW",
         "iso_a3": "ZWE",
-        "name": "Matabeleland South",
+        "name": "Bulawayo",
         "postal": "MS",
         "type": "Province",
         "type_en": "Province"
     },
     "MV": {
         "alt_names": [
-            "Masvingo"
+            "Bulawayo"
         ],
         "cca2": "ZW",
         "cca3": "ZWE",
@@ -1244,24 +1244,24 @@
             "woe_name": "Masvingo"
         },
         "geo": {
-            "latitude": -20.074444,
-            "longitude": 30.832778,
-            "max_latitude": -20.0377179,
-            "max_longitude": 30.8674177,
-            "min_latitude": -20.1076843,
-            "min_longitude": 30.7932604
+            "latitude": -20.1325066,
+            "longitude": 28.626479,
+            "max_latitude": -19.9920628,
+            "max_longitude": 28.7632372,
+            "min_latitude": -20.2712278,
+            "min_longitude": 28.4270096
         },
         "iso_3166_2": "ZW-MV",
         "iso_a2": "ZW",
         "iso_a3": "ZWE",
-        "name": "Masvingo",
+        "name": "Bulawayo",
         "postal": "MV",
         "type": "Province",
         "type_en": "Province"
     },
     "MW": {
         "alt_names": [
-            "Mashonaland West"
+            "Bulawayo"
         ],
         "cca2": "ZW",
         "cca3": "ZWE",
@@ -1384,17 +1384,17 @@
             "woe_name": "Mashonaland West"
         },
         "geo": {
-            "latitude": -17.4851029,
-            "longitude": 29.7889248,
-            "max_latitude": -15.6088341,
-            "max_longitude": 30.993064,
-            "min_latitude": -18.902802,
-            "min_longitude": 28.026284
+            "latitude": -20.1325066,
+            "longitude": 28.626479,
+            "max_latitude": -19.9920628,
+            "max_longitude": 28.7632372,
+            "min_latitude": -20.2712278,
+            "min_longitude": 28.4270096
         },
         "iso_3166_2": "ZW-MW",
         "iso_a2": "ZW",
         "iso_a3": "ZWE",
-        "name": "Mashonaland West",
+        "name": "Bulawayo",
         "postal": "MW",
         "type": "Province",
         "type_en": "Province"

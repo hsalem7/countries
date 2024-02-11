@@ -143,7 +143,9 @@
     },
     "11": {
         "alt_names": [
-            "Samut Prakan"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -266,24 +268,26 @@
             "woe_name": "Samut Prakan"
         },
         "geo": {
-            "latitude": 13.5990961,
-            "longitude": 100.5998319,
-            "max_latitude": 13.7169169,
-            "max_longitude": 100.9639206,
-            "min_latitude": 13.4793403,
-            "min_longitude": 100.4444578
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-11",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Samut Prakan",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "11",
         "type": "Changwat",
         "type_en": "Province"
     },
     "12": {
         "alt_names": [
-            "Nonthaburi"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -406,24 +410,26 @@
             "woe_name": "Nonthaburi"
         },
         "geo": {
-            "latitude": 13.8621125,
-            "longitude": 100.5143528,
-            "max_latitude": 14.1403089,
-            "max_longitude": 100.5677219,
-            "min_latitude": 13.7888688,
-            "min_longitude": 100.2623644
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-12",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Nonthaburi",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "12",
         "type": "Changwat",
         "type_en": "Province"
     },
     "13": {
         "alt_names": [
-            "Pathum Thani"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -546,24 +552,26 @@
             "woe_name": "Pathum Thani"
         },
         "geo": {
-            "latitude": 14.0208391,
-            "longitude": 100.5250276,
-            "max_latitude": 14.2759685,
-            "max_longitude": 100.9520247,
-            "min_latitude": 13.9161577,
-            "min_longitude": 100.3316202
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-13",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Pathum Thani",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "13",
         "type": "Changwat",
         "type_en": "Province"
     },
     "14": {
         "alt_names": [
-            "Phra Nakhon Si Ayutthaya"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -686,24 +694,26 @@
             "woe_name": "Phra Nakhon Si Ayutthaya"
         },
         "geo": {
-            "latitude": 14.3532128,
-            "longitude": 100.5689599,
-            "max_latitude": 14.6755751,
-            "max_longitude": 100.8232816,
-            "min_latitude": 14.1105626,
-            "min_longitude": 100.2126958
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-14",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Phra Nakhon Si Ayutthaya",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "14",
         "type": "Changwat",
         "type_en": "Province"
     },
     "15": {
         "alt_names": [
-            "Ang Thong"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -826,24 +836,26 @@
             "woe_name": "Ang Thong"
         },
         "geo": {
-            "latitude": 14.5896054,
-            "longitude": 100.455052,
-            "max_latitude": 14.802408,
-            "max_longitude": 100.5163315,
-            "min_latitude": 14.438901,
-            "min_longitude": 100.1877062
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-15",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Ang Thong",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "15",
         "type": "Changwat",
         "type_en": "Province"
     },
     "16": {
         "alt_names": [
-            "Lop Buri"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -966,24 +978,26 @@
             "woe_name": "Lop Buri"
         },
         "geo": {
-            "latitude": 14.7995081,
-            "longitude": 100.6533706,
-            "max_latitude": 15.7481383,
-            "max_longitude": 101.4136046,
-            "min_latitude": 14.6550888,
-            "min_longitude": 100.4293391
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-16",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Lop Buri",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "16",
         "type": "Changwat",
         "type_en": "Province"
     },
     "17": {
         "alt_names": [
-            "Sing Buri"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -1106,26 +1120,26 @@
             "woe_name": "Sing Buri"
         },
         "geo": {
-            "latitude": 14.8936253,
-            "longitude": 100.3967314,
-            "max_latitude": 15.1182942,
-            "max_longitude": 100.4882162,
-            "min_latitude": 14.7149053,
-            "min_longitude": 100.1814679
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-17",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Sing Buri",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "17",
         "type": "Changwat",
         "type_en": "Province"
     },
     "18": {
         "alt_names": [
-            "Chainat",
-            "Jainat",
-            "Jayanath"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -1248,24 +1262,26 @@
             "woe_name": "Chai Nat"
         },
         "geo": {
-            "latitude": 15.1252422,
-            "longitude": 100.1423172,
-            "max_latitude": 15.1659048,
-            "max_longitude": 100.1771848,
-            "min_latitude": 15.0934621,
-            "min_longitude": 100.1184262
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-18",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Chai Nat",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "18",
         "type": "Changwat",
         "type_en": "Province"
     },
     "19": {
         "alt_names": [
-            "Saraburi"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -1388,24 +1404,26 @@
             "woe_name": "Saraburi"
         },
         "geo": {
-            "latitude": 14.5289154,
-            "longitude": 100.9101421,
-            "max_latitude": 15.045331,
-            "max_longitude": 101.4545122,
-            "min_latitude": 14.2430606,
-            "min_longitude": 100.5748146
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-19",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Saraburi",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "19",
         "type": "Changwat",
         "type_en": "Province"
     },
     "20": {
         "alt_names": [
-            "Chon Buri"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -1528,24 +1546,26 @@
             "woe_name": "Chon Buri"
         },
         "geo": {
-            "latitude": 13.3611431,
-            "longitude": 100.9846717,
-            "max_latitude": 13.5893563,
-            "max_longitude": 101.7168862,
-            "min_latitude": 12.5086995,
-            "min_longitude": 100.6470747
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-20",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Chon Buri",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "20",
         "type": "Changwat",
         "type_en": "Province"
     },
     "21": {
         "alt_names": [
-            "Rayong"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -1668,24 +1688,26 @@
             "woe_name": "Rayong"
         },
         "geo": {
-            "latitude": 12.707434,
-            "longitude": 101.1473517,
-            "max_latitude": 13.163471,
-            "max_longitude": 101.8312551,
-            "min_latitude": 12.5130282,
-            "min_longitude": 100.984673
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-21",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Rayong",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "21",
         "type": "Changwat",
         "type_en": "Province"
     },
     "22": {
         "alt_names": [
-            "Chanthaburi"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -1808,24 +1830,26 @@
             "woe_name": "Chanthaburi"
         },
         "geo": {
-            "latitude": 12.6112485,
-            "longitude": 102.1037806,
-            "max_latitude": 12.6218309,
-            "max_longitude": 102.1175623,
-            "min_latitude": 12.5818304,
-            "min_longitude": 102.0659321
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-22",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Chanthaburi",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "22",
         "type": "Changwat",
         "type_en": "Province"
     },
     "23": {
         "alt_names": [
-            "Trat"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -1948,24 +1972,26 @@
             "woe_name": "Trat"
         },
         "geo": {
-            "latitude": 12.2427563,
-            "longitude": 102.5174734,
-            "max_latitude": 12.7582072,
-            "max_longitude": 102.9151464,
-            "min_latitude": 11.5617527,
-            "min_longitude": 102.2355769
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-23",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Trat",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "23",
         "type": "Changwat",
         "type_en": "Province"
     },
     "24": {
         "alt_names": [
-            "Chachoengsao"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -2088,24 +2114,26 @@
             "woe_name": "Chachoengsao"
         },
         "geo": {
-            "latitude": 13.6904194,
-            "longitude": 101.0779596,
-            "max_latitude": 13.976755,
-            "max_longitude": 101.9902707,
-            "min_latitude": 13.1786652,
-            "min_longitude": 100.8489619
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-24",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Chachoengsao",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "24",
         "type": "Changwat",
         "type_en": "Province"
     },
     "25": {
         "alt_names": [
-            "Prachin Buri"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -2228,24 +2256,26 @@
             "woe_name": "Prachin Buri"
         },
         "geo": {
-            "latitude": 14.0420699,
-            "longitude": 101.6600874,
-            "max_latitude": 14.4625612,
-            "max_longitude": 102.1060804,
-            "min_latitude": 13.5823122,
-            "min_longitude": 101.137452
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-25",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Prachin Buri",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "25",
         "type": "Changwat",
         "type_en": "Province"
     },
     "26": {
         "alt_names": [
-            "Nakhon Nayok"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -2368,24 +2398,26 @@
             "woe_name": "Nakhon Nayok"
         },
         "geo": {
-            "latitude": 14.2038387,
-            "longitude": 101.2268773,
-            "max_latitude": 14.210597,
-            "max_longitude": 101.2307342,
-            "min_latitude": 14.1934153,
-            "min_longitude": 101.2067585
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-26",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Nakhon Nayok",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "26",
         "type": "Changwat",
         "type_en": "Province"
     },
     "27": {
         "alt_names": [
-            "Sa Kaeo"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -2508,24 +2540,26 @@
             "woe_name": "Sa Kaeo"
         },
         "geo": {
-            "latitude": 13.8240407,
-            "longitude": 102.0645821,
-            "max_latitude": 13.8665771,
-            "max_longitude": 102.1392174,
-            "min_latitude": 13.7347952,
-            "min_longitude": 102.0167527
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-27",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Sa Kaeo",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "27",
         "type": "Changwat",
         "type_en": "Province"
     },
     "30": {
         "alt_names": [
-            "Nakhon Ratchasima"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -2648,24 +2682,26 @@
             "woe_name": "Nakhon Ratchasima"
         },
         "geo": {
-            "latitude": 14.9798997,
-            "longitude": 102.0977693,
-            "max_latitude": 15.8096069,
-            "max_longitude": 103.0125791,
-            "min_latitude": 14.1206849,
-            "min_longitude": 101.180731
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-30",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Nakhon Ratchasima",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "30",
         "type": "Changwat",
         "type_en": "Province"
     },
     "31": {
         "alt_names": [
-            "Buri Ram"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -2788,24 +2824,26 @@
             "woe_name": "Buri Ram"
         },
         "geo": {
-            "latitude": 14.9930017,
-            "longitude": 103.1029191,
-            "max_latitude": 15.7956564,
-            "max_longitude": 103.5050278,
-            "min_latitude": 14.1307677,
-            "min_longitude": 102.4323873
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-31",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Buri Ram",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "31",
         "type": "Changwat",
         "type_en": "Province"
     },
     "32": {
         "alt_names": [
-            "Surin"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -2928,24 +2966,26 @@
             "woe_name": "Surin"
         },
         "geo": {
-            "latitude": 14.882905,
-            "longitude": 103.4937107,
-            "max_latitude": 15.4828457,
-            "max_longitude": 104.0918941,
-            "min_latitude": 14.3289551,
-            "min_longitude": 103.0892664
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-32",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Surin",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "32",
         "type": "Changwat",
         "type_en": "Province"
     },
     "33": {
         "alt_names": [
-            "Si Sa Ket"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -3068,24 +3108,26 @@
             "woe_name": "Si Sa Ket"
         },
         "geo": {
-            "latitude": 15.1186009,
-            "longitude": 104.3220095,
-            "max_latitude": 15.5683691,
-            "max_longitude": 104.9076399,
-            "min_latitude": 14.3422348,
-            "min_longitude": 103.9019555
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-33",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Si Sa Ket",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "33",
         "type": "Changwat",
         "type_en": "Province"
     },
     "34": {
         "alt_names": [
-            "Ubon Ratchathani"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -3208,24 +3250,26 @@
             "woe_name": "Ubon Ratchathani"
         },
         "geo": {
-            "latitude": 15.2286861,
-            "longitude": 104.8564217,
-            "max_latitude": 16.0980447,
-            "max_longitude": 105.6361068,
-            "min_latitude": 14.2095638,
-            "min_longitude": 104.3716245
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-34",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Ubon Ratchathani",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "34",
         "type": "Changwat",
         "type_en": "Province"
     },
     "35": {
         "alt_names": [
-            "Yasothon"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -3348,24 +3392,26 @@
             "woe_name": "Yasothon"
         },
         "geo": {
-            "latitude": 15.792641,
-            "longitude": 104.1452827,
-            "max_latitude": 16.3487691,
-            "max_longitude": 104.8249267,
-            "min_latitude": 15.289189,
-            "min_longitude": 103.9974997
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-35",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Yasothon",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "35",
         "type": "Changwat",
         "type_en": "Province"
     },
     "36": {
         "alt_names": [
-            "Chaiyaphum"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -3488,24 +3534,26 @@
             "woe_name": "Chaiyaphum"
         },
         "geo": {
-            "latitude": 15.8068173,
-            "longitude": 102.0315027,
-            "max_latitude": 16.7032031,
-            "max_longitude": 102.4598896,
-            "min_latitude": 15.3121548,
-            "min_longitude": 101.326297
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-36",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Chaiyaphum",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "36",
         "type": "Changwat",
         "type_en": "Province"
     },
     "37": {
         "alt_names": [
-            "Amnat Charoen"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -3628,24 +3676,26 @@
             "woe_name": "Amnat Charoen"
         },
         "geo": {
-            "latitude": 15.8656783,
-            "longitude": 104.6257774,
-            "max_latitude": 16.2843339,
-            "max_longitude": 105.0602077,
-            "min_latitude": 15.5371433,
-            "min_longitude": 104.4189022
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-37",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Amnat Charoen",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "37",
         "type": "Changwat",
         "type_en": "Province"
     },
     "38": {
         "alt_names": [
-            "\u0e1a\u0e36\u0e07\u0e01\u0e32\u0e2c"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -3768,20 +3818,26 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "18.1565000000",
-            "longitude": "103.7520000000"
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-38",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Bueng Kan",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "38",
         "type": "Changwat",
         "type_en": "Province"
     },
     "39": {
         "alt_names": [
-            "Nong Bua Lam Phu"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -3904,24 +3960,26 @@
             "woe_name": "Nong Bua Lam Phu"
         },
         "geo": {
-            "latitude": 17.2218247,
-            "longitude": 102.4260368,
-            "max_latitude": 17.676059,
-            "max_longitude": 102.6814234,
-            "min_latitude": 16.7782727,
-            "min_longitude": 101.983666
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-39",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Nong Bua Lam Phu",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "39",
         "type": "Changwat",
         "type_en": "Province"
     },
     "40": {
         "alt_names": [
-            "Khon Kaen"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -4044,24 +4102,26 @@
             "woe_name": "Khon Kaen"
         },
         "geo": {
-            "latitude": 16.4419355,
-            "longitude": 102.8359921,
-            "max_latitude": 17.094254,
-            "max_longitude": 103.1846,
-            "min_latitude": 15.6330732,
-            "min_longitude": 101.7500362
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-40",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Khon Kaen",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "40",
         "type": "Changwat",
         "type_en": "Province"
     },
     "41": {
         "alt_names": [
-            "Udon Thani"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -4184,24 +4244,26 @@
             "woe_name": "Udon Thani"
         },
         "geo": {
-            "latitude": 17.4138413,
-            "longitude": 102.7872325,
-            "max_latitude": 18.0863234,
-            "max_longitude": 103.6683832,
-            "min_latitude": 16.8083403,
-            "min_longitude": 102.0151634
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-41",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Udon Thani",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "41",
         "type": "Changwat",
         "type_en": "Province"
     },
     "42": {
         "alt_names": [
-            "Loei"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -4324,24 +4386,26 @@
             "woe_name": "Loei"
         },
         "geo": {
-            "latitude": 17.4860232,
-            "longitude": 101.7223002,
-            "max_latitude": 18.2198926,
-            "max_longitude": 102.1557095,
-            "min_latitude": 16.753525,
-            "min_longitude": 100.8329086
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-42",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Loei",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "42",
         "type": "Changwat",
         "type_en": "Province"
     },
     "43": {
         "alt_names": [
-            "Nong Khai"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -4464,24 +4528,26 @@
             "woe_name": "Nong Khai"
         },
         "geo": {
-            "latitude": 17.8782803,
-            "longitude": 102.7412638,
-            "max_latitude": 18.3030927,
-            "max_longitude": 103.4176285,
-            "min_latitude": 17.593637,
-            "min_longitude": 102.0543704
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-43",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Nong Khai",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "43",
         "type": "Changwat",
         "type_en": "Province"
     },
     "44": {
         "alt_names": [
-            "Maha Sarakham"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -4604,24 +4670,26 @@
             "woe_name": "Maha Sarakham"
         },
         "geo": {
-            "latitude": 16.0132015,
-            "longitude": 103.1615169,
-            "max_latitude": 16.6429105,
-            "max_longitude": 103.503853,
-            "min_latitude": 15.406028,
-            "min_longitude": 102.8445023
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-44",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Maha Sarakham",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "44",
         "type": "Changwat",
         "type_en": "Province"
     },
     "45": {
         "alt_names": [
-            "Roi Et"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -4744,24 +4812,26 @@
             "woe_name": "Roi Et"
         },
         "geo": {
-            "latitude": 16.0538196,
-            "longitude": 103.6520036,
-            "max_latitude": 16.4733054,
-            "max_longitude": 104.349034,
-            "min_latitude": 15.4048329,
-            "min_longitude": 103.2736968
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-45",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Roi Et",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "45",
         "type": "Changwat",
         "type_en": "Province"
     },
     "46": {
         "alt_names": [
-            "Kalasin"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -4884,24 +4954,26 @@
             "woe_name": "Kalasin"
         },
         "geo": {
-            "latitude": 16.434167,
-            "longitude": 103.509167,
-            "max_latitude": 16.4531604,
-            "max_longitude": 103.5239108,
-            "min_latitude": 16.4240752,
-            "min_longitude": 103.4909801
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-46",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Kalasin",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "46",
         "type": "Changwat",
         "type_en": "Province"
     },
     "47": {
         "alt_names": [
-            "Sakon Nakhon"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -5024,24 +5096,26 @@
             "woe_name": "Sakon Nakhon"
         },
         "geo": {
-            "latitude": 17.1545995,
-            "longitude": 104.1348365,
-            "max_latitude": 18.0889398,
-            "max_longitude": 104.4329268,
-            "min_latitude": 16.7722018,
-            "min_longitude": 103.2507219
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-47",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Sakon Nakhon",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "47",
         "type": "Changwat",
         "type_en": "Province"
     },
     "48": {
         "alt_names": [
-            "Nakhon Phanom"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -5164,24 +5238,26 @@
             "woe_name": "Nakhon Phanom"
         },
         "geo": {
-            "latitude": 17.392039,
-            "longitude": 104.7695508,
-            "max_latitude": 18.024405,
-            "max_longitude": 104.8073821,
-            "min_latitude": 16.7871771,
-            "min_longitude": 103.9816124
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-48",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Nakhon Phanom",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "48",
         "type": "Changwat",
         "type_en": "Province"
     },
     "49": {
         "alt_names": [
-            "Mukdahan"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -5304,26 +5380,26 @@
             "woe_name": "Mukdahan"
         },
         "geo": {
-            "latitude": 16.5695723,
-            "longitude": 104.5231213,
-            "max_latitude": 16.9062543,
-            "max_longitude": 104.9783274,
-            "min_latitude": 16.1852048,
-            "min_longitude": 104.0702112
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-49",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Mukdahan",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "49",
         "type": "Changwat",
         "type_en": "Province"
     },
     "50": {
         "alt_names": [
-            "Chiangmai",
-            "Chiengmai",
-            "Kiangmai"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -5446,24 +5522,26 @@
             "woe_name": "Chiang Mai"
         },
         "geo": {
-            "latitude": 18.787747,
-            "longitude": 98.9931284,
-            "max_latitude": 20.1475012,
-            "max_longitude": 99.5715955,
-            "min_latitude": 17.2424831,
-            "min_longitude": 98.0079447
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-50",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Chiang Mai",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "50",
         "type": "Changwat",
         "type_en": "Province"
     },
     "51": {
         "alt_names": [
-            "Lamphun"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -5586,24 +5664,26 @@
             "woe_name": "Lamphun"
         },
         "geo": {
-            "latitude": 18.5744606,
-            "longitude": 99.0087221,
-            "max_latitude": 18.7112077,
-            "max_longitude": 99.3213266,
-            "min_latitude": 17.4260273,
-            "min_longitude": 98.6707359
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-51",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Lamphun",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "51",
         "type": "Changwat",
         "type_en": "Province"
     },
     "52": {
         "alt_names": [
-            "Lampang"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -5726,24 +5806,26 @@
             "woe_name": "Lampang"
         },
         "geo": {
-            "latitude": 18.2888404,
-            "longitude": 99.490874,
-            "max_latitude": 19.4175326,
-            "max_longitude": 100.1254973,
-            "min_latitude": 17.2054347,
-            "min_longitude": 98.879938
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-52",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Lampang",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "52",
         "type": "Changwat",
         "type_en": "Province"
     },
     "53": {
         "alt_names": [
-            "Uttaradit"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -5866,24 +5948,26 @@
             "woe_name": "Uttaradit"
         },
         "geo": {
-            "latitude": 17.6200886,
-            "longitude": 100.0992942,
-            "max_latitude": 18.3801428,
-            "max_longitude": 101.1926066,
-            "min_latitude": 17.1624157,
-            "min_longitude": 99.896312
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-53",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Uttaradit",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "53",
         "type": "Changwat",
         "type_en": "Province"
     },
     "54": {
         "alt_names": [
-            "Phrae"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -6006,24 +6090,26 @@
             "woe_name": "Phrae"
         },
         "geo": {
-            "latitude": 18.1445774,
-            "longitude": 100.1402831,
-            "max_latitude": 18.8354634,
-            "max_longitude": 100.5512932,
-            "min_latitude": 17.68767,
-            "min_longitude": 99.3675431
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-54",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Phrae",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "54",
         "type": "Changwat",
         "type_en": "Province"
     },
     "55": {
         "alt_names": [
-            "Nan"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -6146,24 +6232,26 @@
             "woe_name": "Nan"
         },
         "geo": {
-            "latitude": 18.7756318,
-            "longitude": 100.7730417,
-            "max_latitude": 19.6382266,
-            "max_longitude": 101.3572627,
-            "min_latitude": 18.0131901,
-            "min_longitude": 100.3360441
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-55",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Nan",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "55",
         "type": "Changwat",
         "type_en": "Province"
     },
     "56": {
         "alt_names": [
-            "Phayao"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -6286,26 +6374,26 @@
             "woe_name": "Phayao"
         },
         "geo": {
-            "latitude": 19.2154367,
-            "longitude": 100.2023692,
-            "max_latitude": 19.7351674,
-            "max_longitude": 100.6289514,
-            "min_latitude": 18.8063029,
-            "min_longitude": 99.6828377
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-56",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Phayao",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "56",
         "type": "Changwat",
         "type_en": "Province"
     },
     "57": {
         "alt_names": [
-            "Chianpai",
-            "Chienrai",
-            "Muang Chiang Rai"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -6428,24 +6516,26 @@
             "woe_name": "Chiang Rai"
         },
         "geo": {
-            "latitude": 19.9071656,
-            "longitude": 99.830955,
-            "max_latitude": 20.4651902,
-            "max_longitude": 100.5778881,
-            "min_latitude": 18.9997316,
-            "min_longitude": 99.2582535
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-57",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Chiang Rai",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "57",
         "type": "Changwat",
         "type_en": "Province"
     },
     "58": {
         "alt_names": [
-            "Mae Hong Son"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -6568,24 +6658,26 @@
             "woe_name": "Mae Hong Son"
         },
         "geo": {
-            "latitude": 19.3020296,
-            "longitude": 97.9654368,
-            "max_latitude": 19.8141954,
-            "max_longitude": 98.6540375,
-            "min_latitude": 17.6370173,
-            "min_longitude": 97.3433651
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-58",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Mae Hong Son",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "58",
         "type": "Changwat",
         "type_en": "Province"
     },
     "60": {
         "alt_names": [
-            "Nakhon Sawan"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -6708,24 +6800,26 @@
             "woe_name": "Nakhon Sawan"
         },
         "geo": {
-            "latitude": 15.6930072,
-            "longitude": 100.1225595,
-            "max_latitude": 16.1913173,
-            "max_longitude": 100.8339533,
-            "min_latitude": 15.0514745,
-            "min_longitude": 99.086032
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-60",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Nakhon Sawan",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "60",
         "type": "Changwat",
         "type_en": "Province"
     },
     "61": {
         "alt_names": [
-            "Uthai Thani"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -6848,24 +6942,26 @@
             "woe_name": "Uthai Thani"
         },
         "geo": {
-            "latitude": 15.3835001,
-            "longitude": 100.0245527,
-            "max_latitude": 15.7979235,
-            "max_longitude": 100.1065625,
-            "min_latitude": 14.9418877,
-            "min_longitude": 98.9834301
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-61",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Uthai Thani",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "61",
         "type": "Changwat",
         "type_en": "Province"
     },
     "62": {
         "alt_names": [
-            "Kamphaeng Phet"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -6988,24 +7084,26 @@
             "woe_name": "Kamphaeng Phet"
         },
         "geo": {
-            "latitude": 16.4827798,
-            "longitude": 99.5226618,
-            "max_latitude": 16.9134168,
-            "max_longitude": 100.0381412,
-            "min_latitude": 15.8756459,
-            "min_longitude": 98.9887554
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-62",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Kamphaeng Phet",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "62",
         "type": "Changwat",
         "type_en": "Province"
     },
     "63": {
         "alt_names": [
-            "Tak"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -7128,24 +7226,26 @@
             "woe_name": "Tak"
         },
         "geo": {
-            "latitude": 16.8839901,
-            "longitude": 99.1258498,
-            "max_latitude": 17.8678208,
-            "max_longitude": 99.4891245,
-            "min_latitude": 15.1807556,
-            "min_longitude": 97.7423139
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-63",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Tak",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "63",
         "type": "Changwat",
         "type_en": "Province"
     },
     "64": {
         "alt_names": [
-            "Sakhothai"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -7268,24 +7368,26 @@
             "woe_name": "Sukhothai"
         },
         "geo": {
-            "latitude": 17.0055573,
-            "longitude": 99.8263712,
-            "max_latitude": 17.8214838,
-            "max_longitude": 100.111706,
-            "min_latitude": 16.6828055,
-            "min_longitude": 99.3097333
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-64",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Sukhothai",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "64",
         "type": "Changwat",
         "type_en": "Province"
     },
     "65": {
         "alt_names": [
-            "Phitsanulok"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -7408,24 +7510,26 @@
             "woe_name": "Phitsanulok"
         },
         "geo": {
-            "latitude": 16.8211238,
-            "longitude": 100.2658516,
-            "max_latitude": 16.84105,
-            "max_longitude": 100.293535,
-            "min_latitude": 16.792816,
-            "min_longitude": 100.2456044
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-65",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Phitsanulok",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "65",
         "type": "Changwat",
         "type_en": "Province"
     },
     "66": {
         "alt_names": [
-            "Phichit"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -7548,24 +7652,26 @@
             "woe_name": "Phichit"
         },
         "geo": {
-            "latitude": 16.2740876,
-            "longitude": 100.3346991,
-            "max_latitude": 16.6451379,
-            "max_longitude": 100.7992393,
-            "min_latitude": 15.9162294,
-            "min_longitude": 99.9837193
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-66",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Phichit",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "66",
         "type": "Changwat",
         "type_en": "Province"
     },
     "67": {
         "alt_names": [
-            "Phetchabun"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -7688,24 +7794,26 @@
             "woe_name": "Phetchabun"
         },
         "geo": {
-            "latitude": 16.301669,
-            "longitude": 101.1192804,
-            "max_latitude": 17.1781399,
-            "max_longitude": 101.7940183,
-            "min_latitude": 15.3182319,
-            "min_longitude": 100.6343118
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-67",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Phetchabun",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "67",
         "type": "Changwat",
         "type_en": "Province"
     },
     "70": {
         "alt_names": [
-            "Ratchaburi"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -7828,24 +7936,26 @@
             "woe_name": "Ratchaburi"
         },
         "geo": {
-            "latitude": 13.5282893,
-            "longitude": 99.8134211,
-            "max_latitude": 13.9449264,
-            "max_longitude": 100.0728342,
-            "min_latitude": 13.148458,
-            "min_longitude": 99.1634857
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-70",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Ratchaburi",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "70",
         "type": "Changwat",
         "type_en": "Province"
     },
     "71": {
         "alt_names": [
-            "Kanchanaburi"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -7968,24 +8078,26 @@
             "woe_name": "Kanchanaburi"
         },
         "geo": {
-            "latitude": 14.0227797,
-            "longitude": 99.5328115,
-            "max_latitude": 15.662279,
-            "max_longitude": 99.887722,
-            "min_latitude": 13.7261095,
-            "min_longitude": 98.1810039
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-71",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Kanchanaburi",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "71",
         "type": "Changwat",
         "type_en": "Province"
     },
     "72": {
         "alt_names": [
-            "Suphan Buri"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -8108,24 +8220,26 @@
             "woe_name": "Suphan Buri"
         },
         "geo": {
-            "latitude": 14.4744892,
-            "longitude": 100.1177128,
-            "max_latitude": 15.0823024,
-            "max_longitude": 100.2832801,
-            "min_latitude": 14.0566785,
-            "min_longitude": 99.2813512
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-72",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Suphan Buri",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "72",
         "type": "Changwat",
         "type_en": "Province"
     },
     "73": {
         "alt_names": [
-            "Nakhon Pathom"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -8248,24 +8362,26 @@
             "woe_name": "Nakhon Pathom"
         },
         "geo": {
-            "latitude": 13.8199206,
-            "longitude": 100.0621676,
-            "max_latitude": 14.1789481,
-            "max_longitude": 100.3375195,
-            "min_latitude": 13.6493354,
-            "min_longitude": 99.8292112
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-73",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Nakhon Pathom",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "73",
         "type": "Changwat",
         "type_en": "Province"
     },
     "74": {
         "alt_names": [
-            "Samut Sakhon"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -8388,24 +8504,26 @@
             "woe_name": "Samut Sakhon"
         },
         "geo": {
-            "latitude": 13.5475216,
-            "longitude": 100.2743956,
-            "max_latitude": 13.721126,
-            "max_longitude": 100.4201172,
-            "min_latitude": 13.4250416,
-            "min_longitude": 100.0269286
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-74",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Samut Sakhon",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "74",
         "type": "Changwat",
         "type_en": "Province"
     },
     "75": {
         "alt_names": [
-            "Samut Songkhram"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -8528,24 +8646,26 @@
             "woe_name": "Samut Songkhram"
         },
         "geo": {
-            "latitude": 13.4098217,
-            "longitude": 100.0022645,
-            "max_latitude": 13.5147972,
-            "max_longitude": 100.078691,
-            "min_latitude": 13.2375277,
-            "min_longitude": 99.8455418
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-75",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Samut Songkhram",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "75",
         "type": "Changwat",
         "type_en": "Province"
     },
     "76": {
         "alt_names": [
-            "Phetchaburi"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -8668,24 +8788,26 @@
             "woe_name": "Phetchaburi"
         },
         "geo": {
-            "latitude": 12.9649215,
-            "longitude": 99.6425883,
-            "max_latitude": 13.3445097,
-            "max_longitude": 100.1057452,
-            "min_latitude": 12.5632989,
-            "min_longitude": 99.0995873
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-76",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Phetchaburi",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "76",
         "type": "Changwat",
         "type_en": "Province"
     },
     "77": {
         "alt_names": [
-            "Prachuap Khiri Khan"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -8808,24 +8930,26 @@
             "woe_name": "Prachuap Khiri Khan"
         },
         "geo": {
-            "latitude": 11.816667,
-            "longitude": 99.8,
-            "max_latitude": 11.8504599,
-            "max_longitude": 99.8304463,
-            "min_latitude": 11.7831305,
-            "min_longitude": 99.77529
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-77",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Prachuap Khiri Khan",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "77",
         "type": "Changwat",
         "type_en": "Province"
     },
     "80": {
         "alt_names": [
-            "Nakhon Si Thammarat"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -8948,24 +9072,26 @@
             "woe_name": "Nakhon Si Thammarat"
         },
         "geo": {
-            "latitude": 8.4303975,
-            "longitude": 99.9631219,
-            "max_latitude": 9.3273438,
-            "max_longitude": 100.336324,
-            "min_latitude": 7.8380614,
-            "min_longitude": 99.2344681
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-80",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Nakhon Si Thammarat",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "80",
         "type": "Changwat",
         "type_en": "Province"
     },
     "81": {
         "alt_names": [
-            "Krabi"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -9088,24 +9214,26 @@
             "woe_name": "Krabi"
         },
         "geo": {
-            "latitude": 8.0862997,
-            "longitude": 98.9062835,
-            "max_latitude": 8.6816651,
-            "max_longitude": 99.4129851,
-            "min_latitude": 7.3999017,
-            "min_longitude": 98.5748929
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-81",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Krabi",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "81",
         "type": "Changwat",
         "type_en": "Province"
     },
     "82": {
         "alt_names": [
-            "Phangnga"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -9228,24 +9356,26 @@
             "woe_name": "Phangnga"
         },
         "geo": {
-            "latitude": 8.4501414,
-            "longitude": 98.5255317,
-            "max_latitude": 9.4634291,
-            "max_longitude": 98.7070776,
-            "min_latitude": 7.8831978,
-            "min_longitude": 97.6315499
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-82",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Phangnga",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "82",
         "type": "Changwat",
         "type_en": "Province"
     },
     "83": {
         "alt_names": [
-            "Phuket"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -9368,24 +9498,26 @@
             "woe_name": "Phuket"
         },
         "geo": {
-            "latitude": 7.9519331,
-            "longitude": 98.3380884,
-            "max_latitude": 8.1999143,
-            "max_longitude": 98.4618483,
-            "min_latitude": 7.4621565,
-            "min_longitude": 98.2580093
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-83",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Phuket",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "83",
         "type": "Changwat",
         "type_en": "Province"
     },
     "84": {
         "alt_names": [
-            "Surat Thani"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -9508,24 +9640,26 @@
             "woe_name": "Surat Thani"
         },
         "geo": {
-            "latitude": 9.1382389,
-            "longitude": 99.3217483,
-            "max_latitude": 10.1264422,
-            "max_longitude": 100.0905653,
-            "min_latitude": 8.3008059,
-            "min_longitude": 98.4430884
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-84",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Surat Thani",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "84",
         "type": "Changwat",
         "type_en": "Province"
     },
     "85": {
         "alt_names": [
-            "Ranong"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -9648,24 +9782,26 @@
             "woe_name": "Ranong"
         },
         "geo": {
-            "latitude": 9.9528702,
-            "longitude": 98.6084641,
-            "max_latitude": 10.7885391,
-            "max_longitude": 98.9650219,
-            "min_latitude": 9.3039528,
-            "min_longitude": 98.3260237
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-85",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Ranong",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "85",
         "type": "Changwat",
         "type_en": "Province"
     },
     "86": {
         "alt_names": [
-            "Chumphon"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -9788,24 +9924,26 @@
             "woe_name": "Chumphon"
         },
         "geo": {
-            "latitude": 10.4930496,
-            "longitude": 99.1800199,
-            "max_latitude": 11.0336752,
-            "max_longitude": 99.5195074,
-            "min_latitude": 9.600966,
-            "min_longitude": 98.6268518
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-86",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Chumphon",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "86",
         "type": "Changwat",
         "type_en": "Province"
     },
     "90": {
         "alt_names": [
-            "Songkhla"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -9928,24 +10066,26 @@
             "woe_name": "Songkhla"
         },
         "geo": {
-            "latitude": 7.1756004,
-            "longitude": 100.614347,
-            "max_latitude": 7.9389736,
-            "max_longitude": 101.1050578,
-            "min_latitude": 6.2898742,
-            "min_longitude": 100.0547578
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-90",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Songkhla",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "90",
         "type": "Changwat",
         "type_en": "Province"
     },
     "91": {
         "alt_names": [
-            "Satun"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -10068,24 +10208,26 @@
             "woe_name": "Satun"
         },
         "geo": {
-            "latitude": 6.6238158,
-            "longitude": 100.0673744,
-            "max_latitude": 7.2083182,
-            "max_longitude": 100.2209857,
-            "min_latitude": 6.4227785,
-            "min_longitude": 99.1538582
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-91",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Satun",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "91",
         "type": "Changwat",
         "type_en": "Province"
     },
     "92": {
         "alt_names": [
-            "Trang"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -10208,24 +10350,26 @@
             "woe_name": "Trang"
         },
         "geo": {
-            "latitude": 7.5593851,
-            "longitude": 99.6110065,
-            "max_latitude": 8.0126303,
-            "max_longitude": 99.9595902,
-            "min_latitude": 7.0218242,
-            "min_longitude": 99.0555738
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-92",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Trang",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "92",
         "type": "Changwat",
         "type_en": "Province"
     },
     "93": {
         "alt_names": [
-            "Phatthalung"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -10348,24 +10492,26 @@
             "woe_name": "Phatthalung"
         },
         "geo": {
-            "latitude": 7.6166823,
-            "longitude": 100.0740231,
-            "max_latitude": 7.8934971,
-            "max_longitude": 100.4287929,
-            "min_latitude": 7.0909672,
-            "min_longitude": 99.7324393
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-93",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Phatthalung",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "93",
         "type": "Changwat",
         "type_en": "Province"
     },
     "94": {
         "alt_names": [
-            "Pattani"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -10488,24 +10634,26 @@
             "woe_name": "Pattani"
         },
         "geo": {
-            "latitude": 6.7618308,
-            "longitude": 101.3232549,
-            "max_latitude": 6.9520466,
-            "max_longitude": 101.7255187,
-            "min_latitude": 6.5501456,
-            "min_longitude": 101.0175344
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-94",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Pattani",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "94",
         "type": "Changwat",
         "type_en": "Province"
     },
     "95": {
         "alt_names": [
-            "Yala"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -10628,24 +10776,26 @@
             "woe_name": "Yala"
         },
         "geo": {
-            "latitude": 6.541147,
-            "longitude": 101.2803947,
-            "max_latitude": 6.6831248,
-            "max_longitude": 101.6121819,
-            "min_latitude": 5.6127293,
-            "min_longitude": 100.8347818
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-95",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Yala",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "95",
         "type": "Changwat",
         "type_en": "Province"
     },
     "96": {
         "alt_names": [
-            "Narathiwat"
+            "Krung Thep",
+            "Bangkok",
+            "BKK"
         ],
         "cca2": "TH",
         "cca3": "THA",
@@ -10768,17 +10918,17 @@
             "woe_name": "Narathiwat"
         },
         "geo": {
-            "latitude": 6.4254607,
-            "longitude": 101.8253143,
-            "max_latitude": 6.6363882,
-            "max_longitude": 102.0932184,
-            "min_latitude": 5.732811,
-            "min_longitude": 101.3712505
+            "latitude": 13.7563309,
+            "longitude": 100.5017651,
+            "max_latitude": 13.955111,
+            "max_longitude": 100.938408,
+            "min_latitude": 13.49409,
+            "min_longitude": 100.3278136
         },
         "iso_3166_2": "TH-96",
         "iso_a2": "TH",
         "iso_a3": "THA",
-        "name": "Narathiwat",
+        "name": "Krung Thep Maha Nakhon [Bangkok]",
         "postal": "96",
         "type": "Changwat",
         "type_en": "Province"

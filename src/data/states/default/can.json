@@ -141,7 +141,7 @@
     },
     "BC": {
         "alt_names": [
-            "Colombie-Britannique"
+            "Alberta"
         ],
         "cca2": "CA",
         "cca3": "CAN",
@@ -264,24 +264,24 @@
             "woe_name": "British Columbia"
         },
         "geo": {
-            "latitude": 53.7266683,
-            "longitude": -127.6476206,
-            "max_latitude": 60.0001489,
-            "max_longitude": -114.0542211,
-            "min_latitude": 48.3089123,
-            "min_longitude": -139.0570702
+            "latitude": 53.9332706,
+            "longitude": -116.5765035,
+            "max_latitude": 60.0000621,
+            "max_longitude": -109.9998551,
+            "min_latitude": 48.9966671,
+            "min_longitude": -120.0005219
         },
         "iso_3166_2": "CA-BC",
         "iso_a2": "CA",
         "iso_a3": "CAN",
-        "name": "British Columbia",
+        "name": "Alberta",
         "postal": "BC",
         "type": "Province",
         "type_en": "Province"
     },
     "MB": {
         "alt_names": [
-            "Manitoba"
+            "Alberta"
         ],
         "cca2": "CA",
         "cca3": "CAN",
@@ -404,24 +404,24 @@
             "woe_name": "Manitoba"
         },
         "geo": {
-            "latitude": 53.7608608,
-            "longitude": -98.8138763,
-            "max_latitude": 60.0001031,
-            "max_longitude": -88.9852265,
-            "min_latitude": 48.998861,
-            "min_longitude": -102.0000041
+            "latitude": 53.9332706,
+            "longitude": -116.5765035,
+            "max_latitude": 60.0000621,
+            "max_longitude": -109.9998551,
+            "min_latitude": 48.9966671,
+            "min_longitude": -120.0005219
         },
         "iso_3166_2": "CA-MB",
         "iso_a2": "CA",
         "iso_a3": "CAN",
-        "name": "Manitoba",
+        "name": "Alberta",
         "postal": "MB",
         "type": "Province",
         "type_en": "Province"
     },
     "NB": {
         "alt_names": [
-            "Nouveau-Brunswick"
+            "Alberta"
         ],
         "cca2": "CA",
         "cca3": "CAN",
@@ -544,26 +544,24 @@
             "woe_name": "New Brunswick"
         },
         "geo": {
-            "latitude": 46.5653163,
-            "longitude": -66.4619164,
-            "max_latitude": 48.1735157,
-            "max_longitude": -63.7706403,
-            "min_latitude": 44.499574,
-            "min_longitude": -69.0533929
+            "latitude": 53.9332706,
+            "longitude": -116.5765035,
+            "max_latitude": 60.0000621,
+            "max_longitude": -109.9998551,
+            "min_latitude": 48.9966671,
+            "min_longitude": -120.0005219
         },
         "iso_3166_2": "CA-NB",
         "iso_a2": "CA",
         "iso_a3": "CAN",
-        "name": "New Brunswick",
+        "name": "Alberta",
         "postal": "NB",
         "type": "Province",
         "type_en": "Province"
     },
     "NL": {
         "alt_names": [
-            "Terre-Neuve-et-Labrador",
-            "Newfoundland",
-            "Terre-Neuve"
+            "Alberta"
         ],
         "cca2": "CA",
         "cca3": "CAN",
@@ -686,24 +684,24 @@
             "woe_name": "Newfoundland and Labrador"
         },
         "geo": {
-            "latitude": 53.1355091,
-            "longitude": -57.6604364,
-            "max_latitude": 60.3762701,
-            "max_longitude": -52.6194086,
-            "min_latitude": 46.6114571,
-            "min_longitude": -67.8216849
+            "latitude": 53.9332706,
+            "longitude": -116.5765035,
+            "max_latitude": 60.0000621,
+            "max_longitude": -109.9998551,
+            "min_latitude": 48.9966671,
+            "min_longitude": -120.0005219
         },
         "iso_3166_2": "CA-NL",
         "iso_a2": "CA",
         "iso_a3": "CAN",
-        "name": "Newfoundland and Labrador",
+        "name": "Alberta",
         "postal": "NL",
         "type": "Province",
         "type_en": "Province"
     },
     "NS": {
         "alt_names": [
-            "Nouvelle-\u00c9cosse"
+            "Alberta"
         ],
         "cca2": "CA",
         "cca3": "CAN",
@@ -826,24 +824,24 @@
             "woe_name": "Nova Scotia"
         },
         "geo": {
-            "latitude": 44.6819866,
-            "longitude": -63.744311,
-            "max_latitude": 47.2277438,
-            "max_longitude": -59.676914,
-            "min_latitude": 43.3918805,
-            "min_longitude": -66.3948186
+            "latitude": 53.9332706,
+            "longitude": -116.5765035,
+            "max_latitude": 60.0000621,
+            "max_longitude": -109.9998551,
+            "min_latitude": 48.9966671,
+            "min_longitude": -120.0005219
         },
         "iso_3166_2": "CA-NS",
         "iso_a2": "CA",
         "iso_a3": "CAN",
-        "name": "Nova Scotia",
+        "name": "Alberta",
         "postal": "NS",
         "type": "Province",
         "type_en": "Province"
     },
     "NT": {
         "alt_names": [
-            "Territoires du Nord-Ouest"
+            "Alberta"
         ],
         "cca2": "CA",
         "cca3": "CAN",
@@ -966,24 +964,24 @@
             "woe_name": "Northwest Territories"
         },
         "geo": {
-            "latitude": 64.8255441,
-            "longitude": -124.8457334,
-            "max_latitude": 78.7613421,
-            "max_longitude": -101.999999,
-            "min_latitude": 59.999954,
-            "min_longitude": -136.4687053
+            "latitude": 53.9332706,
+            "longitude": -116.5765035,
+            "max_latitude": 60.0000621,
+            "max_longitude": -109.9998551,
+            "min_latitude": 48.9966671,
+            "min_longitude": -120.0005219
         },
         "iso_3166_2": "CA-NT",
         "iso_a2": "CA",
         "iso_a3": "CAN",
-        "name": "Northwest Territories",
+        "name": "Alberta",
         "postal": "NT",
         "type": "Territoire",
         "type_en": "Territory"
     },
     "NU": {
         "alt_names": [
-            "Nunavut"
+            "Alberta"
         ],
         "cca2": "CA",
         "cca3": "CAN",
@@ -1106,24 +1104,24 @@
             "woe_name": "Nunavut"
         },
         "geo": {
-            "latitude": 70.2997711,
-            "longitude": -83.1075769,
-            "max_latitude": 83.0956638,
-            "max_longitude": -61.1794384,
-            "min_latitude": 51.6406985,
-            "min_longitude": -121.0492491
+            "latitude": 53.9332706,
+            "longitude": -116.5765035,
+            "max_latitude": 60.0000621,
+            "max_longitude": -109.9998551,
+            "min_latitude": 48.9966671,
+            "min_longitude": -120.0005219
         },
         "iso_3166_2": "CA-NU",
         "iso_a2": "CA",
         "iso_a3": "CAN",
-        "name": "Nunavut",
+        "name": "Alberta",
         "postal": "NU",
         "type": "Territoire",
         "type_en": "Territory"
     },
     "ON": {
         "alt_names": [
-            "Ontario"
+            "Alberta"
         ],
         "cca2": "CA",
         "cca3": "CAN",
@@ -1246,24 +1244,24 @@
             "woe_name": "Ontario"
         },
         "geo": {
-            "latitude": 51.253775,
-            "longitude": -85.3232139,
-            "max_latitude": 56.8565279,
-            "max_longitude": -74.3438823,
-            "min_latitude": 41.6813488,
-            "min_longitude": -95.1562271
+            "latitude": 53.9332706,
+            "longitude": -116.5765035,
+            "max_latitude": 60.0000621,
+            "max_longitude": -109.9998551,
+            "min_latitude": 48.9966671,
+            "min_longitude": -120.0005219
         },
         "iso_3166_2": "CA-ON",
         "iso_a2": "CA",
         "iso_a3": "CAN",
-        "name": "Ontario",
+        "name": "Alberta",
         "postal": "ON",
         "type": "Province",
         "type_en": "Province"
     },
     "PE": {
         "alt_names": [
-            "\u00cele-du-Prince-\u00c9douard"
+            "Alberta"
         ],
         "cca2": "CA",
         "cca3": "CAN",
@@ -1386,24 +1384,24 @@
             "woe_name": "Prince Edward Island"
         },
         "geo": {
-            "latitude": 46.510712,
-            "longitude": -63.4168136,
-            "max_latitude": 47.4416628,
-            "max_longitude": -61.9707546,
-            "min_latitude": 45.9481845,
-            "min_longitude": -64.5661238
+            "latitude": 53.9332706,
+            "longitude": -116.5765035,
+            "max_latitude": 60.0000621,
+            "max_longitude": -109.9998551,
+            "min_latitude": 48.9966671,
+            "min_longitude": -120.0005219
         },
         "iso_3166_2": "CA-PE",
         "iso_a2": "CA",
         "iso_a3": "CAN",
-        "name": "Prince Edward Island",
+        "name": "Alberta",
         "postal": "PE",
         "type": "Province",
         "type_en": "Province"
     },
     "QC": {
         "alt_names": [
-            "Qu\u00e9bec"
+            "Alberta"
         ],
         "cca2": "CA",
         "cca3": "CAN",
@@ -1526,24 +1524,24 @@
             "woe_name": "Qu\u00e9bec"
         },
         "geo": {
-            "latitude": 52.9399159,
-            "longitude": -73.5491361,
-            "max_latitude": 62.5830552,
-            "max_longitude": -57.1054859,
-            "min_latitude": 44.9913581,
-            "min_longitude": -79.7623371
+            "latitude": 53.9332706,
+            "longitude": -116.5765035,
+            "max_latitude": 60.0000621,
+            "max_longitude": -109.9998551,
+            "min_latitude": 48.9966671,
+            "min_longitude": -120.0005219
         },
         "iso_3166_2": "CA-QC",
         "iso_a2": "CA",
         "iso_a3": "CAN",
-        "name": "Quebec",
+        "name": "Alberta",
         "postal": "QC",
         "type": "Province",
         "type_en": "Province"
     },
     "SK": {
         "alt_names": [
-            "Saskatchewan"
+            "Alberta"
         ],
         "cca2": "CA",
         "cca3": "CAN",
@@ -1666,24 +1664,24 @@
             "woe_name": "Saskatchewan"
         },
         "geo": {
-            "latitude": 52.9399159,
-            "longitude": -106.4508639,
-            "max_latitude": 60.000063,
-            "max_longitude": -101.362305,
-            "min_latitude": 48.9988059,
-            "min_longitude": -110.0077549
+            "latitude": 53.9332706,
+            "longitude": -116.5765035,
+            "max_latitude": 60.0000621,
+            "max_longitude": -109.9998551,
+            "min_latitude": 48.9966671,
+            "min_longitude": -120.0005219
         },
         "iso_3166_2": "CA-SK",
         "iso_a2": "CA",
         "iso_a3": "CAN",
-        "name": "Saskatchewan",
+        "name": "Alberta",
         "postal": "SK",
         "type": "Province",
         "type_en": "Province"
     },
     "YT": {
         "alt_names": [
-            "Yukon Territory"
+            "Alberta"
         ],
         "cca2": "CA",
         "cca3": "CAN",
@@ -1806,17 +1804,17 @@
             "woe_name": "Yukon"
         },
         "geo": {
-            "latitude": 64.2823274,
-            "longitude": -135,
-            "max_latitude": 69.646498,
-            "max_longitude": -123.8009179,
-            "min_latitude": 59.996889,
-            "min_longitude": -141.00187
+            "latitude": 53.9332706,
+            "longitude": -116.5765035,
+            "max_latitude": 60.0000621,
+            "max_longitude": -109.9998551,
+            "min_latitude": 48.9966671,
+            "min_longitude": -120.0005219
         },
         "iso_3166_2": "CA-YT",
         "iso_a2": "CA",
         "iso_a3": "CAN",
-        "name": "Yukon",
+        "name": "Alberta",
         "postal": "YT",
         "type": "Territoire",
         "type_en": "Territory"

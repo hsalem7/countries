@@ -1,7 +1,7 @@
 {
     "2": {
         "alt_names": [
-            "L\u00e9koumou"
+            "Bou\u00e9nza"
         ],
         "cca2": "CG",
         "cca3": "COG",
@@ -124,24 +124,24 @@
             "woe_name": "L\u00e9koumou"
         },
         "geo": {
-            "latitude": -3.170382,
-            "longitude": 13.3587288,
-            "max_latitude": -2.1133809,
-            "max_longitude": 14.3262581,
-            "min_latitude": -4.0506931,
-            "min_longitude": 12.6057329
+            "latitude": -4.1128079,
+            "longitude": 13.7289167,
+            "max_latitude": -3.45881,
+            "max_longitude": 14.383406,
+            "min_latitude": -4.78104,
+            "min_longitude": 12.601334
         },
         "iso_3166_2": "CG-2",
         "iso_a2": "CG",
         "iso_a3": "COG",
-        "name": "L\u00e9koumou",
+        "name": "Bouenza",
         "postal": "2",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "5": {
         "alt_names": [
-            "Kouilou"
+            "Bou\u00e9nza"
         ],
         "cca2": "CG",
         "cca3": "COG",
@@ -264,24 +264,24 @@
             "woe_name": "Kouilou"
         },
         "geo": {
-            "latitude": -4.1428413,
-            "longitude": 11.8891721,
-            "max_latitude": -3.512756,
-            "max_longitude": 12.7600829,
-            "min_latitude": -5.0283128,
-            "min_longitude": 11.2050089
+            "latitude": -4.1128079,
+            "longitude": 13.7289167,
+            "max_latitude": -3.45881,
+            "max_longitude": 14.383406,
+            "min_latitude": -4.78104,
+            "min_longitude": 12.601334
         },
         "iso_3166_2": "CG-5",
         "iso_a2": "CG",
         "iso_a3": "COG",
-        "name": "Kouilou",
+        "name": "Bouenza",
         "postal": "5",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "7": {
         "alt_names": [
-            "Likouala"
+            "Bou\u00e9nza"
         ],
         "cca2": "CG",
         "cca3": "COG",
@@ -404,24 +404,24 @@
             "woe_name": "Likouala"
         },
         "geo": {
-            "latitude": 2.043924,
-            "longitude": 17.668887,
-            "max_latitude": 3.7030821,
-            "max_longitude": 18.649839,
-            "min_latitude": -0.7595563,
-            "min_longitude": 16.435879
+            "latitude": -4.1128079,
+            "longitude": 13.7289167,
+            "max_latitude": -3.45881,
+            "max_longitude": 14.383406,
+            "min_latitude": -4.78104,
+            "min_longitude": 12.601334
         },
         "iso_3166_2": "CG-7",
         "iso_a2": "CG",
         "iso_a3": "COG",
-        "name": "Likouala",
+        "name": "Bouenza",
         "postal": "7",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "8": {
         "alt_names": [
-            "Cuvette"
+            "Bou\u00e9nza"
         ],
         "cca2": "CG",
         "cca3": "COG",
@@ -544,24 +544,24 @@
             "woe_name": "Cuvette"
         },
         "geo": {
-            "latitude": -0.2877446,
-            "longitude": 16.1580937,
-            "max_latitude": 0.453031,
-            "max_longitude": 17.5505448,
-            "min_latitude": -2.028305,
-            "min_longitude": 14.349458
+            "latitude": -4.1128079,
+            "longitude": 13.7289167,
+            "max_latitude": -3.45881,
+            "max_longitude": 14.383406,
+            "min_latitude": -4.78104,
+            "min_longitude": 12.601334
         },
         "iso_3166_2": "CG-8",
         "iso_a2": "CG",
         "iso_a3": "COG",
-        "name": "Cuvette",
+        "name": "Bouenza",
         "postal": "8",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "9": {
         "alt_names": [
-            "Niari"
+            "Bou\u00e9nza"
         ],
         "cca2": "CG",
         "cca3": "COG",
@@ -684,17 +684,17 @@
             "woe_name": "Niari"
         },
         "geo": {
-            "latitude": -3.18427,
-            "longitude": 12.2547919,
-            "max_latitude": -1.858259,
-            "max_longitude": 13.609751,
-            "min_latitude": -4.919864,
-            "min_longitude": 11.607122
+            "latitude": -4.1128079,
+            "longitude": 13.7289167,
+            "max_latitude": -3.45881,
+            "max_longitude": 14.383406,
+            "min_latitude": -4.78104,
+            "min_longitude": 12.601334
         },
         "iso_3166_2": "CG-9",
         "iso_a2": "CG",
         "iso_a3": "COG",
-        "name": "Niari",
+        "name": "Bouenza",
         "postal": "9",
         "type": "R\u00e9gion",
         "type_en": "Region"
@@ -841,7 +841,7 @@
     },
     "12": {
         "alt_names": [
-            "Pool"
+            "Bou\u00e9nza"
         ],
         "cca2": "CG",
         "cca3": "COG",
@@ -964,24 +964,24 @@
             "woe_name": "Pool"
         },
         "geo": {
-            "latitude": -2.420088,
-            "longitude": 16.1816196,
-            "max_latitude": 2.2295692,
-            "max_longitude": 25.1980562,
-            "min_latitude": -6.1148617,
-            "min_longitude": 12.3650857
+            "latitude": -4.1128079,
+            "longitude": 13.7289167,
+            "max_latitude": -3.45881,
+            "max_longitude": 14.383406,
+            "min_latitude": -4.78104,
+            "min_longitude": 12.601334
         },
         "iso_3166_2": "CG-12",
         "iso_a2": "CG",
         "iso_a3": "COG",
-        "name": "Pool",
+        "name": "Bouenza",
         "postal": "12",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "13": {
         "alt_names": [
-            "Sangha"
+            "Bou\u00e9nza"
         ],
         "cca2": "CG",
         "cca3": "COG",
@@ -1104,24 +1104,24 @@
             "woe_name": "Sangha"
         },
         "geo": {
-            "latitude": 1.4662328,
-            "longitude": 15.4068079,
-            "max_latitude": 2.685291,
-            "max_longitude": 17.014767,
-            "min_latitude": 0.031058,
-            "min_longitude": 13.130887
+            "latitude": -4.1128079,
+            "longitude": 13.7289167,
+            "max_latitude": -3.45881,
+            "max_longitude": 14.383406,
+            "min_latitude": -4.78104,
+            "min_longitude": 12.601334
         },
         "iso_3166_2": "CG-13",
         "iso_a2": "CG",
         "iso_a3": "COG",
-        "name": "Sangha",
+        "name": "Bouenza",
         "postal": "13",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "14": {
         "alt_names": [
-            "Plateaux"
+            "Bou\u00e9nza"
         ],
         "cca2": "CG",
         "cca3": "COG",
@@ -1244,24 +1244,24 @@
             "woe_name": "Plateaux"
         },
         "geo": {
-            "latitude": -2.0680088,
-            "longitude": 15.4068079,
-            "max_latitude": -0.939503,
-            "max_longitude": 16.6609534,
-            "min_latitude": -3.098674,
-            "min_longitude": 14.0830219
+            "latitude": -4.1128079,
+            "longitude": 13.7289167,
+            "max_latitude": -3.45881,
+            "max_longitude": 14.383406,
+            "min_latitude": -4.78104,
+            "min_longitude": 12.601334
         },
         "iso_3166_2": "CG-14",
         "iso_a2": "CG",
         "iso_a3": "COG",
-        "name": "Plateaux",
+        "name": "Bouenza",
         "postal": "14",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "15": {
         "alt_names": [
-            "Cuvette Ouest"
+            "Bou\u00e9nza"
         ],
         "cca2": "CG",
         "cca3": "COG",
@@ -1384,24 +1384,24 @@
             "woe_name": "Cuvette-Ouest"
         },
         "geo": {
-            "latitude": 0.144755,
-            "longitude": 14.4723301,
-            "max_latitude": 1.3734011,
-            "max_longitude": 15.387269,
-            "min_latitude": -1.283519,
-            "min_longitude": 13.88563
+            "latitude": -4.1128079,
+            "longitude": 13.7289167,
+            "max_latitude": -3.45881,
+            "max_longitude": 14.383406,
+            "min_latitude": -4.78104,
+            "min_longitude": 12.601334
         },
         "iso_3166_2": "CG-15",
         "iso_a2": "CG",
         "iso_a3": "COG",
-        "name": "Cuvette-Ouest",
+        "name": "Bouenza",
         "postal": "15",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "16": {
         "alt_names": [
-            ""
+            "Bou\u00e9nza"
         ],
         "cca2": "CG",
         "cca3": "COG",
@@ -1524,20 +1524,24 @@
             "woe_name": "Kouilou"
         },
         "geo": {
-            "latitude": "-4.8053700000",
-            "longitude": "11.8590000000"
+            "latitude": -4.1128079,
+            "longitude": 13.7289167,
+            "max_latitude": -3.45881,
+            "max_longitude": 14.383406,
+            "min_latitude": -4.78104,
+            "min_longitude": 12.601334
         },
         "iso_3166_2": "CG-16",
         "iso_a2": "CG",
         "iso_a3": "COG",
-        "name": "Pointe Noire",
+        "name": "Bouenza",
         "postal": "16",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "BZV": {
         "alt_names": [
-            "Brazzaville"
+            "Bou\u00e9nza"
         ],
         "cca2": "CG",
         "cca3": "COG",
@@ -1660,17 +1664,17 @@
             "woe_name": "Brazzaville"
         },
         "geo": {
-            "latitude": -4.267778,
-            "longitude": 15.291944,
-            "max_latitude": -4.1233473,
-            "max_longitude": 15.3173448,
-            "min_latitude": -4.3710429,
-            "min_longitude": 15.1371001
+            "latitude": -4.1128079,
+            "longitude": 13.7289167,
+            "max_latitude": -3.45881,
+            "max_longitude": 14.383406,
+            "min_latitude": -4.78104,
+            "min_longitude": 12.601334
         },
         "iso_3166_2": "CG-BZV",
         "iso_a2": "CG",
         "iso_a3": "COG",
-        "name": "Brazzaville",
+        "name": "Bouenza",
         "postal": "BZV",
         "type": "R\u00e9gion",
         "type_en": "Region"

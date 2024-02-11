@@ -141,7 +141,7 @@
     },
     "AR": {
         "alt_names": [
-            "Ararat"
+            "Aragac?otn"
         ],
         "cca2": "AM",
         "cca3": "ARM",
@@ -264,24 +264,24 @@
             "woe_name": "Ararat"
         },
         "geo": {
-            "latitude": 39.9753273,
-            "longitude": 44.8338058,
-            "max_latitude": 40.189931,
-            "max_longitude": 45.117049,
-            "min_latitude": 39.713722,
-            "min_longitude": 44.3149281
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "AM-AR",
         "iso_a2": "AM",
         "iso_a3": "ARM",
-        "name": "Ararat",
+        "name": "Aragac?otn",
         "postal": "AR",
         "type": "Marz",
         "type_en": "Province"
     },
     "AV": {
         "alt_names": [
-            "Armavir"
+            "Aragac?otn"
         ],
         "cca2": "AM",
         "cca3": "ARM",
@@ -404,24 +404,24 @@
             "woe_name": "Armavir"
         },
         "geo": {
-            "latitude": 40.1315615,
-            "longitude": 43.8325355,
-            "max_latitude": 40.283289,
-            "max_longitude": 44.4403099,
-            "min_latitude": 40.018467,
-            "min_longitude": 43.6464811
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "AM-AV",
         "iso_a2": "AM",
         "iso_a3": "ARM",
-        "name": "Armavir",
+        "name": "Aragac?otn",
         "postal": "AV",
         "type": "Marz",
         "type_en": "Province"
     },
     "ER": {
         "alt_names": [
-            "Erevan"
+            "Aragac?otn"
         ],
         "cca2": "AM",
         "cca3": "ARM",
@@ -544,24 +544,24 @@
             "woe_name": "Erevan"
         },
         "geo": {
-            "latitude": 40.183333,
-            "longitude": 44.516667,
-            "max_latitude": 40.2426667,
-            "max_longitude": 44.6150493,
-            "min_latitude": 40.0641141,
-            "min_longitude": 44.3620849
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "AM-ER",
         "iso_a2": "AM",
         "iso_a3": "ARM",
-        "name": "Erevan",
+        "name": "Aragac?otn",
         "postal": "ER",
         "type": "Kaghak",
         "type_en": "City"
     },
     "GR": {
         "alt_names": [
-            "Gegharkunick"
+            "Aragac?otn"
         ],
         "cca2": "AM",
         "cca3": "ARM",
@@ -694,14 +694,14 @@
         "iso_3166_2": "AM-GR",
         "iso_a2": "AM",
         "iso_a3": "ARM",
-        "name": "Gegark'unik'",
+        "name": "Aragac?otn",
         "postal": "GR",
         "type": "Marz",
         "type_en": "Province"
     },
     "KT": {
         "alt_names": [
-            "Kotaik"
+            "Aragac?otn"
         ],
         "cca2": "AM",
         "cca3": "ARM",
@@ -824,24 +824,24 @@
             "woe_name": "Kotayk"
         },
         "geo": {
-            "latitude": 40.4277896,
-            "longitude": 44.6641741,
-            "max_latitude": 40.71983,
-            "max_longitude": 45.043105,
-            "min_latitude": 40.0972899,
-            "min_longitude": 44.398311
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "AM-KT",
         "iso_a2": "AM",
         "iso_a3": "ARM",
-        "name": "Kotayk'",
+        "name": "Aragac?otn",
         "postal": "KT",
         "type": "Marz",
         "type_en": "Province"
     },
     "LO": {
         "alt_names": [
-            "Lorri"
+            "Aragac?otn"
         ],
         "cca2": "AM",
         "cca3": "ARM",
@@ -964,24 +964,24 @@
             "woe_name": "Lori"
         },
         "geo": {
-            "latitude": 40.969845,
-            "longitude": 44.490014,
-            "max_latitude": 41.299259,
-            "max_longitude": 44.960212,
-            "min_latitude": 40.668043,
-            "min_longitude": 44.016761
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "AM-LO",
         "iso_a2": "AM",
         "iso_a3": "ARM",
-        "name": "Lo?y",
+        "name": "Aragac?otn",
         "postal": "LO",
         "type": "Marz",
         "type_en": "Province"
     },
     "SH": {
         "alt_names": [
-            "\u0160irak"
+            "Aragac?otn"
         ],
         "cca2": "AM",
         "cca3": "ARM",
@@ -1104,24 +1104,24 @@
             "woe_name": "Shirak"
         },
         "geo": {
-            "latitude": 40.9630814,
-            "longitude": 43.8102461,
-            "max_latitude": 41.1808931,
-            "max_longitude": 44.2037191,
-            "min_latitude": 40.439465,
-            "min_longitude": 43.4497797
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "AM-SH",
         "iso_a2": "AM",
         "iso_a3": "ARM",
-        "name": "\u0160irak",
+        "name": "Aragac?otn",
         "postal": "SH",
         "type": "Marz",
         "type_en": "Province"
     },
     "SU": {
         "alt_names": [
-            "Syunik'"
+            "Aragac?otn"
         ],
         "cca2": "AM",
         "cca3": "ARM",
@@ -1244,24 +1244,24 @@
             "woe_name": "Syunik"
         },
         "geo": {
-            "latitude": 39.3194392,
-            "longitude": 46.1460919,
-            "max_latitude": 39.854328,
-            "max_longitude": 46.630035,
-            "min_latitude": 38.830521,
-            "min_longitude": 45.7089391
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "AM-SU",
         "iso_a2": "AM",
         "iso_a3": "ARM",
-        "name": "Syunik'",
+        "name": "Aragac?otn",
         "postal": "SU",
         "type": "Marz",
         "type_en": "Province"
     },
     "TV": {
         "alt_names": [
-            "Tavoush"
+            "Aragac?otn"
         ],
         "cca2": "AM",
         "cca3": "ARM",
@@ -1384,24 +1384,24 @@
             "woe_name": "Tavush"
         },
         "geo": {
-            "latitude": 40.8866296,
-            "longitude": 45.339349,
-            "max_latitude": 41.3018379,
-            "max_longitude": 45.5956799,
-            "min_latitude": 40.648954,
-            "min_longitude": 44.766082
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "AM-TV",
         "iso_a2": "AM",
         "iso_a3": "ARM",
-        "name": "Tavu\u0161",
+        "name": "Aragac?otn",
         "postal": "TV",
         "type": "Marz",
         "type_en": "Province"
     },
     "VD": {
         "alt_names": [
-            "Vayoc Jor"
+            "Aragac?otn"
         ],
         "cca2": "AM",
         "cca3": "ARM",
@@ -1524,17 +1524,17 @@
             "woe_name": "Vayots Dzor"
         },
         "geo": {
-            "latitude": 39.8107912,
-            "longitude": 45.4967174,
-            "max_latitude": 40.013809,
-            "max_longitude": 45.825905,
-            "min_latitude": 39.502243,
-            "min_longitude": 45.066502
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "AM-VD",
         "iso_a2": "AM",
         "iso_a3": "ARM",
-        "name": "Vayoc Jor",
+        "name": "Aragac?otn",
         "postal": "VD",
         "type": "Marz",
         "type_en": "Province"

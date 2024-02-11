@@ -144,8 +144,10 @@
     },
     "07": {
         "alt_names": [
-            "Volyn",
-            "Volynska"
+            "Vinnica",
+            "Vinnitsa",
+            "Vinnytska",
+            "Vinnytsya"
         ],
         "cca2": "UA",
         "cca3": "UKR",
@@ -268,28 +270,27 @@
             "woe_name": "Volyn"
         },
         "geo": {
-            "latitude": 50.747233,
-            "longitude": 25.325383,
-            "max_latitude": 51.969238,
-            "max_longitude": 26.1062831,
-            "min_latitude": 50.2871931,
-            "min_longitude": 23.603933
+            "latitude": 49.233083,
+            "longitude": 28.468217,
+            "max_latitude": 49.889537,
+            "max_longitude": 30.022071,
+            "min_latitude": 48.064971,
+            "min_longitude": 27.37479
         },
         "iso_3166_2": "UA-07",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Volyns'ka Oblast'",
+        "name": "Vinnyts'ka Oblast'",
         "postal": "07",
         "type": "Oblast'",
         "type_en": "Region"
     },
     "09": {
         "alt_names": [
-            "Lugansk",
-            "Luhanska",
-            "Luhans\u02bfk",
-            "Voroshilovgrad",
-            "Voro\u0161ilovgrad"
+            "Vinnica",
+            "Vinnitsa",
+            "Vinnytska",
+            "Vinnytsya"
         ],
         "cca2": "UA",
         "cca3": "UKR",
@@ -412,27 +413,27 @@
             "woe_name": "Luhans'k"
         },
         "geo": {
-            "latitude": 48.574041,
-            "longitude": 39.307815,
-            "max_latitude": 50.088428,
-            "max_longitude": 40.2275119,
-            "min_latitude": 47.825031,
-            "min_longitude": 37.8375161
+            "latitude": 49.233083,
+            "longitude": 28.468217,
+            "max_latitude": 49.889537,
+            "max_longitude": 30.022071,
+            "min_latitude": 48.064971,
+            "min_longitude": 27.37479
         },
         "iso_3166_2": "UA-09",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Luhans'ka Oblast'",
+        "name": "Vinnyts'ka Oblast'",
         "postal": "09",
         "type": "Oblast'",
         "type_en": "Region"
     },
     "12": {
         "alt_names": [
-            "Dnepropetrovsk",
-            "Dnipropetrovsk",
-            "Dnipropetrovska",
-            "Dnjepropetrovsk"
+            "Vinnica",
+            "Vinnitsa",
+            "Vinnytska",
+            "Vinnytsya"
         ],
         "cca2": "UA",
         "cca3": "UKR",
@@ -555,26 +556,27 @@
             "woe_name": "Dnipropetrovs'k"
         },
         "geo": {
-            "latitude": 48.464717,
-            "longitude": 35.046183,
-            "max_latitude": 49.193473,
-            "max_longitude": 36.9364431,
-            "min_latitude": 47.481922,
-            "min_longitude": 32.959522
+            "latitude": 49.233083,
+            "longitude": 28.468217,
+            "max_latitude": 49.889537,
+            "max_longitude": 30.022071,
+            "min_latitude": 48.064971,
+            "min_longitude": 27.37479
         },
         "iso_3166_2": "UA-12",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Dnipropetrovs'ka Oblast'",
+        "name": "Vinnyts'ka Oblast'",
         "postal": "12",
         "type": "Oblast'",
         "type_en": "Region"
     },
     "14": {
         "alt_names": [
-            "Doneck",
-            "Donetska",
-            "Donets\u02bfka"
+            "Vinnica",
+            "Vinnitsa",
+            "Vinnytska",
+            "Vinnytsya"
         ],
         "cca2": "UA",
         "cca3": "UKR",
@@ -697,25 +699,27 @@
             "woe_name": "Donets'k"
         },
         "geo": {
-            "latitude": 48.015883,
-            "longitude": 37.80285,
-            "max_latitude": 49.236797,
-            "max_longitude": 39.0921018,
-            "min_latitude": 46.867733,
-            "min_longitude": 36.541492
+            "latitude": 49.233083,
+            "longitude": 28.468217,
+            "max_latitude": 49.889537,
+            "max_longitude": 30.022071,
+            "min_latitude": 48.064971,
+            "min_longitude": 27.37479
         },
         "iso_3166_2": "UA-14",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Donets'ka Oblast'",
+        "name": "Vinnyts'ka Oblast'",
         "postal": "14",
         "type": "Oblast'",
         "type_en": "Region"
     },
     "18": {
         "alt_names": [
-            "Zhitomir",
-            "Zhytomyrska"
+            "Vinnica",
+            "Vinnitsa",
+            "Vinnytska",
+            "Vinnytsya"
         ],
         "cca2": "UA",
         "cca3": "UKR",
@@ -838,26 +842,27 @@
             "woe_name": "Zhytomyr"
         },
         "geo": {
-            "latitude": 50.25465,
-            "longitude": 28.658667,
-            "max_latitude": 51.6818959,
-            "max_longitude": 29.7354618,
-            "min_latitude": 49.582931,
-            "min_longitude": 27.1897231
+            "latitude": 49.233083,
+            "longitude": 28.468217,
+            "max_latitude": 49.889537,
+            "max_longitude": 30.022071,
+            "min_latitude": 48.064971,
+            "min_longitude": 27.37479
         },
         "iso_3166_2": "UA-18",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Zhytomyrs'ka Oblast'",
+        "name": "Vinnyts'ka Oblast'",
         "postal": "18",
         "type": "Oblast'",
         "type_en": "Region"
     },
     "21": {
         "alt_names": [
-            "Transcarpathia",
-            "Zakarpatska",
-            "Zakarpats\u02bfka Oblast"
+            "Vinnica",
+            "Vinnitsa",
+            "Vinnytska",
+            "Vinnytsya"
         ],
         "cca2": "UA",
         "cca3": "UKR",
@@ -980,27 +985,27 @@
             "woe_name": "Transcarpathia"
         },
         "geo": {
-            "latitude": 48.6208,
-            "longitude": 22.287883,
-            "max_latitude": 49.097557,
-            "max_longitude": 24.627378,
-            "min_latitude": 47.896507,
-            "min_longitude": 22.135906
+            "latitude": 49.233083,
+            "longitude": 28.468217,
+            "max_latitude": 49.889537,
+            "max_longitude": 30.022071,
+            "min_latitude": 48.064971,
+            "min_longitude": 27.37479
         },
         "iso_3166_2": "UA-21",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Zakarpats'ka Oblast'",
+        "name": "Vinnyts'ka Oblast'",
         "postal": "21",
         "type": "Oblast'",
         "type_en": "Region"
     },
     "23": {
         "alt_names": [
-            "Zaporizhzhya",
-            "Zaporizka",
-            "Zaporozhye",
-            "Zaporo\u017eje"
+            "Vinnica",
+            "Vinnitsa",
+            "Vinnytska",
+            "Vinnytsya"
         ],
         "cca2": "UA",
         "cca3": "UKR",
@@ -1123,26 +1128,27 @@
             "woe_name": "Zaporizhzhya"
         },
         "geo": {
-            "latitude": 47.8388,
-            "longitude": 35.139567,
-            "max_latitude": 48.14402,
-            "max_longitude": 37.2450479,
-            "min_latitude": 46.2642371,
-            "min_longitude": 34.245512
+            "latitude": 49.233083,
+            "longitude": 28.468217,
+            "max_latitude": 49.889537,
+            "max_longitude": 30.022071,
+            "min_latitude": 48.064971,
+            "min_longitude": 27.37479
         },
         "iso_3166_2": "UA-23",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Zaporiz'ka Oblast'",
+        "name": "Vinnyts'ka Oblast'",
         "postal": "23",
         "type": "Oblast'",
         "type_en": "Region"
     },
     "26": {
         "alt_names": [
-            "Ivano-Frankivsk",
-            "Ivano-Frankivska",
-            "Ivano-Frankovsk"
+            "Vinnica",
+            "Vinnitsa",
+            "Vinnytska",
+            "Vinnytsya"
         ],
         "cca2": "UA",
         "cca3": "UKR",
@@ -1265,26 +1271,27 @@
             "woe_name": "Ivano-Frankivs'k"
         },
         "geo": {
-            "latitude": 48.922633,
-            "longitude": 24.711117,
-            "max_latitude": 49.559585,
-            "max_longitude": 25.6529901,
-            "min_latitude": 47.724266,
-            "min_longitude": 23.545547
+            "latitude": 49.233083,
+            "longitude": 28.468217,
+            "max_latitude": 49.889537,
+            "max_longitude": 30.022071,
+            "min_latitude": 48.064971,
+            "min_longitude": 27.37479
         },
         "iso_3166_2": "UA-26",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Ivano-Frankivs'ka Oblast'",
+        "name": "Vinnyts'ka Oblast'",
         "postal": "26",
         "type": "Oblast'",
         "type_en": "Region"
     },
     "30": {
         "alt_names": [
-            "Kyiv",
-            "Kyyiv",
-            "Kiev"
+            "Vinnica",
+            "Vinnitsa",
+            "Vinnytska",
+            "Vinnytsya"
         ],
         "cca2": "UA",
         "cca3": "UKR",
@@ -1407,26 +1414,27 @@
             "woe_name": "Kiev City Municipality"
         },
         "geo": {
-            "latitude": 50.4501,
-            "longitude": 30.5234,
-            "max_latitude": 50.590798,
-            "max_longitude": 30.825941,
-            "min_latitude": 50.213273,
-            "min_longitude": 30.2394401
+            "latitude": 49.233083,
+            "longitude": 28.468217,
+            "max_latitude": 49.889537,
+            "max_longitude": 30.022071,
+            "min_latitude": 48.064971,
+            "min_longitude": 27.37479
         },
         "iso_3166_2": "UA-30",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Ky\u00efv",
+        "name": "Vinnyts'ka Oblast'",
         "postal": "30",
         "type": "Rada",
         "type_en": "Municipality"
     },
     "32": {
         "alt_names": [
-            "Kyiv",
-            "Kyyiv",
-            "Kiev"
+            "Vinnica",
+            "Vinnitsa",
+            "Vinnytska",
+            "Vinnytsya"
         ],
         "cca2": "UA",
         "cca3": "UKR",
@@ -1549,26 +1557,27 @@
             "woe_name": "Kiev"
         },
         "geo": {
-            "latitude": 50.4501,
-            "longitude": 30.5234,
-            "max_latitude": 50.590798,
-            "max_longitude": 30.825941,
-            "min_latitude": 50.213273,
-            "min_longitude": 30.2394401
+            "latitude": 49.233083,
+            "longitude": 28.468217,
+            "max_latitude": 49.889537,
+            "max_longitude": 30.022071,
+            "min_latitude": 48.064971,
+            "min_longitude": 27.37479
         },
         "iso_3166_2": "UA-32",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Ky\u00efv",
+        "name": "Vinnyts'ka Oblast'",
         "postal": "32",
         "type": "Oblast'",
         "type_en": "Region"
     },
     "35": {
         "alt_names": [
-            "Kirovograd",
-            "Kirovohrad",
-            "Kirovohradska"
+            "Vinnica",
+            "Vinnitsa",
+            "Vinnytska",
+            "Vinnytsya"
         ],
         "cca2": "UA",
         "cca3": "UKR",
@@ -1691,26 +1700,27 @@
             "woe_name": "Kirovohrad"
         },
         "geo": {
-            "latitude": 48.507933,
-            "longitude": 32.262317,
-            "max_latitude": 49.1651489,
-            "max_longitude": 33.8891529,
-            "min_latitude": 47.749134,
-            "min_longitude": 29.749174
+            "latitude": 49.233083,
+            "longitude": 28.468217,
+            "max_latitude": 49.889537,
+            "max_longitude": 30.022071,
+            "min_latitude": 48.064971,
+            "min_longitude": 27.37479
         },
         "iso_3166_2": "UA-35",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Kirovohrads'ka Oblast'",
+        "name": "Vinnyts'ka Oblast'",
         "postal": "35",
         "type": "Oblast'",
         "type_en": "Region"
     },
     "46": {
         "alt_names": [
-            "Lvivska",
-            "Lvov",
-            "L\u02bfviv"
+            "Vinnica",
+            "Vinnitsa",
+            "Vinnytska",
+            "Vinnytsya"
         ],
         "cca2": "UA",
         "cca3": "UKR",
@@ -1833,27 +1843,27 @@
             "woe_name": "L'viv"
         },
         "geo": {
-            "latitude": 49.839683,
-            "longitude": 24.029717,
-            "max_latitude": 50.6488831,
-            "max_longitude": 25.426912,
-            "min_latitude": 48.7189779,
-            "min_longitude": 22.6406759
+            "latitude": 49.233083,
+            "longitude": 28.468217,
+            "max_latitude": 49.889537,
+            "max_longitude": 30.022071,
+            "min_latitude": 48.064971,
+            "min_longitude": 27.37479
         },
         "iso_3166_2": "UA-46",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "L'vivs'ka Oblast'",
+        "name": "Vinnyts'ka Oblast'",
         "postal": "46",
         "type": "Oblast'",
         "type_en": "Region"
     },
     "48": {
         "alt_names": [
-            "Mykolayivsk",
-            "Mykolayivska",
-            "Nikolajev",
-            "Nikolayev"
+            "Vinnica",
+            "Vinnitsa",
+            "Vinnytska",
+            "Vinnytsya"
         ],
         "cca2": "UA",
         "cca3": "UKR",
@@ -1976,26 +1986,27 @@
             "woe_name": "Mykolayiv"
         },
         "geo": {
-            "latitude": 46.975033,
-            "longitude": 31.994583,
-            "max_latitude": 48.2316741,
-            "max_longitude": 33.183647,
-            "min_latitude": 46.3689089,
-            "min_longitude": 30.2075529
+            "latitude": 49.233083,
+            "longitude": 28.468217,
+            "max_latitude": 49.889537,
+            "max_longitude": 30.022071,
+            "min_latitude": 48.064971,
+            "min_longitude": 27.37479
         },
         "iso_3166_2": "UA-48",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Mykola\u00efvs'ka Oblast'",
+        "name": "Vinnyts'ka Oblast'",
         "postal": "48",
         "type": "Oblast'",
         "type_en": "Region"
     },
     "51": {
         "alt_names": [
-            "Odesa",
-            "Odeska",
-            "Odessa"
+            "Vinnica",
+            "Vinnitsa",
+            "Vinnytska",
+            "Vinnytsya"
         ],
         "cca2": "UA",
         "cca3": "UKR",
@@ -2118,25 +2129,27 @@
             "woe_name": "Odessa"
         },
         "geo": {
-            "latitude": 46.484583,
-            "longitude": 30.7326,
-            "max_latitude": 48.233306,
-            "max_longitude": 31.305305,
-            "min_latitude": 45.204082,
-            "min_longitude": 28.211238
+            "latitude": 49.233083,
+            "longitude": 28.468217,
+            "max_latitude": 49.889537,
+            "max_longitude": 30.022071,
+            "min_latitude": 48.064971,
+            "min_longitude": 27.37479
         },
         "iso_3166_2": "UA-51",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Odes'ka Oblast'",
+        "name": "Vinnyts'ka Oblast'",
         "postal": "51",
         "type": "Oblast'",
         "type_en": "Region"
     },
     "53": {
         "alt_names": [
-            "Poltava",
-            "Poltavska"
+            "Vinnica",
+            "Vinnitsa",
+            "Vinnytska",
+            "Vinnytsya"
         ],
         "cca2": "UA",
         "cca3": "UKR",
@@ -2259,27 +2272,27 @@
             "woe_name": "Poltava"
         },
         "geo": {
-            "latitude": 49.588267,
-            "longitude": 34.551417,
-            "max_latitude": 50.5535039,
-            "max_longitude": 35.4904511,
-            "min_latitude": 48.742984,
-            "min_longitude": 32.08675
+            "latitude": 49.233083,
+            "longitude": 28.468217,
+            "max_latitude": 49.889537,
+            "max_longitude": 30.022071,
+            "min_latitude": 48.064971,
+            "min_longitude": 27.37479
         },
         "iso_3166_2": "UA-53",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Poltavs'ka Oblast'",
+        "name": "Vinnyts'ka Oblast'",
         "postal": "53",
         "type": "Oblast'",
         "type_en": "Region"
     },
     "56": {
         "alt_names": [
-            "Rivne",
-            "Rivnenska",
-            "Rovno",
-            "R\u00f3wne"
+            "Vinnica",
+            "Vinnitsa",
+            "Vinnytska",
+            "Vinnytsya"
         ],
         "cca2": "UA",
         "cca3": "UKR",
@@ -2402,25 +2415,27 @@
             "woe_name": "Rivne"
         },
         "geo": {
-            "latitude": 50.6199,
-            "longitude": 26.251617,
-            "max_latitude": 51.9498591,
-            "max_longitude": 27.729513,
-            "min_latitude": 50.0043561,
-            "min_longitude": 25.0837821
+            "latitude": 49.233083,
+            "longitude": 28.468217,
+            "max_latitude": 49.889537,
+            "max_longitude": 30.022071,
+            "min_latitude": 48.064971,
+            "min_longitude": 27.37479
         },
         "iso_3166_2": "UA-56",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Rivnens'ka Oblast'",
+        "name": "Vinnyts'ka Oblast'",
         "postal": "56",
         "type": "Oblast'",
         "type_en": "Region"
     },
     "59": {
         "alt_names": [
-            "Sumska",
-            "Sumy"
+            "Vinnica",
+            "Vinnitsa",
+            "Vinnytska",
+            "Vinnytsya"
         ],
         "cca2": "UA",
         "cca3": "UKR",
@@ -2543,26 +2558,27 @@
             "woe_name": "Sumy"
         },
         "geo": {
-            "latitude": 50.9077,
-            "longitude": 34.7981,
-            "max_latitude": 52.367214,
-            "max_longitude": 35.6927141,
-            "min_latitude": 50.109886,
-            "min_longitude": 32.943534
+            "latitude": 49.233083,
+            "longitude": 28.468217,
+            "max_latitude": 49.889537,
+            "max_longitude": 30.022071,
+            "min_latitude": 48.064971,
+            "min_longitude": 27.37479
         },
         "iso_3166_2": "UA-59",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Sums'ka Oblast'",
+        "name": "Vinnyts'ka Oblast'",
         "postal": "59",
         "type": "Oblast'",
         "type_en": "Region"
     },
     "61": {
         "alt_names": [
-            "Ternopil",
-            "Ternopilska",
-            "Ternopol"
+            "Vinnica",
+            "Vinnitsa",
+            "Vinnytska",
+            "Vinnytsya"
         ],
         "cca2": "UA",
         "cca3": "UKR",
@@ -2685,27 +2701,27 @@
             "woe_name": "Ternopil'"
         },
         "geo": {
-            "latitude": 49.553517,
-            "longitude": 25.594767,
-            "max_latitude": 50.267215,
-            "max_longitude": 26.4434051,
-            "min_latitude": 48.507534,
-            "min_longitude": 24.718486
+            "latitude": 49.233083,
+            "longitude": 28.468217,
+            "max_latitude": 49.889537,
+            "max_longitude": 30.022071,
+            "min_latitude": 48.064971,
+            "min_longitude": 27.37479
         },
         "iso_3166_2": "UA-61",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Ternopil's'ka Oblast'",
+        "name": "Vinnyts'ka Oblast'",
         "postal": "61",
         "type": "Oblast'",
         "type_en": "Region"
     },
     "63": {
         "alt_names": [
-            "Harkov",
-            "Kharkiv",
-            "Kharkivska",
-            "Kharkov"
+            "Vinnica",
+            "Vinnitsa",
+            "Vinnytska",
+            "Vinnytsya"
         ],
         "cca2": "UA",
         "cca3": "UKR",
@@ -2828,26 +2844,27 @@
             "woe_name": "Kharkiv"
         },
         "geo": {
-            "latitude": 49.9935,
-            "longitude": 36.230383,
-            "max_latitude": 50.459388,
-            "max_longitude": 38.0953061,
-            "min_latitude": 48.531375,
-            "min_longitude": 34.8563339
+            "latitude": 49.233083,
+            "longitude": 28.468217,
+            "max_latitude": 49.889537,
+            "max_longitude": 30.022071,
+            "min_latitude": 48.064971,
+            "min_longitude": 27.37479
         },
         "iso_3166_2": "UA-63",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Kharkivs'ka Oblast'",
+        "name": "Vinnyts'ka Oblast'",
         "postal": "63",
         "type": "Oblast'",
         "type_en": "Region"
     },
     "65": {
         "alt_names": [
-            "Herson",
-            "Kherson",
-            "Khersonska"
+            "Vinnica",
+            "Vinnitsa",
+            "Vinnytska",
+            "Vinnytsya"
         ],
         "cca2": "UA",
         "cca3": "UKR",
@@ -2970,27 +2987,27 @@
             "woe_name": "Kherson Oblast"
         },
         "geo": {
-            "latitude": 46.635417,
-            "longitude": 32.616867,
-            "max_latitude": 47.600048,
-            "max_longitude": 35.281549,
-            "min_latitude": 45.7607072,
-            "min_longitude": 31.5124959
+            "latitude": 49.233083,
+            "longitude": 28.468217,
+            "max_latitude": 49.889537,
+            "max_longitude": 30.022071,
+            "min_latitude": 48.064971,
+            "min_longitude": 27.37479
         },
         "iso_3166_2": "UA-65",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Khersons'ka Oblast'",
+        "name": "Vinnyts'ka Oblast'",
         "postal": "65",
         "type": "Oblast'",
         "type_en": ""
     },
     "68": {
         "alt_names": [
-            "Hmelnickij",
-            "Khmelnitsky",
-            "Khmelnytska",
-            "Khmelnytskyy"
+            "Vinnica",
+            "Vinnitsa",
+            "Vinnytska",
+            "Vinnytsya"
         ],
         "cca2": "UA",
         "cca3": "UKR",
@@ -3113,25 +3130,27 @@
             "woe_name": "Khmel'nyts'kyy"
         },
         "geo": {
-            "latitude": 49.422983,
-            "longitude": 26.987133,
-            "max_latitude": 50.594764,
-            "max_longitude": 27.8984479,
-            "min_latitude": 48.4516599,
-            "min_longitude": 26.1329989
+            "latitude": 49.233083,
+            "longitude": 28.468217,
+            "max_latitude": 49.889537,
+            "max_longitude": 30.022071,
+            "min_latitude": 48.064971,
+            "min_longitude": 27.37479
         },
         "iso_3166_2": "UA-68",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Khmel'nyts'ka Oblast'",
+        "name": "Vinnyts'ka Oblast'",
         "postal": "68",
         "type": "Oblast'",
         "type_en": "Region"
     },
     "71": {
         "alt_names": [
-            "Cherkask",
-            "Cherkassy"
+            "Vinnica",
+            "Vinnitsa",
+            "Vinnytska",
+            "Vinnytsya"
         ],
         "cca2": "UA",
         "cca3": "UKR",
@@ -3254,26 +3273,27 @@
             "woe_name": "Cherkasy"
         },
         "geo": {
-            "latitude": 49.444433,
-            "longitude": 32.059767,
-            "max_latitude": 50.228656,
-            "max_longitude": 32.8737981,
-            "min_latitude": 48.4519151,
-            "min_longitude": 29.6063949
+            "latitude": 49.233083,
+            "longitude": 28.468217,
+            "max_latitude": 49.889537,
+            "max_longitude": 30.022071,
+            "min_latitude": 48.064971,
+            "min_longitude": 27.37479
         },
         "iso_3166_2": "UA-71",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Cherkas'ka Oblast'",
+        "name": "Vinnyts'ka Oblast'",
         "postal": "71",
         "type": "Oblast'",
         "type_en": "Region"
     },
     "74": {
         "alt_names": [
-            "Chernigov",
-            "Chernihiv",
-            "\u010cernigov"
+            "Vinnica",
+            "Vinnitsa",
+            "Vinnytska",
+            "Vinnytsya"
         ],
         "cca2": "UA",
         "cca3": "UKR",
@@ -3396,30 +3416,27 @@
             "woe_name": "Chernihiv"
         },
         "geo": {
-            "latitude": 51.4982,
-            "longitude": 31.28935,
-            "max_latitude": 52.379379,
-            "max_longitude": 33.5009611,
-            "min_latitude": 50.345535,
-            "min_longitude": 30.497168
+            "latitude": 49.233083,
+            "longitude": 28.468217,
+            "max_latitude": 49.889537,
+            "max_longitude": 30.022071,
+            "min_latitude": 48.064971,
+            "min_longitude": 27.37479
         },
         "iso_3166_2": "UA-74",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Chernihivs'ka Oblast'",
+        "name": "Vinnyts'ka Oblast'",
         "postal": "74",
         "type": "Oblast'",
         "type_en": "Region"
     },
     "77": {
         "alt_names": [
-            "Cern\u0103u\u0163i",
-            "Chernivtsi",
-            "Chernivtsy",
-            "Chernovtsy",
-            "Czernowitz",
-            "Tschernowitz",
-            "\u010cernovcy"
+            "Vinnica",
+            "Vinnitsa",
+            "Vinnytska",
+            "Vinnytsya"
         ],
         "cca2": "UA",
         "cca3": "UKR",
@@ -3542,17 +3559,17 @@
             "woe_name": "Chernivtsi"
         },
         "geo": {
-            "latitude": 48.291683,
-            "longitude": 25.935217,
-            "max_latitude": 48.6759141,
-            "max_longitude": 27.533325,
-            "min_latitude": 47.725166,
-            "min_longitude": 24.908172
+            "latitude": 49.233083,
+            "longitude": 28.468217,
+            "max_latitude": 49.889537,
+            "max_longitude": 30.022071,
+            "min_latitude": 48.064971,
+            "min_longitude": 27.37479
         },
         "iso_3166_2": "UA-77",
         "iso_a2": "UA",
         "iso_a3": "UKR",
-        "name": "Chernivets'ka Oblast'",
+        "name": "Vinnyts'ka Oblast'",
         "postal": "77",
         "type": "Oblast'",
         "type_en": "Region"

@@ -141,7 +141,7 @@
     },
     "04": {
         "alt_names": [
-            "Saint John\u2019s"
+            "Saint George"
         ],
         "cca2": "AG",
         "cca3": "ATG",
@@ -264,24 +264,24 @@
             "woe_name": "Saint John"
         },
         "geo": {
-            "latitude": 17.116667,
-            "longitude": -61.85,
-            "max_latitude": 17.1409954,
-            "max_longitude": -61.8271922,
-            "min_latitude": 17.1079801,
-            "min_longitude": -61.8614586
+            "latitude": 17.1078489,
+            "longitude": -61.7882743,
+            "max_latitude": 17.1695276,
+            "max_longitude": -61.7465721,
+            "min_latitude": 17.0828211,
+            "min_longitude": -61.8104881
         },
         "iso_3166_2": "AG-04",
         "iso_a2": "AG",
         "iso_a3": "ATG",
-        "name": "Saint John\u2019s",
+        "name": "Saint George",
         "postal": "04",
         "type": "Parish",
         "type_en": "Parish"
     },
     "05": {
         "alt_names": [
-            "Saint Mary"
+            "Saint George"
         ],
         "cca2": "AG",
         "cca3": "ATG",
@@ -404,24 +404,24 @@
             "woe_name": "Saint Mary"
         },
         "geo": {
-            "latitude": 17.0512064,
-            "longitude": -61.8760283,
-            "max_latitude": 17.105279,
-            "max_longitude": -61.805473,
-            "min_latitude": 17.0037693,
-            "min_longitude": -61.905935
+            "latitude": 17.1078489,
+            "longitude": -61.7882743,
+            "max_latitude": 17.1695276,
+            "max_longitude": -61.7465721,
+            "min_latitude": 17.0828211,
+            "min_longitude": -61.8104881
         },
         "iso_3166_2": "AG-05",
         "iso_a2": "AG",
         "iso_a3": "ATG",
-        "name": "Saint Mary",
+        "name": "Saint George",
         "postal": "05",
         "type": "Parish",
         "type_en": "Parish"
     },
     "06": {
         "alt_names": [
-            "Saint Paul"
+            "Saint George"
         ],
         "cca2": "AG",
         "cca3": "ATG",
@@ -544,24 +544,24 @@
             "woe_name": "Saint Paul"
         },
         "geo": {
-            "latitude": 17.0371588,
-            "longitude": -61.7824256,
-            "max_latitude": 17.065935,
-            "max_longitude": -61.73061,
-            "min_latitude": 16.99795,
-            "min_longitude": -61.8129311
+            "latitude": 17.1078489,
+            "longitude": -61.7882743,
+            "max_latitude": 17.1695276,
+            "max_longitude": -61.7465721,
+            "min_latitude": 17.0828211,
+            "min_longitude": -61.8104881
         },
         "iso_3166_2": "AG-06",
         "iso_a2": "AG",
         "iso_a3": "ATG",
-        "name": "Saint Paul",
+        "name": "Saint George",
         "postal": "06",
         "type": "Parish",
         "type_en": "Parish"
     },
     "07": {
         "alt_names": [
-            "Saint Peter"
+            "Saint George"
         ],
         "cca2": "AG",
         "cca3": "ATG",
@@ -684,24 +684,24 @@
             "woe_name": "Saint Peter"
         },
         "geo": {
-            "latitude": 17.0980665,
-            "longitude": -61.7590329,
-            "max_latitude": 17.1485654,
-            "max_longitude": -61.71377,
-            "min_latitude": 17.062068,
-            "min_longitude": -61.787629
+            "latitude": 17.1078489,
+            "longitude": -61.7882743,
+            "max_latitude": 17.1695276,
+            "max_longitude": -61.7465721,
+            "min_latitude": 17.0828211,
+            "min_longitude": -61.8104881
         },
         "iso_3166_2": "AG-07",
         "iso_a2": "AG",
         "iso_a3": "ATG",
-        "name": "Saint Peter",
+        "name": "Saint George",
         "postal": "07",
         "type": "Parish",
         "type_en": "Parish"
     },
     "08": {
         "alt_names": [
-            "Saint Philip"
+            "Saint George"
         ],
         "cca2": "AG",
         "cca3": "ATG",
@@ -824,24 +824,24 @@
             "woe_name": "Saint Philip"
         },
         "geo": {
-            "latitude": 17.0480636,
-            "longitude": -61.712257,
-            "max_latitude": 17.1040329,
-            "max_longitude": -61.660976,
-            "min_latitude": 17.0310207,
-            "min_longitude": -61.744683
+            "latitude": 17.1078489,
+            "longitude": -61.7882743,
+            "max_latitude": 17.1695276,
+            "max_longitude": -61.7465721,
+            "min_latitude": 17.0828211,
+            "min_longitude": -61.8104881
         },
         "iso_3166_2": "AG-08",
         "iso_a2": "AG",
         "iso_a3": "ATG",
-        "name": "Saint Philip",
+        "name": "Saint George",
         "postal": "08",
         "type": "Parish",
         "type_en": "Parish"
     },
     "10": {
         "alt_names": [
-            "Barbuda"
+            "Saint George"
         ],
         "cca2": "AG",
         "cca3": "ATG",
@@ -964,24 +964,24 @@
             "woe_name": "Barbuda"
         },
         "geo": {
-            "latitude": 17.626798,
-            "longitude": -61.7707288,
-            "max_latitude": 17.7293354,
-            "max_longitude": -61.7318075,
-            "min_latitude": 17.5437252,
-            "min_longitude": -61.885789
+            "latitude": 17.1078489,
+            "longitude": -61.7882743,
+            "max_latitude": 17.1695276,
+            "max_longitude": -61.7465721,
+            "min_latitude": 17.0828211,
+            "min_longitude": -61.8104881
         },
         "iso_3166_2": "AG-10",
         "iso_a2": "AG",
         "iso_a3": "ATG",
-        "name": "Barbuda",
+        "name": "Saint George",
         "postal": "10",
         "type": "Dependency",
         "type_en": "Dependency"
     },
     "11": {
         "alt_names": [
-            "Redonda"
+            "Saint George"
         ],
         "cca2": "AG",
         "cca3": "ATG",
@@ -1104,17 +1104,17 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 16.938416,
-            "longitude": -62.3455148,
-            "max_latitude": 16.9430241,
-            "max_longitude": -62.342078,
-            "min_latitude": 16.9325319,
-            "min_longitude": -62.347657
+            "latitude": 17.1078489,
+            "longitude": -61.7882743,
+            "max_latitude": 17.1695276,
+            "max_longitude": -61.7465721,
+            "min_latitude": 17.0828211,
+            "min_longitude": -61.8104881
         },
         "iso_3166_2": "AG-11",
         "iso_a2": "AG",
         "iso_a3": "ATG",
-        "name": "Redonda",
+        "name": "Saint George",
         "postal": "11",
         "type": "Dependency",
         "type_en": "Dependency"

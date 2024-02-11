@@ -1,7 +1,7 @@
 {
     "X01~": {
         "alt_names": [
-            ""
+            "Ile Saint-Paul et Ile Amsterdam"
         ],
         "cca2": "TF",
         "cca3": "ATF",
@@ -124,20 +124,24 @@
             "woe_name": "French Southern Territories"
         },
         "geo": {
-            "latitude": "-49.3179000000",
-            "longitude": "69.2725000000"
+            "latitude": -38.7201976,
+            "longitude": 77.5189458,
+            "max_latitude": -38.7012284,
+            "max_longitude": 77.5487845,
+            "min_latitude": -38.7395664,
+            "min_longitude": 77.5017415
         },
         "iso_3166_2": "TF-X01~",
         "iso_a2": "TF",
         "iso_a3": "ATF",
-        "name": "Archipel des Kerguelen",
+        "name": "Ile Saint-Paul et Ile Amsterdam",
         "postal": "X01~",
         "type": "",
         "type_en": ""
     },
     "X02~": {
         "alt_names": [
-            ""
+            "Ile Saint-Paul et Ile Amsterdam"
         ],
         "cca2": "TF",
         "cca3": "ATF",
@@ -260,20 +264,24 @@
             "woe_name": "French Southern Territories"
         },
         "geo": {
-            "latitude": "-46.3974000000",
-            "longitude": "51.7536000000"
+            "latitude": -38.7201976,
+            "longitude": 77.5189458,
+            "max_latitude": -38.7012284,
+            "max_longitude": 77.5487845,
+            "min_latitude": -38.7395664,
+            "min_longitude": 77.5017415
         },
         "iso_3166_2": "TF-X02~",
         "iso_a2": "TF",
         "iso_a3": "ATF",
-        "name": "Archipel des Crozet",
+        "name": "Ile Saint-Paul et Ile Amsterdam",
         "postal": "X02~",
         "type": "",
         "type_en": ""
     },
     "X03~": {
         "alt_names": [
-            ""
+            "Ile Saint-Paul et Ile Amsterdam"
         ],
         "cca2": "TF",
         "cca3": "ATF",
@@ -396,13 +404,17 @@
             "woe_name": "French Southern Territories"
         },
         "geo": {
-            "latitude": "-17.0638000000",
-            "longitude": "42.7449000000"
+            "latitude": -38.7201976,
+            "longitude": 77.5189458,
+            "max_latitude": -38.7012284,
+            "max_longitude": 77.5487845,
+            "min_latitude": -38.7395664,
+            "min_longitude": 77.5017415
         },
         "iso_3166_2": "TF-X03~",
         "iso_a2": "TF",
         "iso_a3": "ATF",
-        "name": "Iles Eparses de l'ocean Indien",
+        "name": "Ile Saint-Paul et Ile Amsterdam",
         "postal": "X03~",
         "type": "",
         "type_en": ""

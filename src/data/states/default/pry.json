@@ -141,7 +141,7 @@
     },
     "2": {
         "alt_names": [
-            "San Pedro"
+            "Concepci\u00f3n"
         ],
         "cca2": "PY",
         "cca3": "PRY",
@@ -264,24 +264,24 @@
             "woe_name": "San Pedro"
         },
         "geo": {
-            "latitude": -24.1948668,
-            "longitude": -56.561647,
-            "max_latitude": -23.2985459,
-            "max_longitude": -55.765411,
-            "min_latitude": -25.018806,
-            "min_longitude": -57.5075949
+            "latitude": -22.811926,
+            "longitude": -57.1013188,
+            "max_latitude": -22.082298,
+            "max_longitude": -56.122326,
+            "min_latitude": -23.5051209,
+            "min_longitude": -57.992912
         },
         "iso_3166_2": "PY-2",
         "iso_a2": "PY",
         "iso_a3": "PRY",
-        "name": "San Pedro",
+        "name": "Concepci\u00f3n",
         "postal": "2",
         "type": "Departamento",
         "type_en": "Department"
     },
     "3": {
         "alt_names": [
-            "Cordillera"
+            "Concepci\u00f3n"
         ],
         "cca2": "PY",
         "cca3": "PRY",
@@ -404,24 +404,24 @@
             "woe_name": "Cordillera"
         },
         "geo": {
-            "latitude": -25.2289491,
-            "longitude": -57.0111681,
-            "max_latitude": -24.8388179,
-            "max_longitude": -56.5165789,
-            "min_latitude": -25.6632018,
-            "min_longitude": -57.46526
+            "latitude": -22.811926,
+            "longitude": -57.1013188,
+            "max_latitude": -22.082298,
+            "max_longitude": -56.122326,
+            "min_latitude": -23.5051209,
+            "min_longitude": -57.992912
         },
         "iso_3166_2": "PY-3",
         "iso_a2": "PY",
         "iso_a3": "PRY",
-        "name": "Cordillera",
+        "name": "Concepci\u00f3n",
         "postal": "3",
         "type": "Departamento",
         "type_en": "Department"
     },
     "4": {
         "alt_names": [
-            "Guair\u00e1"
+            "Concepci\u00f3n"
         ],
         "cca2": "PY",
         "cca3": "PRY",
@@ -544,24 +544,24 @@
             "woe_name": "Guair\u00e1"
         },
         "geo": {
-            "latitude": -25.8810932,
-            "longitude": -56.2929381,
-            "max_latitude": -25.5627229,
-            "max_longitude": -55.638214,
-            "min_latitude": -26.1846939,
-            "min_longitude": -56.77882
+            "latitude": -22.811926,
+            "longitude": -57.1013188,
+            "max_latitude": -22.082298,
+            "max_longitude": -56.122326,
+            "min_latitude": -23.5051209,
+            "min_longitude": -57.992912
         },
         "iso_3166_2": "PY-4",
         "iso_a2": "PY",
         "iso_a3": "PRY",
-        "name": "Guair\u00e1",
+        "name": "Concepci\u00f3n",
         "postal": "4",
         "type": "Departamento",
         "type_en": "Department"
     },
     "5": {
         "alt_names": [
-            "Caaguaz\u00fa"
+            "Concepci\u00f3n"
         ],
         "cca2": "PY",
         "cca3": "PRY",
@@ -684,24 +684,24 @@
             "woe_name": "Caaguaz\u00fa"
         },
         "geo": {
-            "latitude": -25.46,
-            "longitude": -56.02,
-            "max_latitude": -25.4339458,
-            "max_longitude": -55.9810925,
-            "min_latitude": -25.4961221,
-            "min_longitude": -56.0556792
+            "latitude": -22.811926,
+            "longitude": -57.1013188,
+            "max_latitude": -22.082298,
+            "max_longitude": -56.122326,
+            "min_latitude": -23.5051209,
+            "min_longitude": -57.992912
         },
         "iso_3166_2": "PY-5",
         "iso_a2": "PY",
         "iso_a3": "PRY",
-        "name": "Caaguaz\u00fa",
+        "name": "Concepci\u00f3n",
         "postal": "5",
         "type": "Departamento",
         "type_en": "Department"
     },
     "6": {
         "alt_names": [
-            "Caazap\u00e1"
+            "Concepci\u00f3n"
         ],
         "cca2": "PY",
         "cca3": "PRY",
@@ -824,24 +824,24 @@
             "woe_name": "Caazap\u00e1"
         },
         "geo": {
-            "latitude": -26.2260696,
-            "longitude": -56.0249982,
-            "max_latitude": -25.521578,
-            "max_longitude": -55.2496189,
-            "min_latitude": -26.794916,
-            "min_longitude": -56.8455049
+            "latitude": -22.811926,
+            "longitude": -57.1013188,
+            "max_latitude": -22.082298,
+            "max_longitude": -56.122326,
+            "min_latitude": -23.5051209,
+            "min_longitude": -57.992912
         },
         "iso_3166_2": "PY-6",
         "iso_a2": "PY",
         "iso_a3": "PRY",
-        "name": "Caazap\u00e1",
+        "name": "Concepci\u00f3n",
         "postal": "6",
         "type": "Departamento",
         "type_en": "Department"
     },
     "7": {
         "alt_names": [
-            "Itap\u00faa"
+            "Concepci\u00f3n"
         ],
         "cca2": "PY",
         "cca3": "PRY",
@@ -964,24 +964,24 @@
             "woe_name": "Itap\u00faa"
         },
         "geo": {
-            "latitude": -26.7923623,
-            "longitude": -55.6689636,
-            "max_latitude": -26.089293,
-            "max_longitude": -54.6497041,
-            "min_latitude": -27.6087381,
-            "min_longitude": -56.710255
+            "latitude": -22.811926,
+            "longitude": -57.1013188,
+            "max_latitude": -22.082298,
+            "max_longitude": -56.122326,
+            "min_latitude": -23.5051209,
+            "min_longitude": -57.992912
         },
         "iso_3166_2": "PY-7",
         "iso_a2": "PY",
         "iso_a3": "PRY",
-        "name": "Itap\u00faa",
+        "name": "Concepci\u00f3n",
         "postal": "7",
         "type": "Departamento",
         "type_en": "Department"
     },
     "8": {
         "alt_names": [
-            "Misiones"
+            "Concepci\u00f3n"
         ],
         "cca2": "PY",
         "cca3": "PRY",
@@ -1104,24 +1104,24 @@
             "woe_name": "Misiones"
         },
         "geo": {
-            "latitude": -26.8433512,
+            "latitude": -22.811926,
             "longitude": -57.1013188,
-            "max_latitude": -26.366865,
-            "max_longitude": -56.6343581,
-            "min_latitude": -27.604212,
-            "min_longitude": -57.7468951
+            "max_latitude": -22.082298,
+            "max_longitude": -56.122326,
+            "min_latitude": -23.5051209,
+            "min_longitude": -57.992912
         },
         "iso_3166_2": "PY-8",
         "iso_a2": "PY",
         "iso_a3": "PRY",
-        "name": "Misiones",
+        "name": "Concepci\u00f3n",
         "postal": "8",
         "type": "Departamento",
         "type_en": "Department"
     },
     "9": {
         "alt_names": [
-            "Paraguar\u00ed"
+            "Concepci\u00f3n"
         ],
         "cca2": "PY",
         "cca3": "PRY",
@@ -1244,24 +1244,24 @@
             "woe_name": "Paraguar\u00ed"
         },
         "geo": {
-            "latitude": -25.633333,
-            "longitude": -57.15,
-            "max_latitude": -25.6093911,
-            "max_longitude": -57.1331068,
-            "min_latitude": -25.6367345,
-            "min_longitude": -57.1644831
+            "latitude": -22.811926,
+            "longitude": -57.1013188,
+            "max_latitude": -22.082298,
+            "max_longitude": -56.122326,
+            "min_latitude": -23.5051209,
+            "min_longitude": -57.992912
         },
         "iso_3166_2": "PY-9",
         "iso_a2": "PY",
         "iso_a3": "PRY",
-        "name": "Paraguar\u00ed",
+        "name": "Concepci\u00f3n",
         "postal": "9",
         "type": "Departamento",
         "type_en": "Department"
     },
     "10": {
         "alt_names": [
-            "Alto Paran\u00e1"
+            "Concepci\u00f3n"
         ],
         "cca2": "PY",
         "cca3": "PRY",
@@ -1384,24 +1384,24 @@
             "woe_name": "Alto Paran\u00e1"
         },
         "geo": {
-            "latitude": -25.6075546,
-            "longitude": -54.9611836,
-            "max_latitude": -24.480299,
-            "max_longitude": -54.3706512,
-            "min_latitude": -26.257265,
-            "min_longitude": -55.5542681
+            "latitude": -22.811926,
+            "longitude": -57.1013188,
+            "max_latitude": -22.082298,
+            "max_longitude": -56.122326,
+            "min_latitude": -23.5051209,
+            "min_longitude": -57.992912
         },
         "iso_3166_2": "PY-10",
         "iso_a2": "PY",
         "iso_a3": "PRY",
-        "name": "Alto Paran\u00e1",
+        "name": "Concepci\u00f3n",
         "postal": "10",
         "type": "Departamento",
         "type_en": "Department"
     },
     "11": {
         "alt_names": [
-            "Central"
+            "Concepci\u00f3n"
         ],
         "cca2": "PY",
         "cca3": "PRY",
@@ -1524,24 +1524,24 @@
             "woe_name": "Central"
         },
         "geo": {
-            "latitude": -25.5628115,
-            "longitude": -57.5079912,
-            "max_latitude": -25.087879,
-            "max_longitude": -57.177471,
-            "min_latitude": -26.014746,
-            "min_longitude": -57.814782
+            "latitude": -22.811926,
+            "longitude": -57.1013188,
+            "max_latitude": -22.082298,
+            "max_longitude": -56.122326,
+            "min_latitude": -23.5051209,
+            "min_longitude": -57.992912
         },
         "iso_3166_2": "PY-11",
         "iso_a2": "PY",
         "iso_a3": "PRY",
-        "name": "Central",
+        "name": "Concepci\u00f3n",
         "postal": "11",
         "type": "Departamento",
         "type_en": "Department"
     },
     "12": {
         "alt_names": [
-            "Neembuc\u00fa"
+            "Concepci\u00f3n"
         ],
         "cca2": "PY",
         "cca3": "PRY",
@@ -1664,24 +1664,24 @@
             "woe_name": "\u00d1eembuc\u00fa"
         },
         "geo": {
-            "latitude": -27.0299114,
-            "longitude": -57.825395,
-            "max_latitude": -25.762459,
-            "max_longitude": -57.175465,
-            "min_latitude": -27.4405351,
-            "min_longitude": -58.663143
+            "latitude": -22.811926,
+            "longitude": -57.1013188,
+            "max_latitude": -22.082298,
+            "max_longitude": -56.122326,
+            "min_latitude": -23.5051209,
+            "min_longitude": -57.992912
         },
         "iso_3166_2": "PY-12",
         "iso_a2": "PY",
         "iso_a3": "PRY",
-        "name": "\u00d1eembuc\u00fa",
+        "name": "Concepci\u00f3n",
         "postal": "12",
         "type": "Departamento",
         "type_en": "Department"
     },
     "13": {
         "alt_names": [
-            "Amambay"
+            "Concepci\u00f3n"
         ],
         "cca2": "PY",
         "cca3": "PRY",
@@ -1804,25 +1804,24 @@
             "woe_name": "Amambay"
         },
         "geo": {
-            "latitude": -22.5590272,
-            "longitude": -56.0249982,
-            "max_latitude": -22.0332719,
-            "max_longitude": -55.5044811,
-            "min_latitude": -23.8353161,
-            "min_longitude": -56.8170299
+            "latitude": -22.811926,
+            "longitude": -57.1013188,
+            "max_latitude": -22.082298,
+            "max_longitude": -56.122326,
+            "min_latitude": -23.5051209,
+            "min_longitude": -57.992912
         },
         "iso_3166_2": "PY-13",
         "iso_a2": "PY",
         "iso_a3": "PRY",
-        "name": "Amambay",
+        "name": "Concepci\u00f3n",
         "postal": "13",
         "type": "Departamento",
         "type_en": "Department"
     },
     "14": {
         "alt_names": [
-            "Canindey\u00fa",
-            "Canindiy\u00fa"
+            "Concepci\u00f3n"
         ],
         "cca2": "PY",
         "cca3": "PRY",
@@ -1945,24 +1944,24 @@
             "woe_name": "Canindey\u00fa"
         },
         "geo": {
-            "latitude": -24.1378735,
-            "longitude": -55.6689636,
-            "max_latitude": -23.537436,
-            "max_longitude": -54.259354,
-            "min_latitude": -24.78257,
-            "min_longitude": -56.165066
+            "latitude": -22.811926,
+            "longitude": -57.1013188,
+            "max_latitude": -22.082298,
+            "max_longitude": -56.122326,
+            "min_latitude": -23.5051209,
+            "min_longitude": -57.992912
         },
         "iso_3166_2": "PY-14",
         "iso_a2": "PY",
         "iso_a3": "PRY",
-        "name": "Canindey\u00fa",
+        "name": "Concepci\u00f3n",
         "postal": "14",
         "type": "Departamento",
         "type_en": "Department"
     },
     "15": {
         "alt_names": [
-            "Presidente Hayes"
+            "Concepci\u00f3n"
         ],
         "cca2": "PY",
         "cca3": "PRY",
@@ -2085,24 +2084,24 @@
             "woe_name": "Presidente Hayes"
         },
         "geo": {
-            "latitude": -23.3512605,
-            "longitude": -58.7373634,
-            "max_latitude": -22.041864,
-            "max_longitude": -57.156029,
-            "min_latitude": -25.2822299,
-            "min_longitude": -60.779007
+            "latitude": -22.811926,
+            "longitude": -57.1013188,
+            "max_latitude": -22.082298,
+            "max_longitude": -56.122326,
+            "min_latitude": -23.5051209,
+            "min_longitude": -57.992912
         },
         "iso_3166_2": "PY-15",
         "iso_a2": "PY",
         "iso_a3": "PRY",
-        "name": "Presidente Hayes",
+        "name": "Concepci\u00f3n",
         "postal": "15",
         "type": "Departamento",
         "type_en": "Department"
     },
     "16": {
         "alt_names": [
-            "Alto Paraguay"
+            "Concepci\u00f3n"
         ],
         "cca2": "PY",
         "cca3": "PRY",
@@ -2225,24 +2224,24 @@
             "woe_name": "Alto Paraguay"
         },
         "geo": {
-            "latitude": -20.0852508,
-            "longitude": -59.4720904,
-            "max_latitude": -19.294041,
-            "max_longitude": -57.817802,
-            "min_latitude": -22.3844591,
-            "min_longitude": -61.909931
+            "latitude": -22.811926,
+            "longitude": -57.1013188,
+            "max_latitude": -22.082298,
+            "max_longitude": -56.122326,
+            "min_latitude": -23.5051209,
+            "min_longitude": -57.992912
         },
         "iso_3166_2": "PY-16",
         "iso_a2": "PY",
         "iso_a3": "PRY",
-        "name": "Alto Paraguay",
+        "name": "Concepci\u00f3n",
         "postal": "16",
         "type": "Departamento",
         "type_en": "Department"
     },
     "19": {
         "alt_names": [
-            "Boquer\u00f3n"
+            "Concepci\u00f3n"
         ],
         "cca2": "PY",
         "cca3": "PRY",
@@ -2365,24 +2364,24 @@
             "woe_name": "Boquer\u00f3n"
         },
         "geo": {
-            "latitude": -21.7449254,
-            "longitude": -60.9540073,
-            "max_latitude": -20.057264,
-            "max_longitude": -59.2829549,
-            "min_latitude": -23.879511,
-            "min_longitude": -62.6470759
+            "latitude": -22.811926,
+            "longitude": -57.1013188,
+            "max_latitude": -22.082298,
+            "max_longitude": -56.122326,
+            "min_latitude": -23.5051209,
+            "min_longitude": -57.992912
         },
         "iso_3166_2": "PY-19",
         "iso_a2": "PY",
         "iso_a3": "PRY",
-        "name": "Boquer\u00f3n",
+        "name": "Concepci\u00f3n",
         "postal": "19",
         "type": "Departamento",
         "type_en": "Department"
     },
     "ASU": {
         "alt_names": [
-            "Asunci\u00f3n"
+            "Concepci\u00f3n"
         ],
         "cca2": "PY",
         "cca3": "PRY",
@@ -2505,17 +2504,17 @@
             "woe_name": "Asunci\u00f3n"
         },
         "geo": {
-            "latitude": -25.282197,
-            "longitude": -57.6351,
-            "max_latitude": -25.2251891,
-            "max_longitude": -57.5246717,
-            "min_latitude": -25.3685162,
-            "min_longitude": -57.6715065
+            "latitude": -22.811926,
+            "longitude": -57.1013188,
+            "max_latitude": -22.082298,
+            "max_longitude": -56.122326,
+            "min_latitude": -23.5051209,
+            "min_longitude": -57.992912
         },
         "iso_3166_2": "PY-ASU",
         "iso_a2": "PY",
         "iso_a3": "PRY",
-        "name": "Asunci\u00f3n",
+        "name": "Concepci\u00f3n",
         "postal": "ASU",
         "type": "Distrito Capital",
         "type_en": "Capital District"

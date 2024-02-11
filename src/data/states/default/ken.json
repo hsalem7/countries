@@ -141,7 +141,7 @@
     },
     "200": {
         "alt_names": [
-            "Central"
+            "Nairobi Municipality"
         ],
         "cca2": "KE",
         "cca3": "KEN",
@@ -264,24 +264,24 @@
             "woe_name": "Central"
         },
         "geo": {
-            "latitude": -1.7959729,
-            "longitude": 37.7020747,
-            "max_latitude": -1.7872058,
-            "max_longitude": 37.7046067,
-            "min_latitude": -1.8022581,
-            "min_longitude": 37.6960079
+            "latitude": -1.286577,
+            "longitude": 36.8219367,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "KE-200",
         "iso_a2": "KE",
         "iso_a3": "KEN",
-        "name": "Central",
+        "name": "Nairobi Municipality",
         "postal": "200",
         "type": "Mkoa",
         "type_en": "Province"
     },
     "300": {
         "alt_names": [
-            "Coast"
+            "Nairobi Municipality"
         ],
         "cca2": "KE",
         "cca3": "KEN",
@@ -404,24 +404,24 @@
             "woe_name": "Coast"
         },
         "geo": {
-            "latitude": -1.2896282,
-            "longitude": 36.7499171,
-            "max_latitude": -1.2882341,
-            "max_longitude": 36.7504468,
-            "min_latitude": -1.2908067,
-            "min_longitude": 36.749455
+            "latitude": -1.286577,
+            "longitude": 36.8219367,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "KE-300",
         "iso_a2": "KE",
         "iso_a3": "KEN",
-        "name": "Coast",
+        "name": "Nairobi Municipality",
         "postal": "300",
         "type": "Mkoa",
         "type_en": "Province"
     },
     "400": {
         "alt_names": [
-            "Eastern"
+            "Nairobi Municipality"
         ],
         "cca2": "KE",
         "cca3": "KEN",
@@ -544,24 +544,24 @@
             "woe_name": "Eastern"
         },
         "geo": {
-            "latitude": 1.2692186,
-            "longitude": 33.438353,
-            "max_latitude": 2.421396,
-            "max_longitude": 34.829762,
-            "min_latitude": -0.1933874,
-            "min_longitude": 32.8465138
+            "latitude": -1.286577,
+            "longitude": 36.8219367,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "KE-400",
         "iso_a2": "KE",
         "iso_a3": "KEN",
-        "name": "Eastern",
+        "name": "Nairobi Municipality",
         "postal": "400",
         "type": "National Capital Area",
         "type_en": "National Capital Area"
     },
     "500": {
         "alt_names": [
-            "North-Eastern"
+            "Nairobi Municipality"
         ],
         "cca2": "KE",
         "cca3": "KEN",
@@ -684,8 +684,8 @@
             "woe_name": "North-Eastern"
         },
         "geo": {
-            "latitude": -0.0190061,
-            "longitude": 37.6480812,
+            "latitude": -1.286577,
+            "longitude": 36.8219367,
             "max_latitude": null,
             "max_longitude": null,
             "min_latitude": null,
@@ -694,14 +694,14 @@
         "iso_3166_2": "KE-500",
         "iso_a2": "KE",
         "iso_a3": "KEN",
-        "name": "North-Eastern",
+        "name": "Nairobi Municipality",
         "postal": "500",
         "type": "Mkoa",
         "type_en": "Province"
     },
     "600": {
         "alt_names": [
-            "Nyanza"
+            "Nairobi Municipality"
         ],
         "cca2": "KE",
         "cca3": "KEN",
@@ -824,8 +824,8 @@
             "woe_name": "Nyanza"
         },
         "geo": {
-            "latitude": -1.2849963,
-            "longitude": 36.8272273,
+            "latitude": -1.286577,
+            "longitude": 36.8219367,
             "max_latitude": null,
             "max_longitude": null,
             "min_latitude": null,
@@ -834,14 +834,14 @@
         "iso_3166_2": "KE-600",
         "iso_a2": "KE",
         "iso_a3": "KEN",
-        "name": "Nyanza",
+        "name": "Nairobi Municipality",
         "postal": "600",
         "type": "Mkoa",
         "type_en": "Province"
     },
     "700": {
         "alt_names": [
-            "Rift Valley"
+            "Nairobi Municipality"
         ],
         "cca2": "KE",
         "cca3": "KEN",
@@ -964,8 +964,8 @@
             "woe_name": "Rift Valley"
         },
         "geo": {
-            "latitude": -0.2830282,
-            "longitude": 36.0750219,
+            "latitude": -1.286577,
+            "longitude": 36.8219367,
             "max_latitude": null,
             "max_longitude": null,
             "min_latitude": null,
@@ -974,14 +974,14 @@
         "iso_3166_2": "KE-700",
         "iso_a2": "KE",
         "iso_a3": "KEN",
-        "name": "Rift Valley",
+        "name": "Nairobi Municipality",
         "postal": "700",
         "type": "Mkoa",
         "type_en": "Province"
     },
     "800": {
         "alt_names": [
-            "Western"
+            "Nairobi Municipality"
         ],
         "cca2": "KE",
         "cca3": "KEN",
@@ -1104,17 +1104,17 @@
             "woe_name": "Western"
         },
         "geo": {
-            "latitude": 0.7138364,
-            "longitude": 35.5174033,
-            "max_latitude": 0.714007,
-            "max_longitude": 35.5174577,
-            "min_latitude": 0.7136744,
-            "min_longitude": 35.5173344
+            "latitude": -1.286577,
+            "longitude": 36.8219367,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "KE-800",
         "iso_a2": "KE",
         "iso_a3": "KEN",
-        "name": "Western",
+        "name": "Nairobi Municipality",
         "postal": "800",
         "type": "Mkoa",
         "type_en": "Province"

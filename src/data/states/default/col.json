@@ -141,7 +141,7 @@
     },
     "ANT": {
         "alt_names": [
-            "Antioquia"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -264,24 +264,24 @@
             "woe_name": "Antioquia"
         },
         "geo": {
-            "latitude": 7.1986064,
-            "longitude": -75.3412179,
-            "max_latitude": 8.8897787,
-            "max_longitude": -73.88748,
-            "min_latitude": 5.41826,
-            "min_longitude": -77.12709
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-ANT",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Antioquia",
+        "name": "Amazonas",
         "postal": "ANT",
         "type": "Departamento",
         "type_en": "Department"
     },
     "ARA": {
         "alt_names": [
-            "Arauca"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -404,24 +404,24 @@
             "woe_name": "Arauca"
         },
         "geo": {
-            "latitude": 7.079371,
-            "longitude": -70.758377,
-            "max_latitude": 7.10438,
-            "max_longitude": -69.76795,
-            "min_latitude": 6.48352,
-            "min_longitude": -71.20248
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-ARA",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Arauca",
+        "name": "Amazonas",
         "postal": "ARA",
         "type": "Intendencia",
         "type_en": "Intendancy"
     },
     "ATL": {
         "alt_names": [
-            "Atl\u00e1ntico"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -544,24 +544,24 @@
             "woe_name": "Atl\u00e1ntico"
         },
         "geo": {
-            "latitude": 10.6966159,
-            "longitude": -74.8741045,
-            "max_latitude": 11.1067254,
-            "max_longitude": -74.71324,
-            "min_latitude": 10.2557104,
-            "min_longitude": -75.26715
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-ATL",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Atl\u00e1ntico",
+        "name": "Amazonas",
         "postal": "ATL",
         "type": "Departamento",
         "type_en": "Department"
     },
     "BOL": {
         "alt_names": [
-            "Bol\u00edvar"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -684,24 +684,24 @@
             "woe_name": "Bol\u00edvar"
         },
         "geo": {
-            "latitude": 8.6704382,
-            "longitude": -74.0300122,
-            "max_latitude": 10.8013601,
-            "max_longitude": -73.74835,
-            "min_latitude": 6.99981,
-            "min_longitude": -75.7040302
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-BOL",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Bol\u00edvar",
+        "name": "Amazonas",
         "postal": "BOL",
         "type": "Departamento",
         "type_en": "Department"
     },
     "BOY": {
         "alt_names": [
-            "Boyac\u00e1"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -824,24 +824,24 @@
             "woe_name": "Boyac\u00e1"
         },
         "geo": {
-            "latitude": 5.45,
-            "longitude": -73.35,
-            "max_latitude": 5.481,
-            "max_longitude": -73.33132,
-            "min_latitude": 5.40465,
-            "min_longitude": -73.43772
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-BOY",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Boyac\u00e1",
+        "name": "Amazonas",
         "postal": "BOY",
         "type": "Departamento",
         "type_en": "Department"
     },
     "CAL": {
         "alt_names": [
-            "Caldas"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -964,24 +964,24 @@
             "woe_name": "Caldas"
         },
         "geo": {
-            "latitude": 5.4815477,
-            "longitude": -75.2114408,
-            "max_latitude": 5.4854088,
-            "max_longitude": -75.2068233,
-            "min_latitude": 5.4777194,
-            "min_longitude": -75.2173805
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-CAL",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Caldas",
+        "name": "Amazonas",
         "postal": "CAL",
         "type": "Departamento",
         "type_en": "Department"
     },
     "CAQ": {
         "alt_names": [
-            "Caquet\u00e1"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -1104,24 +1104,24 @@
             "woe_name": "Caquet\u00e1"
         },
         "geo": {
-            "latitude": 0.869892,
-            "longitude": -73.8419063,
-            "max_latitude": 2.9332,
-            "max_longitude": -71.32022,
-            "min_latitude": -0.70652,
-            "min_longitude": -76.30578
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-CAQ",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Caquet\u00e1",
+        "name": "Amazonas",
         "postal": "CAQ",
         "type": "Intendencia",
         "type_en": "Intendancy"
     },
     "CAS": {
         "alt_names": [
-            "Casanare"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -1244,24 +1244,24 @@
             "woe_name": "Casanare"
         },
         "geo": {
-            "latitude": 5.7589269,
+            "latitude": -1.4429123,
             "longitude": -71.5723953,
-            "max_latitude": 6.30716,
-            "max_longitude": -69.8356,
-            "min_latitude": 4.286,
-            "min_longitude": -73.07694
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-CAS",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Casanare",
+        "name": "Amazonas",
         "postal": "CAS",
         "type": "Intendencia",
         "type_en": "Intendancy"
     },
     "CAU": {
         "alt_names": [
-            "Cauca"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -1384,24 +1384,24 @@
             "woe_name": "Cauca"
         },
         "geo": {
-            "latitude": 2.5725523,
-            "longitude": -76.7783748,
-            "max_latitude": 2.5752548,
-            "max_longitude": -76.7718601,
-            "min_latitude": 2.5690383,
-            "min_longitude": -76.7816877
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-CAU",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Cauca",
+        "name": "Amazonas",
         "postal": "CAU",
         "type": "Departamento",
         "type_en": "Department"
     },
     "CES": {
         "alt_names": [
-            "Cesar"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -1524,24 +1524,24 @@
             "woe_name": "Cesar"
         },
         "geo": {
-            "latitude": 9.3372948,
-            "longitude": -73.6536209,
-            "max_latitude": 10.86722,
-            "max_longitude": -72.88257,
-            "min_latitude": 7.6764,
-            "min_longitude": -74.13982
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-CES",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Cesar",
+        "name": "Amazonas",
         "postal": "CES",
         "type": "Departamento",
         "type_en": "Department"
     },
     "CHO": {
         "alt_names": [
-            "Choc\u00f3"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -1664,24 +1664,24 @@
             "woe_name": "Choc\u00f3"
         },
         "geo": {
-            "latitude": 5.2528033,
-            "longitude": -76.8259652,
-            "max_latitude": 8.67598,
-            "max_longitude": -76.0026,
-            "min_latitude": 3.96467,
-            "min_longitude": -77.88728
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-CHO",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Choc\u00f3",
+        "name": "Amazonas",
         "postal": "CHO",
         "type": "Departamento",
         "type_en": "Department"
     },
     "COR": {
         "alt_names": [
-            "C\u00f3rdoba"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -1804,24 +1804,24 @@
             "woe_name": "C\u00f3rdoba"
         },
         "geo": {
-            "latitude": 8.4029253,
-            "longitude": -75.8998674,
-            "max_latitude": 9.4478024,
-            "max_longitude": -74.78514,
-            "min_latitude": 7.34709,
-            "min_longitude": -76.50993
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-COR",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "C\u00f3rdoba",
+        "name": "Amazonas",
         "postal": "COR",
         "type": "Departamento",
         "type_en": "Department"
     },
     "CUN": {
         "alt_names": [
-            "Cundinamarca"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -1944,24 +1944,24 @@
             "woe_name": "Cundinamarca"
         },
         "geo": {
-            "latitude": 5.026003,
-            "longitude": -74.0300122,
-            "max_latitude": 5.8367,
-            "max_longitude": -73.05084,
-            "min_latitude": 3.7269,
-            "min_longitude": -74.89067
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-CUN",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Cundinamarca",
+        "name": "Amazonas",
         "postal": "CUN",
         "type": "Departamento",
         "type_en": "Department"
     },
     "GUA": {
         "alt_names": [
-            "Guain\u00eda"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -2084,24 +2084,24 @@
             "woe_name": "Guain\u00eda"
         },
         "geo": {
-            "latitude": 2.585393,
-            "longitude": -68.5247149,
-            "max_latitude": 4.04741,
-            "max_longitude": -66.84722,
-            "min_latitude": 1.16702,
-            "min_longitude": -70.9425
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-GUA",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Guain\u00eda",
+        "name": "Amazonas",
         "postal": "GUA",
         "type": "Comisar\u00eda",
         "type_en": "Commissiary"
     },
     "GUV": {
         "alt_names": [
-            "Guaviare"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -2224,24 +2224,24 @@
             "woe_name": "Guaviare"
         },
         "geo": {
-            "latitude": 1.0619181,
-            "longitude": -73.2558952,
-            "max_latitude": 1.0722202,
-            "max_longitude": -73.245163,
-            "min_latitude": 1.051796,
-            "min_longitude": -73.2715988
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-GUV",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Guaviare",
+        "name": "Amazonas",
         "postal": "GUV",
         "type": "Comisar\u00eda",
         "type_en": "Commissiary"
     },
     "HUI": {
         "alt_names": [
-            "Huila"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -2364,24 +2364,24 @@
             "woe_name": "Huila"
         },
         "geo": {
-            "latitude": 2.5359349,
-            "longitude": -75.5276699,
-            "max_latitude": 3.84485,
-            "max_longitude": -74.41285,
-            "min_latitude": 1.55547,
-            "min_longitude": -76.62425
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-HUI",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Huila",
+        "name": "Amazonas",
         "postal": "HUI",
         "type": "Departamento",
         "type_en": "Department"
     },
     "LAG": {
         "alt_names": [
-            "La Guajira"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -2504,24 +2504,24 @@
             "woe_name": "La Guajira"
         },
         "geo": {
-            "latitude": 11.3547743,
-            "longitude": -72.5204827,
-            "max_latitude": 12.4584622,
-            "max_longitude": -71.1131716,
-            "min_latitude": 10.39699,
-            "min_longitude": -73.66419
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-LAG",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "La Guajira",
+        "name": "Amazonas",
         "postal": "LAG",
         "type": "Departamento",
         "type_en": "Department"
     },
     "MAG": {
         "alt_names": [
-            "Magdalena"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -2644,24 +2644,24 @@
             "woe_name": "Magdalena"
         },
         "geo": {
-            "latitude": 10.4113014,
-            "longitude": -74.4056612,
-            "max_latitude": 11.3489296,
-            "max_longitude": -73.54199,
-            "min_latitude": 8.9183801,
-            "min_longitude": -74.945423
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-MAG",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Magdalena",
+        "name": "Amazonas",
         "postal": "MAG",
         "type": "Departamento",
         "type_en": "Department"
     },
     "MET": {
         "alt_names": [
-            "Meta"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -2784,24 +2784,24 @@
             "woe_name": "Meta"
         },
         "geo": {
-            "latitude": 3.2719904,
-            "longitude": -73.087749,
-            "max_latitude": 4.92514,
-            "max_longitude": -71.0774,
-            "min_latitude": 1.60126,
-            "min_longitude": -74.93392
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-MET",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Meta",
+        "name": "Amazonas",
         "postal": "MET",
         "type": "Departamento",
         "type_en": "Department"
     },
     "NAR": {
         "alt_names": [
-            "Nari\u00f1o"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -2924,24 +2924,24 @@
             "woe_name": "Nari\u00f1o"
         },
         "geo": {
-            "latitude": 1.289822,
-            "longitude": -77.3586119,
-            "max_latitude": 1.35415,
-            "max_longitude": -77.30889,
-            "min_latitude": 1.22328,
-            "min_longitude": -77.38336
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-NAR",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Nari\u00f1o",
+        "name": "Amazonas",
         "postal": "NAR",
         "type": "Departamento",
         "type_en": "Department"
     },
     "NSA": {
         "alt_names": [
-            "Norte de Santander"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -3064,24 +3064,24 @@
             "woe_name": "Norte de Santander"
         },
         "geo": {
-            "latitude": 7.9462831,
-            "longitude": -72.8988069,
-            "max_latitude": 9.29051,
-            "max_longitude": -72.04813,
-            "min_latitude": 6.87306,
-            "min_longitude": -73.63743
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-NSA",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Norte de Santander",
+        "name": "Amazonas",
         "postal": "NSA",
         "type": "Departamento",
         "type_en": "Department"
     },
     "PUT": {
         "alt_names": [
-            "Putumayo"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -3204,24 +3204,24 @@
             "woe_name": "Putumayo"
         },
         "geo": {
-            "latitude": 0.4359506,
-            "longitude": -75.5276699,
-            "max_latitude": 1.46781,
-            "max_longitude": -73.8413,
-            "min_latitude": -0.56002,
-            "min_longitude": -77.18681
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-PUT",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Putumayo",
+        "name": "Amazonas",
         "postal": "PUT",
         "type": "Intendencia",
         "type_en": "Intendancy"
     },
     "QUI": {
         "alt_names": [
-            "Quind\u00edo"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -3344,24 +3344,24 @@
             "woe_name": "Quind\u00edo"
         },
         "geo": {
-            "latitude": 4.4610191,
-            "longitude": -75.667356,
-            "max_latitude": 4.71822,
-            "max_longitude": -75.38454,
-            "min_latitude": 4.07391,
-            "min_longitude": -75.89562
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-QUI",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Quind\u00edo",
+        "name": "Amazonas",
         "postal": "QUI",
         "type": "Departamento",
         "type_en": "Department"
     },
     "RIS": {
         "alt_names": [
-            "Risaralda"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -3484,24 +3484,24 @@
             "woe_name": "Risaralda"
         },
         "geo": {
-            "latitude": 4.99243,
-            "longitude": -76.01866,
-            "max_latitude": 5.56805,
-            "max_longitude": -75.37609,
-            "min_latitude": 4.66464,
-            "min_longitude": -76.21154
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-RIS",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Risaralda",
+        "name": "Amazonas",
         "postal": "RIS",
         "type": "Departamento",
         "type_en": "Department"
     },
     "SAN": {
         "alt_names": [
-            "Santander"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -3624,24 +3624,24 @@
             "woe_name": "Santander"
         },
         "geo": {
-            "latitude": 6.6437076,
-            "longitude": -73.6536209,
-            "max_latitude": 8.1410123,
-            "max_longitude": -72.4764,
-            "min_latitude": 5.70671,
-            "min_longitude": -74.52666
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-SAN",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Santander",
+        "name": "Amazonas",
         "postal": "SAN",
         "type": "Departamento",
         "type_en": "Department"
     },
     "SAP": {
         "alt_names": [
-            "San Andr\u00e9s, Providencia y Santa Catalina"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -3764,24 +3764,24 @@
             "woe_name": "San Andr\u00e9s y Providencia"
         },
         "geo": {
-            "latitude": 13.35395,
-            "longitude": -81.37127,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-SAP",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "San Andr\u00e9s, Providencia y Santa Catalina",
+        "name": "Amazonas",
         "postal": "SAP",
         "type": "Departamento",
         "type_en": "Department"
     },
     "SUC": {
         "alt_names": [
-            "Sucre"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -3904,24 +3904,24 @@
             "woe_name": "Sucre"
         },
         "geo": {
-            "latitude": 8.81389,
-            "longitude": -74.7253,
-            "max_latitude": 9.04574,
-            "max_longitude": -74.55743,
-            "min_latitude": 8.56835,
-            "min_longitude": -74.89498
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-SUC",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Sucre",
+        "name": "Amazonas",
         "postal": "SUC",
         "type": "Departamento",
         "type_en": "Department"
     },
     "TOL": {
         "alt_names": [
-            "Tolima"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -4044,24 +4044,24 @@
             "woe_name": "Tolima"
         },
         "geo": {
-            "latitude": 4.0925168,
-            "longitude": -75.1545381,
-            "max_latitude": 5.31695,
-            "max_longitude": -74.47525,
-            "min_latitude": 2.8705,
-            "min_longitude": -76.10852
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-TOL",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Tolima",
+        "name": "Amazonas",
         "postal": "TOL",
         "type": "Departamento",
         "type_en": "Department"
     },
     "VAC": {
         "alt_names": [
-            "Valle del Cauca"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -4184,24 +4184,24 @@
             "woe_name": "Valle del Cauca"
         },
         "geo": {
-            "latitude": 3.8008893,
-            "longitude": -76.6412712,
-            "max_latitude": 5.03687,
-            "max_longitude": -75.70488,
-            "min_latitude": 3.09083,
-            "min_longitude": -77.5440788
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-VAC",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Valle del Cauca",
+        "name": "Amazonas",
         "postal": "VAC",
         "type": "Departamento",
         "type_en": "Department"
     },
     "VAU": {
         "alt_names": [
-            "Vaup\u00e9s"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -4324,24 +4324,24 @@
             "woe_name": "Vaup\u00e9s"
         },
         "geo": {
-            "latitude": 0.8553561,
-            "longitude": -70.8119953,
-            "max_latitude": 2.08011,
-            "max_longitude": -69.11563,
-            "min_latitude": -1.22768,
-            "min_longitude": -72.03437
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-VAU",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Vaup\u00e9s",
+        "name": "Amazonas",
         "postal": "VAU",
         "type": "Comisar\u00eda",
         "type_en": "Commissiary"
     },
     "VID": {
         "alt_names": [
-            "Vichada"
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -4464,24 +4464,24 @@
             "woe_name": "Vichada"
         },
         "geo": {
-            "latitude": 4.4234452,
-            "longitude": -69.2877535,
-            "max_latitude": 6.32433,
-            "max_longitude": -67.40982,
-            "min_latitude": 2.7371,
-            "min_longitude": -71.07766
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-VID",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "Vichada",
+        "name": "Amazonas",
         "postal": "VID",
         "type": "Comisar\u00eda",
         "type_en": "Commissiary"
     },
     "X01~": {
         "alt_names": [
-            ""
+            "Amazonas"
         ],
         "cca2": "CO",
         "cca3": "COL",
@@ -4604,13 +4604,17 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "3.9779400000",
-            "longitude": "-81.5928000000"
+            "latitude": -1.4429123,
+            "longitude": -71.5723953,
+            "max_latitude": 0.11057,
+            "max_longitude": -69.39555,
+            "min_latitude": -4.22727,
+            "min_longitude": -74.39015
         },
         "iso_3166_2": "CO-X01~",
         "iso_a2": "CO",
         "iso_a3": "COL",
-        "name": "",
+        "name": "Amazonas",
         "postal": "X01~",
         "type": "",
         "type_en": ""

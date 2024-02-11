@@ -141,7 +141,7 @@
     },
     "02": {
         "alt_names": [
-            "Central"
+            "Western"
         ],
         "cca2": "ZM",
         "cca3": "ZMB",
@@ -264,24 +264,24 @@
             "woe_name": "Central"
         },
         "geo": {
-            "latitude": -14.3112263,
-            "longitude": 28.299435,
-            "max_latitude": -12.0036589,
-            "max_longitude": 31.4494591,
-            "min_latitude": -15.7121141,
-            "min_longitude": 25.350383
+            "latitude": -15.9454906,
+            "longitude": 23.3823545,
+            "max_latitude": -13.709041,
+            "max_longitude": 25.52071,
+            "min_latitude": -17.6392799,
+            "min_longitude": 21.999371
         },
         "iso_3166_2": "ZM-02",
         "iso_a2": "ZM",
         "iso_a3": "ZMB",
-        "name": "Central",
+        "name": "Western",
         "postal": "02",
         "type": "Province",
         "type_en": "Province"
     },
     "03": {
         "alt_names": [
-            "Eastern"
+            "Western"
         ],
         "cca2": "ZM",
         "cca3": "ZMB",
@@ -404,24 +404,24 @@
             "woe_name": "Eastern"
         },
         "geo": {
-            "latitude": -13.8056187,
-            "longitude": 31.9928078,
-            "max_latitude": -10.3251301,
-            "max_longitude": 33.6895011,
-            "min_latitude": -14.997233,
-            "min_longitude": 29.9865299
+            "latitude": -15.9454906,
+            "longitude": 23.3823545,
+            "max_latitude": -13.709041,
+            "max_longitude": 25.52071,
+            "min_latitude": -17.6392799,
+            "min_longitude": 21.999371
         },
         "iso_3166_2": "ZM-03",
         "iso_a2": "ZM",
         "iso_a3": "ZMB",
-        "name": "Eastern",
+        "name": "Western",
         "postal": "03",
         "type": "Province",
         "type_en": "Province"
     },
     "04": {
         "alt_names": [
-            "Luapula"
+            "Western"
         ],
         "cca2": "ZM",
         "cca3": "ZMB",
@@ -544,24 +544,24 @@
             "woe_name": "Luapula"
         },
         "geo": {
-            "latitude": -11.564831,
-            "longitude": 29.0459927,
-            "max_latitude": -8.3756929,
-            "max_longitude": 30.466128,
-            "min_latitude": -12.471966,
-            "min_longitude": 28.3809699
+            "latitude": -15.9454906,
+            "longitude": 23.3823545,
+            "max_latitude": -13.709041,
+            "max_longitude": 25.52071,
+            "min_latitude": -17.6392799,
+            "min_longitude": 21.999371
         },
         "iso_3166_2": "ZM-04",
         "iso_a2": "ZM",
         "iso_a3": "ZMB",
-        "name": "Luapula",
+        "name": "Western",
         "postal": "04",
         "type": "Province",
         "type_en": "Province"
     },
     "05": {
         "alt_names": [
-            "Northern"
+            "Western"
         ],
         "cca2": "ZM",
         "cca3": "ZMB",
@@ -684,24 +684,24 @@
             "woe_name": "Northern"
         },
         "geo": {
-            "latitude": -9.7670177,
-            "longitude": 30.8958242,
-            "max_latitude": -8.251887,
-            "max_longitude": 33.705704,
-            "min_latitude": -13.4275721,
-            "min_longitude": 29.10338
+            "latitude": -15.9454906,
+            "longitude": 23.3823545,
+            "max_latitude": -13.709041,
+            "max_longitude": 25.52071,
+            "min_latitude": -17.6392799,
+            "min_longitude": 21.999371
         },
         "iso_3166_2": "ZM-05",
         "iso_a2": "ZM",
         "iso_a3": "ZMB",
-        "name": "Northern",
+        "name": "Western",
         "postal": "05",
         "type": "Province",
         "type_en": "Province"
     },
     "06": {
         "alt_names": [
-            "North-Western"
+            "Western"
         ],
         "cca2": "ZM",
         "cca3": "ZMB",
@@ -824,24 +824,24 @@
             "woe_name": "North-Western"
         },
         "geo": {
-            "latitude": -13.0050258,
-            "longitude": 24.9042208,
-            "max_latitude": -10.885152,
-            "max_longitude": 27.6016581,
-            "min_latitude": -14.72759,
-            "min_longitude": 21.999899
+            "latitude": -15.9454906,
+            "longitude": 23.3823545,
+            "max_latitude": -13.709041,
+            "max_longitude": 25.52071,
+            "min_latitude": -17.6392799,
+            "min_longitude": 21.999371
         },
         "iso_3166_2": "ZM-06",
         "iso_a2": "ZM",
         "iso_a3": "ZMB",
-        "name": "North-Western",
+        "name": "Western",
         "postal": "06",
         "type": "Province",
         "type_en": "Province"
     },
     "07": {
         "alt_names": [
-            "Southern"
+            "Western"
         ],
         "cca2": "ZM",
         "cca3": "ZMB",
@@ -964,17 +964,17 @@
             "woe_name": "Southern"
         },
         "geo": {
-            "latitude": -16.9620634,
-            "longitude": 26.419389,
-            "max_latitude": -15.293982,
-            "max_longitude": 28.912453,
-            "min_latitude": -18.079473,
-            "min_longitude": 24.9715499
+            "latitude": -15.9454906,
+            "longitude": 23.3823545,
+            "max_latitude": -13.709041,
+            "max_longitude": 25.52071,
+            "min_latitude": -17.6392799,
+            "min_longitude": 21.999371
         },
         "iso_3166_2": "ZM-07",
         "iso_a2": "ZM",
         "iso_a3": "ZMB",
-        "name": "Southern",
+        "name": "Western",
         "postal": "07",
         "type": "Province",
         "type_en": "Province"
@@ -1121,7 +1121,7 @@
     },
     "09": {
         "alt_names": [
-            "Lusaka"
+            "Western"
         ],
         "cca2": "ZM",
         "cca3": "ZMB",
@@ -1244,24 +1244,24 @@
             "woe_name": "Lusaka"
         },
         "geo": {
-            "latitude": -15.416667,
-            "longitude": 28.283333,
-            "max_latitude": -15.2992532,
-            "max_longitude": 28.4887506,
-            "min_latitude": -15.5344065,
-            "min_longitude": 28.1987555
+            "latitude": -15.9454906,
+            "longitude": 23.3823545,
+            "max_latitude": -13.709041,
+            "max_longitude": 25.52071,
+            "min_latitude": -17.6392799,
+            "min_longitude": 21.999371
         },
         "iso_3166_2": "ZM-09",
         "iso_a2": "ZM",
         "iso_a3": "ZMB",
-        "name": "Lusaka",
+        "name": "Western",
         "postal": "09",
         "type": "Province",
         "type_en": "Province"
     },
     "10": {
         "alt_names": [
-            ""
+            "Western"
         ],
         "cca2": "ZM",
         "cca3": "ZMB",
@@ -1384,13 +1384,17 @@
             "woe_name": "Northern"
         },
         "geo": {
-            "latitude": "-11.3701000000",
-            "longitude": "32.0234000000"
+            "latitude": -15.9454906,
+            "longitude": 23.3823545,
+            "max_latitude": -13.709041,
+            "max_longitude": 25.52071,
+            "min_latitude": -17.6392799,
+            "min_longitude": 21.999371
         },
         "iso_3166_2": "ZM-10",
         "iso_a2": "ZM",
         "iso_a3": "ZMB",
-        "name": "Muchinga",
+        "name": "Western",
         "postal": "10",
         "type": "Province",
         "type_en": "Province"

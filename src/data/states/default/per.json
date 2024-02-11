@@ -141,7 +141,7 @@
     },
     "ANC": {
         "alt_names": [
-            "Anqas"
+            "Amazonas"
         ],
         "cca2": "PE",
         "cca3": "PER",
@@ -264,24 +264,24 @@
             "woe_name": "Ancash"
         },
         "geo": {
-            "latitude": -9.3250497,
-            "longitude": -77.5619419,
-            "max_latitude": -8.013484,
-            "max_longitude": -76.7310711,
-            "min_latitude": -10.7835641,
-            "min_longitude": -78.6806381
+            "latitude": -5.115146,
+            "longitude": -78.1108279,
+            "max_latitude": -2.990077,
+            "max_longitude": -77.1344191,
+            "min_latitude": -6.976671,
+            "min_longitude": -78.712204
         },
         "iso_3166_2": "PE-ANC",
         "iso_a2": "PE",
         "iso_a3": "PER",
-        "name": "Ancash",
+        "name": "Amazonas",
         "postal": "ANC",
         "type": "Departamento",
         "type_en": "Department"
     },
     "APU": {
         "alt_names": [
-            "Apur\u00edmac"
+            "Amazonas"
         ],
         "cca2": "PE",
         "cca3": "PER",
@@ -404,24 +404,24 @@
             "woe_name": "Apur\u00edmac"
         },
         "geo": {
-            "latitude": -14.0504533,
-            "longitude": -73.087749,
-            "max_latitude": -13.203756,
-            "max_longitude": -72.0566938,
-            "min_latitude": -14.83203,
-            "min_longitude": -73.849785
+            "latitude": -5.115146,
+            "longitude": -78.1108279,
+            "max_latitude": -2.990077,
+            "max_longitude": -77.1344191,
+            "min_latitude": -6.976671,
+            "min_longitude": -78.712204
         },
         "iso_3166_2": "PE-APU",
         "iso_a2": "PE",
         "iso_a3": "PER",
-        "name": "Apur\u00edmac",
+        "name": "Amazonas",
         "postal": "APU",
         "type": "Departamento",
         "type_en": "Department"
     },
     "ARE": {
         "alt_names": [
-            "Areqepa"
+            "Amazonas"
         ],
         "cca2": "PE",
         "cca3": "PER",
@@ -544,24 +544,24 @@
             "woe_name": "Arequipa"
         },
         "geo": {
-            "latitude": -16.4090474,
-            "longitude": -71.537451,
-            "max_latitude": -16.3752714,
-            "max_longitude": -71.5133423,
-            "min_latitude": -16.4328333,
-            "min_longitude": -71.5646806
+            "latitude": -5.115146,
+            "longitude": -78.1108279,
+            "max_latitude": -2.990077,
+            "max_longitude": -77.1344191,
+            "min_latitude": -6.976671,
+            "min_longitude": -78.712204
         },
         "iso_3166_2": "PE-ARE",
         "iso_a2": "PE",
         "iso_a3": "PER",
-        "name": "Arequipa",
+        "name": "Amazonas",
         "postal": "ARE",
         "type": "Departamento",
         "type_en": "Department"
     },
     "AYA": {
         "alt_names": [
-            "Ayakuchu"
+            "Amazonas"
         ],
         "cca2": "PE",
         "cca3": "PER",
@@ -684,24 +684,24 @@
             "woe_name": "Ayacucho"
         },
         "geo": {
-            "latitude": -13.1638737,
-            "longitude": -74.2235641,
-            "max_latitude": -13.1192574,
-            "max_longitude": -74.1800438,
-            "min_latitude": -13.197473,
-            "min_longitude": -74.2445644
+            "latitude": -5.115146,
+            "longitude": -78.1108279,
+            "max_latitude": -2.990077,
+            "max_longitude": -77.1344191,
+            "min_latitude": -6.976671,
+            "min_longitude": -78.712204
         },
         "iso_3166_2": "PE-AYA",
         "iso_a2": "PE",
         "iso_a3": "PER",
-        "name": "Ayacucho",
+        "name": "Amazonas",
         "postal": "AYA",
         "type": "Departamento",
         "type_en": "Department"
     },
     "CAJ": {
         "alt_names": [
-            "Cajamarca"
+            "Amazonas"
         ],
         "cca2": "PE",
         "cca3": "PER",
@@ -824,24 +824,24 @@
             "woe_name": "Cajamarca"
         },
         "geo": {
-            "latitude": -6.4549673,
-            "longitude": -78.8382644,
-            "max_latitude": -4.6272731,
-            "max_longitude": -77.7339101,
-            "min_latitude": -7.7577419,
-            "min_longitude": -79.4470061
+            "latitude": -5.115146,
+            "longitude": -78.1108279,
+            "max_latitude": -2.990077,
+            "max_longitude": -77.1344191,
+            "min_latitude": -6.976671,
+            "min_longitude": -78.712204
         },
         "iso_3166_2": "PE-CAJ",
         "iso_a2": "PE",
         "iso_a3": "PER",
-        "name": "Cajamarca",
+        "name": "Amazonas",
         "postal": "CAJ",
         "type": "Departamento",
         "type_en": "Department"
     },
     "CAL": {
         "alt_names": [
-            "El Callao"
+            "Amazonas"
         ],
         "cca2": "PE",
         "cca3": "PER",
@@ -964,25 +964,24 @@
             "woe_name": "Callao"
         },
         "geo": {
-            "latitude": -12.0508491,
-            "longitude": -77.1259843,
-            "max_latitude": -11.9369042,
-            "max_longitude": -77.0768166,
-            "min_latitude": -12.0703989,
-            "min_longitude": -77.158476
+            "latitude": -5.115146,
+            "longitude": -78.1108279,
+            "max_latitude": -2.990077,
+            "max_longitude": -77.1344191,
+            "min_latitude": -6.976671,
+            "min_longitude": -78.712204
         },
         "iso_3166_2": "PE-CAL",
         "iso_a2": "PE",
         "iso_a3": "PER",
-        "name": "El Callao",
+        "name": "Amazonas",
         "postal": "CAL",
         "type": "Departamento",
         "type_en": "Departamento"
     },
     "CUS": {
         "alt_names": [
-            "Cuzco",
-            "Qosqo"
+            "Amazonas"
         ],
         "cca2": "PE",
         "cca3": "PER",
@@ -1105,24 +1104,24 @@
             "woe_name": "Cusco"
         },
         "geo": {
-            "latitude": -13.53195,
-            "longitude": -71.9674626,
-            "max_latitude": -13.4973908,
-            "max_longitude": -71.8533325,
-            "min_latitude": -13.5626478,
-            "min_longitude": -72.0251656
+            "latitude": -5.115146,
+            "longitude": -78.1108279,
+            "max_latitude": -2.990077,
+            "max_longitude": -77.1344191,
+            "min_latitude": -6.976671,
+            "min_longitude": -78.712204
         },
         "iso_3166_2": "PE-CUS",
         "iso_a2": "PE",
         "iso_a3": "PER",
-        "name": "Cuzco [Cusco]",
+        "name": "Amazonas",
         "postal": "CUS",
         "type": "Departamento",
         "type_en": "Department"
     },
     "HUC": {
         "alt_names": [
-            "Hu\u00e1nuco"
+            "Amazonas"
         ],
         "cca2": "PE",
         "cca3": "PER",
@@ -1245,24 +1244,24 @@
             "woe_name": "Hu\u00e1nuco"
         },
         "geo": {
-            "latitude": -9.9298454,
-            "longitude": -76.2432653,
-            "max_latitude": -9.8383029,
-            "max_longitude": -76.1809051,
-            "min_latitude": -9.9442711,
-            "min_longitude": -76.4056207
+            "latitude": -5.115146,
+            "longitude": -78.1108279,
+            "max_latitude": -2.990077,
+            "max_longitude": -77.1344191,
+            "min_latitude": -6.976671,
+            "min_longitude": -78.712204
         },
         "iso_3166_2": "PE-HUC",
         "iso_a2": "PE",
         "iso_a3": "PER",
-        "name": "Hu\u00e1nuco",
+        "name": "Amazonas",
         "postal": "HUC",
         "type": "Departamento",
         "type_en": "Department"
     },
     "HUV": {
         "alt_names": [
-            "Huancavelica"
+            "Amazonas"
         ],
         "cca2": "PE",
         "cca3": "PER",
@@ -1385,24 +1384,24 @@
             "woe_name": "Huancavelica"
         },
         "geo": {
-            "latitude": -12.786389,
-            "longitude": -74.975556,
-            "max_latitude": -12.7743664,
-            "max_longitude": -74.9511767,
-            "min_latitude": -12.7912327,
-            "min_longitude": -74.9997568
+            "latitude": -5.115146,
+            "longitude": -78.1108279,
+            "max_latitude": -2.990077,
+            "max_longitude": -77.1344191,
+            "min_latitude": -6.976671,
+            "min_longitude": -78.712204
         },
         "iso_3166_2": "PE-HUV",
         "iso_a2": "PE",
         "iso_a3": "PER",
-        "name": "Huancavelica",
+        "name": "Amazonas",
         "postal": "HUV",
         "type": "Departamento",
         "type_en": "Department"
     },
     "ICA": {
         "alt_names": [
-            "Ica"
+            "Amazonas"
         ],
         "cca2": "PE",
         "cca3": "PER",
@@ -1525,24 +1524,24 @@
             "woe_name": "Ica"
         },
         "geo": {
-            "latitude": -13.9379378,
-            "longitude": -75.8007093,
-            "max_latitude": -12.9657768,
-            "max_longitude": -74.6589428,
-            "min_latitude": -15.4353454,
-            "min_longitude": -76.4667187
+            "latitude": -5.115146,
+            "longitude": -78.1108279,
+            "max_latitude": -2.990077,
+            "max_longitude": -77.1344191,
+            "min_latitude": -6.976671,
+            "min_longitude": -78.712204
         },
         "iso_3166_2": "PE-ICA",
         "iso_a2": "PE",
         "iso_a3": "PER",
-        "name": "Ica",
+        "name": "Amazonas",
         "postal": "ICA",
         "type": "Departamento",
         "type_en": "Department"
     },
     "JUN": {
         "alt_names": [
-            "Jun\u00edn"
+            "Amazonas"
         ],
         "cca2": "PE",
         "cca3": "PER",
@@ -1665,24 +1664,24 @@
             "woe_name": "Jun\u00edn"
         },
         "geo": {
-            "latitude": -11.335798,
-            "longitude": -75.3412179,
-            "max_latitude": -10.6655961,
-            "max_longitude": -73.3522989,
-            "min_latitude": -12.6817741,
-            "min_longitude": -76.513082
+            "latitude": -5.115146,
+            "longitude": -78.1108279,
+            "max_latitude": -2.990077,
+            "max_longitude": -77.1344191,
+            "min_latitude": -6.976671,
+            "min_longitude": -78.712204
         },
         "iso_3166_2": "PE-JUN",
         "iso_a2": "PE",
         "iso_a3": "PER",
-        "name": "Jun\u00edn",
+        "name": "Amazonas",
         "postal": "JUN",
         "type": "Departamento",
         "type_en": "Department"
     },
     "LAL": {
         "alt_names": [
-            "La Libertad"
+            "Amazonas"
         ],
         "cca2": "PE",
         "cca3": "PER",
@@ -1805,24 +1804,24 @@
             "woe_name": "La Libertad"
         },
         "geo": {
-            "latitude": -8.1435933,
-            "longitude": -78.4751945,
-            "max_latitude": -6.95362,
-            "max_longitude": -76.8979728,
-            "min_latitude": -8.9774429,
-            "min_longitude": -79.68024
+            "latitude": -5.115146,
+            "longitude": -78.1108279,
+            "max_latitude": -2.990077,
+            "max_longitude": -77.1344191,
+            "min_latitude": -6.976671,
+            "min_longitude": -78.712204
         },
         "iso_3166_2": "PE-LAL",
         "iso_a2": "PE",
         "iso_a3": "PER",
-        "name": "La Libertad",
+        "name": "Amazonas",
         "postal": "LAL",
         "type": "Departamento",
         "type_en": "Department"
     },
     "LAM": {
         "alt_names": [
-            "Lambayeque"
+            "Amazonas"
         ],
         "cca2": "PE",
         "cca3": "PER",
@@ -1945,24 +1944,24 @@
             "woe_name": "Lambayeque"
         },
         "geo": {
-            "latitude": -6.4776528,
-            "longitude": -79.9192702,
-            "max_latitude": -5.5400261,
-            "max_longitude": -79.131943,
-            "min_latitude": -7.178574,
-            "min_longitude": -80.6023481
+            "latitude": -5.115146,
+            "longitude": -78.1108279,
+            "max_latitude": -2.990077,
+            "max_longitude": -77.1344191,
+            "min_latitude": -6.976671,
+            "min_longitude": -78.712204
         },
         "iso_3166_2": "PE-LAM",
         "iso_a2": "PE",
         "iso_a3": "PER",
-        "name": "Lambayeque",
+        "name": "Amazonas",
         "postal": "LAM",
         "type": "Departamento",
         "type_en": "Department"
     },
     "LIM": {
         "alt_names": [
-            "Lima"
+            "Amazonas"
         ],
         "cca2": "PE",
         "cca3": "PER",
@@ -2085,24 +2084,24 @@
             "woe_name": "Lima Province"
         },
         "geo": {
-            "latitude": -12.046374,
-            "longitude": -77.0427934,
-            "max_latitude": -12.0308632,
-            "max_longitude": -77.0020311,
-            "min_latitude": -12.0798252,
-            "min_longitude": -77.0883395
+            "latitude": -5.115146,
+            "longitude": -78.1108279,
+            "max_latitude": -2.990077,
+            "max_longitude": -77.1344191,
+            "min_latitude": -6.976671,
+            "min_longitude": -78.712204
         },
         "iso_3166_2": "PE-LIM",
         "iso_a2": "PE",
         "iso_a3": "PER",
-        "name": "Lima",
+        "name": "Amazonas",
         "postal": "LIM",
         "type": "Distrito Capital",
         "type_en": "Captial District"
     },
     "LOR": {
         "alt_names": [
-            "Loreto"
+            "Amazonas"
         ],
         "cca2": "PE",
         "cca3": "PER",
@@ -2225,24 +2224,24 @@
             "woe_name": "Loreto"
         },
         "geo": {
-            "latitude": -4.2324729,
-            "longitude": -74.2179326,
-            "max_latitude": -0.012977,
-            "max_longitude": -69.949455,
-            "min_latitude": -8.697729,
-            "min_longitude": -77.806003
+            "latitude": -5.115146,
+            "longitude": -78.1108279,
+            "max_latitude": -2.990077,
+            "max_longitude": -77.1344191,
+            "min_latitude": -6.976671,
+            "min_longitude": -78.712204
         },
         "iso_3166_2": "PE-LOR",
         "iso_a2": "PE",
         "iso_a3": "PER",
-        "name": "Loreto",
+        "name": "Amazonas",
         "postal": "LOR",
         "type": "Departamento",
         "type_en": "Department"
     },
     "MDD": {
         "alt_names": [
-            "Madre de Dios"
+            "Amazonas"
         ],
         "cca2": "PE",
         "cca3": "PER",
@@ -2365,24 +2364,24 @@
             "woe_name": "Madre de Dios"
         },
         "geo": {
-            "latitude": -12.5986,
-            "longitude": -70.090584,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": -5.115146,
+            "longitude": -78.1108279,
+            "max_latitude": -2.990077,
+            "max_longitude": -77.1344191,
+            "min_latitude": -6.976671,
+            "min_longitude": -78.712204
         },
         "iso_3166_2": "PE-MDD",
         "iso_a2": "PE",
         "iso_a3": "PER",
-        "name": "Madre de Dios",
+        "name": "Amazonas",
         "postal": "MDD",
         "type": "Departamento",
         "type_en": "Department"
     },
     "MOQ": {
         "alt_names": [
-            "Moquegua"
+            "Amazonas"
         ],
         "cca2": "PE",
         "cca3": "PER",
@@ -2505,24 +2504,24 @@
             "woe_name": "Moquegua"
         },
         "geo": {
-            "latitude": -17.1927361,
-            "longitude": -70.9328138,
-            "max_latitude": -17.1641233,
-            "max_longitude": -70.8882093,
-            "min_latitude": -17.2175438,
-            "min_longitude": -70.9717655
+            "latitude": -5.115146,
+            "longitude": -78.1108279,
+            "max_latitude": -2.990077,
+            "max_longitude": -77.1344191,
+            "min_latitude": -6.976671,
+            "min_longitude": -78.712204
         },
         "iso_3166_2": "PE-MOQ",
         "iso_a2": "PE",
         "iso_a3": "PER",
-        "name": "Moquegua",
+        "name": "Amazonas",
         "postal": "MOQ",
         "type": "Departamento",
         "type_en": "Department"
     },
     "PAS": {
         "alt_names": [
-            "Pasco"
+            "Amazonas"
         ],
         "cca2": "PE",
         "cca3": "PER",
@@ -2645,24 +2644,24 @@
             "woe_name": "Pasco"
         },
         "geo": {
-            "latitude": -10.4475753,
-            "longitude": -75.1545381,
-            "max_latitude": -9.431508,
-            "max_longitude": -74.1266931,
-            "min_latitude": -11.134321,
-            "min_longitude": -76.704674
+            "latitude": -5.115146,
+            "longitude": -78.1108279,
+            "max_latitude": -2.990077,
+            "max_longitude": -77.1344191,
+            "min_latitude": -6.976671,
+            "min_longitude": -78.712204
         },
         "iso_3166_2": "PE-PAS",
         "iso_a2": "PE",
         "iso_a3": "PER",
-        "name": "Pasco",
+        "name": "Amazonas",
         "postal": "PAS",
         "type": "Departamento",
         "type_en": "Department"
     },
     "PIU": {
         "alt_names": [
-            "Piura"
+            "Amazonas"
         ],
         "cca2": "PE",
         "cca3": "PER",
@@ -2785,24 +2784,24 @@
             "woe_name": "Piura"
         },
         "geo": {
-            "latitude": -5.2,
-            "longitude": -80.633333,
-            "max_latitude": -5.1395019,
-            "max_longitude": -80.6152725,
-            "min_latitude": -5.2466696,
-            "min_longitude": -80.7183401
+            "latitude": -5.115146,
+            "longitude": -78.1108279,
+            "max_latitude": -2.990077,
+            "max_longitude": -77.1344191,
+            "min_latitude": -6.976671,
+            "min_longitude": -78.712204
         },
         "iso_3166_2": "PE-PIU",
         "iso_a2": "PE",
         "iso_a3": "PER",
-        "name": "Piura",
+        "name": "Amazonas",
         "postal": "PIU",
         "type": "Departamento",
         "type_en": "Department"
     },
     "PUN": {
         "alt_names": [
-            "El Callao"
+            "Amazonas"
         ],
         "cca2": "PE",
         "cca3": "PER",
@@ -2925,24 +2924,24 @@
             "woe_name": "Callao"
         },
         "geo": {
-            "latitude": -12.0508491,
-            "longitude": -77.1259843,
-            "max_latitude": -11.9369042,
-            "max_longitude": -77.0768166,
-            "min_latitude": -12.0703989,
-            "min_longitude": -77.158476
+            "latitude": -5.115146,
+            "longitude": -78.1108279,
+            "max_latitude": -2.990077,
+            "max_longitude": -77.1344191,
+            "min_latitude": -6.976671,
+            "min_longitude": -78.712204
         },
         "iso_3166_2": "PE-PUN",
         "iso_a2": "PE",
         "iso_a3": "PER",
-        "name": "El Callao",
+        "name": "Amazonas",
         "postal": "PUN",
         "type": "Departamento",
         "type_en": "Department"
     },
     "SAM": {
         "alt_names": [
-            "San Mart\u00edn"
+            "Amazonas"
         ],
         "cca2": "PE",
         "cca3": "PER",
@@ -3065,24 +3064,24 @@
             "woe_name": "San Mart\u00edn"
         },
         "geo": {
-            "latitude": -7.2444881,
-            "longitude": -76.8259652,
-            "max_latitude": -5.394637,
-            "max_longitude": -75.502786,
-            "min_latitude": -8.796522,
-            "min_longitude": -77.780281
+            "latitude": -5.115146,
+            "longitude": -78.1108279,
+            "max_latitude": -2.990077,
+            "max_longitude": -77.1344191,
+            "min_latitude": -6.976671,
+            "min_longitude": -78.712204
         },
         "iso_3166_2": "PE-SAM",
         "iso_a2": "PE",
         "iso_a3": "PER",
-        "name": "San Mart\u00edn",
+        "name": "Amazonas",
         "postal": "SAM",
         "type": "Departamento",
         "type_en": "Department"
     },
     "TAC": {
         "alt_names": [
-            "Tacna"
+            "Amazonas"
         ],
         "cca2": "PE",
         "cca3": "PER",
@@ -3205,24 +3204,24 @@
             "woe_name": "Tacna"
         },
         "geo": {
-            "latitude": -18.0065679,
-            "longitude": -70.2462741,
-            "max_latitude": -17.9556994,
-            "max_longitude": -70.1808773,
-            "min_latitude": -18.0900544,
-            "min_longitude": -70.3142166
+            "latitude": -5.115146,
+            "longitude": -78.1108279,
+            "max_latitude": -2.990077,
+            "max_longitude": -77.1344191,
+            "min_latitude": -6.976671,
+            "min_longitude": -78.712204
         },
         "iso_3166_2": "PE-TAC",
         "iso_a2": "PE",
         "iso_a3": "PER",
-        "name": "Tacna",
+        "name": "Amazonas",
         "postal": "TAC",
         "type": "Departamento",
         "type_en": "Department"
     },
     "TUM": {
         "alt_names": [
-            "Tumbes"
+            "Amazonas"
         ],
         "cca2": "PE",
         "cca3": "PER",
@@ -3345,24 +3344,24 @@
             "woe_name": "Tumbes"
         },
         "geo": {
-            "latitude": -3.9338256,
-            "longitude": -80.543845,
-            "max_latitude": -3.404815,
-            "max_longitude": -80.1536099,
-            "min_latitude": -4.2320951,
-            "min_longitude": -81.0339359
+            "latitude": -5.115146,
+            "longitude": -78.1108279,
+            "max_latitude": -2.990077,
+            "max_longitude": -77.1344191,
+            "min_latitude": -6.976671,
+            "min_longitude": -78.712204
         },
         "iso_3166_2": "PE-TUM",
         "iso_a2": "PE",
         "iso_a3": "PER",
-        "name": "Tumbes",
+        "name": "Amazonas",
         "postal": "TUM",
         "type": "Departamento",
         "type_en": "Department"
     },
     "UCA": {
         "alt_names": [
-            "Ucayali"
+            "Amazonas"
         ],
         "cca2": "PE",
         "cca3": "PER",
@@ -3485,17 +3484,17 @@
             "woe_name": "Ucayali"
         },
         "geo": {
-            "latitude": -9.8251183,
-            "longitude": -73.087749,
-            "max_latitude": -7.2926051,
-            "max_longitude": -70.4963609,
-            "min_latitude": -11.4428331,
-            "min_longitude": -75.9640121
+            "latitude": -5.115146,
+            "longitude": -78.1108279,
+            "max_latitude": -2.990077,
+            "max_longitude": -77.1344191,
+            "min_latitude": -6.976671,
+            "min_longitude": -78.712204
         },
         "iso_3166_2": "PE-UCA",
         "iso_a2": "PE",
         "iso_a3": "PER",
-        "name": "Ucayali",
+        "name": "Amazonas",
         "postal": "UCA",
         "type": "Departamento",
         "type_en": "Department"

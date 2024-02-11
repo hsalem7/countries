@@ -141,7 +141,7 @@
     },
     "02": {
         "alt_names": [
-            "Poggio di Chiesanuova"
+            "Acquaviva"
         ],
         "cca2": "SM",
         "cca3": "SMR",
@@ -264,24 +264,24 @@
             "woe_name": "Chiesanuova"
         },
         "geo": {
-            "latitude": 43.9142905,
-            "longitude": 12.4208642,
-            "max_latitude": 43.9321595,
-            "max_longitude": 12.4378871,
-            "min_latitude": 43.9001989,
-            "min_longitude": 12.4075108
+            "latitude": 43.945153,
+            "longitude": 12.4179988,
+            "max_latitude": 43.9578511,
+            "max_longitude": 12.4408071,
+            "min_latitude": 43.9333961,
+            "min_longitude": 12.4034824
         },
         "iso_3166_2": "SM-02",
         "iso_a2": "SM",
         "iso_a3": "SMR",
-        "name": "Chiesanuova",
+        "name": "Acquaviva",
         "postal": "02",
         "type": "",
         "type_en": ""
     },
     "03": {
         "alt_names": [
-            "Domagnano"
+            "Acquaviva"
         ],
         "cca2": "SM",
         "cca3": "SMR",
@@ -404,24 +404,24 @@
             "woe_name": "Domagnano"
         },
         "geo": {
-            "latitude": 43.9501929,
-            "longitude": 12.4681537,
-            "max_latitude": 43.9531099,
-            "max_longitude": 12.4734553,
-            "min_latitude": 43.9464416,
-            "min_longitude": 12.459486
+            "latitude": 43.945153,
+            "longitude": 12.4179988,
+            "max_latitude": 43.9578511,
+            "max_longitude": 12.4408071,
+            "min_latitude": 43.9333961,
+            "min_longitude": 12.4034824
         },
         "iso_3166_2": "SM-03",
         "iso_a2": "SM",
         "iso_a3": "SMR",
-        "name": "Domagnano",
+        "name": "Acquaviva",
         "postal": "03",
         "type": "",
         "type_en": ""
     },
     "04": {
         "alt_names": [
-            "Faetano"
+            "Acquaviva"
         ],
         "cca2": "SM",
         "cca3": "SMR",
@@ -544,24 +544,24 @@
             "woe_name": "Faetano"
         },
         "geo": {
-            "latitude": 43.9257086,
-            "longitude": 12.4993728,
-            "max_latitude": 43.9302063,
-            "max_longitude": 12.5006162,
-            "min_latitude": 43.9242222,
-            "min_longitude": 12.4951199
+            "latitude": 43.945153,
+            "longitude": 12.4179988,
+            "max_latitude": 43.9578511,
+            "max_longitude": 12.4408071,
+            "min_latitude": 43.9333961,
+            "min_longitude": 12.4034824
         },
         "iso_3166_2": "SM-04",
         "iso_a2": "SM",
         "iso_a3": "SMR",
-        "name": "Faetano",
+        "name": "Acquaviva",
         "postal": "04",
         "type": "",
         "type_en": ""
     },
     "05": {
         "alt_names": [
-            "Fiorentino"
+            "Acquaviva"
         ],
         "cca2": "SM",
         "cca3": "SMR",
@@ -684,24 +684,24 @@
             "woe_name": "Fiorentino"
         },
         "geo": {
-            "latitude": 43.9078337,
-            "longitude": 12.4581209,
-            "max_latitude": 43.9222351,
-            "max_longitude": 12.4778208,
-            "min_latitude": 43.8936809,
-            "min_longitude": 12.4316196
+            "latitude": 43.945153,
+            "longitude": 12.4179988,
+            "max_latitude": 43.9578511,
+            "max_longitude": 12.4408071,
+            "min_latitude": 43.9333961,
+            "min_longitude": 12.4034824
         },
         "iso_3166_2": "SM-05",
         "iso_a2": "SM",
         "iso_a3": "SMR",
-        "name": "Fiorentino",
+        "name": "Acquaviva",
         "postal": "05",
         "type": "",
         "type_en": ""
     },
     "06": {
         "alt_names": [
-            "Borgo Maggiore"
+            "Acquaviva"
         ],
         "cca2": "SM",
         "cca3": "SMR",
@@ -824,24 +824,24 @@
             "woe_name": "Borgo Maggiore"
         },
         "geo": {
-            "latitude": 43.9574882,
-            "longitude": 12.4552546,
-            "max_latitude": 43.9681825,
-            "max_longitude": 12.4827569,
-            "min_latitude": 43.918149,
-            "min_longitude": 12.428586
+            "latitude": 43.945153,
+            "longitude": 12.4179988,
+            "max_latitude": 43.9578511,
+            "max_longitude": 12.4408071,
+            "min_latitude": 43.9333961,
+            "min_longitude": 12.4034824
         },
         "iso_3166_2": "SM-06",
         "iso_a2": "SM",
         "iso_a3": "SMR",
-        "name": "Borgo Maggiore",
+        "name": "Acquaviva",
         "postal": "06",
         "type": "",
         "type_en": ""
     },
     "07": {
         "alt_names": [
-            "Saint Marin"
+            "Acquaviva"
         ],
         "cca2": "SM",
         "cca3": "SMR",
@@ -964,24 +964,24 @@
             "woe_name": "San Marino"
         },
         "geo": {
-            "latitude": 43.9355907,
-            "longitude": 12.4472806,
-            "max_latitude": 43.9403789,
-            "max_longitude": 12.4529661,
-            "min_latitude": 43.9242767,
-            "min_longitude": 12.4383433
+            "latitude": 43.945153,
+            "longitude": 12.4179988,
+            "max_latitude": 43.9578511,
+            "max_longitude": 12.4408071,
+            "min_latitude": 43.9333961,
+            "min_longitude": 12.4034824
         },
         "iso_3166_2": "SM-07",
         "iso_a2": "SM",
         "iso_a3": "SMR",
-        "name": "San Marino",
+        "name": "Acquaviva",
         "postal": "07",
         "type": "",
         "type_en": ""
     },
     "08": {
         "alt_names": [
-            "Montegiardino"
+            "Acquaviva"
         ],
         "cca2": "SM",
         "cca3": "SMR",
@@ -1104,24 +1104,24 @@
             "woe_name": "Montegiardino"
         },
         "geo": {
-            "latitude": 43.9097318,
-            "longitude": 12.4863344,
-            "max_latitude": 43.9119125,
-            "max_longitude": 12.4898347,
-            "min_latitude": 43.9061677,
-            "min_longitude": 12.4802671
+            "latitude": 43.945153,
+            "longitude": 12.4179988,
+            "max_latitude": 43.9578511,
+            "max_longitude": 12.4408071,
+            "min_latitude": 43.9333961,
+            "min_longitude": 12.4034824
         },
         "iso_3166_2": "SM-08",
         "iso_a2": "SM",
         "iso_a3": "SMR",
-        "name": "Montegiardino",
+        "name": "Acquaviva",
         "postal": "08",
         "type": "",
         "type_en": ""
     },
     "09": {
         "alt_names": [
-            "Serravalle"
+            "Acquaviva"
         ],
         "cca2": "SM",
         "cca3": "SMR",
@@ -1244,17 +1244,17 @@
             "woe_name": "Serravalle"
         },
         "geo": {
-            "latitude": 43.9690367,
-            "longitude": 12.4774099,
-            "max_latitude": 43.992075,
-            "max_longitude": 12.5159,
-            "min_latitude": 43.9565896,
-            "min_longitude": 12.448919
+            "latitude": 43.945153,
+            "longitude": 12.4179988,
+            "max_latitude": 43.9578511,
+            "max_longitude": 12.4408071,
+            "min_latitude": 43.9333961,
+            "min_longitude": 12.4034824
         },
         "iso_3166_2": "SM-09",
         "iso_a2": "SM",
         "iso_a3": "SMR",
-        "name": "Serravalle",
+        "name": "Acquaviva",
         "postal": "09",
         "type": "",
         "type_en": ""

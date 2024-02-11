@@ -141,7 +141,7 @@
     },
     "02": {
         "alt_names": [
-            "Saint David"
+            "Saint Andrew"
         ],
         "cca2": "GD",
         "cca3": "GRD",
@@ -264,24 +264,24 @@
             "woe_name": "Saint David"
         },
         "geo": {
-            "latitude": 12.0456435,
-            "longitude": -61.6888738,
-            "max_latitude": 12.07608,
-            "max_longitude": -61.6356962,
-            "min_latitude": 12.0065127,
-            "min_longitude": -61.717385
+            "latitude": 12.1230598,
+            "longitude": -61.6421172,
+            "max_latitude": 12.17327,
+            "max_longitude": -61.5925097,
+            "min_latitude": 12.048629,
+            "min_longitude": -61.701438
         },
         "iso_3166_2": "GD-02",
         "iso_a2": "GD",
         "iso_a3": "GRD",
-        "name": "Saint David",
+        "name": "Saint Andrew",
         "postal": "02",
         "type": "Parish",
         "type_en": "Parish"
     },
     "03": {
         "alt_names": [
-            "Saint George"
+            "Saint Andrew"
         ],
         "cca2": "GD",
         "cca3": "GRD",
@@ -404,24 +404,24 @@
             "woe_name": "Saint George"
         },
         "geo": {
-            "latitude": 12.0714317,
-            "longitude": -61.7356433,
-            "max_latitude": 12.1108259,
-            "max_longitude": -61.6958989,
-            "min_latitude": 11.9852072,
-            "min_longitude": -61.8019361
+            "latitude": 12.1230598,
+            "longitude": -61.6421172,
+            "max_latitude": 12.17327,
+            "max_longitude": -61.5925097,
+            "min_latitude": 12.048629,
+            "min_longitude": -61.701438
         },
         "iso_3166_2": "GD-03",
         "iso_a2": "GD",
         "iso_a3": "GRD",
-        "name": "Saint George",
+        "name": "Saint Andrew",
         "postal": "03",
         "type": "Parish",
         "type_en": "Parish"
     },
     "04": {
         "alt_names": [
-            "Saint John"
+            "Saint Andrew"
         ],
         "cca2": "GD",
         "cca3": "GRD",
@@ -544,24 +544,24 @@
             "woe_name": "Saint John"
         },
         "geo": {
-            "latitude": 12.130824,
-            "longitude": -61.712257,
-            "max_latitude": 12.177205,
-            "max_longitude": -61.682125,
-            "min_latitude": 12.108849,
-            "min_longitude": -61.752623
+            "latitude": 12.1230598,
+            "longitude": -61.6421172,
+            "max_latitude": 12.17327,
+            "max_longitude": -61.5925097,
+            "min_latitude": 12.048629,
+            "min_longitude": -61.701438
         },
         "iso_3166_2": "GD-04",
         "iso_a2": "GD",
         "iso_a3": "GRD",
-        "name": "Saint John",
+        "name": "Saint Andrew",
         "postal": "04",
         "type": "Parish",
         "type_en": "Parish"
     },
     "05": {
         "alt_names": [
-            "Saint Mark"
+            "Saint Andrew"
         ],
         "cca2": "GD",
         "cca3": "GRD",
@@ -684,24 +684,24 @@
             "woe_name": "Saint Mark"
         },
         "geo": {
-            "latitude": 12.19023,
-            "longitude": -61.6888738,
-            "max_latitude": 12.219914,
-            "max_longitude": -61.6701531,
-            "min_latitude": 12.1516449,
-            "min_longitude": -61.7242771
+            "latitude": 12.1230598,
+            "longitude": -61.6421172,
+            "max_latitude": 12.17327,
+            "max_longitude": -61.5925097,
+            "min_latitude": 12.048629,
+            "min_longitude": -61.701438
         },
         "iso_3166_2": "GD-05",
         "iso_a2": "GD",
         "iso_a3": "GRD",
-        "name": "Saint Mark",
+        "name": "Saint Andrew",
         "postal": "05",
         "type": "Parish",
         "type_en": "Parish"
     },
     "06": {
         "alt_names": [
-            "Saint Patrick"
+            "Saint Andrew"
         ],
         "cca2": "GD",
         "cca3": "GRD",
@@ -824,24 +824,24 @@
             "woe_name": "Saint Patrick"
         },
         "geo": {
-            "latitude": 12.2056921,
+            "latitude": 12.1230598,
             "longitude": -61.6421172,
-            "max_latitude": 12.3308232,
-            "max_longitude": -61.5439749,
-            "min_latitude": 12.1670921,
-            "min_longitude": -61.6827919
+            "max_latitude": 12.17327,
+            "max_longitude": -61.5925097,
+            "min_latitude": 12.048629,
+            "min_longitude": -61.701438
         },
         "iso_3166_2": "GD-06",
         "iso_a2": "GD",
         "iso_a3": "GRD",
-        "name": "Saint Patrick",
+        "name": "Saint Andrew",
         "postal": "06",
         "type": "Parish",
         "type_en": "Parish"
     },
     "10": {
         "alt_names": [
-            "Southern Grenadine Islands"
+            "Saint Andrew"
         ],
         "cca2": "GD",
         "cca3": "GRD",
@@ -964,17 +964,17 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 12.4785888,
-            "longitude": -61.4493842,
-            "max_latitude": 12.5298576,
-            "max_longitude": -61.378178,
-            "min_latitude": 12.401671,
-            "min_longitude": -61.4989469
+            "latitude": 12.1230598,
+            "longitude": -61.6421172,
+            "max_latitude": 12.17327,
+            "max_longitude": -61.5925097,
+            "min_latitude": 12.048629,
+            "min_longitude": -61.701438
         },
         "iso_3166_2": "GD-10",
         "iso_a2": "GD",
         "iso_a3": "GRD",
-        "name": "Southern Grenadine Islands",
+        "name": "Saint Andrew",
         "postal": "10",
         "type": "Dependency",
         "type_en": "Dependency"

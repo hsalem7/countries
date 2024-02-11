@@ -141,7 +141,7 @@
     },
     "02": {
         "alt_names": [
-            "Aisne"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -264,24 +264,24 @@
             "woe_name": "Aisne"
         },
         "geo": {
-            "latitude": 49.4769199,
-            "longitude": 3.4417368,
-            "max_latitude": 50.0694951,
-            "max_longitude": 4.2556789,
-            "min_latitude": 48.837212,
-            "min_longitude": 2.9582769
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-02",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Aisne",
+        "name": "Ain",
         "postal": "02",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "2A": {
         "alt_names": [
-            "Corse-du-Sud"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -404,24 +404,24 @@
             "woe_name": "Corse-du-Sud"
         },
         "geo": {
-            "latitude": 41.8102633,
-            "longitude": 8.9245343,
-            "max_latitude": 42.381519,
-            "max_longitude": 9.408043,
-            "min_latitude": 41.333543,
-            "min_longitude": 8.5398992
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-2A",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Corse-du-Sud",
+        "name": "Ain",
         "postal": "2A",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "2B": {
         "alt_names": [
-            "Haute-Corse"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -544,24 +544,24 @@
             "woe_name": "Haute-Corse"
         },
         "geo": {
-            "latitude": 42.4097877,
-            "longitude": 9.2785583,
-            "max_latitude": 43.0276781,
-            "max_longitude": 9.5600678,
-            "min_latitude": 41.832168,
-            "min_longitude": 8.5733069
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-2B",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Haute-Corse",
+        "name": "Ain",
         "postal": "2B",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "03": {
         "alt_names": [
-            "Allier"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -684,24 +684,24 @@
             "woe_name": "Allier"
         },
         "geo": {
-            "latitude": 46.3115552,
-            "longitude": 3.4167655,
-            "max_latitude": 46.804293,
-            "max_longitude": 4.0057391,
-            "min_latitude": 45.9307329,
-            "min_longitude": 2.2767951
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-03",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Allier",
+        "name": "Ain",
         "postal": "03",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "04": {
         "alt_names": [
-            "Alpes-de-Haute-Provence"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -824,24 +824,24 @@
             "woe_name": "Alpes-de-Haute-Provence"
         },
         "geo": {
-            "latitude": 44.0778716,
-            "longitude": 6.2375947,
-            "max_latitude": 44.6599989,
-            "max_longitude": 6.969039,
-            "min_latitude": 43.6683251,
-            "min_longitude": 5.496793
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-04",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Alpes-de-Haute-Provence",
+        "name": "Ain",
         "postal": "04",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "05": {
         "alt_names": [
-            "Hautes-Alpes"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -964,24 +964,24 @@
             "woe_name": "Hautes-Alpes"
         },
         "geo": {
-            "latitude": 44.6008723,
-            "longitude": 6.3226072,
-            "max_latitude": 45.126851,
-            "max_longitude": 7.077155,
-            "min_latitude": 44.186442,
-            "min_longitude": 5.4183639
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-05",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Hautes-Alpes",
+        "name": "Ain",
         "postal": "05",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "06": {
         "alt_names": [
-            "Alpes-Maritimes"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -1104,24 +1104,24 @@
             "woe_name": "Alpes-Maritimes"
         },
         "geo": {
-            "latitude": 43.9466791,
-            "longitude": 7.179026,
-            "max_latitude": 44.3611549,
-            "max_longitude": 7.718993,
-            "min_latitude": 43.480302,
-            "min_longitude": 6.6354119
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-06",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Alpes-Maritimes",
+        "name": "Ain",
         "postal": "06",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "07": {
         "alt_names": [
-            "Ard\u00e8che"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -1244,24 +1244,24 @@
             "woe_name": "Ard\u00e8che"
         },
         "geo": {
-            "latitude": 44.759629,
-            "longitude": 4.5624426,
-            "max_latitude": 45.3662,
-            "max_longitude": 4.8864709,
-            "min_latitude": 44.264341,
-            "min_longitude": 3.8611
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-07",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Ard\u00e8che",
+        "name": "Ain",
         "postal": "07",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "08": {
         "alt_names": [
-            "Ardennes"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -1384,24 +1384,24 @@
             "woe_name": "Ardennes"
         },
         "geo": {
-            "latitude": 49.7624642,
-            "longitude": 4.6285053,
-            "max_latitude": 50.169162,
-            "max_longitude": 5.394246,
-            "min_latitude": 49.2269749,
-            "min_longitude": 4.0244631
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-08",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Ardennes",
+        "name": "Ain",
         "postal": "08",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "09": {
         "alt_names": [
-            "Ari\u00e8ge"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -1524,24 +1524,24 @@
             "woe_name": "Ari\u00e8ge"
         },
         "geo": {
-            "latitude": 42.9326292,
-            "longitude": 1.443469,
-            "max_latitude": 43.3162221,
-            "max_longitude": 2.1758469,
-            "min_latitude": 42.571489,
-            "min_longitude": 0.825994
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-09",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Ari\u00e8ge",
+        "name": "Ain",
         "postal": "09",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "10": {
         "alt_names": [
-            "Aube"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -1664,24 +1664,24 @@
             "woe_name": "Aube"
         },
         "geo": {
-            "latitude": 48.1563418,
-            "longitude": 4.3732462,
-            "max_latitude": 48.716736,
-            "max_longitude": 4.8646051,
-            "min_latitude": 47.923696,
-            "min_longitude": 3.3836479
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-10",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Aube",
+        "name": "Ain",
         "postal": "10",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "11": {
         "alt_names": [
-            "Aude"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -1804,24 +1804,24 @@
             "woe_name": "Aude"
         },
         "geo": {
-            "latitude": 43.0724667,
-            "longitude": 2.3813621,
-            "max_latitude": 43.460066,
-            "max_longitude": 3.240139,
-            "min_latitude": 42.648912,
-            "min_longitude": 1.688426
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-11",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Aude",
+        "name": "Ain",
         "postal": "11",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "12": {
         "alt_names": [
-            "Aveyron"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -1944,24 +1944,24 @@
             "woe_name": "Aveyron"
         },
         "geo": {
-            "latitude": 44.2179747,
-            "longitude": 2.6189273,
-            "max_latitude": 44.941441,
-            "max_longitude": 3.4517541,
-            "min_latitude": 43.690619,
-            "min_longitude": 1.839313
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-12",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Aveyron",
+        "name": "Ain",
         "postal": "12",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "13": {
         "alt_names": [
-            "Bouches-du-Rh\u00f4ne"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -2084,24 +2084,24 @@
             "woe_name": "Bouches-du-Rh\u00f4ne"
         },
         "geo": {
-            "latitude": 43.5911679,
-            "longitude": 5.3102505,
-            "max_latitude": 43.924136,
-            "max_longitude": 5.8134309,
-            "min_latitude": 43.1573841,
-            "min_longitude": 4.230207
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-13",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Bouches-du-Rh\u00f4ne",
+        "name": "Ain",
         "postal": "13",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "14": {
         "alt_names": [
-            "Calvados"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -2224,24 +2224,24 @@
             "woe_name": "Calvados"
         },
         "geo": {
-            "latitude": 49.1213315,
-            "longitude": -0.4330578,
-            "max_latitude": 49.4299189,
-            "max_longitude": 0.4464769,
-            "min_latitude": 48.751681,
-            "min_longitude": -1.159777
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-14",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Calvados",
+        "name": "Ain",
         "postal": "14",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "15": {
         "alt_names": [
-            "Cantal"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -2364,24 +2364,24 @@
             "woe_name": "Cantal"
         },
         "geo": {
-            "latitude": 45.1191997,
-            "longitude": 2.6326062,
-            "max_latitude": 45.4834729,
-            "max_longitude": 3.371465,
-            "min_latitude": 44.6157758,
-            "min_longitude": 2.062882
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-15",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Cantal",
+        "name": "Ain",
         "postal": "15",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "16": {
         "alt_names": [
-            "Charente"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -2504,24 +2504,24 @@
             "woe_name": "Charente"
         },
         "geo": {
-            "latitude": 45.7519958,
-            "longitude": 0.1534761,
-            "max_latitude": 46.140851,
-            "max_longitude": 0.9471241,
-            "min_latitude": 45.1916819,
-            "min_longitude": -0.463103
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-16",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Charente",
+        "name": "Ain",
         "postal": "16",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "17": {
         "alt_names": [
-            "Charente-Maritime"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -2644,24 +2644,24 @@
             "woe_name": "Charente-Maritime"
         },
         "geo": {
-            "latitude": 45.74949,
-            "longitude": -0.7733188,
-            "max_latitude": 46.371485,
-            "max_longitude": 0.005972,
-            "min_latitude": 45.0887499,
-            "min_longitude": -1.5626689
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-17",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Charente-Maritime",
+        "name": "Ain",
         "postal": "17",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "18": {
         "alt_names": [
-            "Cher"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -2784,24 +2784,24 @@
             "woe_name": "Cher"
         },
         "geo": {
-            "latitude": 46.954005,
-            "longitude": 2.4671908,
-            "max_latitude": 47.629116,
-            "max_longitude": 3.0797451,
-            "min_latitude": 46.4204769,
-            "min_longitude": 1.773677
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-18",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Cher",
+        "name": "Ain",
         "postal": "18",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "19": {
         "alt_names": [
-            "Corr\u00e8ze"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -2924,24 +2924,24 @@
             "woe_name": "Corr\u00e8ze"
         },
         "geo": {
-            "latitude": 45.372114,
-            "longitude": 1.873739,
-            "max_latitude": 45.4099591,
-            "max_longitude": 1.921707,
-            "min_latitude": 45.325842,
-            "min_longitude": 1.822327
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-19",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Corr\u00e8ze",
+        "name": "Ain",
         "postal": "19",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "21": {
         "alt_names": [
-            "C\u00f4te-d'Or"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -3064,24 +3064,24 @@
             "woe_name": "C\u00f4te-d'Or"
         },
         "geo": {
-            "latitude": 47.5126795,
-            "longitude": 4.635412,
-            "max_latitude": 48.0313109,
-            "max_longitude": 5.518767,
-            "min_latitude": 46.899847,
-            "min_longitude": 4.06519
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-21",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "C\u00f4te-d'Or",
+        "name": "Ain",
         "postal": "21",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "22": {
         "alt_names": [
-            "C\u00f4tes-du-Nord"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -3204,24 +3204,24 @@
             "woe_name": "C\u00f4tes-d'Armor"
         },
         "geo": {
-            "latitude": 48.5108101,
-            "longitude": -3.3263676,
-            "max_latitude": 48.900936,
-            "max_longitude": -1.909064,
-            "min_latitude": 48.0325681,
-            "min_longitude": -3.665906
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-22",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "C\u00f4tes-d'Armor",
+        "name": "Ain",
         "postal": "22",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "23": {
         "alt_names": [
-            "Creuse"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -3344,24 +3344,24 @@
             "woe_name": "Creuse"
         },
         "geo": {
-            "latitude": 46.0377633,
-            "longitude": 2.0627832,
-            "max_latitude": 46.45537,
-            "max_longitude": 2.6112931,
-            "min_latitude": 45.663551,
-            "min_longitude": 1.3726041
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-23",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Creuse",
+        "name": "Ain",
         "postal": "23",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "24": {
         "alt_names": [
-            "Dordogne"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -3484,24 +3484,24 @@
             "woe_name": "Dordogne"
         },
         "geo": {
-            "latitude": 45.1469486,
-            "longitude": 0.7572205,
-            "max_latitude": 45.7147689,
-            "max_longitude": 1.448245,
-            "min_latitude": 44.570736,
-            "min_longitude": -0.041877
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-24",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Dordogne",
+        "name": "Ain",
         "postal": "24",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "25": {
         "alt_names": [
-            "Doubs"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -3624,24 +3624,24 @@
             "woe_name": "Doubs"
         },
         "geo": {
-            "latitude": 46.9276,
-            "longitude": 6.349001,
-            "max_latitude": 46.9485301,
-            "max_longitude": 6.3995831,
-            "min_latitude": 46.9157861,
-            "min_longitude": 6.330692
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-25",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Doubs",
+        "name": "Ain",
         "postal": "25",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "26": {
         "alt_names": [
-            "Dr\u00f4me"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -3764,24 +3764,24 @@
             "woe_name": "Dr\u00f4me"
         },
         "geo": {
-            "latitude": 44.7311896,
-            "longitude": 5.2266675,
-            "max_latitude": 45.343976,
-            "max_longitude": 5.830446,
-            "min_latitude": 44.115494,
-            "min_longitude": 4.6468618
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-26",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Dr\u00f4me",
+        "name": "Ain",
         "postal": "26",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "27": {
         "alt_names": [
-            "Eure"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -3904,24 +3904,24 @@
             "woe_name": "Eure"
         },
         "geo": {
-            "latitude": 49.1181763,
-            "longitude": 0.9582114,
-            "max_latitude": 49.485283,
-            "max_longitude": 1.8031109,
-            "min_latitude": 48.666427,
-            "min_longitude": 0.2967251
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-27",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Eure",
+        "name": "Ain",
         "postal": "27",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "28": {
         "alt_names": [
-            "Eure-et-Loir"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -4044,24 +4044,24 @@
             "woe_name": "Eure-et-Loir"
         },
         "geo": {
-            "latitude": 48.5525242,
-            "longitude": 1.1989814,
-            "max_latitude": 48.941029,
-            "max_longitude": 1.99456,
-            "min_latitude": 47.953818,
-            "min_longitude": 0.755676
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-28",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Eure-et-Loir",
+        "name": "Ain",
         "postal": "28",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "29": {
         "alt_names": [
-            "Finist\u00e8re"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -4184,24 +4184,24 @@
             "woe_name": "Finist\u00e8re"
         },
         "geo": {
-            "latitude": 48.2520249,
-            "longitude": -3.9300525,
-            "max_latitude": 48.7535,
-            "max_longitude": -3.3866189,
-            "min_latitude": 47.701242,
-            "min_longitude": -5.1412921
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-29",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Finist\u00e8re",
+        "name": "Ain",
         "postal": "29",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "30": {
         "alt_names": [
-            "Gard"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -4324,24 +4324,24 @@
             "woe_name": "Gard"
         },
         "geo": {
-            "latitude": 43.9446996,
-            "longitude": 4.1513764,
-            "max_latitude": 44.4596639,
-            "max_longitude": 4.845564,
-            "min_latitude": 43.460159,
-            "min_longitude": 3.261869
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-30",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Gard",
+        "name": "Ain",
         "postal": "30",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "31": {
         "alt_names": [
-            "Haute-Garonne"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -4464,24 +4464,24 @@
             "woe_name": "Haute-Garonne"
         },
         "geo": {
-            "latitude": 43.4010462,
-            "longitude": 1.135302,
-            "max_latitude": 43.921531,
-            "max_longitude": 2.048299,
-            "min_latitude": 42.6893299,
-            "min_longitude": 0.4416861
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-31",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Haute-Garonne",
+        "name": "Ain",
         "postal": "31",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "32": {
         "alt_names": [
-            "Gers"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -4604,24 +4604,24 @@
             "woe_name": "Gers"
         },
         "geo": {
-            "latitude": 43.6366479,
-            "longitude": 0.4502368,
-            "max_latitude": 44.0800249,
-            "max_longitude": 1.203249,
-            "min_latitude": 43.310868,
-            "min_longitude": -0.282299
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-32",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Gers",
+        "name": "Ain",
         "postal": "32",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "33": {
         "alt_names": [
-            "Gironde"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -4744,24 +4744,24 @@
             "woe_name": "Gironde"
         },
         "geo": {
-            "latitude": 44.849665,
-            "longitude": -0.4502368,
-            "max_latitude": 45.573636,
-            "max_longitude": 0.315137,
-            "min_latitude": 44.1939019,
-            "min_longitude": -1.2614241
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-33",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Gironde",
+        "name": "Ain",
         "postal": "33",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "34": {
         "alt_names": [
-            "H\u00e9rault"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -4884,24 +4884,24 @@
             "woe_name": "H\u00e9rault"
         },
         "geo": {
-            "latitude": 43.5912356,
-            "longitude": 3.2583626,
-            "max_latitude": 43.9727599,
-            "max_longitude": 4.1945401,
-            "min_latitude": 43.2102099,
-            "min_longitude": 2.539549
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-34",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "H\u00e9rault",
+        "name": "Ain",
         "postal": "34",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "35": {
         "alt_names": [
-            "Ille-et-Vilaine"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -5024,24 +5024,24 @@
             "woe_name": "Ille-et-Vilaine"
         },
         "geo": {
-            "latitude": 48.2292016,
-            "longitude": -1.5300695,
-            "max_latitude": 48.721737,
-            "max_longitude": -1.0156211,
-            "min_latitude": 47.631614,
-            "min_longitude": -2.289611
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-35",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Ille-et-Vilaine",
+        "name": "Ain",
         "postal": "35",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "36": {
         "alt_names": [
-            "Indre"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -5164,24 +5164,24 @@
             "woe_name": "Indre"
         },
         "geo": {
-            "latitude": 46.6613966,
-            "longitude": 1.4482662,
-            "max_latitude": 47.277465,
-            "max_longitude": 2.204572,
-            "min_latitude": 46.3469059,
-            "min_longitude": 0.8674139
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-36",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Indre",
+        "name": "Ain",
         "postal": "36",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "37": {
         "alt_names": [
-            "Indre-et-Loire"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -5304,24 +5304,24 @@
             "woe_name": "Indre-et-Loire"
         },
         "geo": {
-            "latitude": 47.2894925,
-            "longitude": 0.816097,
-            "max_latitude": 47.7098679,
-            "max_longitude": 1.366049,
-            "min_latitude": 46.736714,
-            "min_longitude": 0.0527369
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-37",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Indre-et-Loire",
+        "name": "Ain",
         "postal": "37",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "38": {
         "alt_names": [
-            "Is\u00e8re"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -5444,24 +5444,24 @@
             "woe_name": "Is\u00e8re"
         },
         "geo": {
-            "latitude": 44.9957745,
-            "longitude": 5.9293476,
-            "max_latitude": 45.883397,
-            "max_longitude": 6.359309,
-            "min_latitude": 44.695873,
-            "min_longitude": 4.7425939
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-38",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Is\u00e8re",
+        "name": "Ain",
         "postal": "38",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "39": {
         "alt_names": [
-            "Jura"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -5584,24 +5584,24 @@
             "woe_name": "Jura Mountains"
         },
         "geo": {
-            "latitude": 46.762475,
-            "longitude": 5.6729159,
-            "max_latitude": 47.3059438,
-            "max_longitude": 6.207189,
-            "min_latitude": 46.260695,
-            "min_longitude": 5.251316
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-39",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Jura",
+        "name": "Ain",
         "postal": "39",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "40": {
         "alt_names": [
-            "Landes"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -5724,24 +5724,24 @@
             "woe_name": "Landes"
         },
         "geo": {
-            "latitude": 43.9412045,
-            "longitude": -0.7532809,
-            "max_latitude": 44.532381,
-            "max_longitude": 0.1366911,
-            "min_latitude": 43.48743,
-            "min_longitude": -1.5235748
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-40",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Landes",
+        "name": "Ain",
         "postal": "40",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "41": {
         "alt_names": [
-            "Loir-et-Cher"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -5864,24 +5864,24 @@
             "woe_name": "Loir-et-Cher"
         },
         "geo": {
-            "latitude": 47.6761905,
-            "longitude": 1.4159072,
-            "max_latitude": 48.133235,
-            "max_longitude": 2.247891,
-            "min_latitude": 47.186391,
-            "min_longitude": 0.5804869
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-41",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Loir-et-Cher",
+        "name": "Ain",
         "postal": "41",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "42": {
         "alt_names": [
-            "Loire"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -6004,24 +6004,24 @@
             "woe_name": "Loire"
         },
         "geo": {
-            "latitude": 45.9846475,
-            "longitude": 4.052545,
-            "max_latitude": 46.276589,
-            "max_longitude": 4.760375,
-            "min_latitude": 45.23104,
-            "min_longitude": 3.688893
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-42",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Loire",
+        "name": "Ain",
         "postal": "42",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "43": {
         "alt_names": [
-            "Haute-Loire"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -6144,24 +6144,24 @@
             "woe_name": "Haute-Loire"
         },
         "geo": {
-            "latitude": 45.0821226,
-            "longitude": 3.9266366,
-            "max_latitude": 45.4276088,
-            "max_longitude": 4.490819,
-            "min_latitude": 44.743961,
-            "min_longitude": 3.082197
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-43",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Haute-Loire",
+        "name": "Ain",
         "postal": "43",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "44": {
         "alt_names": [
-            "Loire-Atlantique"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -6284,24 +6284,24 @@
             "woe_name": "Loire-Atlantique"
         },
         "geo": {
-            "latitude": 47.2780468,
-            "longitude": -1.8157647,
-            "max_latitude": 47.835927,
-            "max_longitude": -0.9243831,
-            "min_latitude": 46.860073,
-            "min_longitude": -2.559609
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-44",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Loire-Atlantique",
+        "name": "Ain",
         "postal": "44",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "45": {
         "alt_names": [
-            "Loiret"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -6424,24 +6424,24 @@
             "woe_name": "Loiret"
         },
         "geo": {
-            "latitude": 47.900771,
-            "longitude": 2.2018172,
-            "max_latitude": 48.344954,
-            "max_longitude": 3.1284099,
-            "min_latitude": 47.483027,
-            "min_longitude": 1.51145
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-45",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Loiret",
+        "name": "Ain",
         "postal": "45",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "46": {
         "alt_names": [
-            "Lot"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -6564,24 +6564,24 @@
             "woe_name": "Lot"
         },
         "geo": {
-            "latitude": 44.5379358,
-            "longitude": 1.6760691,
-            "max_latitude": 45.046684,
-            "max_longitude": 2.210891,
-            "min_latitude": 44.2033481,
-            "min_longitude": 0.9815221
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-46",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Lot",
+        "name": "Ain",
         "postal": "46",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "47": {
         "alt_names": [
-            "Lot-et-Garonne"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -6704,24 +6704,24 @@
             "woe_name": "Lot-et-Garonne"
         },
         "geo": {
-            "latitude": 44.2470173,
-            "longitude": 0.4502368,
-            "max_latitude": 44.765678,
-            "max_longitude": 1.078341,
-            "min_latitude": 43.9725879,
-            "min_longitude": -0.140673
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-47",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Lot-et-Garonne",
+        "name": "Ain",
         "postal": "47",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "48": {
         "alt_names": [
-            "Loz\u00e8re"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -6844,24 +6844,24 @@
             "woe_name": "Loz\u00e8re"
         },
         "geo": {
-            "latitude": 44.494203,
-            "longitude": 3.5812692,
-            "max_latitude": 44.975761,
-            "max_longitude": 3.998366,
-            "min_latitude": 44.1095909,
-            "min_longitude": 2.981197
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-48",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Loz\u00e8re",
+        "name": "Ain",
         "postal": "48",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "49": {
         "alt_names": [
-            "Maine-et-Loire"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -6984,24 +6984,24 @@
             "woe_name": "Maine-et-Loire"
         },
         "geo": {
-            "latitude": 47.2913545,
-            "longitude": -0.4877852,
-            "max_latitude": 47.809978,
-            "max_longitude": 0.234549,
-            "min_latitude": 46.9688829,
-            "min_longitude": -1.3505026
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-49",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Maine-et-Loire",
+        "name": "Ain",
         "postal": "49",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "50": {
         "alt_names": [
-            "Manche"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -7124,24 +7124,24 @@
             "woe_name": "Manche"
         },
         "geo": {
-            "latitude": 49.114712,
-            "longitude": -1.3115949,
-            "max_latitude": 49.727762,
-            "max_longitude": -0.7348169,
-            "min_latitude": 48.4557968,
-            "min_longitude": -1.954995
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-50",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Manche",
+        "name": "Ain",
         "postal": "50",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "51": {
         "alt_names": [
-            "Marne"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -7264,24 +7264,24 @@
             "woe_name": "Marne"
         },
         "geo": {
-            "latitude": 49.128754,
-            "longitude": 4.1475445,
-            "max_latitude": 49.407828,
-            "max_longitude": 5.039668,
-            "min_latitude": 48.515251,
-            "min_longitude": 3.395865
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-51",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Marne",
+        "name": "Ain",
         "postal": "51",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "52": {
         "alt_names": [
-            "Haute-Marne"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -7404,24 +7404,24 @@
             "woe_name": "Haute-Marne"
         },
         "geo": {
-            "latitude": 48.1260968,
-            "longitude": 5.1071322,
-            "max_latitude": 48.689322,
-            "max_longitude": 5.891043,
-            "min_latitude": 47.576566,
-            "min_longitude": 4.6266029
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-52",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Haute-Marne",
+        "name": "Ain",
         "postal": "52",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "53": {
         "alt_names": [
-            "Mayenne"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -7544,24 +7544,24 @@
             "woe_name": "Mayenne"
         },
         "geo": {
-            "latitude": 48.3061239,
-            "longitude": -0.620935,
-            "max_latitude": 48.3353969,
-            "max_longitude": -0.577747,
-            "min_latitude": 48.2778439,
-            "min_longitude": -0.6502759
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-53",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Mayenne",
+        "name": "Ain",
         "postal": "53",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "54": {
         "alt_names": [
-            "Meurthe-et-Moselle"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -7684,24 +7684,24 @@
             "woe_name": "Meurhe-et-Moselle"
         },
         "geo": {
-            "latitude": 48.7997007,
-            "longitude": 6.0947014,
-            "max_latitude": 49.563268,
-            "max_longitude": 7.1232131,
-            "min_latitude": 48.348987,
-            "min_longitude": 5.426108
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-54",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Meurthe-et-Moselle",
+        "name": "Ain",
         "postal": "54",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "55": {
         "alt_names": [
-            "Meuse"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -7824,24 +7824,24 @@
             "woe_name": "Meuse"
         },
         "geo": {
-            "latitude": 49.0824319,
-            "longitude": 5.2823997,
-            "max_latitude": 49.616864,
-            "max_longitude": 5.8542058,
-            "min_latitude": 48.4089919,
-            "min_longitude": 4.8883769
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-55",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Meuse",
+        "name": "Ain",
         "postal": "55",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "56": {
         "alt_names": [
-            "Morbihan"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -7964,24 +7964,24 @@
             "woe_name": "Morbihan"
         },
         "geo": {
-            "latitude": 47.8852929,
-            "longitude": -2.9001865,
-            "max_latitude": 48.210889,
-            "max_longitude": -2.0353381,
-            "min_latitude": 47.2778529,
-            "min_longitude": -3.7349149
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-56",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Morbihan",
+        "name": "Ain",
         "postal": "56",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "57": {
         "alt_names": [
-            "Moselle"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -8104,24 +8104,24 @@
             "woe_name": "Moselle"
         },
         "geo": {
-            "latitude": 49.0983839,
-            "longitude": 6.5527641,
-            "max_latitude": 49.515124,
-            "max_longitude": 7.6400469,
-            "min_latitude": 48.5267229,
-            "min_longitude": 5.8918571
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-57",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Moselle",
+        "name": "Ain",
         "postal": "57",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "58": {
         "alt_names": [
-            "Ni\u00e8vre"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -8244,24 +8244,24 @@
             "woe_name": "Ni\u00e8vre"
         },
         "geo": {
-            "latitude": 47.2381708,
-            "longitude": 3.5294522,
-            "max_latitude": 47.5882881,
-            "max_longitude": 4.23191,
-            "min_latitude": 46.651024,
-            "min_longitude": 2.8459898
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-58",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Ni\u00e8vre",
+        "name": "Ain",
         "postal": "58",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "59": {
         "alt_names": [
-            "Nord"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -8384,24 +8384,24 @@
             "woe_name": "Nord"
         },
         "geo": {
-            "latitude": 50.3851246,
-            "longitude": 3.2642436,
-            "max_latitude": 51.08899,
-            "max_longitude": 4.2316779,
-            "min_latitude": 49.9690609,
-            "min_longitude": 2.089297
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-59",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Nord",
+        "name": "Ain",
         "postal": "59",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "60": {
         "alt_names": [
-            "Oise"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -8524,24 +8524,24 @@
             "woe_name": "Oise"
         },
         "geo": {
-            "latitude": 49.4214568,
-            "longitude": 2.4146396,
-            "max_latitude": 49.7639221,
-            "max_longitude": 3.166125,
-            "min_latitude": 49.060525,
-            "min_longitude": 1.6888659
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-60",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Oise",
+        "name": "Ain",
         "postal": "60",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "61": {
         "alt_names": [
-            "Orne"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -8664,24 +8664,24 @@
             "woe_name": "Orne"
         },
         "geo": {
-            "latitude": 48.6388567,
-            "longitude": 0.0848201,
-            "max_latitude": 48.972535,
-            "max_longitude": 0.976576,
-            "min_latitude": 48.179885,
-            "min_longitude": -0.860575
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-61",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Orne",
+        "name": "Ain",
         "postal": "61",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "62": {
         "alt_names": [
-            "Pas-de-Calais"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -8804,24 +8804,24 @@
             "woe_name": "Pas-de-Calais"
         },
         "geo": {
-            "latitude": 50.5732769,
-            "longitude": 2.3244679,
-            "max_latitude": 51.0067741,
-            "max_longitude": 3.1881861,
-            "min_latitude": 50.01976,
-            "min_longitude": 1.555598
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-62",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Pas-de-Calais",
+        "name": "Ain",
         "postal": "62",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "63": {
         "alt_names": [
-            "Puy-de-D\u00f4me"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -8944,24 +8944,24 @@
             "woe_name": "Puy-de-D\u00f4me"
         },
         "geo": {
-            "latitude": 45.7725738,
-            "longitude": 2.9644431,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-63",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Puy-de-D\u00f4me",
+        "name": "Ain",
         "postal": "63",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "64": {
         "alt_names": [
-            "Pyr\u00e9n\u00e9es-Atlantiques"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -9084,24 +9084,24 @@
             "woe_name": "Pyr\u00e9n\u00e9es-Atlantiques"
         },
         "geo": {
-            "latitude": 43.3269942,
-            "longitude": -0.7532809,
-            "max_latitude": 43.5967249,
-            "max_longitude": 0.029807,
-            "min_latitude": 42.777531,
-            "min_longitude": -1.7923251
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-64",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Pyr\u00e9n\u00e9es-Atlantiques",
+        "name": "Ain",
         "postal": "64",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "65": {
         "alt_names": [
-            "Hautes-Pyr\u00e9n\u00e9es"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -9224,24 +9224,24 @@
             "woe_name": "Hautes-Pyr\u00e9n\u00e9es"
         },
         "geo": {
-            "latitude": 43.0193924,
-            "longitude": 0.1494988,
-            "max_latitude": 43.613334,
-            "max_longitude": 0.6461191,
-            "min_latitude": 42.6733059,
-            "min_longitude": -0.32716
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-65",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Hautes-Pyr\u00e9n\u00e9es",
+        "name": "Ain",
         "postal": "65",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "66": {
         "alt_names": [
-            "Pyr\u00e9n\u00e9es-Orientales"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -9364,24 +9364,24 @@
             "woe_name": "Pyr\u00e9n\u00e9es-Orientales"
         },
         "geo": {
-            "latitude": 42.6012912,
-            "longitude": 2.539603,
-            "max_latitude": 42.9185399,
-            "max_longitude": 3.177833,
-            "min_latitude": 42.333014,
-            "min_longitude": 1.7216351
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-66",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Pyr\u00e9n\u00e9es-Orientales",
+        "name": "Ain",
         "postal": "66",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "67": {
         "alt_names": [
-            "Bas-Rhin"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -9504,24 +9504,24 @@
             "woe_name": "Bas-Rhin"
         },
         "geo": {
-            "latitude": 48.6343172,
-            "longitude": 7.5252938,
-            "max_latitude": 49.0778581,
-            "max_longitude": 8.2335491,
-            "min_latitude": 48.120387,
-            "min_longitude": 6.9406139
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-67",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Bas-Rhin",
+        "name": "Ain",
         "postal": "67",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "68": {
         "alt_names": [
-            "Haut-Rhin"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -9644,24 +9644,24 @@
             "woe_name": "Haut-Rhin"
         },
         "geo": {
-            "latitude": 47.9315041,
-            "longitude": 7.2441099,
-            "max_latitude": 48.311198,
-            "max_longitude": 7.6221211,
-            "min_latitude": 47.4202619,
-            "min_longitude": 6.841026
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-68",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Haut-Rhin",
+        "name": "Ain",
         "postal": "68",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "69": {
         "alt_names": [
-            "Rh\u00f4ne"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -9784,24 +9784,24 @@
             "woe_name": "Rh\u00f4ne"
         },
         "geo": {
-            "latitude": 45.7351456,
-            "longitude": 4.6108043,
-            "max_latitude": 46.306502,
-            "max_longitude": 5.1601089,
-            "min_latitude": 45.45413,
-            "min_longitude": 4.243647
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-69",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Rh\u00f4ne",
+        "name": "Ain",
         "postal": "69",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "70": {
         "alt_names": [
-            "Haute-Sa\u00f4ne"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -9924,24 +9924,24 @@
             "woe_name": "Haute-Sa\u00f4ne"
         },
         "geo": {
-            "latitude": 47.7569806,
-            "longitude": 6.1556282,
-            "max_latitude": 48.024154,
-            "max_longitude": 6.8249469,
-            "min_latitude": 47.2525531,
-            "min_longitude": 5.3669371
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-70",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Haute-Sa\u00f4ne",
+        "name": "Ain",
         "postal": "70",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "71": {
         "alt_names": [
-            "Sa\u00f4ne-et-Loire"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -10064,24 +10064,24 @@
             "woe_name": "Sa\u00f4ne-et-Loire"
         },
         "geo": {
-            "latitude": 46.5827512,
-            "longitude": 4.486671,
-            "max_latitude": 47.155772,
-            "max_longitude": 5.465289,
-            "min_latitude": 46.15607,
-            "min_longitude": 3.622593
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-71",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Sa\u00f4ne-et-Loire",
+        "name": "Ain",
         "postal": "71",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "72": {
         "alt_names": [
-            "Sarthe"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -10204,24 +10204,24 @@
             "woe_name": "Sarthe"
         },
         "geo": {
-            "latitude": 47.9217014,
-            "longitude": 0.1655803,
-            "max_latitude": 48.48502,
-            "max_longitude": 0.9166389,
-            "min_latitude": 47.568401,
-            "min_longitude": -0.4480631
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-72",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Sarthe",
+        "name": "Ain",
         "postal": "72",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "73": {
         "alt_names": [
-            "Savoie"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -10344,24 +10344,24 @@
             "woe_name": "Savoie"
         },
         "geo": {
-            "latitude": 44.771079,
-            "longitude": 5.742806,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-73",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Savoie",
+        "name": "Ain",
         "postal": "73",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "74": {
         "alt_names": [
-            "Haute-Savoie"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -10484,24 +10484,24 @@
             "woe_name": "Haute-Savoie"
         },
         "geo": {
-            "latitude": 46.1756788,
-            "longitude": 6.5389621,
-            "max_latitude": 46.408243,
-            "max_longitude": 7.0450649,
-            "min_latitude": 45.681659,
-            "min_longitude": 5.80502
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-74",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Haute-Savoie",
+        "name": "Ain",
         "postal": "74",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "75": {
         "alt_names": [
-            "Paris"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -10624,24 +10624,24 @@
             "woe_name": "Paris"
         },
         "geo": {
-            "latitude": 48.856614,
-            "longitude": 2.3522219,
-            "max_latitude": 48.9021449,
-            "max_longitude": 2.4699208,
-            "min_latitude": 48.815573,
-            "min_longitude": 2.224199
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-75",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Paris",
+        "name": "Ain",
         "postal": "75",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "76": {
         "alt_names": [
-            "Seine-Maritime"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -10764,24 +10764,24 @@
             "woe_name": "Seine-Maritime"
         },
         "geo": {
-            "latitude": 49.922992,
-            "longitude": 1.077483,
-            "max_latitude": 49.9408489,
-            "max_longitude": 1.1269969,
-            "min_latitude": 49.899252,
-            "min_longitude": 1.0399821
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-76",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Seine-Maritime",
+        "name": "Ain",
         "postal": "76",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "77": {
         "alt_names": [
-            "Seine-et-Marne"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -10904,24 +10904,24 @@
             "woe_name": "Seien-et-Marne"
         },
         "geo": {
-            "latitude": 48.841082,
-            "longitude": 2.999366,
-            "max_latitude": 49.1178979,
-            "max_longitude": 3.5590069,
-            "min_latitude": 48.1200811,
-            "min_longitude": 2.3923261
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-77",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Seine-et-Marne",
+        "name": "Ain",
         "postal": "77",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "78": {
         "alt_names": [
-            "Yvelines"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -11044,24 +11044,24 @@
             "woe_name": "Yvelines"
         },
         "geo": {
-            "latitude": 48.7850939,
-            "longitude": 1.8256572,
-            "max_latitude": 49.0854481,
-            "max_longitude": 2.2291269,
-            "min_latitude": 48.4385569,
-            "min_longitude": 1.44617
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-78",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Yvelines",
+        "name": "Ain",
         "postal": "78",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "79": {
         "alt_names": [
-            "Deux-S\u00e8vres"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -11184,24 +11184,24 @@
             "woe_name": "Deux-S\u00e8vres"
         },
         "geo": {
-            "latitude": 46.5926541,
-            "longitude": -0.3962844,
-            "max_latitude": 47.1085489,
-            "max_longitude": 0.220405,
-            "min_latitude": 45.969669,
-            "min_longitude": -0.90368
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-79",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Deux-S\u00e8vres",
+        "name": "Ain",
         "postal": "79",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "80": {
         "alt_names": [
-            "Somme"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -11324,24 +11324,24 @@
             "woe_name": "Somme"
         },
         "geo": {
-            "latitude": 49.914518,
-            "longitude": 2.2707095,
-            "max_latitude": 50.3663219,
-            "max_longitude": 3.203045,
-            "min_latitude": 49.5716231,
-            "min_longitude": 1.379663
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-80",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Somme",
+        "name": "Ain",
         "postal": "80",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "81": {
         "alt_names": [
-            "Tarn"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -11464,24 +11464,24 @@
             "woe_name": "Tarn"
         },
         "geo": {
-            "latitude": 43.9264401,
-            "longitude": 1.9881527,
-            "max_latitude": 44.201493,
-            "max_longitude": 2.937474,
-            "min_latitude": 43.3822819,
-            "min_longitude": 1.535198
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-81",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Tarn",
+        "name": "Ain",
         "postal": "81",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "82": {
         "alt_names": [
-            "Tarn-et-Garonne"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -11604,24 +11604,24 @@
             "woe_name": "Tarn-et-Garonne"
         },
         "geo": {
-            "latitude": 44.0126679,
-            "longitude": 1.2891036,
-            "max_latitude": 44.3939249,
-            "max_longitude": 2.000898,
-            "min_latitude": 43.7675901,
-            "min_longitude": 0.7378111
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-82",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Tarn-et-Garonne",
+        "name": "Ain",
         "postal": "82",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "83": {
         "alt_names": [
-            "Var"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -11744,24 +11744,24 @@
             "woe_name": "Var"
         },
         "geo": {
-            "latitude": 43.467646,
-            "longitude": 6.2375947,
-            "max_latitude": 43.808881,
-            "max_longitude": 6.933446,
-            "min_latitude": 42.9819981,
-            "min_longitude": 5.6559
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-83",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Var",
+        "name": "Ain",
         "postal": "83",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "84": {
         "alt_names": [
-            "Vaucluse"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -11884,24 +11884,24 @@
             "woe_name": "Vaucluse"
         },
         "geo": {
-            "latitude": 44.0565054,
-            "longitude": 5.1432068,
-            "max_latitude": 44.4315659,
-            "max_longitude": 5.757335,
-            "min_latitude": 43.658718,
-            "min_longitude": 4.649082
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-84",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Vaucluse",
+        "name": "Ain",
         "postal": "84",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "85": {
         "alt_names": [
-            "Vend\u00e9e"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -12024,24 +12024,24 @@
             "woe_name": "Vend\u00e9e"
         },
         "geo": {
-            "latitude": 46.6613966,
-            "longitude": -1.4482662,
-            "max_latitude": 47.0850081,
-            "max_longitude": -0.538134,
-            "min_latitude": 46.266539,
-            "min_longitude": -2.3998896
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-85",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Vend\u00e9e",
+        "name": "Ain",
         "postal": "85",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "86": {
         "alt_names": [
-            "Vienne"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -12164,24 +12164,24 @@
             "woe_name": "Vienne"
         },
         "geo": {
-            "latitude": 45.525587,
-            "longitude": 4.874339,
-            "max_latitude": 45.557463,
-            "max_longitude": 4.9234099,
-            "min_latitude": 45.4867009,
-            "min_longitude": 4.837252
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-86",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Vienne",
+        "name": "Ain",
         "postal": "86",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "87": {
         "alt_names": [
-            "Haute-Vienne"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -12304,24 +12304,24 @@
             "woe_name": "Haute-Vienne"
         },
         "geo": {
-            "latitude": 45.7435173,
-            "longitude": 1.4025484,
-            "max_latitude": 46.401586,
-            "max_longitude": 1.9110789,
-            "min_latitude": 45.43663,
-            "min_longitude": 0.62925
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-87",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Haute-Vienne",
+        "name": "Ain",
         "postal": "87",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "88": {
         "alt_names": [
-            "Vosges"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -12444,24 +12444,24 @@
             "woe_name": "Vosges"
         },
         "geo": {
-            "latitude": 48.1446427,
-            "longitude": 6.3355935,
-            "max_latitude": 48.513663,
-            "max_longitude": 7.198364,
-            "min_latitude": 47.8132981,
-            "min_longitude": 5.3936269
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-88",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Vosges",
+        "name": "Ain",
         "postal": "88",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "89": {
         "alt_names": [
-            "Yonne"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -12584,24 +12584,24 @@
             "woe_name": "Yonne"
         },
         "geo": {
-            "latitude": 47.8652728,
-            "longitude": 3.6079823,
-            "max_latitude": 48.400061,
-            "max_longitude": 4.340296,
-            "min_latitude": 47.310363,
-            "min_longitude": 2.848432
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-89",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Yonne",
+        "name": "Ain",
         "postal": "89",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "90": {
         "alt_names": [
-            "Territoire de Belfort"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -12724,24 +12724,24 @@
             "woe_name": "Belfort"
         },
         "geo": {
-            "latitude": 47.5946573,
-            "longitude": 6.9207716,
-            "max_latitude": 47.825113,
-            "max_longitude": 7.143381,
-            "min_latitude": 47.433383,
-            "min_longitude": 6.756256
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-90",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Territoire de Belfort",
+        "name": "Ain",
         "postal": "90",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "91": {
         "alt_names": [
-            "Essonne"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -12864,24 +12864,24 @@
             "woe_name": "Essonne"
         },
         "geo": {
-            "latitude": 48.4585698,
-            "longitude": 2.1569416,
-            "max_latitude": 48.7761319,
-            "max_longitude": 2.5856331,
-            "min_latitude": 48.284556,
-            "min_longitude": 1.9145131
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-91",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Essonne",
+        "name": "Ain",
         "postal": "91",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "92": {
         "alt_names": [
-            "Hauts-de-Seine"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -13004,24 +13004,24 @@
             "woe_name": "Hauts-de-Seine"
         },
         "geo": {
-            "latitude": 48.828508,
-            "longitude": 2.2188068,
-            "max_latitude": 48.9509619,
-            "max_longitude": 2.336941,
-            "min_latitude": 48.729351,
-            "min_longitude": 2.145702
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-92",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Hauts-de-Seine",
+        "name": "Ain",
         "postal": "92",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "93": {
         "alt_names": [
-            "Seine-Saint-Denis"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -13144,24 +13144,24 @@
             "woe_name": "Seine-Saint-Denis"
         },
         "geo": {
-            "latitude": 48.9137455,
-            "longitude": 2.4845729,
-            "max_latitude": 49.012329,
-            "max_longitude": 2.6032919,
-            "min_latitude": 48.807248,
-            "min_longitude": 2.2883109
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-93",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Seine-Saint-Denis",
+        "name": "Ain",
         "postal": "93",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "94": {
         "alt_names": [
-            "Val-de-Marne"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -13284,24 +13284,24 @@
             "woe_name": "Val-de-Marne"
         },
         "geo": {
-            "latitude": 48.7931426,
-            "longitude": 2.4740337,
-            "max_latitude": 48.861484,
-            "max_longitude": 2.6156419,
-            "min_latitude": 48.687643,
-            "min_longitude": 2.3086759
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-94",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Val-de-Marne",
+        "name": "Ain",
         "postal": "94",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "95": {
         "alt_names": [
-            "Val-d'Oise"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -13424,24 +13424,24 @@
             "woe_name": "Val-d'Oise"
         },
         "geo": {
-            "latitude": 49.0615901,
-            "longitude": 2.1581351,
-            "max_latitude": 49.241504,
-            "max_longitude": 2.5949791,
-            "min_latitude": 48.9086749,
-            "min_longitude": 1.6087331
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-95",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Val-d'Oise",
+        "name": "Ain",
         "postal": "95",
         "type": "Metropolitan d\u00e9partement",
         "type_en": "Metropolitan department"
     },
     "GF": {
         "alt_names": [
-            ""
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -13564,20 +13564,24 @@
             "woe_name": "Guyane fran\u00e7aise"
         },
         "geo": {
-            "latitude": "3.8583100000",
-            "longitude": "-53.1324000000"
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-GF",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Guyane fran\u00e7aise",
+        "name": "Ain",
         "postal": "GF",
         "type": "Overseas d\u00e9partement",
         "type_en": "Overseas department"
     },
     "GP": {
         "alt_names": [
-            ""
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -13700,20 +13704,24 @@
             "woe_name": "Guadeloupe"
         },
         "geo": {
-            "latitude": "16.1881000000",
-            "longitude": "-61.6822000000"
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-GP",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Guadeloupe",
+        "name": "Ain",
         "postal": "GP",
         "type": "Overseas d\u00e9partement",
         "type_en": "Overseas department"
     },
     "MQ": {
         "alt_names": [
-            ""
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -13836,20 +13844,24 @@
             "woe_name": "Martinique"
         },
         "geo": {
-            "latitude": "14.7245000000",
-            "longitude": "-61.0640000000"
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-MQ",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Martinique",
+        "name": "Ain",
         "postal": "MQ",
         "type": "Overseas d\u00e9partement",
         "type_en": "Overseas department"
     },
     "RE": {
         "alt_names": [
-            ""
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -13972,20 +13984,24 @@
             "woe_name": "La R\u00e9union"
         },
         "geo": {
-            "latitude": "-21.1155000000",
-            "longitude": "55.5405000000"
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-RE",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "La R\u00e9union",
+        "name": "Ain",
         "postal": "RE",
         "type": "Overseas d\u00e9partement",
         "type_en": "Overseas department"
     },
     "YT": {
         "alt_names": [
-            "Mayotte"
+            "Ain"
         ],
         "cca2": "FR",
         "cca3": "FRA",
@@ -14108,17 +14124,17 @@
             "woe_name": "Mayotte"
         },
         "geo": {
-            "latitude": null,
-            "longitude": null,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 46.2475706,
+            "longitude": 5.1307681,
+            "max_latitude": 46.519953,
+            "max_longitude": 6.1701981,
+            "min_latitude": 45.611093,
+            "min_longitude": 4.728067
         },
         "iso_3166_2": "FR-YT",
         "iso_a2": "FR",
         "iso_a3": "FRA",
-        "name": "Mayotte",
+        "name": "Ain",
         "postal": "YT",
         "type": "Overseas d\u00e9partement",
         "type_en": "Overseas department"

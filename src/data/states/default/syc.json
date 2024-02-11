@@ -141,7 +141,7 @@
     },
     "02": {
         "alt_names": [
-            "Anse Boileau"
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -264,24 +264,24 @@
             "woe_name": "Anse Boileau"
         },
         "geo": {
-            "latitude": -4.7047268,
-            "longitude": 55.4859363,
-            "max_latitude": -4.6840339,
-            "max_longitude": 55.50535,
-            "min_latitude": -4.7371169,
-            "min_longitude": 55.4748002
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-02",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "Anse Boileau",
+        "name": "Anse aux Pins",
         "postal": "02",
         "type": "",
         "type_en": ""
     },
     "03": {
         "alt_names": [
-            "Anse \u00c9toile"
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -404,24 +404,24 @@
             "woe_name": "Anse Etoile"
         },
         "geo": {
-            "latitude": -4.5962834,
-            "longitude": 55.4499303,
-            "max_latitude": -4.581683,
-            "max_longitude": 55.462322,
-            "min_latitude": -4.609877,
-            "min_longitude": 55.439895
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-03",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "Anse \u00c9toile",
+        "name": "Anse aux Pins",
         "postal": "03",
         "type": "",
         "type_en": ""
     },
     "04": {
         "alt_names": [
-            "Anse Louis"
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -544,24 +544,24 @@
             "woe_name": "Au Cap"
         },
         "geo": {
-            "latitude": -4.7189825,
-            "longitude": 55.4783184,
-            "max_latitude": -4.7165001,
-            "max_longitude": 55.4798841,
-            "min_latitude": -4.7208305,
-            "min_longitude": 55.4763545
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-04",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "Anse Louis",
+        "name": "Anse aux Pins",
         "postal": "04",
         "type": "",
         "type_en": ""
     },
     "05": {
         "alt_names": [
-            "Anse Royale"
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -684,24 +684,24 @@
             "woe_name": "Anse Royale"
         },
         "geo": {
-            "latitude": -4.733333,
-            "longitude": 55.516667,
-            "max_latitude": -4.7266898,
-            "max_longitude": 55.5253851,
-            "min_latitude": -4.75697,
-            "min_longitude": 55.4960203
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-05",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "Anse Royale",
+        "name": "Anse aux Pins",
         "postal": "05",
         "type": "",
         "type_en": ""
     },
     "06": {
         "alt_names": [
-            "Baie Lazare"
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -824,24 +824,24 @@
             "woe_name": "Baie Lazare"
         },
         "geo": {
-            "latitude": -4.7482525,
-            "longitude": 55.4859363,
-            "max_latitude": -4.7334042,
-            "max_longitude": 55.509342,
-            "min_latitude": -4.766401,
-            "min_longitude": 55.464302
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-06",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "Baie Lazare",
+        "name": "Anse aux Pins",
         "postal": "06",
         "type": "",
         "type_en": ""
     },
     "07": {
         "alt_names": [
-            "Baie Sainte Anne"
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -964,24 +964,24 @@
             "woe_name": "Baie Ste. Anne"
         },
         "geo": {
-            "latitude": -4.3193277,
-            "longitude": 55.7411692,
-            "max_latitude": -4.2764531,
-            "max_longitude": 55.7889993,
-            "min_latitude": -4.3525479,
-            "min_longitude": 55.6874661
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-07",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "Baie Sainte Anne",
+        "name": "Anse aux Pins",
         "postal": "07",
         "type": "",
         "type_en": ""
     },
     "08": {
         "alt_names": [
-            "Beau Vallon"
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -1104,24 +1104,24 @@
             "woe_name": "Beau Vallon"
         },
         "geo": {
-            "latitude": -4.6210967,
-            "longitude": 55.4277802,
-            "max_latitude": -4.6111603,
-            "max_longitude": 55.4398441,
-            "min_latitude": -4.6275649,
-            "min_longitude": 55.4202533
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-08",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "Beau Vallon",
+        "name": "Anse aux Pins",
         "postal": "08",
         "type": "",
         "type_en": ""
     },
     "09": {
         "alt_names": [
-            "Bel Air"
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -1244,24 +1244,24 @@
             "woe_name": "Bel Air"
         },
         "geo": {
-            "latitude": -4.6440325,
-            "longitude": 55.4499303,
-            "max_latitude": -4.619837,
-            "max_longitude": 55.4611553,
-            "min_latitude": -4.657465,
-            "min_longitude": 55.4380879
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-09",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "Bel Air",
+        "name": "Anse aux Pins",
         "postal": "09",
         "type": "",
         "type_en": ""
     },
     "10": {
         "alt_names": [
-            "Bel Ombre"
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -1384,24 +1384,24 @@
             "woe_name": "Belombre"
         },
         "geo": {
-            "latitude": -4.6204838,
-            "longitude": 55.4167072,
-            "max_latitude": -4.6146267,
-            "max_longitude": 55.4232574,
-            "min_latitude": -4.6257684,
-            "min_longitude": 55.3988171
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-10",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "Bel Ombre",
+        "name": "Anse aux Pins",
         "postal": "10",
         "type": "",
         "type_en": ""
     },
     "11": {
         "alt_names": [
-            "Cascade"
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -1524,24 +1524,24 @@
             "woe_name": "Cascade"
         },
         "geo": {
-            "latitude": -4.6705541,
-            "longitude": 55.4970181,
-            "max_latitude": -4.6502235,
-            "max_longitude": 55.511308,
-            "min_latitude": -4.6916291,
-            "min_longitude": 55.4701
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-11",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "Cascade",
+        "name": "Anse aux Pins",
         "postal": "11",
         "type": "",
         "type_en": ""
     },
     "12": {
         "alt_names": [
-            "Glacis"
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -1664,24 +1664,24 @@
             "woe_name": "Glacis"
         },
         "geo": {
-            "latitude": -4.5719729,
-            "longitude": 55.4416234,
-            "max_latitude": -4.5638565,
-            "max_longitude": 55.462322,
-            "min_latitude": -4.5966793,
-            "min_longitude": 55.4318189
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-12",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "Glacis",
+        "name": "Anse aux Pins",
         "postal": "12",
         "type": "",
         "type_en": ""
     },
     "13": {
         "alt_names": [
-            "Grand' Anse (Mah\u00e9)"
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -1804,24 +1804,24 @@
             "woe_name": "Grand Anse Mahe"
         },
         "geo": {
-            "latitude": -4.677392,
-            "longitude": 55.463777,
-            "max_latitude": -4.657465,
-            "max_longitude": 55.486098,
-            "min_latitude": -4.7082592,
-            "min_longitude": 55.438381
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-13",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "Grand' Anse (Mah\u00e9)",
+        "name": "Anse aux Pins",
         "postal": "13",
         "type": "",
         "type_en": ""
     },
     "14": {
         "alt_names": [
-            "Grand' Anse (Praslin)"
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -1944,24 +1944,24 @@
             "woe_name": "Grand Anse Praslin"
         },
         "geo": {
-            "latitude": -4.3176219,
-            "longitude": 55.7078363,
-            "max_latitude": -4.2921696,
-            "max_longitude": 55.761684,
-            "min_latitude": -4.3582979,
-            "min_longitude": 55.6446526
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-14",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "Grand' Anse (Praslin)",
+        "name": "Anse aux Pins",
         "postal": "14",
         "type": "",
         "type_en": ""
     },
     "15": {
         "alt_names": [
-            "La Digue"
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -2084,24 +2084,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": -4.3590972,
-            "longitude": 55.8412424,
-            "max_latitude": -4.3370025,
-            "max_longitude": 55.8564263,
-            "min_latitude": -4.3831656,
-            "min_longitude": 55.8242892
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-15",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "La Digue",
+        "name": "Anse aux Pins",
         "postal": "15",
         "type": "",
         "type_en": ""
     },
     "16": {
         "alt_names": [
-            "La Rivi\u00e8re Anglaise"
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -2224,24 +2224,24 @@
             "woe_name": "English River"
         },
         "geo": {
-            "latitude": -4.6149553,
-            "longitude": 55.4540841,
-            "max_latitude": -4.6065289,
-            "max_longitude": 55.4586861,
-            "min_latitude": -4.624853,
-            "min_longitude": 55.4484299
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-16",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "La Rivi\u00e8re Anglaise",
+        "name": "Anse aux Pins",
         "postal": "16",
         "type": "",
         "type_en": ""
     },
     "17": {
         "alt_names": [
-            "Mont Buxton"
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -2364,24 +2364,24 @@
             "woe_name": "Mont Buxton"
         },
         "geo": {
-            "latitude": -4.6166667,
-            "longitude": 55.4457768,
-            "max_latitude": -4.609877,
-            "max_longitude": 55.453148,
-            "min_latitude": -4.622685,
-            "min_longitude": 55.4409089
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-17",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "Mont Buxton",
+        "name": "Anse aux Pins",
         "postal": "17",
         "type": "",
         "type_en": ""
     },
     "18": {
         "alt_names": [
-            "Mont Fleuri"
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -2504,24 +2504,24 @@
             "woe_name": "Mont Fleuri"
         },
         "geo": {
-            "latitude": -4.6356543,
-            "longitude": 55.4554688,
-            "max_latitude": -4.60039,
-            "max_longitude": 55.506565,
-            "min_latitude": -4.644636,
-            "min_longitude": 55.4475631
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-18",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "Mont Fleuri",
+        "name": "Anse aux Pins",
         "postal": "18",
         "type": "",
         "type_en": ""
     },
     "19": {
         "alt_names": [
-            "Plaisance"
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -2644,24 +2644,24 @@
             "woe_name": "Plaisance"
         },
         "geo": {
-            "latitude": -4.6489918,
-            "longitude": 55.4610075,
-            "max_latitude": -4.6315425,
-            "max_longitude": 55.4712058,
-            "min_latitude": -4.667039,
-            "min_longitude": 55.4511051
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-19",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "Plaisance",
+        "name": "Anse aux Pins",
         "postal": "19",
         "type": "",
         "type_en": ""
     },
     "20": {
         "alt_names": [
-            "Pointe La Rue"
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -2784,24 +2784,24 @@
             "woe_name": "Pointe Larue"
         },
         "geo": {
-            "latitude": -4.680489,
-            "longitude": 55.5191857,
-            "max_latitude": -4.6648396,
-            "max_longitude": 55.5340801,
-            "min_latitude": -4.68688,
-            "min_longitude": 55.505248
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-20",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "Pointe La Rue",
+        "name": "Anse aux Pins",
         "postal": "20",
         "type": "",
         "type_en": ""
     },
     "21": {
         "alt_names": [
-            "Port Glaud"
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -2924,24 +2924,24 @@
             "woe_name": "Port Glaud"
         },
         "geo": {
-            "latitude": -4.6488523,
-            "longitude": 55.4194753,
-            "max_latitude": -4.6252479,
-            "max_longitude": 55.4511051,
-            "min_latitude": -4.6793682,
-            "min_longitude": 55.3605731
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-21",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "Port Glaud",
+        "name": "Anse aux Pins",
         "postal": "21",
         "type": "",
         "type_en": ""
     },
     "22": {
         "alt_names": [
-            "Saint Louis"
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -3064,24 +3064,24 @@
             "woe_name": "Saint Louis"
         },
         "geo": {
-            "latitude": -4.6251949,
-            "longitude": 55.4430078,
-            "max_latitude": -4.61719,
-            "max_longitude": 55.4484299,
-            "min_latitude": -4.6316139,
-            "min_longitude": 55.4323299
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-22",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "Saint Louis",
+        "name": "Anse aux Pins",
         "postal": "22",
         "type": "",
         "type_en": ""
     },
     "23": {
         "alt_names": [
-            "Takamaka"
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -3204,24 +3204,24 @@
             "woe_name": "Takamaka"
         },
         "geo": {
-            "latitude": -4.7843688,
-            "longitude": 55.5081012,
-            "max_latitude": -4.7590715,
-            "max_longitude": 55.534912,
-            "min_latitude": -4.80503,
-            "min_longitude": 55.486445
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-23",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "Takamaka",
+        "name": "Anse aux Pins",
         "postal": "23",
         "type": "",
         "type_en": ""
     },
     "24": {
         "alt_names": [
-            ""
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -3344,20 +3344,24 @@
             "woe_name": "Les Mamelles"
         },
         "geo": {
-            "latitude": "-4.6575100000",
-            "longitude": "55.4808000000"
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-24",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "Les Mamelles",
+        "name": "Anse aux Pins",
         "postal": "24",
         "type": "",
         "type_en": ""
     },
     "25": {
         "alt_names": [
-            ""
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -3480,21 +3484,24 @@
             "woe_name": "Roche Caiman"
         },
         "geo": {
-            "latitude": "-4.6495000000",
-            "longitude": "55.4828000000"
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-25",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "Roche Ca\u00efman",
+        "name": "Anse aux Pins",
         "postal": "25",
         "type": "",
         "type_en": ""
     },
     "X02~": {
         "alt_names": [
-            "Coralline Seychelles",
-            "Zil Elwannyen Sesel"
+            "Anse aux Pins"
         ],
         "cca2": "SC",
         "cca3": "SYC",
@@ -3617,13 +3624,17 @@
             "woe_name": "Outer Islands"
         },
         "geo": {
-            "latitude": "-9.7391900000",
-            "longitude": "46.4946000000"
+            "latitude": -4.6900443,
+            "longitude": 55.5150289,
+            "max_latitude": -4.685153,
+            "max_longitude": 55.5228579,
+            "min_latitude": -4.698597,
+            "min_longitude": 55.502337
         },
         "iso_3166_2": "SC-X02~",
         "iso_a2": "SC",
         "iso_a3": "SYC",
-        "name": "Outer Islands",
+        "name": "Anse aux Pins",
         "postal": "X02~",
         "type": "",
         "type_en": ""

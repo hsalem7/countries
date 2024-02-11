@@ -141,7 +141,7 @@
     },
     "01": {
         "alt_names": [
-            "Severna Backa"
+            "Belgrade"
         ],
         "cca2": "RS",
         "cca3": "SRB",
@@ -264,24 +264,24 @@
             "woe_name": "Severno-Backi"
         },
         "geo": {
-            "latitude": 45.9803394,
-            "longitude": 19.5907,
-            "max_latitude": 46.1912459,
-            "max_longitude": 19.875136,
-            "min_latitude": 45.6242571,
-            "min_longitude": 19.3011208
+            "latitude": 44.786568,
+            "longitude": 20.4489216,
+            "max_latitude": 44.9424453,
+            "max_longitude": 20.6189345,
+            "min_latitude": 44.6880454,
+            "min_longitude": 20.2217102
         },
         "iso_3166_2": "RS-01",
         "iso_a2": "RS",
         "iso_a3": "SRB",
-        "name": "Severna Backa",
+        "name": "Belgrade",
         "postal": "01",
         "type": "Okrug",
         "type_en": "District"
     },
     "02": {
         "alt_names": [
-            "Srednji Banat"
+            "Belgrade"
         ],
         "cca2": "RS",
         "cca3": "SRB",
@@ -404,24 +404,24 @@
             "woe_name": "Srednje-Banatski"
         },
         "geo": {
-            "latitude": 45.4788485,
-            "longitude": 20.6082522,
-            "max_latitude": 45.811237,
-            "max_longitude": 21.0307331,
-            "min_latitude": 45.0783,
-            "min_longitude": 20.027785
+            "latitude": 44.786568,
+            "longitude": 20.4489216,
+            "max_latitude": 44.9424453,
+            "max_longitude": 20.6189345,
+            "min_latitude": 44.6880454,
+            "min_longitude": 20.2217102
         },
         "iso_3166_2": "RS-02",
         "iso_a2": "RS",
         "iso_a3": "SRB",
-        "name": "Srednji Banat",
+        "name": "Belgrade",
         "postal": "02",
         "type": "Okrug",
         "type_en": "District"
     },
     "03": {
         "alt_names": [
-            "Severni Banat"
+            "Belgrade"
         ],
         "cca2": "RS",
         "cca3": "SRB",
@@ -544,24 +544,24 @@
             "woe_name": "Severno-Banatski"
         },
         "geo": {
-            "latitude": 45.906839,
-            "longitude": 19.9993417,
-            "max_latitude": 46.178631,
-            "max_longitude": 20.665928,
-            "min_latitude": 45.598248,
-            "min_longitude": 19.7715084
+            "latitude": 44.786568,
+            "longitude": 20.4489216,
+            "max_latitude": 44.9424453,
+            "max_longitude": 20.6189345,
+            "min_latitude": 44.6880454,
+            "min_longitude": 20.2217102
         },
         "iso_3166_2": "RS-03",
         "iso_a2": "RS",
         "iso_a3": "SRB",
-        "name": "Severni Banat",
+        "name": "Belgrade",
         "postal": "03",
         "type": "Okrug",
         "type_en": "District"
     },
     "04": {
         "alt_names": [
-            "Ju\u017eni Banat"
+            "Belgrade"
         ],
         "cca2": "RS",
         "cca3": "SRB",
@@ -684,24 +684,24 @@
             "woe_name": "Ju\u017eno-Banatski"
         },
         "geo": {
-            "latitude": 45.0027457,
-            "longitude": 21.0542509,
-            "max_latitude": 45.334724,
-            "max_longitude": 21.56465,
-            "min_latitude": 44.658405,
-            "min_longitude": 20.41565
+            "latitude": 44.786568,
+            "longitude": 20.4489216,
+            "max_latitude": 44.9424453,
+            "max_longitude": 20.6189345,
+            "min_latitude": 44.6880454,
+            "min_longitude": 20.2217102
         },
         "iso_3166_2": "RS-04",
         "iso_a2": "RS",
         "iso_a3": "SRB",
-        "name": "Ju\u017eni Banat",
+        "name": "Belgrade",
         "postal": "04",
         "type": "Okrug",
         "type_en": "District"
     },
     "05": {
         "alt_names": [
-            "Zapadna Backa"
+            "Belgrade"
         ],
         "cca2": "RS",
         "cca3": "SRB",
@@ -824,24 +824,24 @@
             "woe_name": "Zapadno-Backi"
         },
         "geo": {
-            "latitude": 45.7355385,
-            "longitude": 19.1897364,
-            "max_latitude": 46.0410499,
-            "max_longitude": 19.6157879,
-            "min_latitude": 45.436847,
-            "min_longitude": 18.8493741
+            "latitude": 44.786568,
+            "longitude": 20.4489216,
+            "max_latitude": 44.9424453,
+            "max_longitude": 20.6189345,
+            "min_latitude": 44.6880454,
+            "min_longitude": 20.2217102
         },
         "iso_3166_2": "RS-05",
         "iso_a2": "RS",
         "iso_a3": "SRB",
-        "name": "Zapadna Backa",
+        "name": "Belgrade",
         "postal": "05",
         "type": "Okrug",
         "type_en": "District"
     },
     "06": {
         "alt_names": [
-            "Ju\u017ena Backa"
+            "Belgrade"
         ],
         "cca2": "RS",
         "cca3": "SRB",
@@ -964,24 +964,24 @@
             "woe_name": "Ju\u017eno-Backi"
         },
         "geo": {
-            "latitude": 45.4890344,
-            "longitude": 19.6976187,
-            "max_latitude": 45.7750259,
-            "max_longitude": 20.313821,
-            "min_latitude": 45.133575,
-            "min_longitude": 18.981784
+            "latitude": 44.786568,
+            "longitude": 20.4489216,
+            "max_latitude": 44.9424453,
+            "max_longitude": 20.6189345,
+            "min_latitude": 44.6880454,
+            "min_longitude": 20.2217102
         },
         "iso_3166_2": "RS-06",
         "iso_a2": "RS",
         "iso_a3": "SRB",
-        "name": "Ju\u017ena Backa",
+        "name": "Belgrade",
         "postal": "06",
         "type": "Okrug",
         "type_en": "District"
     },
     "07": {
         "alt_names": [
-            "Srem"
+            "Belgrade"
         ],
         "cca2": "RS",
         "cca3": "SRB",
@@ -1104,24 +1104,24 @@
             "woe_name": "Sremski"
         },
         "geo": {
-            "latitude": 45.0029171,
-            "longitude": 19.8013773,
-            "max_latitude": 45.210009,
-            "max_longitude": 20.361306,
-            "min_latitude": 44.6294639,
-            "min_longitude": 18.9884937
+            "latitude": 44.786568,
+            "longitude": 20.4489216,
+            "max_latitude": 44.9424453,
+            "max_longitude": 20.6189345,
+            "min_latitude": 44.6880454,
+            "min_longitude": 20.2217102
         },
         "iso_3166_2": "RS-07",
         "iso_a2": "RS",
         "iso_a3": "SRB",
-        "name": "Srem",
+        "name": "Belgrade",
         "postal": "07",
         "type": "Okrug",
         "type_en": "District"
     },
     "08": {
         "alt_names": [
-            "Macva"
+            "Belgrade"
         ],
         "cca2": "RS",
         "cca3": "SRB",
@@ -1244,24 +1244,24 @@
             "woe_name": "Macvanski"
         },
         "geo": {
-            "latitude": 44.5925314,
-            "longitude": 19.5082246,
-            "max_latitude": 44.940402,
-            "max_longitude": 20.000317,
-            "min_latitude": 44.1124741,
-            "min_longitude": 19.10721
+            "latitude": 44.786568,
+            "longitude": 20.4489216,
+            "max_latitude": 44.9424453,
+            "max_longitude": 20.6189345,
+            "min_latitude": 44.6880454,
+            "min_longitude": 20.2217102
         },
         "iso_3166_2": "RS-08",
         "iso_a2": "RS",
         "iso_a3": "SRB",
-        "name": "Macva",
+        "name": "Belgrade",
         "postal": "08",
         "type": "Okrug",
         "type_en": "District"
     },
     "09": {
         "alt_names": [
-            "Kolubara"
+            "Belgrade"
         ],
         "cca2": "RS",
         "cca3": "SRB",
@@ -1384,24 +1384,24 @@
             "woe_name": "Kolubarski"
         },
         "geo": {
-            "latitude": 44.2674361,
-            "longitude": 19.8980841,
-            "max_latitude": 44.2683338,
-            "max_longitude": 19.9014904,
-            "min_latitude": 44.2665384,
-            "min_longitude": 19.8946778
+            "latitude": 44.786568,
+            "longitude": 20.4489216,
+            "max_latitude": 44.9424453,
+            "max_longitude": 20.6189345,
+            "min_latitude": 44.6880454,
+            "min_longitude": 20.2217102
         },
         "iso_3166_2": "RS-09",
         "iso_a2": "RS",
         "iso_a3": "SRB",
-        "name": "Kolubara",
+        "name": "Belgrade",
         "postal": "09",
         "type": "Okrug",
         "type_en": "District"
     },
     "10": {
         "alt_names": [
-            "Podunavlje"
+            "Belgrade"
         ],
         "cca2": "RS",
         "cca3": "SRB",
@@ -1524,24 +1524,24 @@
             "woe_name": "Podunavski"
         },
         "geo": {
-            "latitude": 44.4729156,
-            "longitude": 20.9901426,
-            "max_latitude": 44.7212919,
-            "max_longitude": 21.203335,
-            "min_latitude": 44.208296,
-            "min_longitude": 20.7518259
+            "latitude": 44.786568,
+            "longitude": 20.4489216,
+            "max_latitude": 44.9424453,
+            "max_longitude": 20.6189345,
+            "min_latitude": 44.6880454,
+            "min_longitude": 20.2217102
         },
         "iso_3166_2": "RS-10",
         "iso_a2": "RS",
         "iso_a3": "SRB",
-        "name": "Podunavlje",
+        "name": "Belgrade",
         "postal": "10",
         "type": "Okrug",
         "type_en": "District"
     },
     "11": {
         "alt_names": [
-            "Branicevo"
+            "Belgrade"
         ],
         "cca2": "RS",
         "cca3": "SRB",
@@ -1664,24 +1664,24 @@
             "woe_name": "Branicevski"
         },
         "geo": {
-            "latitude": 44.705,
-            "longitude": 21.538333,
-            "max_latitude": 44.7191731,
-            "max_longitude": 21.5884781,
-            "min_latitude": 44.6723152,
-            "min_longitude": 21.5239334
+            "latitude": 44.786568,
+            "longitude": 20.4489216,
+            "max_latitude": 44.9424453,
+            "max_longitude": 20.6189345,
+            "min_latitude": 44.6880454,
+            "min_longitude": 20.2217102
         },
         "iso_3166_2": "RS-11",
         "iso_a2": "RS",
         "iso_a3": "SRB",
-        "name": "Branicevo",
+        "name": "Belgrade",
         "postal": "11",
         "type": "Okrug",
         "type_en": "District"
     },
     "12": {
         "alt_names": [
-            "\u0160umadija"
+            "Belgrade"
         ],
         "cca2": "RS",
         "cca3": "SRB",
@@ -1804,24 +1804,24 @@
             "woe_name": "\u0160umadijski"
         },
         "geo": {
-            "latitude": 44.2050678,
-            "longitude": 20.7856565,
-            "max_latitude": 44.441987,
-            "max_longitude": 21.159204,
-            "min_latitude": 43.796296,
-            "min_longitude": 20.410712
+            "latitude": 44.786568,
+            "longitude": 20.4489216,
+            "max_latitude": 44.9424453,
+            "max_longitude": 20.6189345,
+            "min_latitude": 44.6880454,
+            "min_longitude": 20.2217102
         },
         "iso_3166_2": "RS-12",
         "iso_a2": "RS",
         "iso_a3": "SRB",
-        "name": "\u0160umadija",
+        "name": "Belgrade",
         "postal": "12",
         "type": "Okrug",
         "type_en": "District"
     },
     "13": {
         "alt_names": [
-            "Pomoravlje"
+            "Belgrade"
         ],
         "cca2": "RS",
         "cca3": "SRB",
@@ -1944,24 +1944,24 @@
             "woe_name": "Pomoravski"
         },
         "geo": {
-            "latitude": 43.9591379,
-            "longitude": 21.271353,
-            "max_latitude": 44.310024,
-            "max_longitude": 21.839969,
-            "min_latitude": 43.7114669,
-            "min_longitude": 20.929701
+            "latitude": 44.786568,
+            "longitude": 20.4489216,
+            "max_latitude": 44.9424453,
+            "max_longitude": 20.6189345,
+            "min_latitude": 44.6880454,
+            "min_longitude": 20.2217102
         },
         "iso_3166_2": "RS-13",
         "iso_a2": "RS",
         "iso_a3": "SRB",
-        "name": "Pomoravlje",
+        "name": "Belgrade",
         "postal": "13",
         "type": "Okrug",
         "type_en": "District"
     },
     "14": {
         "alt_names": [
-            "Bor"
+            "Belgrade"
         ],
         "cca2": "RS",
         "cca3": "SRB",
@@ -2084,24 +2084,24 @@
             "woe_name": "Borski"
         },
         "geo": {
-            "latitude": 44.0698918,
-            "longitude": 22.0985086,
-            "max_latitude": 44.1460006,
-            "max_longitude": 22.1439743,
-            "min_latitude": 44.0400952,
-            "min_longitude": 21.9936849
+            "latitude": 44.786568,
+            "longitude": 20.4489216,
+            "max_latitude": 44.9424453,
+            "max_longitude": 20.6189345,
+            "min_latitude": 44.6880454,
+            "min_longitude": 20.2217102
         },
         "iso_3166_2": "RS-14",
         "iso_a2": "RS",
         "iso_a3": "SRB",
-        "name": "Bor",
+        "name": "Belgrade",
         "postal": "14",
         "type": "Okrug",
         "type_en": "District"
     },
     "15": {
         "alt_names": [
-            "Zajecar"
+            "Belgrade"
         ],
         "cca2": "RS",
         "cca3": "SRB",
@@ -2224,24 +2224,24 @@
             "woe_name": "Zajecarski"
         },
         "geo": {
-            "latitude": 43.9015048,
-            "longitude": 22.2738011,
-            "max_latitude": 43.9716926,
-            "max_longitude": 22.3112583,
-            "min_latitude": 43.8638665,
-            "min_longitude": 22.1834563
+            "latitude": 44.786568,
+            "longitude": 20.4489216,
+            "max_latitude": 44.9424453,
+            "max_longitude": 20.6189345,
+            "min_latitude": 44.6880454,
+            "min_longitude": 20.2217102
         },
         "iso_3166_2": "RS-15",
         "iso_a2": "RS",
         "iso_a3": "SRB",
-        "name": "Zajecar",
+        "name": "Belgrade",
         "postal": "15",
         "type": "Okrug",
         "type_en": "District"
     },
     "16": {
         "alt_names": [
-            "Zlatibor"
+            "Belgrade"
         ],
         "cca2": "RS",
         "cca3": "SRB",
@@ -2364,24 +2364,24 @@
             "woe_name": "Zlatiborski"
         },
         "geo": {
-            "latitude": 43.6554553,
-            "longitude": 19.6633226,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 44.786568,
+            "longitude": 20.4489216,
+            "max_latitude": 44.9424453,
+            "max_longitude": 20.6189345,
+            "min_latitude": 44.6880454,
+            "min_longitude": 20.2217102
         },
         "iso_3166_2": "RS-16",
         "iso_a2": "RS",
         "iso_a3": "SRB",
-        "name": "Zlatibor",
+        "name": "Belgrade",
         "postal": "16",
         "type": "Okrug",
         "type_en": "District"
     },
     "17": {
         "alt_names": [
-            "Moravica"
+            "Belgrade"
         ],
         "cca2": "RS",
         "cca3": "SRB",
@@ -2504,24 +2504,24 @@
             "woe_name": "Moravicki"
         },
         "geo": {
-            "latitude": 43.5393662,
-            "longitude": 21.7117215,
-            "max_latitude": 43.542258,
-            "max_longitude": 21.7134261,
-            "min_latitude": 43.5364745,
-            "min_longitude": 21.7100169
+            "latitude": 44.786568,
+            "longitude": 20.4489216,
+            "max_latitude": 44.9424453,
+            "max_longitude": 20.6189345,
+            "min_latitude": 44.6880454,
+            "min_longitude": 20.2217102
         },
         "iso_3166_2": "RS-17",
         "iso_a2": "RS",
         "iso_a3": "SRB",
-        "name": "Moravica",
+        "name": "Belgrade",
         "postal": "17",
         "type": "Okrug",
         "type_en": "District"
     },
     "18": {
         "alt_names": [
-            "Ra\u0161ka"
+            "Belgrade"
         ],
         "cca2": "RS",
         "cca3": "SRB",
@@ -2644,24 +2644,24 @@
             "woe_name": "Ra\u0161ki"
         },
         "geo": {
-            "latitude": 43.291944,
-            "longitude": 20.615556,
-            "max_latitude": 43.3038197,
-            "max_longitude": 20.6399633,
-            "min_latitude": 43.2702688,
-            "min_longitude": 20.5972195
+            "latitude": 44.786568,
+            "longitude": 20.4489216,
+            "max_latitude": 44.9424453,
+            "max_longitude": 20.6189345,
+            "min_latitude": 44.6880454,
+            "min_longitude": 20.2217102
         },
         "iso_3166_2": "RS-18",
         "iso_a2": "RS",
         "iso_a3": "SRB",
-        "name": "Ra\u0161ka",
+        "name": "Belgrade",
         "postal": "18",
         "type": "Okrug",
         "type_en": "District"
     },
     "19": {
         "alt_names": [
-            "Rasina"
+            "Belgrade"
         ],
         "cca2": "RS",
         "cca3": "SRB",
@@ -2784,24 +2784,24 @@
             "woe_name": "Pomoravski"
         },
         "geo": {
-            "latitude": 43.5789182,
-            "longitude": 21.3484472,
-            "max_latitude": 43.5934076,
-            "max_longitude": 21.3534361,
-            "min_latitude": 43.5644288,
-            "min_longitude": 21.3434582
+            "latitude": 44.786568,
+            "longitude": 20.4489216,
+            "max_latitude": 44.9424453,
+            "max_longitude": 20.6189345,
+            "min_latitude": 44.6880454,
+            "min_longitude": 20.2217102
         },
         "iso_3166_2": "RS-19",
         "iso_a2": "RS",
         "iso_a3": "SRB",
-        "name": "Rasina",
+        "name": "Belgrade",
         "postal": "19",
         "type": "Okrug",
         "type_en": "District"
     },
     "20": {
         "alt_names": [
-            "Ni\u0161ava"
+            "Belgrade"
         ],
         "cca2": "RS",
         "cca3": "SRB",
@@ -2924,24 +2924,24 @@
             "woe_name": "Ni\u0161avski"
         },
         "geo": {
-            "latitude": 43.3738902,
-            "longitude": 21.9322331,
-            "max_latitude": 43.82438,
-            "max_longitude": 22.3710859,
-            "min_latitude": 43.075654,
-            "min_longitude": 21.4754701
+            "latitude": 44.786568,
+            "longitude": 20.4489216,
+            "max_latitude": 44.9424453,
+            "max_longitude": 20.6189345,
+            "min_latitude": 44.6880454,
+            "min_longitude": 20.2217102
         },
         "iso_3166_2": "RS-20",
         "iso_a2": "RS",
         "iso_a3": "SRB",
-        "name": "Ni\u0161ava",
+        "name": "Belgrade",
         "postal": "20",
         "type": "Okrug",
         "type_en": "District"
     },
     "21": {
         "alt_names": [
-            "Toplica"
+            "Belgrade"
         ],
         "cca2": "RS",
         "cca3": "SRB",
@@ -3064,24 +3064,24 @@
             "woe_name": "Toplicki"
         },
         "geo": {
-            "latitude": 43.1906592,
-            "longitude": 21.3407762,
-            "max_latitude": 43.4087109,
-            "max_longitude": 21.836189,
-            "min_latitude": 42.868147,
-            "min_longitude": 20.9121709
+            "latitude": 44.786568,
+            "longitude": 20.4489216,
+            "max_latitude": 44.9424453,
+            "max_longitude": 20.6189345,
+            "min_latitude": 44.6880454,
+            "min_longitude": 20.2217102
         },
         "iso_3166_2": "RS-21",
         "iso_a2": "RS",
         "iso_a3": "SRB",
-        "name": "Toplica",
+        "name": "Belgrade",
         "postal": "21",
         "type": "Okrug",
         "type_en": "District"
     },
     "22": {
         "alt_names": [
-            "Pirot"
+            "Belgrade"
         ],
         "cca2": "RS",
         "cca3": "SRB",
@@ -3204,24 +3204,24 @@
             "woe_name": "Pirotski"
         },
         "geo": {
-            "latitude": 43.1557012,
-            "longitude": 22.5856812,
-            "max_latitude": 43.2034866,
-            "max_longitude": 22.6113225,
-            "min_latitude": 43.1039909,
-            "min_longitude": 22.5426578
+            "latitude": 44.786568,
+            "longitude": 20.4489216,
+            "max_latitude": 44.9424453,
+            "max_longitude": 20.6189345,
+            "min_latitude": 44.6880454,
+            "min_longitude": 20.2217102
         },
         "iso_3166_2": "RS-22",
         "iso_a2": "RS",
         "iso_a3": "SRB",
-        "name": "Pirot",
+        "name": "Belgrade",
         "postal": "22",
         "type": "Okrug",
         "type_en": "District"
     },
     "23": {
         "alt_names": [
-            "Jablanica"
+            "Belgrade"
         ],
         "cca2": "RS",
         "cca3": "SRB",
@@ -3344,24 +3344,24 @@
             "woe_name": "Jablanicki"
         },
         "geo": {
-            "latitude": 43.443889,
-            "longitude": 21.271389,
-            "max_latitude": 43.473041,
-            "max_longitude": 21.3261795,
-            "min_latitude": 43.3905789,
-            "min_longitude": 21.2557983
+            "latitude": 44.786568,
+            "longitude": 20.4489216,
+            "max_latitude": 44.9424453,
+            "max_longitude": 20.6189345,
+            "min_latitude": 44.6880454,
+            "min_longitude": 20.2217102
         },
         "iso_3166_2": "RS-23",
         "iso_a2": "RS",
         "iso_a3": "SRB",
-        "name": "Jablanica",
+        "name": "Belgrade",
         "postal": "23",
         "type": "Okrug",
         "type_en": "District"
     },
     "24": {
         "alt_names": [
-            "Pcinja"
+            "Belgrade"
         ],
         "cca2": "RS",
         "cca3": "SRB",
@@ -3484,17 +3484,17 @@
             "woe_name": "Pcinjski"
         },
         "geo": {
-            "latitude": 42.5836362,
-            "longitude": 22.1430215,
-            "max_latitude": 42.8436209,
-            "max_longitude": 22.5690361,
-            "min_latitude": 42.2448299,
-            "min_longitude": 21.526959
+            "latitude": 44.786568,
+            "longitude": 20.4489216,
+            "max_latitude": 44.9424453,
+            "max_longitude": 20.6189345,
+            "min_latitude": 44.6880454,
+            "min_longitude": 20.2217102
         },
         "iso_3166_2": "RS-24",
         "iso_a2": "RS",
         "iso_a3": "SRB",
-        "name": "Pcinja",
+        "name": "Belgrade",
         "postal": "24",
         "type": "Okrug",
         "type_en": "District"

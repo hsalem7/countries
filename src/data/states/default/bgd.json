@@ -1,7 +1,7 @@
 {
     "A": {
         "alt_names": [
-            "Barisal"
+            "Bandarban"
         ],
         "cca2": "BD",
         "cca3": "BGD",
@@ -124,25 +124,24 @@
             "woe_name": "Barisal"
         },
         "geo": {
-            "latitude": 22.8578618,
-            "longitude": 90.3371889,
-            "max_latitude": 23.0715591,
-            "max_longitude": 90.6517982,
-            "min_latitude": 22.4542665,
-            "min_longitude": 90.0181103
+            "latitude": 21.7444268,
+            "longitude": 92.3813621,
+            "max_latitude": 22.3738885,
+            "max_longitude": 92.6736258,
+            "min_latitude": 21.1972562,
+            "min_longitude": 92.0662879
         },
         "iso_3166_2": "BD-A",
         "iso_a2": "BD",
         "iso_a3": "BGD",
-        "name": "Barisal zila",
+        "name": "Bandarban zila",
         "postal": "A",
         "type": "Bibhag",
         "type_en": "Division"
     },
     "B": {
         "alt_names": [
-            "Chattagam",
-            "Chittagong"
+            "Bandarban"
         ],
         "cca2": "BD",
         "cca3": "BGD",
@@ -265,26 +264,24 @@
             "woe_name": "Chittagong"
         },
         "geo": {
-            "latitude": 22.3417825,
-            "longitude": 91.8368089,
-            "max_latitude": 22.3421259,
-            "max_longitude": 91.8377062,
-            "min_latitude": 22.3378577,
-            "min_longitude": 91.8367609
+            "latitude": 21.7444268,
+            "longitude": 92.3813621,
+            "max_latitude": 22.3738885,
+            "max_longitude": 92.6736258,
+            "min_latitude": 21.1972562,
+            "min_longitude": 92.0662879
         },
         "iso_3166_2": "BD-B",
         "iso_a2": "BD",
         "iso_a3": "BGD",
-        "name": "Chittagong zila",
+        "name": "Bandarban zila",
         "postal": "B",
         "type": "Bibhag",
         "type_en": "Division"
     },
     "C": {
         "alt_names": [
-            "Dacca",
-            "Dakka",
-            "Dhaka"
+            "Bandarban"
         ],
         "cca2": "BD",
         "cca3": "BGD",
@@ -407,24 +404,24 @@
             "woe_name": "Dhaka"
         },
         "geo": {
-            "latitude": 24.5239682,
-            "longitude": 90.2995785,
-            "max_latitude": 25.409475,
-            "max_longitude": 91.276907,
-            "min_latitude": 22.844598,
-            "min_longitude": 89.312214
+            "latitude": 21.7444268,
+            "longitude": 92.3813621,
+            "max_latitude": 22.3738885,
+            "max_longitude": 92.6736258,
+            "min_latitude": 21.1972562,
+            "min_longitude": 92.0662879
         },
         "iso_3166_2": "BD-C",
         "iso_a2": "BD",
         "iso_a3": "BGD",
-        "name": "Dhaka zila",
+        "name": "Bandarban zila",
         "postal": "C",
         "type": "Bibhag",
         "type_en": "Division"
     },
     "D": {
         "alt_names": [
-            "Khulna"
+            "Bandarban"
         ],
         "cca2": "BD",
         "cca3": "BGD",
@@ -547,25 +544,24 @@
             "woe_name": "Khulna"
         },
         "geo": {
-            "latitude": 22.8146371,
-            "longitude": 89.5705569,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 21.7444268,
+            "longitude": 92.3813621,
+            "max_latitude": 22.3738885,
+            "max_longitude": 92.6736258,
+            "min_latitude": 21.1972562,
+            "min_longitude": 92.0662879
         },
         "iso_3166_2": "BD-D",
         "iso_a2": "BD",
         "iso_a3": "BGD",
-        "name": "Khulna zila",
+        "name": "Bandarban zila",
         "postal": "D",
         "type": "Bibhag",
         "type_en": "Division"
     },
     "E": {
         "alt_names": [
-            "Rajshahi",
-            "Rampur Boalia"
+            "Bandarban"
         ],
         "cca2": "BD",
         "cca3": "BGD",
@@ -688,24 +684,24 @@
             "woe_name": "Rajshahi"
         },
         "geo": {
-            "latitude": 24.4130584,
-            "longitude": 88.9822586,
-            "max_latitude": 24.4145705,
-            "max_longitude": 88.9830614,
-            "min_latitude": 24.4116991,
-            "min_longitude": 88.9815109
+            "latitude": 21.7444268,
+            "longitude": 92.3813621,
+            "max_latitude": 22.3738885,
+            "max_longitude": 92.6736258,
+            "min_latitude": 21.1972562,
+            "min_longitude": 92.0662879
         },
         "iso_3166_2": "BD-E",
         "iso_a2": "BD",
         "iso_a3": "BGD",
-        "name": "Rajshahi zila",
+        "name": "Bandarban zila",
         "postal": "E",
         "type": "Bibhag",
         "type_en": "Division"
     },
     "F": {
         "alt_names": [
-            "Rangpur"
+            "Bandarban"
         ],
         "cca2": "BD",
         "cca3": "BGD",
@@ -828,25 +824,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 25.7588,
-            "longitude": 89.243377,
-            "max_latitude": 25.758965,
-            "max_longitude": 89.2436118,
-            "min_latitude": 25.7585418,
-            "min_longitude": 89.2431368
+            "latitude": 21.7444268,
+            "longitude": 92.3813621,
+            "max_latitude": 22.3738885,
+            "max_longitude": 92.6736258,
+            "min_latitude": 21.1972562,
+            "min_longitude": 92.0662879
         },
         "iso_3166_2": "BD-F",
         "iso_a2": "BD",
         "iso_a3": "BGD",
-        "name": "Rangpur zila",
+        "name": "Bandarban zila",
         "postal": "F",
         "type": "Bibhag",
         "type_en": "Division"
     },
     "G": {
         "alt_names": [
-            "Silhat",
-            "Sylhet"
+            "Bandarban"
         ],
         "cca2": "BD",
         "cca3": "BGD",
@@ -969,17 +964,17 @@
             "woe_name": "Sylhet"
         },
         "geo": {
-            "latitude": 24.8902772,
-            "longitude": 91.8637142,
-            "max_latitude": 24.8905095,
-            "max_longitude": 91.864036,
-            "min_latitude": 24.8900448,
-            "min_longitude": 91.8633924
+            "latitude": 21.7444268,
+            "longitude": 92.3813621,
+            "max_latitude": 22.3738885,
+            "max_longitude": 92.6736258,
+            "min_latitude": 21.1972562,
+            "min_longitude": 92.0662879
         },
         "iso_3166_2": "BD-G",
         "iso_a2": "BD",
         "iso_a3": "BGD",
-        "name": "Sylhet zila",
+        "name": "Bandarban zila",
         "postal": "G",
         "type": "Bibhag",
         "type_en": "Division"

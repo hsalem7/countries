@@ -141,7 +141,7 @@
     },
     "E": {
         "alt_names": [
-            "Eastern"
+            "Central"
         ],
         "cca2": "FJ",
         "cca3": "FJI",
@@ -264,24 +264,24 @@
             "woe_name": "Eastern"
         },
         "geo": {
-            "latitude": -17.688972,
-            "longitude": 178.8070886,
-            "max_latitude": -17.0019299,
-            "max_longitude": -178.3928847,
-            "min_latitude": -20.6694303,
-            "min_longitude": 177.9588489
+            "latitude": -17.9453123,
+            "longitude": 178.2461183,
+            "max_latitude": -17.376591,
+            "max_longitude": 178.772931,
+            "min_latitude": -18.423275,
+            "min_longitude": 177.772764
         },
         "iso_3166_2": "FJ-E",
         "iso_a2": "FJ",
         "iso_a3": "FJI",
-        "name": "Eastern",
+        "name": "Central",
         "postal": "E",
         "type": "Division",
         "type_en": "Division"
     },
     "N": {
         "alt_names": [
-            "Northern"
+            "Central"
         ],
         "cca2": "FJ",
         "cca3": "FJI",
@@ -404,24 +404,24 @@
             "woe_name": "Northern"
         },
         "geo": {
-            "latitude": -16.6268225,
-            "longitude": 179.0179332,
-            "max_latitude": -15.7159274,
-            "max_longitude": -179.1542306,
-            "min_latitude": -17.1142062,
-            "min_longitude": 178.2716609
+            "latitude": -17.9453123,
+            "longitude": 178.2461183,
+            "max_latitude": -17.376591,
+            "max_longitude": 178.772931,
+            "min_latitude": -18.423275,
+            "min_longitude": 177.772764
         },
         "iso_3166_2": "FJ-N",
         "iso_a2": "FJ",
         "iso_a3": "FJI",
-        "name": "Northern",
+        "name": "Central",
         "postal": "N",
         "type": "Division",
         "type_en": "Division"
     },
     "R": {
         "alt_names": [
-            "Rotuma"
+            "Central"
         ],
         "cca2": "FJ",
         "cca3": "FJI",
@@ -544,24 +544,24 @@
             "woe_name": "Rotuma"
         },
         "geo": {
-            "latitude": -12.5025069,
-            "longitude": 177.0724164,
-            "max_latitude": -12.4795352,
-            "max_longitude": 177.1373037,
-            "min_latitude": -12.5226892,
-            "min_longitude": 177.0109157
+            "latitude": -17.9453123,
+            "longitude": 178.2461183,
+            "max_latitude": -17.376591,
+            "max_longitude": 178.772931,
+            "min_latitude": -18.423275,
+            "min_longitude": 177.772764
         },
         "iso_3166_2": "FJ-R",
         "iso_a2": "FJ",
         "iso_a3": "FJI",
-        "name": "Rotuma",
+        "name": "Central",
         "postal": "R",
         "type": "Division",
         "type_en": "Division"
     },
     "W": {
         "alt_names": [
-            "Western"
+            "Central"
         ],
         "cca2": "FJ",
         "cca3": "FJI",
@@ -684,17 +684,17 @@
             "woe_name": "Western"
         },
         "geo": {
-            "latitude": -17.7510845,
-            "longitude": 177.7763333,
-            "max_latitude": -16.6962956,
-            "max_longitude": 178.454681,
-            "min_latitude": -18.5983401,
-            "min_longitude": 176.921122
+            "latitude": -17.9453123,
+            "longitude": 178.2461183,
+            "max_latitude": -17.376591,
+            "max_longitude": 178.772931,
+            "min_latitude": -18.423275,
+            "min_longitude": 177.772764
         },
         "iso_3166_2": "FJ-W",
         "iso_a2": "FJ",
         "iso_a3": "FJI",
-        "name": "Western",
+        "name": "Central",
         "postal": "W",
         "type": "Division",
         "type_en": "Division"

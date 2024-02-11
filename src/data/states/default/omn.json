@@ -141,7 +141,7 @@
     },
     "BJ": {
         "alt_names": [
-            ""
+            "Al Batinah"
         ],
         "cca2": "OM",
         "cca3": "OMN",
@@ -264,20 +264,24 @@
             "woe_name": "Al Batnah"
         },
         "geo": {
-            "latitude": "23.4299000000",
-            "longitude": "57.6472000000"
+            "latitude": 24.13316,
+            "longitude": 56.6513853,
+            "max_latitude": 24.977919,
+            "max_longitude": 57.4390539,
+            "min_latitude": 23.3843522,
+            "min_longitude": 56.188816
         },
         "iso_3166_2": "OM-BJ",
         "iso_a2": "OM",
         "iso_a3": "OMN",
-        "name": "Al Batnah South",
+        "name": "Al Batinah",
         "postal": "BJ",
         "type": "Mintaqah",
         "type_en": "Region"
     },
     "BU": {
         "alt_names": [
-            "Al Buraymi"
+            "Al Batinah"
         ],
         "cca2": "OM",
         "cca3": "OMN",
@@ -400,24 +404,24 @@
             "woe_name": "Buraymi"
         },
         "geo": {
-            "latitude": 24.25,
-            "longitude": 55.7999,
-            "max_latitude": 24.3267637,
-            "max_longitude": 55.8898545,
-            "min_latitude": 24.2248153,
-            "min_longitude": 55.7534695
+            "latitude": 24.13316,
+            "longitude": 56.6513853,
+            "max_latitude": 24.977919,
+            "max_longitude": 57.4390539,
+            "min_latitude": 23.3843522,
+            "min_longitude": 56.188816
         },
         "iso_3166_2": "OM-BU",
         "iso_a2": "OM",
         "iso_a3": "OMN",
-        "name": "Al Buraymi",
+        "name": "Al Batinah",
         "postal": "BU",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "DA": {
         "alt_names": [
-            "Ad Dakhiliya"
+            "Al Batinah"
         ],
         "cca2": "OM",
         "cca3": "OMN",
@@ -540,26 +544,24 @@
             "woe_name": "Ad Dakhliyah"
         },
         "geo": {
-            "latitude": 22.3476325,
-            "longitude": 57.2818625,
-            "max_latitude": 23.5632319,
-            "max_longitude": 58.3418851,
-            "min_latitude": 20.904974,
-            "min_longitude": 56.576047
+            "latitude": 24.13316,
+            "longitude": 56.6513853,
+            "max_latitude": 24.977919,
+            "max_longitude": 57.4390539,
+            "min_latitude": 23.3843522,
+            "min_longitude": 56.188816
         },
         "iso_3166_2": "OM-DA",
         "iso_a2": "OM",
         "iso_a3": "OMN",
-        "name": "Ad Dakhiliyah",
+        "name": "Al Batinah",
         "postal": "DA",
         "type": "Mintaqah",
         "type_en": "Region"
     },
     "MA": {
         "alt_names": [
-            "Masqa\u0163",
-            "Maskat",
-            "Mascate"
+            "Al Batinah"
         ],
         "cca2": "OM",
         "cca3": "OMN",
@@ -682,24 +684,24 @@
             "woe_name": "Muscat"
         },
         "geo": {
-            "latitude": 23.61,
-            "longitude": 58.54,
-            "max_latitude": 23.6455689,
-            "max_longitude": 58.6189567,
-            "min_latitude": 23.5211218,
-            "min_longitude": 58.2283758
+            "latitude": 24.13316,
+            "longitude": 56.6513853,
+            "max_latitude": 24.977919,
+            "max_longitude": 57.4390539,
+            "min_latitude": 23.3843522,
+            "min_longitude": 56.188816
         },
         "iso_3166_2": "OM-MA",
         "iso_a2": "OM",
         "iso_a3": "OMN",
-        "name": "Masqat",
+        "name": "Al Batinah",
         "postal": "MA",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "MU": {
         "alt_names": [
-            "Musandam"
+            "Al Batinah"
         ],
         "cca2": "OM",
         "cca3": "OMN",
@@ -822,24 +824,24 @@
             "woe_name": "Musandam"
         },
         "geo": {
-            "latitude": 25.9942638,
-            "longitude": 56.2482277,
-            "max_latitude": 26.385954,
-            "max_longitude": 56.5376924,
-            "min_latitude": 25.2419609,
-            "min_longitude": 56.0978908
+            "latitude": 24.13316,
+            "longitude": 56.6513853,
+            "max_latitude": 24.977919,
+            "max_longitude": 57.4390539,
+            "min_latitude": 23.3843522,
+            "min_longitude": 56.188816
         },
         "iso_3166_2": "OM-MU",
         "iso_a2": "OM",
         "iso_a3": "OMN",
-        "name": "Musandam",
+        "name": "Al Batinah",
         "postal": "MU",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "SH": {
         "alt_names": [
-            "Ash Sharqiyah"
+            "Al Batinah"
         ],
         "cca2": "OM",
         "cca3": "OMN",
@@ -962,24 +964,24 @@
             "woe_name": "Ash Sharqiyah"
         },
         "geo": {
-            "latitude": 22.1186919,
-            "longitude": 58.5543821,
-            "max_latitude": 23.3408271,
-            "max_longitude": 59.4309743,
-            "min_latitude": 20.7500535,
-            "min_longitude": 57.909008
+            "latitude": 24.13316,
+            "longitude": 56.6513853,
+            "max_latitude": 24.977919,
+            "max_longitude": 57.4390539,
+            "min_latitude": 23.3843522,
+            "min_longitude": 56.188816
         },
         "iso_3166_2": "OM-SH",
         "iso_a2": "OM",
         "iso_a3": "OMN",
-        "name": "Ash Sharqiyah",
+        "name": "Al Batinah",
         "postal": "SH",
         "type": "Mintaqah",
         "type_en": "Region"
     },
     "SS": {
         "alt_names": [
-            ""
+            "Al Batinah"
         ],
         "cca2": "OM",
         "cca3": "OMN",
@@ -1102,20 +1104,24 @@
             "woe_name": "Ash Sharqiyah"
         },
         "geo": {
-            "latitude": "22.2943000000",
-            "longitude": "58.5650000000"
+            "latitude": 24.13316,
+            "longitude": 56.6513853,
+            "max_latitude": 24.977919,
+            "max_longitude": 57.4390539,
+            "min_latitude": 23.3843522,
+            "min_longitude": 56.188816
         },
         "iso_3166_2": "OM-SS",
         "iso_a2": "OM",
         "iso_a3": "OMN",
-        "name": "Ash Sharqiyah North",
+        "name": "Al Batinah",
         "postal": "SS",
         "type": "Mintaqah",
         "type_en": "Region"
     },
     "WU": {
         "alt_names": [
-            "Al Wust\u00e1"
+            "Al Batinah"
         ],
         "cca2": "OM",
         "cca3": "OMN",
@@ -1238,24 +1244,24 @@
             "woe_name": "Al Wusta"
         },
         "geo": {
-            "latitude": 20.1738655,
-            "longitude": 56.561647,
-            "max_latitude": 21.420908,
-            "max_longitude": 58.3227421,
-            "min_latitude": 17.9456731,
-            "min_longitude": 54.9999999
+            "latitude": 24.13316,
+            "longitude": 56.6513853,
+            "max_latitude": 24.977919,
+            "max_longitude": 57.4390539,
+            "min_latitude": 23.3843522,
+            "min_longitude": 56.188816
         },
         "iso_3166_2": "OM-WU",
         "iso_a2": "OM",
         "iso_a3": "OMN",
-        "name": "Al Wust\u00e1",
+        "name": "Al Batinah",
         "postal": "WU",
         "type": "Mintaqah",
         "type_en": "Region"
     },
     "ZA": {
         "alt_names": [
-            "Adh Dhahirah"
+            "Al Batinah"
         ],
         "cca2": "OM",
         "cca3": "OMN",
@@ -1378,26 +1384,24 @@
             "woe_name": "Al Dhahira"
         },
         "geo": {
-            "latitude": 22.5590272,
-            "longitude": 56.0249982,
-            "max_latitude": 24.019926,
-            "max_longitude": 57.116874,
-            "min_latitude": 21.2735939,
-            "min_longitude": 55.2069211
+            "latitude": 24.13316,
+            "longitude": 56.6513853,
+            "max_latitude": 24.977919,
+            "max_longitude": 57.4390539,
+            "min_latitude": 23.3843522,
+            "min_longitude": 56.188816
         },
         "iso_3166_2": "OM-ZA",
         "iso_a2": "OM",
         "iso_a3": "OMN",
-        "name": "Adh Dhahirah",
+        "name": "Al Batinah",
         "postal": "ZA",
         "type": "Mintaqah",
         "type_en": "Region"
     },
     "ZU": {
         "alt_names": [
-            "Dhofar",
-            "Dhufar",
-            "Janubiyah"
+            "Al Batinah"
         ],
         "cca2": "OM",
         "cca3": "OMN",
@@ -1520,17 +1524,17 @@
             "woe_name": "Dhofar"
         },
         "geo": {
-            "latitude": 18.3970348,
-            "longitude": 54.4342138,
-            "max_latitude": 20.0018369,
-            "max_longitude": 56.3555997,
-            "min_latitude": 16.645761,
-            "min_longitude": 52.0007019
+            "latitude": 24.13316,
+            "longitude": 56.6513853,
+            "max_latitude": 24.977919,
+            "max_longitude": 57.4390539,
+            "min_latitude": 23.3843522,
+            "min_longitude": 56.188816
         },
         "iso_3166_2": "OM-ZU",
         "iso_a2": "OM",
         "iso_a3": "OMN",
-        "name": "Dhofar",
+        "name": "Al Batinah",
         "postal": "ZU",
         "type": "Muhafazah",
         "type_en": "Province"

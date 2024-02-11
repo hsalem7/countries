@@ -1,7 +1,7 @@
 {
     "81": {
         "alt_names": [
-            "Nordjylland"
+            "K\u00f8benhavn"
         ],
         "cca2": "DK",
         "cca3": "DNK",
@@ -124,24 +124,24 @@
             "woe_name": "Nordjylland"
         },
         "geo": {
-            "latitude": 56.8307416,
-            "longitude": 9.4930528,
-            "max_latitude": 57.7518131,
-            "max_longitude": 11.200088,
-            "min_latitude": 56.550334,
-            "min_longitude": 8.2120049
+            "latitude": 55.6760968,
+            "longitude": 12.5683371,
+            "max_latitude": 55.7270937,
+            "max_longitude": 12.7342654,
+            "min_latitude": 55.615441,
+            "min_longitude": 12.4533824
         },
         "iso_3166_2": "DK-81",
         "iso_a2": "DK",
         "iso_a3": "DNK",
-        "name": "Nordjylland",
+        "name": "K\u00f8benhavn",
         "postal": "81",
         "type": "Region",
         "type_en": "Region"
     },
     "82": {
         "alt_names": [
-            "Midtjylland"
+            "K\u00f8benhavn"
         ],
         "cca2": "DK",
         "cca3": "DNK",
@@ -264,24 +264,24 @@
             "woe_name": "Midtjylland"
         },
         "geo": {
-            "latitude": 56.302139,
-            "longitude": 9.3027769,
-            "max_latitude": 56.846539,
-            "max_longitude": 11.6613,
-            "min_latitude": 55.668859,
-            "min_longitude": 8.0976872
+            "latitude": 55.6760968,
+            "longitude": 12.5683371,
+            "max_latitude": 55.7270937,
+            "max_longitude": 12.7342654,
+            "min_latitude": 55.615441,
+            "min_longitude": 12.4533824
         },
         "iso_3166_2": "DK-82",
         "iso_a2": "DK",
         "iso_a3": "DNK",
-        "name": "Central Jutland",
+        "name": "K\u00f8benhavn",
         "postal": "82",
         "type": "Region",
         "type_en": "Region"
     },
     "83": {
         "alt_names": [
-            "Syddanmark"
+            "K\u00f8benhavn"
         ],
         "cca2": "DK",
         "cca3": "DNK",
@@ -404,24 +404,24 @@
             "woe_name": "Syddanmark"
         },
         "geo": {
-            "latitude": 56.26392,
-            "longitude": 9.501785,
-            "max_latitude": 57.8794382,
-            "max_longitude": 15.1972813,
-            "min_latitude": 54.5591211,
-            "min_longitude": 8.0722409
+            "latitude": 55.6760968,
+            "longitude": 12.5683371,
+            "max_latitude": 55.7270937,
+            "max_longitude": 12.7342654,
+            "min_latitude": 55.615441,
+            "min_longitude": 12.4533824
         },
         "iso_3166_2": "DK-83",
         "iso_a2": "DK",
         "iso_a3": "DNK",
-        "name": "South Denmark",
+        "name": "K\u00f8benhavn",
         "postal": "83",
         "type": "Region",
         "type_en": "Region"
     },
     "84": {
         "alt_names": [
-            "Region Hovedstaden"
+            "K\u00f8benhavn"
         ],
         "cca2": "DK",
         "cca3": "DNK",
@@ -544,24 +544,24 @@
             "woe_name": "Hovedstaden"
         },
         "geo": {
-            "latitude": 55.6751812,
-            "longitude": 12.5493261,
-            "max_latitude": 56.200283,
-            "max_longitude": 15.157218,
-            "min_latitude": 54.9871812,
-            "min_longitude": 11.694833
+            "latitude": 55.6760968,
+            "longitude": 12.5683371,
+            "max_latitude": 55.7270937,
+            "max_longitude": 12.7342654,
+            "min_latitude": 55.615441,
+            "min_longitude": 12.4533824
         },
         "iso_3166_2": "DK-84",
         "iso_a2": "DK",
         "iso_a3": "DNK",
-        "name": "Capital",
+        "name": "K\u00f8benhavn",
         "postal": "84",
         "type": "Region",
         "type_en": "Region"
     },
     "85": {
         "alt_names": [
-            "Sj\u00e6lland"
+            "K\u00f8benhavn"
         ],
         "cca2": "DK",
         "cca3": "DNK",
@@ -684,17 +684,17 @@
             "woe_name": "Sja\u00e6lland"
         },
         "geo": {
-            "latitude": 55.4632518,
-            "longitude": 11.7214979,
-            "max_latitude": 56.129846,
-            "max_longitude": 12.6244919,
-            "min_latitude": 54.962158,
-            "min_longitude": 10.8682958
+            "latitude": 55.6760968,
+            "longitude": 12.5683371,
+            "max_latitude": 55.7270937,
+            "max_longitude": 12.7342654,
+            "min_latitude": 55.615441,
+            "min_longitude": 12.4533824
         },
         "iso_3166_2": "DK-85",
         "iso_a2": "DK",
         "iso_a3": "DNK",
-        "name": "Zeeland",
+        "name": "K\u00f8benhavn",
         "postal": "85",
         "type": "Region",
         "type_en": "Region"

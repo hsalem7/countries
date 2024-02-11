@@ -141,7 +141,7 @@
     },
     "02": {
         "alt_names": [
-            "Krapina-Zagorje"
+            "Zagreb County"
         ],
         "cca2": "HR",
         "cca3": "HRV",
@@ -264,24 +264,24 @@
             "woe_name": "Krapinsko-Zagorska"
         },
         "geo": {
-            "latitude": 46.1013393,
-            "longitude": 15.8809693,
-            "max_latitude": 46.2800141,
-            "max_longitude": 16.2571245,
-            "min_latitude": 45.9023158,
-            "min_longitude": 15.5954704
+            "latitude": 45.8706612,
+            "longitude": 16.395491,
+            "max_latitude": 46.0695047,
+            "max_longitude": 16.7137865,
+            "min_latitude": 45.4676982,
+            "min_longitude": 15.3262593
         },
         "iso_3166_2": "HR-02",
         "iso_a2": "HR",
         "iso_a3": "HRV",
-        "name": "Krapinsko-zagorska \u017eupanija",
+        "name": "Zagreba\u010dka \u017eupanija",
         "postal": "02",
         "type": "\u017dupanija",
         "type_en": "County"
     },
     "03": {
         "alt_names": [
-            "Sisak-Moslavina"
+            "Zagreb County"
         ],
         "cca2": "HR",
         "cca3": "HRV",
@@ -404,24 +404,24 @@
             "woe_name": "Sisacko-Moslavacka"
         },
         "geo": {
-            "latitude": 45.3837926,
-            "longitude": 16.5380995,
-            "max_latitude": 45.6699168,
-            "max_longitude": 17.1949134,
-            "min_latitude": 44.9959092,
-            "min_longitude": 15.7676525
+            "latitude": 45.8706612,
+            "longitude": 16.395491,
+            "max_latitude": 46.0695047,
+            "max_longitude": 16.7137865,
+            "min_latitude": 45.4676982,
+            "min_longitude": 15.3262593
         },
         "iso_3166_2": "HR-03",
         "iso_a2": "HR",
         "iso_a3": "HRV",
-        "name": "Sisa\u010dko-moslava\u010dka \u017eupanija",
+        "name": "Zagreba\u010dka \u017eupanija",
         "postal": "03",
         "type": "\u017dupanija",
         "type_en": "County"
     },
     "04": {
         "alt_names": [
-            "Karlovac"
+            "Zagreb County"
         ],
         "cca2": "HR",
         "cca3": "HRV",
@@ -544,24 +544,24 @@
             "woe_name": "Karlovacka"
         },
         "geo": {
-            "latitude": 45.2389445,
-            "longitude": 15.3980067,
-            "max_latitude": 45.7628058,
-            "max_longitude": 15.9247762,
-            "min_latitude": 44.8825573,
-            "min_longitude": 14.961508
+            "latitude": 45.8706612,
+            "longitude": 16.395491,
+            "max_latitude": 46.0695047,
+            "max_longitude": 16.7137865,
+            "min_latitude": 45.4676982,
+            "min_longitude": 15.3262593
         },
         "iso_3166_2": "HR-04",
         "iso_a2": "HR",
         "iso_a3": "HRV",
-        "name": "Karlova\u010dka \u017eupanija",
+        "name": "Zagreba\u010dka \u017eupanija",
         "postal": "04",
         "type": "\u017dupanija",
         "type_en": "County"
     },
     "05": {
         "alt_names": [
-            "Vara\u017edin"
+            "Zagreb County"
         ],
         "cca2": "HR",
         "cca3": "HRV",
@@ -684,24 +684,24 @@
             "woe_name": "Vara\u017edinska"
         },
         "geo": {
-            "latitude": 46.2317473,
-            "longitude": 16.3360558,
-            "max_latitude": 46.4048343,
-            "max_longitude": 16.7739716,
-            "min_latitude": 46.0103401,
-            "min_longitude": 15.8765333
+            "latitude": 45.8706612,
+            "longitude": 16.395491,
+            "max_latitude": 46.0695047,
+            "max_longitude": 16.7137865,
+            "min_latitude": 45.4676982,
+            "min_longitude": 15.3262593
         },
         "iso_3166_2": "HR-05",
         "iso_a2": "HR",
         "iso_a3": "HRV",
-        "name": "Vara\u017edinska \u017eupanija",
+        "name": "Zagreba\u010dka \u017eupanija",
         "postal": "05",
         "type": "\u017dupanija",
         "type_en": "County"
     },
     "06": {
         "alt_names": [
-            "Koprivnica-Kri\u017eevci"
+            "Zagreb County"
         ],
         "cca2": "HR",
         "cca3": "HRV",
@@ -824,24 +824,24 @@
             "woe_name": "Koprivni\u010dko-Kri\u017eeva\u010dka"
         },
         "geo": {
-            "latitude": 46.1568919,
-            "longitude": 16.8390826,
-            "max_latitude": 46.3551961,
-            "max_longitude": 17.3057121,
-            "min_latitude": 45.8802736,
-            "min_longitude": 16.3417055
+            "latitude": 45.8706612,
+            "longitude": 16.395491,
+            "max_latitude": 46.0695047,
+            "max_longitude": 16.7137865,
+            "min_latitude": 45.4676982,
+            "min_longitude": 15.3262593
         },
         "iso_3166_2": "HR-06",
         "iso_a2": "HR",
         "iso_a3": "HRV",
-        "name": "Koprivni\u010dko-kri\u017eeva\u010dka \u017eupanija",
+        "name": "Zagreba\u010dka \u017eupanija",
         "postal": "06",
         "type": "\u017dupanija",
         "type_en": "County"
     },
     "07": {
         "alt_names": [
-            "Bjelovar-Bilogora"
+            "Zagreb County"
         ],
         "cca2": "HR",
         "cca3": "HRV",
@@ -964,24 +964,24 @@
             "woe_name": "Bjelovarska-Bilogorska"
         },
         "geo": {
-            "latitude": 45.7809992,
-            "longitude": 16.9936575,
-            "max_latitude": 46.088761,
-            "max_longitude": 17.4986747,
-            "min_latitude": 45.4661945,
-            "min_longitude": 16.4888635
+            "latitude": 45.8706612,
+            "longitude": 16.395491,
+            "max_latitude": 46.0695047,
+            "max_longitude": 16.7137865,
+            "min_latitude": 45.4676982,
+            "min_longitude": 15.3262593
         },
         "iso_3166_2": "HR-07",
         "iso_a2": "HR",
         "iso_a3": "HRV",
-        "name": "Bjelovarsko-bilogorska \u017eupanija",
+        "name": "Zagreba\u010dka \u017eupanija",
         "postal": "07",
         "type": "\u017dupanija",
         "type_en": "County"
     },
     "08": {
         "alt_names": [
-            "Primorje-Gorski Kotar"
+            "Zagreb County"
         ],
         "cca2": "HR",
         "cca3": "HRV",
@@ -1104,24 +1104,24 @@
             "woe_name": "Primorsko-Goranska"
         },
         "geo": {
-            "latitude": 45.3173996,
-            "longitude": 14.8167466,
-            "max_latitude": 45.6734484,
-            "max_longitude": 15.2352703,
-            "min_latitude": 44.4406968,
-            "min_longitude": 14.1078905
+            "latitude": 45.8706612,
+            "longitude": 16.395491,
+            "max_latitude": 46.0695047,
+            "max_longitude": 16.7137865,
+            "min_latitude": 45.4676982,
+            "min_longitude": 15.3262593
         },
         "iso_3166_2": "HR-08",
         "iso_a2": "HR",
         "iso_a3": "HRV",
-        "name": "Primorsko-goranska \u017eupanija",
+        "name": "Zagreba\u010dka \u017eupanija",
         "postal": "08",
         "type": "\u017dupanija",
         "type_en": "County"
     },
     "09": {
         "alt_names": [
-            "Lika-Senj"
+            "Zagreb County"
         ],
         "cca2": "HR",
         "cca3": "HRV",
@@ -1244,24 +1244,24 @@
             "woe_name": "Licko-Senjska"
         },
         "geo": {
-            "latitude": 44.6192218,
-            "longitude": 15.4701608,
-            "max_latitude": 45.1228954,
-            "max_longitude": 16.1408169,
-            "min_latitude": 44.2712303,
-            "min_longitude": 14.6828545
+            "latitude": 45.8706612,
+            "longitude": 16.395491,
+            "max_latitude": 46.0695047,
+            "max_longitude": 16.7137865,
+            "min_latitude": 45.4676982,
+            "min_longitude": 15.3262593
         },
         "iso_3166_2": "HR-09",
         "iso_a2": "HR",
         "iso_a3": "HRV",
-        "name": "Li\u010dko-senjska \u017eupanija",
+        "name": "Zagreba\u010dka \u017eupanija",
         "postal": "09",
         "type": "\u017dupanija",
         "type_en": "County"
     },
     "10": {
         "alt_names": [
-            "Virovitica-Podravina"
+            "Zagreb County"
         ],
         "cca2": "HR",
         "cca3": "HRV",
@@ -1384,24 +1384,24 @@
             "woe_name": "Viroviticko-Podravska"
         },
         "geo": {
-            "latitude": 45.6557985,
-            "longitude": 17.7932472,
-            "max_latitude": 45.996212,
-            "max_longitude": 18.0678268,
-            "min_latitude": 45.4725689,
-            "min_longitude": 17.1197372
+            "latitude": 45.8706612,
+            "longitude": 16.395491,
+            "max_latitude": 46.0695047,
+            "max_longitude": 16.7137865,
+            "min_latitude": 45.4676982,
+            "min_longitude": 15.3262593
         },
         "iso_3166_2": "HR-10",
         "iso_a2": "HR",
         "iso_a3": "HRV",
-        "name": "Viroviti\u010dko-podravska \u017eupanija",
+        "name": "Zagreba\u010dka \u017eupanija",
         "postal": "10",
         "type": "\u017dupanija",
         "type_en": "County"
     },
     "12": {
         "alt_names": [
-            "Brod-Posavina"
+            "Zagreb County"
         ],
         "cca2": "HR",
         "cca3": "HRV",
@@ -1524,24 +1524,24 @@
             "woe_name": "Brodsko-Posavska"
         },
         "geo": {
-            "latitude": 45.2637951,
-            "longitude": 17.3264562,
-            "max_latitude": 45.3923598,
-            "max_longitude": 18.5746296,
-            "min_latitude": 45.0434571,
-            "min_longitude": 17.0736625
+            "latitude": 45.8706612,
+            "longitude": 16.395491,
+            "max_latitude": 46.0695047,
+            "max_longitude": 16.7137865,
+            "min_latitude": 45.4676982,
+            "min_longitude": 15.3262593
         },
         "iso_3166_2": "HR-12",
         "iso_a2": "HR",
         "iso_a3": "HRV",
-        "name": "Brodsko-posavska \u017eupanija",
+        "name": "Zagreba\u010dka \u017eupanija",
         "postal": "12",
         "type": "\u017dupanija",
         "type_en": "County"
     },
     "13": {
         "alt_names": [
-            "Zadar"
+            "Zagreb County"
         ],
         "cca2": "HR",
         "cca3": "HRV",
@@ -1664,24 +1664,24 @@
             "woe_name": "Zadarska"
         },
         "geo": {
-            "latitude": 44.146939,
-            "longitude": 15.6164943,
-            "max_latitude": 44.5384474,
-            "max_longitude": 16.2202414,
-            "min_latitude": 43.8228067,
-            "min_longitude": 14.5670193
+            "latitude": 45.8706612,
+            "longitude": 16.395491,
+            "max_latitude": 46.0695047,
+            "max_longitude": 16.7137865,
+            "min_latitude": 45.4676982,
+            "min_longitude": 15.3262593
         },
         "iso_3166_2": "HR-13",
         "iso_a2": "HR",
         "iso_a3": "HRV",
-        "name": "Zadarska \u017eupanija",
+        "name": "Zagreba\u010dka \u017eupanija",
         "postal": "13",
         "type": "\u017dupanija",
         "type_en": "County"
     },
     "14": {
         "alt_names": [
-            "Osijek-Baranja"
+            "Zagreb County"
         ],
         "cca2": "HR",
         "cca3": "HRV",
@@ -1804,24 +1804,24 @@
             "woe_name": "Osjecko-Baranjska"
         },
         "geo": {
-            "latitude": 45.5576428,
-            "longitude": 18.3942141,
-            "max_latitude": 45.9217976,
-            "max_longitude": 19.1025689,
-            "min_latitude": 45.2042832,
-            "min_longitude": 17.8840624
+            "latitude": 45.8706612,
+            "longitude": 16.395491,
+            "max_latitude": 46.0695047,
+            "max_longitude": 16.7137865,
+            "min_latitude": 45.4676982,
+            "min_longitude": 15.3262593
         },
         "iso_3166_2": "HR-14",
         "iso_a2": "HR",
         "iso_a3": "HRV",
-        "name": "Osje\u010dko-baranjska \u017eupanija",
+        "name": "Zagreba\u010dka \u017eupanija",
         "postal": "14",
         "type": "\u017dupanija",
         "type_en": "County"
     },
     "15": {
         "alt_names": [
-            "\u0160ibenik-Knin"
+            "Zagreb County"
         ],
         "cca2": "HR",
         "cca3": "HRV",
@@ -1944,24 +1944,24 @@
             "woe_name": "\u0160ibensko-Kninska"
         },
         "geo": {
-            "latitude": 43.9281485,
-            "longitude": 16.1037694,
-            "max_latitude": 44.2164979,
-            "max_longitude": 16.5426211,
-            "min_latitude": 43.4868297,
-            "min_longitude": 15.2068282
+            "latitude": 45.8706612,
+            "longitude": 16.395491,
+            "max_latitude": 46.0695047,
+            "max_longitude": 16.7137865,
+            "min_latitude": 45.4676982,
+            "min_longitude": 15.3262593
         },
         "iso_3166_2": "HR-15",
         "iso_a2": "HR",
         "iso_a3": "HRV",
-        "name": "\u0160ibensko-kninska \u017eupanija",
+        "name": "Zagreba\u010dka \u017eupanija",
         "postal": "15",
         "type": "\u017dupanija",
         "type_en": "County"
     },
     "16": {
         "alt_names": [
-            "Vukovar-Sirmium"
+            "Zagreb County"
         ],
         "cca2": "HR",
         "cca3": "HRV",
@@ -2084,24 +2084,24 @@
             "woe_name": "Vukovarsko-Srijemska"
         },
         "geo": {
-            "latitude": 45.1773552,
-            "longitude": 18.8053527,
-            "max_latitude": 45.4856329,
-            "max_longitude": 19.4480523,
-            "min_latitude": 44.8497502,
-            "min_longitude": 18.4948404
+            "latitude": 45.8706612,
+            "longitude": 16.395491,
+            "max_latitude": 46.0695047,
+            "max_longitude": 16.7137865,
+            "min_latitude": 45.4676982,
+            "min_longitude": 15.3262593
         },
         "iso_3166_2": "HR-16",
         "iso_a2": "HR",
         "iso_a3": "HRV",
-        "name": "Vukovarsko-srijemska \u017eupanija",
+        "name": "Zagreba\u010dka \u017eupanija",
         "postal": "16",
         "type": "\u017dupanija",
         "type_en": "County"
     },
     "17": {
         "alt_names": [
-            "Split-Dalmatia"
+            "Zagreb County"
         ],
         "cca2": "HR",
         "cca3": "HRV",
@@ -2224,24 +2224,24 @@
             "woe_name": "Splitsko-Dalmatinska"
         },
         "geo": {
-            "latitude": 43.5240328,
-            "longitude": 16.8178377,
-            "max_latitude": 43.9736159,
-            "max_longitude": 17.4510685,
-            "min_latitude": 42.3871363,
-            "min_longitude": 15.709013
+            "latitude": 45.8706612,
+            "longitude": 16.395491,
+            "max_latitude": 46.0695047,
+            "max_longitude": 16.7137865,
+            "min_latitude": 45.4676982,
+            "min_longitude": 15.3262593
         },
         "iso_3166_2": "HR-17",
         "iso_a2": "HR",
         "iso_a3": "HRV",
-        "name": "Splitsko-dalmatinska \u017eupanija",
+        "name": "Zagreba\u010dka \u017eupanija",
         "postal": "17",
         "type": "\u017dupanija",
         "type_en": "County"
     },
     "18": {
         "alt_names": [
-            "Istria"
+            "Zagreb County"
         ],
         "cca2": "HR",
         "cca3": "HRV",
@@ -2364,24 +2364,24 @@
             "woe_name": "Istarska"
         },
         "geo": {
-            "latitude": 45.1286455,
-            "longitude": 13.901542,
-            "max_latitude": 45.5196036,
-            "max_longitude": 14.2285896,
-            "min_latitude": 44.7575517,
-            "min_longitude": 13.4896865
+            "latitude": 45.8706612,
+            "longitude": 16.395491,
+            "max_latitude": 46.0695047,
+            "max_longitude": 16.7137865,
+            "min_latitude": 45.4676982,
+            "min_longitude": 15.3262593
         },
         "iso_3166_2": "HR-18",
         "iso_a2": "HR",
         "iso_a3": "HRV",
-        "name": "Istarska \u017eupanija",
+        "name": "Zagreba\u010dka \u017eupanija",
         "postal": "18",
         "type": "\u017dupanija",
         "type_en": "County"
     },
     "19": {
         "alt_names": [
-            "Dubrovnik-Neretva"
+            "Zagreb County"
         ],
         "cca2": "HR",
         "cca3": "HRV",
@@ -2504,24 +2504,24 @@
             "woe_name": "Dubrova\u010dko-neretvanska"
         },
         "geo": {
-            "latitude": 43.0766588,
-            "longitude": 17.5268471,
-            "max_latitude": 43.1775085,
-            "max_longitude": 18.5337474,
-            "min_latitude": 42.3922402,
-            "min_longitude": 16.4876151
+            "latitude": 45.8706612,
+            "longitude": 16.395491,
+            "max_latitude": 46.0695047,
+            "max_longitude": 16.7137865,
+            "min_latitude": 45.4676982,
+            "min_longitude": 15.3262593
         },
         "iso_3166_2": "HR-19",
         "iso_a2": "HR",
         "iso_a3": "HRV",
-        "name": "Dubrova\u010dko-neretvanska \u017eupanija",
+        "name": "Zagreba\u010dka \u017eupanija",
         "postal": "19",
         "type": "\u017dupanija",
         "type_en": "County"
     },
     "20": {
         "alt_names": [
-            "Me\u0111imurje"
+            "Zagreb County"
         ],
         "cca2": "HR",
         "cca3": "HRV",
@@ -2644,24 +2644,24 @@
             "woe_name": "Medimurska"
         },
         "geo": {
-            "latitude": 46.3766644,
-            "longitude": 16.4213298,
-            "max_latitude": 46.5552234,
-            "max_longitude": 16.8580089,
-            "min_latitude": 46.2877571,
-            "min_longitude": 16.2384532
+            "latitude": 45.8706612,
+            "longitude": 16.395491,
+            "max_latitude": 46.0695047,
+            "max_longitude": 16.7137865,
+            "min_latitude": 45.4676982,
+            "min_longitude": 15.3262593
         },
         "iso_3166_2": "HR-20",
         "iso_a2": "HR",
         "iso_a3": "HRV",
-        "name": "Me\u0111imurska \u017eupanija",
+        "name": "Zagreba\u010dka \u017eupanija",
         "postal": "20",
         "type": "\u017dupanija",
         "type_en": "County"
     },
     "21": {
         "alt_names": [
-            "City of Zagreb"
+            "Zagreb County"
         ],
         "cca2": "HR",
         "cca3": "HRV",
@@ -2784,17 +2784,17 @@
             "woe_name": "Grad Zagreb"
         },
         "geo": {
-            "latitude": 45.8150108,
-            "longitude": 15.981919,
-            "max_latitude": 45.9395392,
-            "max_longitude": 16.1069727,
-            "min_latitude": 45.7408527,
-            "min_longitude": 15.8216904
+            "latitude": 45.8706612,
+            "longitude": 16.395491,
+            "max_latitude": 46.0695047,
+            "max_longitude": 16.7137865,
+            "min_latitude": 45.4676982,
+            "min_longitude": 15.3262593
         },
         "iso_3166_2": "HR-21",
         "iso_a2": "HR",
         "iso_a3": "HRV",
-        "name": "Grad Zagreb",
+        "name": "Zagreba\u010dka \u017eupanija",
         "postal": "21",
         "type": "Grad",
         "type_en": "City"

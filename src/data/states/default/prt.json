@@ -141,7 +141,7 @@
     },
     "02": {
         "alt_names": [
-            "Beja"
+            "Aveiro"
         ],
         "cca2": "PT",
         "cca3": "PRT",
@@ -264,24 +264,24 @@
             "woe_name": "Beja"
         },
         "geo": {
-            "latitude": 38.0153039,
-            "longitude": -7.8627308,
-            "max_latitude": 38.0746209,
-            "max_longitude": -7.8177491,
-            "min_latitude": 37.97009,
-            "min_longitude": -7.9595048
+            "latitude": 40.6405055,
+            "longitude": -8.6537539,
+            "max_latitude": 40.6545896,
+            "max_longitude": -8.6238121,
+            "min_latitude": 40.6241712,
+            "min_longitude": -8.6654438
         },
         "iso_3166_2": "PT-02",
         "iso_a2": "PT",
         "iso_a3": "PRT",
-        "name": "Beja",
+        "name": "Aveiro",
         "postal": "02",
         "type": "Distrito",
         "type_en": "District"
     },
     "03": {
         "alt_names": [
-            "Braga"
+            "Aveiro"
         ],
         "cca2": "PT",
         "cca3": "PRT",
@@ -404,24 +404,24 @@
             "woe_name": "Braga"
         },
         "geo": {
-            "latitude": 41.5454486,
-            "longitude": -8.426507,
-            "max_latitude": 41.5841477,
-            "max_longitude": -8.3421791,
-            "min_latitude": 41.510402,
-            "min_longitude": -8.4806633
+            "latitude": 40.6405055,
+            "longitude": -8.6537539,
+            "max_latitude": 40.6545896,
+            "max_longitude": -8.6238121,
+            "min_latitude": 40.6241712,
+            "min_longitude": -8.6654438
         },
         "iso_3166_2": "PT-03",
         "iso_a2": "PT",
         "iso_a3": "PRT",
-        "name": "Braga",
+        "name": "Aveiro",
         "postal": "03",
         "type": "Distrito",
         "type_en": "District"
     },
     "04": {
         "alt_names": [
-            "Bragan\u00e7a"
+            "Aveiro"
         ],
         "cca2": "PT",
         "cca3": "PRT",
@@ -544,24 +544,24 @@
             "woe_name": "Bragan\u00e7a"
         },
         "geo": {
-            "latitude": 41.8061131,
-            "longitude": -6.756738,
-            "max_latitude": 41.8369891,
-            "max_longitude": -6.7063504,
-            "min_latitude": 41.7861053,
-            "min_longitude": -6.7907131
+            "latitude": 40.6405055,
+            "longitude": -8.6537539,
+            "max_latitude": 40.6545896,
+            "max_longitude": -8.6238121,
+            "min_latitude": 40.6241712,
+            "min_longitude": -8.6654438
         },
         "iso_3166_2": "PT-04",
         "iso_a2": "PT",
         "iso_a3": "PRT",
-        "name": "Bragan\u00e7a",
+        "name": "Aveiro",
         "postal": "04",
         "type": "Distrito",
         "type_en": "District"
     },
     "05": {
         "alt_names": [
-            "Castelo Branco"
+            "Aveiro"
         ],
         "cca2": "PT",
         "cca3": "PRT",
@@ -684,24 +684,24 @@
             "woe_name": "Castelo Branco"
         },
         "geo": {
-            "latitude": 39.8197117,
-            "longitude": -7.4964662,
-            "max_latitude": 39.9093461,
-            "max_longitude": -7.36709,
-            "min_latitude": 39.7136873,
-            "min_longitude": -7.5591241
+            "latitude": 40.6405055,
+            "longitude": -8.6537539,
+            "max_latitude": 40.6545896,
+            "max_longitude": -8.6238121,
+            "min_latitude": 40.6241712,
+            "min_longitude": -8.6654438
         },
         "iso_3166_2": "PT-05",
         "iso_a2": "PT",
         "iso_a3": "PRT",
-        "name": "Castelo Branco",
+        "name": "Aveiro",
         "postal": "05",
         "type": "Distrito",
         "type_en": "District"
     },
     "06": {
         "alt_names": [
-            "Coimbra"
+            "Aveiro"
         ],
         "cca2": "PT",
         "cca3": "PRT",
@@ -824,24 +824,24 @@
             "woe_name": "Coimbra"
         },
         "geo": {
-            "latitude": 40.2033145,
-            "longitude": -8.4102573,
-            "max_latitude": 40.2861477,
-            "max_longitude": -8.3229076,
-            "min_latitude": 40.1713722,
-            "min_longitude": -8.5096411
+            "latitude": 40.6405055,
+            "longitude": -8.6537539,
+            "max_latitude": 40.6545896,
+            "max_longitude": -8.6238121,
+            "min_latitude": 40.6241712,
+            "min_longitude": -8.6654438
         },
         "iso_3166_2": "PT-06",
         "iso_a2": "PT",
         "iso_a3": "PRT",
-        "name": "Coimbra",
+        "name": "Aveiro",
         "postal": "06",
         "type": "Distrito",
         "type_en": "District"
     },
     "07": {
         "alt_names": [
-            "\u00c9vora"
+            "Aveiro"
         ],
         "cca2": "PT",
         "cca3": "PRT",
@@ -964,24 +964,24 @@
             "woe_name": "\u00c9vora"
         },
         "geo": {
-            "latitude": 38.571431,
-            "longitude": -7.913502,
-            "max_latitude": 38.6169193,
-            "max_longitude": -7.8435146,
-            "min_latitude": 38.5227211,
-            "min_longitude": -7.9785036
+            "latitude": 40.6405055,
+            "longitude": -8.6537539,
+            "max_latitude": 40.6545896,
+            "max_longitude": -8.6238121,
+            "min_latitude": 40.6241712,
+            "min_longitude": -8.6654438
         },
         "iso_3166_2": "PT-07",
         "iso_a2": "PT",
         "iso_a3": "PRT",
-        "name": "\u00c9vora",
+        "name": "Aveiro",
         "postal": "07",
         "type": "Distrito",
         "type_en": "District"
     },
     "08": {
         "alt_names": [
-            "Faro"
+            "Aveiro"
         ],
         "cca2": "PT",
         "cca3": "PRT",
@@ -1104,24 +1104,24 @@
             "woe_name": "Faro"
         },
         "geo": {
-            "latitude": 37.0193548,
-            "longitude": -7.9304397,
-            "max_latitude": 37.0738998,
-            "max_longitude": -7.8093544,
-            "min_latitude": 36.9617104,
-            "min_longitude": -8.0004006
+            "latitude": 40.6405055,
+            "longitude": -8.6537539,
+            "max_latitude": 40.6545896,
+            "max_longitude": -8.6238121,
+            "min_latitude": 40.6241712,
+            "min_longitude": -8.6654438
         },
         "iso_3166_2": "PT-08",
         "iso_a2": "PT",
         "iso_a3": "PRT",
-        "name": "Faro",
+        "name": "Aveiro",
         "postal": "08",
         "type": "Distrito",
         "type_en": "District"
     },
     "09": {
         "alt_names": [
-            "Guarda"
+            "Aveiro"
         ],
         "cca2": "PT",
         "cca3": "PRT",
@@ -1244,24 +1244,24 @@
             "woe_name": "Guarda"
         },
         "geo": {
-            "latitude": 40.5383482,
-            "longitude": -7.2661315,
-            "max_latitude": 40.5738913,
-            "max_longitude": -7.1980682,
-            "min_latitude": 40.50446,
-            "min_longitude": -7.2926517
+            "latitude": 40.6405055,
+            "longitude": -8.6537539,
+            "max_latitude": 40.6545896,
+            "max_longitude": -8.6238121,
+            "min_latitude": 40.6241712,
+            "min_longitude": -8.6654438
         },
         "iso_3166_2": "PT-09",
         "iso_a2": "PT",
         "iso_a3": "PRT",
-        "name": "Guarda",
+        "name": "Aveiro",
         "postal": "09",
         "type": "Distrito",
         "type_en": "District"
     },
     "10": {
         "alt_names": [
-            "Leiria"
+            "Aveiro"
         ],
         "cca2": "PT",
         "cca3": "PRT",
@@ -1384,24 +1384,24 @@
             "woe_name": "Leiria"
         },
         "geo": {
-            "latitude": 39.7495331,
-            "longitude": -8.807683,
-            "max_latitude": 39.798205,
-            "max_longitude": -8.7350657,
-            "min_latitude": 39.709918,
-            "min_longitude": -8.8768517
+            "latitude": 40.6405055,
+            "longitude": -8.6537539,
+            "max_latitude": 40.6545896,
+            "max_longitude": -8.6238121,
+            "min_latitude": 40.6241712,
+            "min_longitude": -8.6654438
         },
         "iso_3166_2": "PT-10",
         "iso_a2": "PT",
         "iso_a3": "PRT",
-        "name": "Leiria",
+        "name": "Aveiro",
         "postal": "10",
         "type": "Distrito",
         "type_en": "District"
     },
     "11": {
         "alt_names": [
-            "Lisboa"
+            "Aveiro"
         ],
         "cca2": "PT",
         "cca3": "PRT",
@@ -1524,24 +1524,24 @@
             "woe_name": "Lisboa"
         },
         "geo": {
-            "latitude": 38.7222524,
-            "longitude": -9.1393366,
-            "max_latitude": 38.7958538,
-            "max_longitude": -9.0905718,
-            "min_latitude": 38.6913994,
-            "min_longitude": -9.2298356
+            "latitude": 40.6405055,
+            "longitude": -8.6537539,
+            "max_latitude": 40.6545896,
+            "max_longitude": -8.6238121,
+            "min_latitude": 40.6241712,
+            "min_longitude": -8.6654438
         },
         "iso_3166_2": "PT-11",
         "iso_a2": "PT",
         "iso_a3": "PRT",
-        "name": "Lisboa",
+        "name": "Aveiro",
         "postal": "11",
         "type": "Distrito",
         "type_en": "District"
     },
     "12": {
         "alt_names": [
-            "Portalegre"
+            "Aveiro"
         ],
         "cca2": "PT",
         "cca3": "PRT",
@@ -1664,24 +1664,24 @@
             "woe_name": "Portalegre"
         },
         "geo": {
-            "latitude": 39.2967086,
-            "longitude": -7.4284755,
-            "max_latitude": 39.3153866,
-            "max_longitude": -7.3995175,
-            "min_latitude": 39.262495,
-            "min_longitude": -7.4664739
+            "latitude": 40.6405055,
+            "longitude": -8.6537539,
+            "max_latitude": 40.6545896,
+            "max_longitude": -8.6238121,
+            "min_latitude": 40.6241712,
+            "min_longitude": -8.6654438
         },
         "iso_3166_2": "PT-12",
         "iso_a2": "PT",
         "iso_a3": "PRT",
-        "name": "Portalegre",
+        "name": "Aveiro",
         "postal": "12",
         "type": "Distrito",
         "type_en": "District"
     },
     "13": {
         "alt_names": [
-            "Porto"
+            "Aveiro"
         ],
         "cca2": "PT",
         "cca3": "PRT",
@@ -1804,24 +1804,24 @@
             "woe_name": "Porto"
         },
         "geo": {
-            "latitude": 41.1579438,
-            "longitude": -8.6291053,
-            "max_latitude": 41.1859353,
-            "max_longitude": -8.5526134,
-            "min_latitude": 41.1383506,
-            "min_longitude": -8.6910927
+            "latitude": 40.6405055,
+            "longitude": -8.6537539,
+            "max_latitude": 40.6545896,
+            "max_longitude": -8.6238121,
+            "min_latitude": 40.6241712,
+            "min_longitude": -8.6654438
         },
         "iso_3166_2": "PT-13",
         "iso_a2": "PT",
         "iso_a3": "PRT",
-        "name": "Porto",
+        "name": "Aveiro",
         "postal": "13",
         "type": "Distrito",
         "type_en": "District"
     },
     "14": {
         "alt_names": [
-            "Santar\u00e9m"
+            "Aveiro"
         ],
         "cca2": "PT",
         "cca3": "PRT",
@@ -1944,24 +1944,24 @@
             "woe_name": "Santar\u00e9m"
         },
         "geo": {
-            "latitude": 39.2366618,
-            "longitude": -8.6860119,
-            "max_latitude": 39.2869109,
-            "max_longitude": -8.6266653,
-            "min_latitude": 39.1687465,
-            "min_longitude": -8.7494918
+            "latitude": 40.6405055,
+            "longitude": -8.6537539,
+            "max_latitude": 40.6545896,
+            "max_longitude": -8.6238121,
+            "min_latitude": 40.6241712,
+            "min_longitude": -8.6654438
         },
         "iso_3166_2": "PT-14",
         "iso_a2": "PT",
         "iso_a3": "PRT",
-        "name": "Santar\u00e9m",
+        "name": "Aveiro",
         "postal": "14",
         "type": "Distrito",
         "type_en": "District"
     },
     "15": {
         "alt_names": [
-            "Set\u00fabal"
+            "Aveiro"
         ],
         "cca2": "PT",
         "cca3": "PRT",
@@ -2084,24 +2084,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 38.5260437,
-            "longitude": -8.8909328,
-            "max_latitude": 38.5641093,
-            "max_longitude": -8.7556919,
-            "min_latitude": 38.4840016,
-            "min_longitude": -8.9725114
+            "latitude": 40.6405055,
+            "longitude": -8.6537539,
+            "max_latitude": 40.6545896,
+            "max_longitude": -8.6238121,
+            "min_latitude": 40.6241712,
+            "min_longitude": -8.6654438
         },
         "iso_3166_2": "PT-15",
         "iso_a2": "PT",
         "iso_a3": "PRT",
-        "name": "Set\u00fabal",
+        "name": "Aveiro",
         "postal": "15",
         "type": "Distrito",
         "type_en": "District"
     },
     "16": {
         "alt_names": [
-            "Viana do Castelo"
+            "Aveiro"
         ],
         "cca2": "PT",
         "cca3": "PRT",
@@ -2224,24 +2224,24 @@
             "woe_name": "Viana do Castelo"
         },
         "geo": {
-            "latitude": 41.6918275,
-            "longitude": -8.8344101,
-            "max_latitude": 41.7605686,
-            "max_longitude": -8.7483575,
-            "min_latitude": 41.6714037,
-            "min_longitude": -8.8693403
+            "latitude": 40.6405055,
+            "longitude": -8.6537539,
+            "max_latitude": 40.6545896,
+            "max_longitude": -8.6238121,
+            "min_latitude": 40.6241712,
+            "min_longitude": -8.6654438
         },
         "iso_3166_2": "PT-16",
         "iso_a2": "PT",
         "iso_a3": "PRT",
-        "name": "Viana do Castelo",
+        "name": "Aveiro",
         "postal": "16",
         "type": "Distrito",
         "type_en": "District"
     },
     "17": {
         "alt_names": [
-            "Vila Real"
+            "Aveiro"
         ],
         "cca2": "PT",
         "cca3": "PRT",
@@ -2364,24 +2364,24 @@
             "woe_name": "Vila Real"
         },
         "geo": {
-            "latitude": 41.3010351,
-            "longitude": -7.7422354,
-            "max_latitude": 41.3635472,
-            "max_longitude": -7.6639146,
-            "min_latitude": 41.2401615,
-            "min_longitude": -7.7902948
+            "latitude": 40.6405055,
+            "longitude": -8.6537539,
+            "max_latitude": 40.6545896,
+            "max_longitude": -8.6238121,
+            "min_latitude": 40.6241712,
+            "min_longitude": -8.6654438
         },
         "iso_3166_2": "PT-17",
         "iso_a2": "PT",
         "iso_a3": "PRT",
-        "name": "Vila Real",
+        "name": "Aveiro",
         "postal": "17",
         "type": "Distrito",
         "type_en": "District"
     },
     "18": {
         "alt_names": [
-            "Viseu"
+            "Aveiro"
         ],
         "cca2": "PT",
         "cca3": "PRT",
@@ -2504,24 +2504,24 @@
             "woe_name": "Viseu"
         },
         "geo": {
-            "latitude": 40.6565861,
-            "longitude": -7.9124712,
-            "max_latitude": 40.7325793,
-            "max_longitude": -7.8250273,
-            "min_latitude": 40.6072458,
-            "min_longitude": -7.9660481
+            "latitude": 40.6405055,
+            "longitude": -8.6537539,
+            "max_latitude": 40.6545896,
+            "max_longitude": -8.6238121,
+            "min_latitude": 40.6241712,
+            "min_longitude": -8.6654438
         },
         "iso_3166_2": "PT-18",
         "iso_a2": "PT",
         "iso_a3": "PRT",
-        "name": "Viseu",
+        "name": "Aveiro",
         "postal": "18",
         "type": "Distrito",
         "type_en": "District"
     },
     "20": {
         "alt_names": [
-            "A\u00e7ores"
+            "Aveiro"
         ],
         "cca2": "PT",
         "cca3": "PRT",
@@ -2644,24 +2644,24 @@
             "woe_name": "Azores"
         },
         "geo": {
-            "latitude": 37.7412488,
-            "longitude": -25.6755944,
-            "max_latitude": 39.7261497,
-            "max_longitude": -25.0131855,
-            "min_latitude": 36.9278178,
-            "min_longitude": -31.2687948
+            "latitude": 40.6405055,
+            "longitude": -8.6537539,
+            "max_latitude": 40.6545896,
+            "max_longitude": -8.6238121,
+            "min_latitude": 40.6241712,
+            "min_longitude": -8.6654438
         },
         "iso_3166_2": "PT-20",
         "iso_a2": "PT",
         "iso_a3": "PRT",
-        "name": "A\u00e7ores",
+        "name": "Aveiro",
         "postal": "20",
         "type": "Regi\u00f5es aut\u00f4noma",
         "type_en": "Autonomous region"
     },
     "30": {
         "alt_names": [
-            "Madeira"
+            "Aveiro"
         ],
         "cca2": "PT",
         "cca3": "PRT",
@@ -2784,17 +2784,17 @@
             "woe_name": "Madeira"
         },
         "geo": {
-            "latitude": 32.7607074,
-            "longitude": -16.9594723,
-            "max_latitude": 33.1281375,
-            "max_longitude": -15.8566922,
-            "min_latitude": 30.0303451,
-            "min_longitude": -17.2659373
+            "latitude": 40.6405055,
+            "longitude": -8.6537539,
+            "max_latitude": 40.6545896,
+            "max_longitude": -8.6238121,
+            "min_latitude": 40.6241712,
+            "min_longitude": -8.6654438
         },
         "iso_3166_2": "PT-30",
         "iso_a2": "PT",
         "iso_a3": "PRT",
-        "name": "Madeira",
+        "name": "Aveiro",
         "postal": "30",
         "type": "Regi\u00f5es aut\u00f4noma",
         "type_en": "Autonomous region"

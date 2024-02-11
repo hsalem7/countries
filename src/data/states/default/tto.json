@@ -141,7 +141,7 @@
     },
     "CHA": {
         "alt_names": [
-            "Chaguanas"
+            "Arima"
         ],
         "cca2": "TT",
         "cca3": "TTO",
@@ -264,24 +264,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 10.5168387,
-            "longitude": -61.4114482,
-            "max_latitude": 10.5251973,
-            "max_longitude": -61.4072602,
-            "min_latitude": 10.500756,
-            "min_longitude": -61.4318241
+            "latitude": 10.616667,
+            "longitude": -61.266667,
+            "max_latitude": 10.6558633,
+            "max_longitude": -61.2634134,
+            "min_latitude": 10.6070415,
+            "min_longitude": -61.2983895
         },
         "iso_3166_2": "TT-CHA",
         "iso_a2": "TT",
         "iso_a3": "TTO",
-        "name": "Chaguanas",
+        "name": "Arima",
         "postal": "CHA",
         "type": "City",
         "type_en": "City"
     },
     "CTT": {
         "alt_names": [
-            "Couva-Tabaquite-Talparo"
+            "Arima"
         ],
         "cca2": "TT",
         "cca3": "TTO",
@@ -404,24 +404,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 10.4297145,
-            "longitude": -61.373521,
-            "max_latitude": 10.592795,
-            "max_longitude": -61.1990929,
-            "min_latitude": 10.3083459,
-            "min_longitude": -61.496338
+            "latitude": 10.616667,
+            "longitude": -61.266667,
+            "max_latitude": 10.6558633,
+            "max_longitude": -61.2634134,
+            "min_latitude": 10.6070415,
+            "min_longitude": -61.2983895
         },
         "iso_3166_2": "TT-CTT",
         "iso_a2": "TT",
         "iso_a3": "TTO",
-        "name": "Couva-Tabaquite-Talparo",
+        "name": "Arima",
         "postal": "CTT",
         "type": "Region",
         "type_en": "Region"
     },
     "DMN": {
         "alt_names": [
-            "Diego Martin"
+            "Arima"
         ],
         "cca2": "TT",
         "cca3": "TTO",
@@ -544,24 +544,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 10.7137264,
-            "longitude": -61.5836897,
-            "max_latitude": 10.760314,
-            "max_longitude": -61.4893929,
-            "min_latitude": 10.6637863,
-            "min_longitude": -61.7647827
+            "latitude": 10.616667,
+            "longitude": -61.266667,
+            "max_latitude": 10.6558633,
+            "max_longitude": -61.2634134,
+            "min_latitude": 10.6070415,
+            "min_longitude": -61.2983895
         },
         "iso_3166_2": "TT-DMN",
         "iso_a2": "TT",
         "iso_a3": "TTO",
-        "name": "Diego Martin",
+        "name": "Arima",
         "postal": "DMN",
         "type": "Region",
         "type_en": "Region"
     },
     "ETO": {
         "alt_names": [
-            "Eastern Tobago"
+            "Arima"
         ],
         "cca2": "TT",
         "cca3": "TTO",
@@ -684,24 +684,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 11.2979348,
-            "longitude": -60.5588524,
-            "max_latitude": 11.3467941,
-            "max_longitude": -60.4933121,
-            "min_latitude": 11.179728,
-            "min_longitude": -60.7451771
+            "latitude": 10.616667,
+            "longitude": -61.266667,
+            "max_latitude": 10.6558633,
+            "max_longitude": -61.2634134,
+            "min_latitude": 10.6070415,
+            "min_longitude": -61.2983895
         },
         "iso_3166_2": "TT-ETO",
         "iso_a2": "TT",
         "iso_a3": "TTO",
-        "name": "Eastern Tobago",
+        "name": "Arima",
         "postal": "ETO",
         "type": "Region",
         "type_en": "Region"
     },
     "PED": {
         "alt_names": [
-            "Penal-Debe"
+            "Arima"
         ],
         "cca2": "TT",
         "cca3": "TTO",
@@ -824,24 +824,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 10.1337402,
-            "longitude": -61.4435474,
-            "max_latitude": 10.2697909,
-            "max_longitude": -61.3736721,
-            "min_latitude": 10.067402,
-            "min_longitude": -61.5117519
+            "latitude": 10.616667,
+            "longitude": -61.266667,
+            "max_latitude": 10.6558633,
+            "max_longitude": -61.2634134,
+            "min_latitude": 10.6070415,
+            "min_longitude": -61.2983895
         },
         "iso_3166_2": "TT-PED",
         "iso_a2": "TT",
         "iso_a3": "TTO",
-        "name": "Penal-Debe",
+        "name": "Arima",
         "postal": "PED",
         "type": "Region",
         "type_en": "Region"
     },
     "POS": {
         "alt_names": [
-            "Port of Spain"
+            "Arima"
         ],
         "cca2": "TT",
         "cca3": "TTO",
@@ -964,24 +964,24 @@
             "woe_name": "Port of Spain"
         },
         "geo": {
-            "latitude": 10.666667,
-            "longitude": -61.516667,
-            "max_latitude": 10.7038128,
-            "max_longitude": -61.4685058,
-            "min_latitude": 10.6339524,
-            "min_longitude": -61.5590249
+            "latitude": 10.616667,
+            "longitude": -61.266667,
+            "max_latitude": 10.6558633,
+            "max_longitude": -61.2634134,
+            "min_latitude": 10.6070415,
+            "min_longitude": -61.2983895
         },
         "iso_3166_2": "TT-POS",
         "iso_a2": "TT",
         "iso_a3": "TTO",
-        "name": "Port of Spain",
+        "name": "Arima",
         "postal": "POS",
         "type": "City",
         "type_en": "City"
     },
     "PRT": {
         "alt_names": [
-            "Princes Town"
+            "Arima"
         ],
         "cca2": "TT",
         "cca3": "TTO",
@@ -1104,24 +1104,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 10.2659505,
-            "longitude": -61.3764381,
-            "max_latitude": 10.2699263,
-            "max_longitude": -61.372282,
-            "min_latitude": 10.261475,
-            "min_longitude": -61.3823115
+            "latitude": 10.616667,
+            "longitude": -61.266667,
+            "max_latitude": 10.6558633,
+            "max_longitude": -61.2634134,
+            "min_latitude": 10.6070415,
+            "min_longitude": -61.2983895
         },
         "iso_3166_2": "TT-PRT",
         "iso_a2": "TT",
         "iso_a3": "TTO",
-        "name": "Princes Town",
+        "name": "Arima",
         "postal": "PRT",
         "type": "Region",
         "type_en": "Region"
     },
     "PTF": {
         "alt_names": [
-            "Point Fortin"
+            "Arima"
         ],
         "cca2": "TT",
         "cca3": "TTO",
@@ -1244,24 +1244,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 10.166667,
-            "longitude": -61.666667,
-            "max_latitude": 10.2048491,
-            "max_longitude": -61.6349638,
-            "min_latitude": 10.1410868,
-            "min_longitude": -61.7073835
+            "latitude": 10.616667,
+            "longitude": -61.266667,
+            "max_latitude": 10.6558633,
+            "max_longitude": -61.2634134,
+            "min_latitude": 10.6070415,
+            "min_longitude": -61.2983895
         },
         "iso_3166_2": "TT-PTF",
         "iso_a2": "TT",
         "iso_a3": "TTO",
-        "name": "Point Fortin",
+        "name": "Arima",
         "postal": "PTF",
         "type": "City",
         "type_en": "City"
     },
     "RCM": {
         "alt_names": [
-            "Rio Claro-Mayaro"
+            "Arima"
         ],
         "cca2": "TT",
         "cca3": "TTO",
@@ -1384,24 +1384,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 10.2412832,
-            "longitude": -61.0937206,
-            "max_latitude": 10.4406099,
-            "max_longitude": -60.9703177,
-            "min_latitude": 10.0748818,
-            "min_longitude": -61.23981
+            "latitude": 10.616667,
+            "longitude": -61.266667,
+            "max_latitude": 10.6558633,
+            "max_longitude": -61.2634134,
+            "min_latitude": 10.6070415,
+            "min_longitude": -61.2983895
         },
         "iso_3166_2": "TT-RCM",
         "iso_a2": "TT",
         "iso_a3": "TTO",
-        "name": "Rio Claro-Mayaro",
+        "name": "Arima",
         "postal": "RCM",
         "type": "Region",
         "type_en": "Region"
     },
     "SFO": {
         "alt_names": [
-            "San Fernando"
+            "Arima"
         ],
         "cca2": "TT",
         "cca3": "TTO",
@@ -1524,24 +1524,24 @@
             "woe_name": "San Fernando"
         },
         "geo": {
-            "latitude": 10.2804924,
-            "longitude": -61.4493842,
-            "max_latitude": 10.2923301,
-            "max_longitude": -61.437808,
-            "min_latitude": 10.262327,
-            "min_longitude": -61.4726711
+            "latitude": 10.616667,
+            "longitude": -61.266667,
+            "max_latitude": 10.6558633,
+            "max_longitude": -61.2634134,
+            "min_latitude": 10.6070415,
+            "min_longitude": -61.2983895
         },
         "iso_3166_2": "TT-SFO",
         "iso_a2": "TT",
         "iso_a3": "TTO",
-        "name": "San Fernando",
+        "name": "Arima",
         "postal": "SFO",
         "type": "City",
         "type_en": "City"
     },
     "SGE": {
         "alt_names": [
-            "Sangre Grande"
+            "Arima"
         ],
         "cca2": "TT",
         "cca3": "TTO",
@@ -1664,24 +1664,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 10.5852939,
-            "longitude": -61.1315813,
-            "max_latitude": 10.5969313,
-            "max_longitude": -61.1207323,
-            "min_latitude": 10.5807365,
-            "min_longitude": -61.150233
+            "latitude": 10.616667,
+            "longitude": -61.266667,
+            "max_latitude": 10.6558633,
+            "max_longitude": -61.2634134,
+            "min_latitude": 10.6070415,
+            "min_longitude": -61.2983895
         },
         "iso_3166_2": "TT-SGE",
         "iso_a2": "TT",
         "iso_a3": "TTO",
-        "name": "Sangre Grande",
+        "name": "Arima",
         "postal": "SGE",
         "type": "Region",
         "type_en": "Region"
     },
     "SIP": {
         "alt_names": [
-            "Siparia"
+            "Arima"
         ],
         "cca2": "TT",
         "cca3": "TTO",
@@ -1804,24 +1804,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 10.133333,
-            "longitude": -61.5,
-            "max_latitude": 10.1694107,
-            "max_longitude": -61.4681412,
-            "min_latitude": 10.0705967,
-            "min_longitude": -61.5608596
+            "latitude": 10.616667,
+            "longitude": -61.266667,
+            "max_latitude": 10.6558633,
+            "max_longitude": -61.2634134,
+            "min_latitude": 10.6070415,
+            "min_longitude": -61.2983895
         },
         "iso_3166_2": "TT-SIP",
         "iso_a2": "TT",
         "iso_a3": "TTO",
-        "name": "Siparia",
+        "name": "Arima",
         "postal": "SIP",
         "type": "Region",
         "type_en": "Region"
     },
     "SJL": {
         "alt_names": [
-            "San Juan-Laventille"
+            "Arima"
         ],
         "cca2": "TT",
         "cca3": "TTO",
@@ -1944,24 +1944,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 10.6908578,
-            "longitude": -61.4552213,
-            "max_latitude": 10.808898,
-            "max_longitude": -61.328297,
-            "min_latitude": 10.5499074,
-            "min_longitude": -61.5232609
+            "latitude": 10.616667,
+            "longitude": -61.266667,
+            "max_latitude": 10.6558633,
+            "max_longitude": -61.2634134,
+            "min_latitude": 10.6070415,
+            "min_longitude": -61.2983895
         },
         "iso_3166_2": "TT-SJL",
         "iso_a2": "TT",
         "iso_a3": "TTO",
-        "name": "San Juan-Laventille",
+        "name": "Arima",
         "postal": "SJL",
         "type": "Region",
         "type_en": "Region"
     },
     "TUP": {
         "alt_names": [
-            "Tunapuna-Piarco"
+            "Arima"
         ],
         "cca2": "TT",
         "cca3": "TTO",
@@ -2084,24 +2084,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 10.6859096,
-            "longitude": -61.3035248,
-            "max_latitude": 10.8057648,
-            "max_longitude": -61.151141,
-            "min_latitude": 10.560991,
-            "min_longitude": -61.4334169
+            "latitude": 10.616667,
+            "longitude": -61.266667,
+            "max_latitude": 10.6558633,
+            "max_longitude": -61.2634134,
+            "min_latitude": 10.6070415,
+            "min_longitude": -61.2983895
         },
         "iso_3166_2": "TT-TUP",
         "iso_a2": "TT",
         "iso_a3": "TTO",
-        "name": "Tunapuna-Piarco",
+        "name": "Arima",
         "postal": "TUP",
         "type": "Region",
         "type_en": "Region"
     },
     "WTO": {
         "alt_names": [
-            "Western Tobago"
+            "Arima"
         ],
         "cca2": "TT",
         "cca3": "TTO",
@@ -2224,17 +2224,17 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 11.1897072,
-            "longitude": -60.7795452,
-            "max_latitude": 11.2928312,
-            "max_longitude": -60.668021,
-            "min_latitude": 11.1388369,
-            "min_longitude": -60.840102
+            "latitude": 10.616667,
+            "longitude": -61.266667,
+            "max_latitude": 10.6558633,
+            "max_longitude": -61.2634134,
+            "min_latitude": 10.6070415,
+            "min_longitude": -61.2983895
         },
         "iso_3166_2": "TT-WTO",
         "iso_a2": "TT",
         "iso_a3": "TTO",
-        "name": "Western Tobago",
+        "name": "Arima",
         "postal": "WTO",
         "type": "Region",
         "type_en": "Region"

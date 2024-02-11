@@ -141,7 +141,7 @@
     },
     "02": {
         "alt_names": [
-            "North East"
+            "Central Singapore"
         ],
         "cca2": "SG",
         "cca3": "SGP",
@@ -264,24 +264,24 @@
             "woe_name": "North East"
         },
         "geo": {
-            "latitude": 1.352083,
-            "longitude": 103.819836,
-            "max_latitude": 1.4707592,
-            "max_longitude": 104.0884808,
-            "min_latitude": 1.1587023,
-            "min_longitude": 103.6055448
+            "latitude": 1.3418329,
+            "longitude": 103.8608764,
+            "max_latitude": 1.3948174,
+            "max_longitude": 103.86428,
+            "min_latitude": 1.2774146,
+            "min_longitude": 103.8230134
         },
         "iso_3166_2": "SG-02",
         "iso_a2": "SG",
         "iso_a3": "SGP",
-        "name": "North East",
+        "name": "Central Singapore",
         "postal": "02",
         "type": "",
         "type_en": ""
     },
     "03": {
         "alt_names": [
-            "North West"
+            "Central Singapore"
         ],
         "cca2": "SG",
         "cca3": "SGP",
@@ -404,24 +404,24 @@
             "woe_name": "North West"
         },
         "geo": {
-            "latitude": 1.3537604,
-            "longitude": 103.7107653,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 1.3418329,
+            "longitude": 103.8608764,
+            "max_latitude": 1.3948174,
+            "max_longitude": 103.86428,
+            "min_latitude": 1.2774146,
+            "min_longitude": 103.8230134
         },
         "iso_3166_2": "SG-03",
         "iso_a2": "SG",
         "iso_a3": "SGP",
-        "name": "North West",
+        "name": "Central Singapore",
         "postal": "03",
         "type": "",
         "type_en": ""
     },
     "04": {
         "alt_names": [
-            "South East"
+            "Central Singapore"
         ],
         "cca2": "SG",
         "cca3": "SGP",
@@ -544,24 +544,24 @@
             "woe_name": "South East"
         },
         "geo": {
-            "latitude": 1.352083,
-            "longitude": 103.819836,
-            "max_latitude": 1.4707592,
-            "max_longitude": 104.0884808,
-            "min_latitude": 1.1587023,
-            "min_longitude": 103.6055448
+            "latitude": 1.3418329,
+            "longitude": 103.8608764,
+            "max_latitude": 1.3948174,
+            "max_longitude": 103.86428,
+            "min_latitude": 1.2774146,
+            "min_longitude": 103.8230134
         },
         "iso_3166_2": "SG-04",
         "iso_a2": "SG",
         "iso_a3": "SGP",
-        "name": "South East",
+        "name": "Central Singapore",
         "postal": "04",
         "type": "",
         "type_en": ""
     },
     "05": {
         "alt_names": [
-            "South West"
+            "Central Singapore"
         ],
         "cca2": "SG",
         "cca3": "SGP",
@@ -684,17 +684,17 @@
             "woe_name": "South West"
         },
         "geo": {
-            "latitude": 1.352083,
-            "longitude": 103.819836,
-            "max_latitude": 1.4707592,
-            "max_longitude": 104.0884808,
-            "min_latitude": 1.1587023,
-            "min_longitude": 103.6055448
+            "latitude": 1.3418329,
+            "longitude": 103.8608764,
+            "max_latitude": 1.3948174,
+            "max_longitude": 103.86428,
+            "min_latitude": 1.2774146,
+            "min_longitude": 103.8230134
         },
         "iso_3166_2": "SG-05",
         "iso_a2": "SG",
         "iso_a3": "SGP",
-        "name": "South West",
+        "name": "Central Singapore",
         "postal": "05",
         "type": "",
         "type_en": ""

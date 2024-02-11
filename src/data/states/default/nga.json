@@ -141,8 +141,7 @@
     },
     "AD": {
         "alt_names": [
-            "Adamaoua",
-            "Gongola"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -265,24 +264,24 @@
             "woe_name": "Adamawa"
         },
         "geo": {
-            "latitude": 9.3250497,
-            "longitude": 12.4380581,
-            "max_latitude": 10.943588,
-            "max_longitude": 13.6924919,
-            "min_latitude": 7.452592,
-            "min_longitude": 11.392936
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-AD",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Adamawa",
+        "name": "Abia",
         "postal": "AD",
         "type": "State",
         "type_en": "State"
     },
     "AK": {
         "alt_names": [
-            "Akwa Ibom"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -405,24 +404,24 @@
             "woe_name": "Akwa Ibom"
         },
         "geo": {
-            "latitude": 4.9299869,
-            "longitude": 7.87216,
-            "max_latitude": 5.530245,
-            "max_longitude": 8.340371,
-            "min_latitude": 4.4780049,
-            "min_longitude": 7.4605409
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-AK",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Akwa Ibom",
+        "name": "Abia",
         "postal": "AK",
         "type": "State",
         "type_en": "State"
     },
     "AN": {
         "alt_names": [
-            "Anambra"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -545,24 +544,24 @@
             "woe_name": "Anambra"
         },
         "geo": {
-            "latitude": 6.2757656,
-            "longitude": 7.0068393,
-            "max_latitude": 6.7795999,
-            "max_longitude": 7.355934,
-            "min_latitude": 5.692615,
-            "min_longitude": 6.613086
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-AN",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Anambra",
+        "name": "Abia",
         "postal": "AN",
         "type": "State",
         "type_en": "State"
     },
     "BA": {
         "alt_names": [
-            "Bauchi"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -685,24 +684,24 @@
             "woe_name": "Bauchi"
         },
         "geo": {
-            "latitude": 10.315833,
-            "longitude": 9.844167,
-            "max_latitude": 10.3398292,
-            "max_longitude": 9.864006,
-            "min_latitude": 10.255381,
-            "min_longitude": 9.779892
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-BA",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Bauchi",
+        "name": "Abia",
         "postal": "BA",
         "type": "State",
         "type_en": "State"
     },
     "BE": {
         "alt_names": [
-            "Benue"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -825,24 +824,24 @@
             "woe_name": "Benue"
         },
         "geo": {
-            "latitude": 7.3508259,
-            "longitude": 8.8362755,
-            "max_latitude": 8.149299,
-            "max_longitude": 9.918301,
-            "min_latitude": 6.4427789,
-            "min_longitude": 7.4893301
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-BE",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Benue",
+        "name": "Abia",
         "postal": "BE",
         "type": "State",
         "type_en": "State"
     },
     "BO": {
         "alt_names": [
-            "Borno"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -965,24 +964,24 @@
             "woe_name": "Borno"
         },
         "geo": {
-            "latitude": 11.5097479,
-            "longitude": 12.9789121,
-            "max_latitude": 13.7144441,
-            "max_longitude": 14.680073,
-            "min_latitude": 10.0291549,
-            "min_longitude": 11.6286559
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-BO",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Borno",
+        "name": "Abia",
         "postal": "BO",
         "type": "State",
         "type_en": "State"
     },
     "BY": {
         "alt_names": [
-            "Bayelsa"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -1105,24 +1104,24 @@
             "woe_name": "Bayelsa"
         },
         "geo": {
-            "latitude": 4.8677767,
-            "longitude": 5.8987139,
-            "max_latitude": 5.3933139,
-            "max_longitude": 6.7248659,
-            "min_latitude": 4.2771439,
-            "min_longitude": 5.3701205
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-BY",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Bayelsa",
+        "name": "Abia",
         "postal": "BY",
         "type": "State",
         "type_en": "State"
     },
     "CR": {
         "alt_names": [
-            "Cross River"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -1245,24 +1244,24 @@
             "woe_name": "Cross River"
         },
         "geo": {
-            "latitude": 6.1670315,
-            "longitude": 8.6600586,
-            "max_latitude": 6.899681,
-            "max_longitude": 9.472486,
-            "min_latitude": 4.690596,
-            "min_longitude": 7.863166
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-CR",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Cross River",
+        "name": "Abia",
         "postal": "CR",
         "type": "State",
         "type_en": "State"
     },
     "DE": {
         "alt_names": [
-            "Delta"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -1385,24 +1384,24 @@
             "woe_name": "Delta"
         },
         "geo": {
-            "latitude": 5.5324624,
-            "longitude": 5.8987139,
-            "max_latitude": 6.5248195,
-            "max_longitude": 6.7653911,
-            "min_latitude": 5.024352,
-            "min_longitude": 5.0000001
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-DE",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Delta",
+        "name": "Abia",
         "postal": "DE",
         "type": "State",
         "type_en": "State"
     },
     "EB": {
         "alt_names": [
-            "Ebonyi"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -1525,24 +1524,24 @@
             "woe_name": "Ebonyi"
         },
         "geo": {
-            "latitude": 6.177973,
-            "longitude": 7.9592863,
-            "max_latitude": 6.807093,
-            "max_longitude": 8.4470269,
-            "min_latitude": 5.6873539,
-            "min_longitude": 7.5251131
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-EB",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Ebonyi",
+        "name": "Abia",
         "postal": "EB",
         "type": "State",
         "type_en": "State"
     },
     "ED": {
         "alt_names": [
-            "Bendel"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -1665,24 +1664,24 @@
             "woe_name": "Edo"
         },
         "geo": {
-            "latitude": 6.5438101,
-            "longitude": 5.8987139,
-            "max_latitude": 7.5721479,
-            "max_longitude": 6.707891,
-            "min_latitude": 5.7386799,
-            "min_longitude": 4.975229
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-ED",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Edo",
+        "name": "Abia",
         "postal": "ED",
         "type": "State",
         "type_en": "State"
     },
     "EK": {
         "alt_names": [
-            "Ekiti"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -1805,24 +1804,24 @@
             "woe_name": "Ekiti"
         },
         "geo": {
-            "latitude": 7.6655813,
-            "longitude": 5.3102505,
-            "max_latitude": 8.0674911,
-            "max_longitude": 5.8048959,
-            "min_latitude": 7.272216,
-            "min_longitude": 4.9103081
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-EK",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Ekiti",
+        "name": "Abia",
         "postal": "EK",
         "type": "State",
         "type_en": "State"
     },
     "EN": {
         "alt_names": [
-            "Enugu"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -1945,24 +1944,24 @@
             "woe_name": "Enugu"
         },
         "geo": {
-            "latitude": 6.452667,
-            "longitude": 7.510333,
-            "max_latitude": 6.5155669,
-            "max_longitude": 7.6181602,
-            "min_latitude": 6.360852,
-            "min_longitude": 7.4587727
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-EN",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Enugu",
+        "name": "Abia",
         "postal": "EN",
         "type": "State",
         "type_en": "State"
     },
     "FC": {
         "alt_names": [
-            "Abuja Capital Territory"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -2085,24 +2084,24 @@
             "woe_name": "Federal Capital Territory"
         },
         "geo": {
-            "latitude": 8.8556838,
-            "longitude": 7.179026,
-            "max_latitude": 9.3574219,
-            "max_longitude": 7.6174,
-            "min_latitude": 8.396675,
-            "min_longitude": 6.749135
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-FC",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Abuja Capital Territory",
+        "name": "Abia",
         "postal": "FC",
         "type": "State",
         "type_en": "State"
     },
     "GO": {
         "alt_names": [
-            "Gombe"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -2225,24 +2224,24 @@
             "woe_name": "Gombe"
         },
         "geo": {
-            "latitude": 10.283333,
-            "longitude": 11.166667,
-            "max_latitude": 10.3128497,
-            "max_longitude": 11.2147019,
-            "min_latitude": 10.264117,
-            "min_longitude": 11.1424112
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-GO",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Gombe",
+        "name": "Abia",
         "postal": "GO",
         "type": "State",
         "type_en": "State"
     },
     "IM": {
         "alt_names": [
-            "Imo"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -2365,24 +2364,24 @@
             "woe_name": "Imo"
         },
         "geo": {
-            "latitude": 5.5214533,
-            "longitude": 6.9209135,
-            "max_latitude": 5.928465,
-            "max_longitude": 7.404109,
-            "min_latitude": 5.179824,
-            "min_longitude": 6.6223099
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-IM",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Imo",
+        "name": "Abia",
         "postal": "IM",
         "type": "State",
         "type_en": "State"
     },
     "JI": {
         "alt_names": [
-            "Jigawa"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -2505,24 +2504,24 @@
             "woe_name": "Jigawa"
         },
         "geo": {
-            "latitude": 12.5700315,
-            "longitude": 8.9400589,
-            "max_latitude": 12.5708993,
-            "max_longitude": 8.9410364,
-            "min_latitude": 12.5688205,
-            "min_longitude": 8.9387779
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-JI",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Jigawa",
+        "name": "Abia",
         "postal": "JI",
         "type": "State",
         "type_en": "State"
     },
     "KD": {
         "alt_names": [
-            "Kaduna"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -2645,24 +2644,24 @@
             "woe_name": "Kaduna"
         },
         "geo": {
-            "latitude": 10.516667,
-            "longitude": 7.433333,
-            "max_latitude": 10.6169963,
-            "max_longitude": 7.508812,
-            "min_latitude": 10.3971566,
-            "min_longitude": 7.3497891
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-KD",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Kaduna",
+        "name": "Abia",
         "postal": "KD",
         "type": "State",
         "type_en": "State"
     },
     "KE": {
         "alt_names": [
-            "Kebbi"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -2785,24 +2784,24 @@
             "woe_name": "Kebbi"
         },
         "geo": {
-            "latitude": 11.6781241,
-            "longitude": 4.0695454,
-            "max_latitude": 13.232542,
-            "max_longitude": 6.027123,
-            "min_latitude": 10.0931591,
-            "min_longitude": 3.4958741
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-KE",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Kebbi",
+        "name": "Abia",
         "postal": "KE",
         "type": "State",
         "type_en": "State"
     },
     "KN": {
         "alt_names": [
-            "Kano"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -2925,24 +2924,24 @@
             "woe_name": "Kano"
         },
         "geo": {
-            "latitude": 12.0021794,
-            "longitude": 8.5919561,
-            "max_latitude": 12.0829016,
-            "max_longitude": 8.6704765,
-            "min_latitude": 11.912873,
-            "min_longitude": 8.4113216
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-KN",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Kano",
+        "name": "Abia",
         "postal": "KN",
         "type": "State",
         "type_en": "State"
     },
     "KO": {
         "alt_names": [
-            "Kogi"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -3065,24 +3064,24 @@
             "woe_name": "Kogi"
         },
         "geo": {
-            "latitude": 7.561891,
-            "longitude": 6.5783387,
-            "max_latitude": 8.7320238,
-            "max_longitude": 7.8822179,
-            "min_latitude": 6.5282742,
-            "min_longitude": 5.340376
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-KO",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Kogi",
+        "name": "Abia",
         "postal": "KO",
         "type": "State",
         "type_en": "State"
     },
     "KT": {
         "alt_names": [
-            "Katsina"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -3205,24 +3204,24 @@
             "woe_name": "Katsina"
         },
         "geo": {
-            "latitude": 12.983333,
-            "longitude": 7.6,
-            "max_latitude": 13.0357094,
-            "max_longitude": 7.676266,
-            "min_latitude": 12.934095,
-            "min_longitude": 7.5706298
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-KT",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Katsina",
+        "name": "Abia",
         "postal": "KT",
         "type": "State",
         "type_en": "State"
     },
     "KW": {
         "alt_names": [
-            "Kwara"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -3345,24 +3344,24 @@
             "woe_name": "Kwara"
         },
         "geo": {
-            "latitude": 8.9847995,
-            "longitude": 4.5624426,
-            "max_latitude": 10.152084,
-            "max_longitude": 6.2142591,
-            "min_latitude": 7.966079,
-            "min_longitude": 2.728413
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-KW",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Kwara",
+        "name": "Abia",
         "postal": "KW",
         "type": "State",
         "type_en": "State"
     },
     "LA": {
         "alt_names": [
-            "Lagos"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -3485,24 +3484,24 @@
             "woe_name": "Lagos"
         },
         "geo": {
-            "latitude": 6.5243793,
-            "longitude": 3.3792057,
-            "max_latitude": 6.7027984,
-            "max_longitude": 3.6967278,
-            "min_latitude": 6.3936419,
-            "min_longitude": 3.0982732
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-LA",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Lagos",
+        "name": "Abia",
         "postal": "LA",
         "type": "State",
         "type_en": "State"
     },
     "NA": {
         "alt_names": [
-            "Nasarawa"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -3625,24 +3624,24 @@
             "woe_name": "Nassarawa"
         },
         "geo": {
-            "latitude": 8.5705151,
-            "longitude": 8.3088441,
-            "max_latitude": 9.365964,
-            "max_longitude": 9.605724,
-            "min_latitude": 7.769181,
-            "min_longitude": 6.924008
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-NA",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Nassarawa",
+        "name": "Abia",
         "postal": "NA",
         "type": "State",
         "type_en": "State"
     },
     "NI": {
         "alt_names": [
-            "Niger"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -3765,24 +3764,24 @@
             "woe_name": "Niger"
         },
         "geo": {
-            "latitude": 9.081999,
-            "longitude": 8.675277,
-            "max_latitude": 13.885645,
-            "max_longitude": 14.677982,
-            "min_latitude": 4.2698571,
-            "min_longitude": 2.676932
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-NI",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Niger",
+        "name": "Abia",
         "postal": "NI",
         "type": "State",
         "type_en": "State"
     },
     "OG": {
         "alt_names": [
-            "Ogun"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -3905,24 +3904,24 @@
             "woe_name": "Ogun"
         },
         "geo": {
-            "latitude": 6.9098333,
-            "longitude": 3.2583626,
-            "max_latitude": 7.974635,
-            "max_longitude": 4.5990951,
-            "min_latitude": 6.3153461,
-            "min_longitude": 2.668432
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-OG",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Ogun",
+        "name": "Abia",
         "postal": "OG",
         "type": "State",
         "type_en": "State"
     },
     "ON": {
         "alt_names": [
-            "Ondo"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -4045,24 +4044,24 @@
             "woe_name": "Ondo"
         },
         "geo": {
-            "latitude": 7.083333,
-            "longitude": 4.833333,
-            "max_latitude": 7.1249106,
-            "max_longitude": 4.8719216,
-            "min_latitude": 7.0529381,
-            "min_longitude": 4.7963046
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-ON",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Ondo",
+        "name": "Abia",
         "postal": "ON",
         "type": "State",
         "type_en": "State"
     },
     "OS": {
         "alt_names": [
-            "Osun"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -4185,24 +4184,24 @@
             "woe_name": "Osun"
         },
         "geo": {
-            "latitude": 7.5875843,
-            "longitude": 4.5624426,
-            "max_latitude": 8.088641,
-            "max_longitude": 5.0647019,
-            "min_latitude": 6.969976,
-            "min_longitude": 4.020612
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-OS",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Osun",
+        "name": "Abia",
         "postal": "OS",
         "type": "State",
         "type_en": "State"
     },
     "OY": {
         "alt_names": [
-            "Oyo"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -4325,24 +4324,24 @@
             "woe_name": "Oyo"
         },
         "geo": {
-            "latitude": 7.85,
-            "longitude": 3.933,
-            "max_latitude": 7.8899933,
-            "max_longitude": 3.9751624,
-            "min_latitude": 7.7904251,
-            "min_longitude": 3.8832377
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-OY",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Oyo",
+        "name": "Abia",
         "postal": "OY",
         "type": "State",
         "type_en": "State"
     },
     "PL": {
         "alt_names": [
-            "Plateau"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -4465,24 +4464,24 @@
             "woe_name": "Plateau"
         },
         "geo": {
-            "latitude": 9.2350817,
-            "longitude": 9.7232673,
-            "max_latitude": 10.3447241,
-            "max_longitude": 10.6606639,
-            "min_latitude": 8.350639,
-            "min_longitude": 8.544271
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-PL",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Plateau",
+        "name": "Abia",
         "postal": "PL",
         "type": "State",
         "type_en": "State"
     },
     "RI": {
         "alt_names": [
-            "Rivers"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -4605,24 +4604,24 @@
             "woe_name": "Rivers"
         },
         "geo": {
-            "latitude": 4.8580767,
-            "longitude": 6.9209135,
-            "max_latitude": 5.6946529,
-            "max_longitude": 7.5915929,
-            "min_latitude": 4.3470351,
-            "min_longitude": 6.382472
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-RI",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Rivers",
+        "name": "Abia",
         "postal": "RI",
         "type": "State",
         "type_en": "State"
     },
     "SO": {
         "alt_names": [
-            "Sokoto"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -4745,24 +4744,24 @@
             "woe_name": "Sokoto"
         },
         "geo": {
-            "latitude": 13.066667,
-            "longitude": 5.233333,
-            "max_latitude": 13.0880893,
-            "max_longitude": 5.2881144,
-            "min_latitude": 12.9764148,
-            "min_longitude": 5.1676084
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-SO",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Sokoto",
+        "name": "Abia",
         "postal": "SO",
         "type": "State",
         "type_en": "State"
     },
     "TA": {
         "alt_names": [
-            "Taraba"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -4885,24 +4884,24 @@
             "woe_name": "Taraba"
         },
         "geo": {
-            "latitude": 7.9868755,
-            "longitude": 10.9807003,
-            "max_latitude": 9.6044449,
-            "max_longitude": 11.981274,
-            "min_latitude": 6.502454,
-            "min_longitude": 9.1043009
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-TA",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Taraba",
+        "name": "Abia",
         "postal": "TA",
         "type": "State",
         "type_en": "State"
     },
     "YO": {
         "alt_names": [
-            "Yobe"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -5025,24 +5024,24 @@
             "woe_name": "Yobe"
         },
         "geo": {
-            "latitude": 12.1871412,
-            "longitude": 11.7068294,
-            "max_latitude": 13.376133,
-            "max_longitude": 12.494047,
-            "min_latitude": 10.5932052,
-            "min_longitude": 9.6659731
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-YO",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Yobe",
+        "name": "Abia",
         "postal": "YO",
         "type": "State",
         "type_en": "State"
     },
     "ZA": {
         "alt_names": [
-            "Zamfara"
+            "Abia"
         ],
         "cca2": "NG",
         "cca3": "NGA",
@@ -5165,17 +5164,17 @@
             "woe_name": "Zamfara"
         },
         "geo": {
-            "latitude": 12.1844159,
-            "longitude": 6.2375947,
-            "max_latitude": 13.207291,
-            "max_longitude": 7.24573,
-            "min_latitude": 10.854616,
-            "min_longitude": 5.0210071
+            "latitude": 5.4308921,
+            "longitude": 7.5247243,
+            "max_latitude": 6.0191921,
+            "max_longitude": 7.9630091,
+            "min_latitude": 4.810874,
+            "min_longitude": 7.150823
         },
         "iso_3166_2": "NG-ZA",
         "iso_a2": "NG",
         "iso_a3": "NGA",
-        "name": "Zamfara",
+        "name": "Abia",
         "postal": "ZA",
         "type": "State",
         "type_en": "State"

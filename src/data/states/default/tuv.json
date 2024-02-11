@@ -1,7 +1,7 @@
 {
     "X01~": {
         "alt_names": [
-            ""
+            "Funafuti"
         ],
         "cca2": "TV",
         "cca3": "TUV",
@@ -124,13 +124,17 @@
             "woe_name": "Tuvalu"
         },
         "geo": {
-            "latitude": "-9.3938100000",
-            "longitude": "179.9030000000"
+            "latitude": -8.516667,
+            "longitude": 179.216667,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "TV-X01~",
         "iso_a2": "TV",
         "iso_a3": "TUV",
-        "name": "Tuvalu",
+        "name": "Funafuti",
         "postal": "X01~",
         "type": "",
         "type_en": ""

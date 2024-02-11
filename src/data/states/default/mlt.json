@@ -141,7 +141,7 @@
     },
     "02": {
         "alt_names": [
-            "Balzan"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -264,24 +264,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.898056,
-            "longitude": 14.453333,
-            "max_latitude": 35.9019305,
-            "max_longitude": 14.4573748,
-            "min_latitude": 35.8928049,
-            "min_longitude": 14.446206
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-02",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Balzan",
+        "name": "Attard",
         "postal": "02",
         "type": "",
         "type_en": ""
     },
     "03": {
         "alt_names": [
-            "Birgu"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -404,24 +404,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.888056,
-            "longitude": 14.5225,
-            "max_latitude": 35.893023,
-            "max_longitude": 14.5255729,
-            "min_latitude": 35.8854689,
-            "min_longitude": 14.5167589
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-03",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Birgu",
+        "name": "Attard",
         "postal": "03",
         "type": "",
         "type_en": ""
     },
     "04": {
         "alt_names": [
-            "Birkirkara"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -544,24 +544,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.896667,
-            "longitude": 14.4625,
-            "max_latitude": 35.9046029,
-            "max_longitude": 14.478339,
-            "min_latitude": 35.8868336,
-            "min_longitude": 14.4523215
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-04",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Birkirkara",
+        "name": "Attard",
         "postal": "04",
         "type": "",
         "type_en": ""
     },
     "05": {
         "alt_names": [
-            "Bir\u017cebbu\u0121a"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -684,24 +684,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.825556,
-            "longitude": 14.528056,
-            "max_latitude": 35.8415418,
-            "max_longitude": 14.5496687,
-            "min_latitude": 35.805982,
-            "min_longitude": 14.4982777
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-05",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Bir\u017cebbu\u0121a",
+        "name": "Attard",
         "postal": "05",
         "type": "",
         "type_en": ""
     },
     "06": {
         "alt_names": [
-            "Bormla"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -824,24 +824,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.882222,
-            "longitude": 14.522222,
-            "max_latitude": 35.8860872,
-            "max_longitude": 14.5293837,
-            "min_latitude": 35.8754636,
-            "min_longitude": 14.5123392
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-06",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Bormla",
+        "name": "Attard",
         "postal": "06",
         "type": "",
         "type_en": ""
     },
     "07": {
         "alt_names": [
-            "Dingli"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -964,24 +964,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.860278,
-            "longitude": 14.381389,
-            "max_latitude": 35.8726379,
-            "max_longitude": 14.3980764,
-            "min_latitude": 35.8459337,
-            "min_longitude": 14.3598641
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-07",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Dingli",
+        "name": "Attard",
         "postal": "07",
         "type": "",
         "type_en": ""
     },
     "08": {
         "alt_names": [
-            "Fgura"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -1104,24 +1104,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.8725,
-            "longitude": 14.522778,
-            "max_latitude": 35.8788395,
-            "max_longitude": 14.5309181,
-            "min_latitude": 35.8667739,
-            "min_longitude": 14.5115118
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-08",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Fgura",
+        "name": "Attard",
         "postal": "08",
         "type": "",
         "type_en": ""
     },
     "09": {
         "alt_names": [
-            "Floriana"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -1244,24 +1244,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.893333,
-            "longitude": 14.505833,
-            "max_latitude": 35.8990215,
-            "max_longitude": 14.5127249,
-            "min_latitude": 35.8848454,
-            "min_longitude": 14.4969012
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-09",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Floriana",
+        "name": "Attard",
         "postal": "09",
         "type": "",
         "type_en": ""
     },
     "10": {
         "alt_names": [
-            "Fontana"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -1384,24 +1384,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 36.0369053,
-            "longitude": 14.2352339,
-            "max_latitude": 36.041569,
-            "max_longitude": 14.2396141,
-            "min_latitude": 36.0320243,
-            "min_longitude": 14.2321153
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-10",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Fontana",
+        "name": "Attard",
         "postal": "10",
         "type": "",
         "type_en": ""
     },
     "11": {
         "alt_names": [
-            "Gudja"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -1524,24 +1524,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.848333,
-            "longitude": 14.5025,
-            "max_latitude": 35.8527146,
-            "max_longitude": 14.5087492,
-            "min_latitude": 35.8400268,
-            "min_longitude": 14.4975471
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-11",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Gudja",
+        "name": "Attard",
         "postal": "11",
         "type": "",
         "type_en": ""
     },
     "12": {
         "alt_names": [
-            "G\u017cira"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -1664,24 +1664,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.905897,
-            "longitude": 14.4953338,
-            "max_latitude": 35.9097691,
-            "max_longitude": 14.5077289,
-            "min_latitude": 35.9004619,
-            "min_longitude": 14.4872762
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-12",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "G\u017cira",
+        "name": "Attard",
         "postal": "12",
         "type": "",
         "type_en": ""
     },
     "13": {
         "alt_names": [
-            "G\u0127ajnsielem"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -1804,24 +1804,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 36.026944,
-            "longitude": 14.290278,
-            "max_latitude": 36.0345247,
-            "max_longitude": 14.3508895,
-            "min_latitude": 36.0038469,
-            "min_longitude": 14.2698563
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-13",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "G\u0127ajnsielem",
+        "name": "Attard",
         "postal": "13",
         "type": "",
         "type_en": ""
     },
     "14": {
         "alt_names": [
-            "G\u0127arb"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -1944,24 +1944,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 36.061111,
-            "longitude": 14.209167,
-            "max_latitude": 36.0797101,
-            "max_longitude": 14.2186459,
-            "min_latitude": 36.0545232,
-            "min_longitude": 14.1889269
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-14",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "G\u0127arb",
+        "name": "Attard",
         "postal": "14",
         "type": "",
         "type_en": ""
     },
     "15": {
         "alt_names": [
-            "G\u0127arg\u0127ur"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -2084,24 +2084,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.924069,
-            "longitude": 14.453372,
-            "max_latitude": 35.9329498,
-            "max_longitude": 14.4656788,
-            "min_latitude": 35.9124193,
-            "min_longitude": 14.4477832
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-15",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "G\u0127arg\u0127ur",
+        "name": "Attard",
         "postal": "15",
         "type": "",
         "type_en": ""
     },
     "16": {
         "alt_names": [
-            "G\u0127asri"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -2224,24 +2224,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 36.058333,
-            "longitude": 14.227778,
-            "max_latitude": 36.0816734,
-            "max_longitude": 14.2382813,
-            "min_latitude": 36.0501052,
-            "min_longitude": 14.2091417
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-16",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "G\u0127asri",
+        "name": "Attard",
         "postal": "16",
         "type": "",
         "type_en": ""
     },
     "17": {
         "alt_names": [
-            "G\u0127axaq"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -2364,24 +2364,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.848333,
-            "longitude": 14.517222,
-            "max_latitude": 35.8620777,
-            "max_longitude": 14.5271337,
-            "min_latitude": 35.8315472,
-            "min_longitude": 14.5022537
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-17",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "G\u0127axaq",
+        "name": "Attard",
         "postal": "17",
         "type": "",
         "type_en": ""
     },
     "18": {
         "alt_names": [
-            "\u0126amrun"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -2504,24 +2504,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.886111,
-            "longitude": 14.489444,
-            "max_latitude": 35.8924312,
-            "max_longitude": 14.5004296,
-            "min_latitude": 35.8812182,
-            "min_longitude": 14.4797015
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-18",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "\u0126amrun",
+        "name": "Attard",
         "postal": "18",
         "type": "",
         "type_en": ""
     },
     "19": {
         "alt_names": [
-            "Iklin"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -2644,24 +2644,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.904167,
-            "longitude": 14.454444,
-            "max_latitude": 35.9167553,
-            "max_longitude": 14.4635223,
-            "min_latitude": 35.9022261,
-            "min_longitude": 14.4474291
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-19",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Iklin",
+        "name": "Attard",
         "postal": "19",
         "type": "",
         "type_en": ""
     },
     "20": {
         "alt_names": [
-            "Isla"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -2784,24 +2784,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.887778,
-            "longitude": 14.516944,
-            "max_latitude": 35.8910731,
-            "max_longitude": 14.5201882,
-            "min_latitude": 35.8846707,
-            "min_longitude": 14.5136331
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-20",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Isla",
+        "name": "Attard",
         "postal": "20",
         "type": "",
         "type_en": ""
     },
     "21": {
         "alt_names": [
-            "Kalkara"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -2924,24 +2924,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.889167,
-            "longitude": 14.529444,
-            "max_latitude": 35.8989224,
-            "max_longitude": 14.5464887,
-            "min_latitude": 35.8837065,
-            "min_longitude": 14.5228847
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-21",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Kalkara",
+        "name": "Attard",
         "postal": "21",
         "type": "",
         "type_en": ""
     },
     "22": {
         "alt_names": [
-            "Ker\u010bem"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -3064,24 +3064,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 36.040556,
-            "longitude": 14.229722,
-            "max_latitude": 36.0562404,
-            "max_longitude": 14.2332729,
-            "min_latitude": 36.0306725,
-            "min_longitude": 14.1942011
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-22",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Ker\u010bem",
+        "name": "Attard",
         "postal": "22",
         "type": "",
         "type_en": ""
     },
     "23": {
         "alt_names": [
-            "Kirkop"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -3204,24 +3204,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.840854,
-            "longitude": 14.484347,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-23",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Kirkop",
+        "name": "Attard",
         "postal": "23",
         "type": "",
         "type_en": ""
     },
     "24": {
         "alt_names": [
-            "Lija"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -3344,24 +3344,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.901389,
-            "longitude": 14.447222,
-            "max_latitude": 35.9056413,
-            "max_longitude": 14.4524341,
-            "min_latitude": 35.8966204,
-            "min_longitude": 14.4340182
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-24",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Lija",
+        "name": "Attard",
         "postal": "24",
         "type": "",
         "type_en": ""
     },
     "25": {
         "alt_names": [
-            "Luqa"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -3484,24 +3484,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.859722,
-            "longitude": 14.489167,
-            "max_latitude": 35.875472,
-            "max_longitude": 14.5139694,
-            "min_latitude": 35.8280087,
-            "min_longitude": 14.4576001
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-25",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Luqa",
+        "name": "Attard",
         "postal": "25",
         "type": "",
         "type_en": ""
     },
     "26": {
         "alt_names": [
-            "Marsa"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -3624,24 +3624,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.883333,
-            "longitude": 14.494722,
-            "max_latitude": 35.887441,
-            "max_longitude": 14.5017699,
-            "min_latitude": 35.8640792,
-            "min_longitude": 14.482788
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-26",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Marsa",
+        "name": "Attard",
         "postal": "26",
         "type": "",
         "type_en": ""
     },
     "27": {
         "alt_names": [
-            "Marsaskala"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -3764,24 +3764,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.8625,
-            "longitude": 14.5675,
-            "max_latitude": 35.8775598,
-            "max_longitude": 14.5755001,
-            "min_latitude": 35.8452937,
-            "min_longitude": 14.5438296
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-27",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Marsaskala",
+        "name": "Attard",
         "postal": "27",
         "type": "",
         "type_en": ""
     },
     "28": {
         "alt_names": [
-            "Marsaxlokk"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -3904,24 +3904,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.841667,
-            "longitude": 14.544722,
-            "max_latitude": 35.8477721,
-            "max_longitude": 14.5724385,
-            "min_latitude": 35.8193177,
-            "min_longitude": 14.526355
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-28",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Marsaxlokk",
+        "name": "Attard",
         "postal": "28",
         "type": "",
         "type_en": ""
     },
     "29": {
         "alt_names": [
-            "Mdina"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -4044,24 +4044,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.885833,
-            "longitude": 14.403056,
-            "max_latitude": 35.8916793,
-            "max_longitude": 14.4150602,
-            "min_latitude": 35.8828916,
-            "min_longitude": 14.3974757
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-29",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Mdina",
+        "name": "Attard",
         "postal": "29",
         "type": "",
         "type_en": ""
     },
     "30": {
         "alt_names": [
-            "Mellie\u0127a"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -4184,24 +4184,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.956389,
-            "longitude": 14.366389,
-            "max_latitude": 35.9981237,
-            "max_longitude": 14.3975705,
-            "min_latitude": 35.9306305,
-            "min_longitude": 14.3190222
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-30",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Mellie\u0127a",
+        "name": "Attard",
         "postal": "30",
         "type": "",
         "type_en": ""
     },
     "31": {
         "alt_names": [
-            "M\u0121arr"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -4324,24 +4324,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.919722,
-            "longitude": 14.366389,
-            "max_latitude": 35.9406116,
-            "max_longitude": 14.40166,
-            "min_latitude": 35.8969767,
-            "min_longitude": 14.3324275
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-31",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "M\u0121arr",
+        "name": "Attard",
         "postal": "31",
         "type": "",
         "type_en": ""
     },
     "32": {
         "alt_names": [
-            "Mosta"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -4464,24 +4464,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.909722,
-            "longitude": 14.426111,
-            "max_latitude": 35.9292057,
-            "max_longitude": 14.4391572,
-            "min_latitude": 35.8974461,
-            "min_longitude": 14.3932378
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-32",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Mosta",
+        "name": "Attard",
         "postal": "32",
         "type": "",
         "type_en": ""
     },
     "33": {
         "alt_names": [
-            "Mqabba"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -4604,24 +4604,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.844167,
-            "longitude": 14.466944,
-            "max_latitude": 35.852657,
-            "max_longitude": 14.4819117,
-            "min_latitude": 35.8387596,
-            "min_longitude": 14.4505619
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-33",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Mqabba",
+        "name": "Attard",
         "postal": "33",
         "type": "",
         "type_en": ""
     },
     "34": {
         "alt_names": [
-            "Msida"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -4744,24 +4744,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.897778,
-            "longitude": 14.489444,
-            "max_latitude": 35.9045248,
-            "max_longitude": 14.4939763,
-            "min_latitude": 35.8911014,
-            "min_longitude": 14.473511
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-34",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Msida",
+        "name": "Attard",
         "postal": "34",
         "type": "",
         "type_en": ""
     },
     "35": {
         "alt_names": [
-            "Mtarfa"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -4884,24 +4884,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.890833,
-            "longitude": 14.396944,
-            "max_latitude": 35.8959687,
-            "max_longitude": 14.4045888,
-            "min_latitude": 35.8837782,
-            "min_longitude": 14.3903946
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-35",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Mtarfa",
+        "name": "Attard",
         "postal": "35",
         "type": "",
         "type_en": ""
     },
     "36": {
         "alt_names": [
-            "Munxar"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -5024,24 +5024,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 36.030278,
-            "longitude": 14.235278,
-            "max_latitude": 36.037693,
-            "max_longitude": 14.2376999,
-            "min_latitude": 36.0202872,
-            "min_longitude": 14.2120842
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-36",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Munxar",
+        "name": "Attard",
         "postal": "36",
         "type": "",
         "type_en": ""
     },
     "37": {
         "alt_names": [
-            "Nadur"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -5164,24 +5164,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 36.038056,
-            "longitude": 14.295,
-            "max_latitude": 36.0657091,
-            "max_longitude": 14.3228352,
-            "min_latitude": 36.0334661,
-            "min_longitude": 14.2772483
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-37",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Nadur",
+        "name": "Attard",
         "postal": "37",
         "type": "",
         "type_en": ""
     },
     "38": {
         "alt_names": [
-            "Naxxar"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -5304,24 +5304,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.915,
-            "longitude": 14.444722,
-            "max_latitude": 35.9548581,
-            "max_longitude": 14.4639623,
-            "min_latitude": 35.9046768,
-            "min_longitude": 14.4189548
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-38",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Naxxar",
+        "name": "Attard",
         "postal": "38",
         "type": "",
         "type_en": ""
     },
     "39": {
         "alt_names": [
-            "Paola"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -5444,24 +5444,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.872778,
-            "longitude": 14.5075,
-            "max_latitude": 35.886247,
-            "max_longitude": 14.5157979,
-            "min_latitude": 35.8625513,
-            "min_longitude": 14.4953128
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-39",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Paola",
+        "name": "Attard",
         "postal": "39",
         "type": "",
         "type_en": ""
     },
     "40": {
         "alt_names": [
-            "Pembroke"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -5584,24 +5584,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.926389,
-            "longitude": 14.480833,
-            "max_latitude": 35.9374579,
-            "max_longitude": 14.4904841,
-            "min_latitude": 35.9231502,
-            "min_longitude": 14.4622564
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-40",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Pembroke",
+        "name": "Attard",
         "postal": "40",
         "type": "",
         "type_en": ""
     },
     "41": {
         "alt_names": [
-            "Piet\u00e0"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -5724,24 +5724,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.893056,
-            "longitude": 14.493611,
-            "max_latitude": 35.896551,
-            "max_longitude": 14.498536,
-            "min_latitude": 35.8885633,
-            "min_longitude": 14.4899475
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-41",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Piet\u00e0",
+        "name": "Attard",
         "postal": "41",
         "type": "",
         "type_en": ""
     },
     "42": {
         "alt_names": [
-            "Qala"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -5864,24 +5864,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 36.035278,
-            "longitude": 14.310278,
-            "max_latitude": 36.0502352,
-            "max_longitude": 14.3363473,
-            "min_latitude": 36.0257316,
-            "min_longitude": 14.2952699
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-42",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Qala",
+        "name": "Attard",
         "postal": "42",
         "type": "",
         "type_en": ""
     },
     "43": {
         "alt_names": [
-            "Qormi"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -6004,24 +6004,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.879444,
-            "longitude": 14.472222,
-            "max_latitude": 35.8907102,
-            "max_longitude": 14.4852912,
-            "min_latitude": 35.8626046,
-            "min_longitude": 14.4508839
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-43",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Qormi",
+        "name": "Attard",
         "postal": "43",
         "type": "",
         "type_en": ""
     },
     "44": {
         "alt_names": [
-            "Qrendi"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -6144,25 +6144,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.834167,
-            "longitude": 14.458889,
-            "max_latitude": 35.8426211,
-            "max_longitude": 14.4699598,
-            "min_latitude": 35.8188991,
-            "min_longitude": 14.4303489
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-44",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Qrendi",
+        "name": "Attard",
         "postal": "44",
         "type": "",
         "type_en": ""
     },
     "45": {
         "alt_names": [
-            "Rabat Gozo",
-            "Rabat G\u0127awdex"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -6285,24 +6284,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 36.043611,
-            "longitude": 14.243056,
-            "max_latitude": 36.053097,
-            "max_longitude": 14.2537264,
-            "min_latitude": 36.0335614,
-            "min_longitude": 14.2268663
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-45",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Rabat Gozo",
+        "name": "Attard",
         "postal": "45",
         "type": "",
         "type_en": ""
     },
     "46": {
         "alt_names": [
-            "Rabat Malta"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -6425,24 +6424,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.881667,
-            "longitude": 14.398889,
-            "max_latitude": 35.9101514,
-            "max_longitude": 14.41697,
-            "min_latitude": 35.8615393,
-            "min_longitude": 14.3280307
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-46",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Rabat Malta",
+        "name": "Attard",
         "postal": "46",
         "type": "",
         "type_en": ""
     },
     "47": {
         "alt_names": [
-            "Safi"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -6565,25 +6564,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.833333,
-            "longitude": 14.485,
-            "max_latitude": 35.8437126,
-            "max_longitude": 14.5058208,
-            "min_latitude": 35.8260471,
-            "min_longitude": 14.479385
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-47",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Safi",
+        "name": "Attard",
         "postal": "47",
         "type": "",
         "type_en": ""
     },
     "48": {
         "alt_names": [
-            "Saint Julian's",
-            "San \u0120iljan"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -6706,25 +6704,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.9181297,
-            "longitude": 14.4883442,
-            "max_latitude": 35.9303115,
-            "max_longitude": 14.4966906,
-            "min_latitude": 35.9090522,
-            "min_longitude": 14.4825501
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-48",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Saint Julian's",
+        "name": "Attard",
         "postal": "48",
         "type": "",
         "type_en": ""
     },
     "49": {
         "alt_names": [
-            "Saint John",
-            "San \u0120wann"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -6847,25 +6844,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.9155231,
-            "longitude": 14.5008608,
-            "max_latitude": 35.9168314,
-            "max_longitude": 14.501465,
-            "min_latitude": 35.9147507,
-            "min_longitude": 14.5005065
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-49",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Saint John",
+        "name": "Attard",
         "postal": "49",
         "type": "",
         "type_en": ""
     },
     "50": {
         "alt_names": [
-            "Saint Lawrence",
-            "San Lawrenz"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -6988,25 +6984,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 36.055,
-            "longitude": 14.204167,
-            "max_latitude": 36.0629307,
-            "max_longitude": 14.2100868,
-            "min_latitude": 36.0329839,
-            "min_longitude": 14.1861148
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-50",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Saint Lawrence",
+        "name": "Attard",
         "postal": "50",
         "type": "",
         "type_en": ""
     },
     "51": {
         "alt_names": [
-            "Saint Paul's Bay",
-            "San Pawl il-Ba\u0127ar"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -7129,24 +7124,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.948333,
-            "longitude": 14.401667,
-            "max_latitude": 35.95977,
-            "max_longitude": 14.4262694,
-            "min_latitude": 35.9104035,
-            "min_longitude": 14.3684005
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-51",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Saint Paul's Bay",
+        "name": "Attard",
         "postal": "51",
         "type": "",
         "type_en": ""
     },
     "52": {
         "alt_names": [
-            "Sannat"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -7269,25 +7264,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 36.024444,
-            "longitude": 14.245833,
-            "max_latitude": 36.0304853,
-            "max_longitude": 14.2729834,
-            "min_latitude": 36.0114655,
-            "min_longitude": 14.2313128
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-52",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Sannat",
+        "name": "Attard",
         "postal": "52",
         "type": "",
         "type_en": ""
     },
     "53": {
         "alt_names": [
-            "Saint Lucia's",
-            "Santa Lu\u010bija"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -7410,24 +7404,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.8982574,
-            "longitude": 14.5126109,
-            "max_latitude": 35.9002424,
-            "max_longitude": 14.5142606,
-            "min_latitude": 35.896532,
-            "min_longitude": 14.510846
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-53",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Saint Lucia's",
+        "name": "Attard",
         "postal": "53",
         "type": "",
         "type_en": ""
     },
     "54": {
         "alt_names": [
-            "Santa Venera"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -7550,24 +7544,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.889722,
-            "longitude": 14.477778,
-            "max_latitude": 35.8951169,
-            "max_longitude": 14.4848298,
-            "min_latitude": 35.8839129,
-            "min_longitude": 14.4703674
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-54",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Santa Venera",
+        "name": "Attard",
         "postal": "54",
         "type": "",
         "type_en": ""
     },
     "55": {
         "alt_names": [
-            "Si\u0121\u0121iewi"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -7690,24 +7684,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.854167,
+            "latitude": 35.892778,
             "longitude": 14.438333,
-            "max_latitude": 35.8686038,
-            "max_longitude": 14.4725562,
-            "min_latitude": 35.8260449,
-            "min_longitude": 14.389665
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-55",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Si\u0121\u0121iewi",
+        "name": "Attard",
         "postal": "55",
         "type": "",
         "type_en": ""
     },
     "56": {
         "alt_names": [
-            "Sliema"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -7830,24 +7824,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.912222,
-            "longitude": 14.504167,
-            "max_latitude": 35.918301,
-            "max_longitude": 14.5147771,
-            "min_latitude": 35.9053452,
-            "min_longitude": 14.4929945
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-56",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Sliema",
+        "name": "Attard",
         "postal": "56",
         "type": "",
         "type_en": ""
     },
     "57": {
         "alt_names": [
-            "Swieqi"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -7970,24 +7964,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.920833,
-            "longitude": 14.48,
-            "max_latitude": 35.933632,
-            "max_longitude": 14.4870293,
-            "min_latitude": 35.9126324,
-            "min_longitude": 14.4549179
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-57",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Swieqi",
+        "name": "Attard",
         "postal": "57",
         "type": "",
         "type_en": ""
     },
     "58": {
         "alt_names": [
-            "Ta' Xbiex"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -8110,24 +8104,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.899167,
-            "longitude": 14.498056,
-            "max_latitude": 35.9018784,
-            "max_longitude": 14.5006294,
-            "min_latitude": 35.8971043,
-            "min_longitude": 14.4907093
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-58",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Ta' Xbiex",
+        "name": "Attard",
         "postal": "58",
         "type": "",
         "type_en": ""
     },
     "59": {
         "alt_names": [
-            "Tarxien"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -8250,24 +8244,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.865833,
-            "longitude": 14.511944,
-            "max_latitude": 35.8737554,
-            "max_longitude": 14.5204097,
-            "min_latitude": 35.8615915,
-            "min_longitude": 14.5054303
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-59",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Tarxien",
+        "name": "Attard",
         "postal": "59",
         "type": "",
         "type_en": ""
     },
     "60": {
         "alt_names": [
-            "Valletta"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -8390,24 +8384,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.8989085,
-            "longitude": 14.5145528,
-            "max_latitude": 35.9035645,
-            "max_longitude": 14.5207718,
-            "min_latitude": 35.8932982,
-            "min_longitude": 14.5055526
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-60",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Valletta",
+        "name": "Attard",
         "postal": "60",
         "type": "",
         "type_en": ""
     },
     "61": {
         "alt_names": [
-            "Xag\u0127ra"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -8530,24 +8524,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 36.050278,
-            "longitude": 14.2675,
-            "max_latitude": 36.0732968,
-            "max_longitude": 14.2847375,
-            "min_latitude": 36.0379885,
-            "min_longitude": 14.2497419
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-61",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Xag\u0127ra",
+        "name": "Attard",
         "postal": "61",
         "type": "",
         "type_en": ""
     },
     "62": {
         "alt_names": [
-            "Xewkija"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -8670,24 +8664,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 36.033009,
-            "longitude": 14.26234,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-62",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Xewkija",
+        "name": "Attard",
         "postal": "62",
         "type": "",
         "type_en": ""
     },
     "63": {
         "alt_names": [
-            "Xg\u0127ajra"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -8810,24 +8804,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.8868282,
-            "longitude": 14.5472391,
-            "max_latitude": 35.8899212,
-            "max_longitude": 14.5571618,
-            "min_latitude": 35.8791327,
-            "min_longitude": 14.5347666
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-63",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "Xg\u0127ajra",
+        "name": "Attard",
         "postal": "63",
         "type": "",
         "type_en": ""
     },
     "64": {
         "alt_names": [
-            "\u017babbar"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -8950,25 +8944,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.877222,
-            "longitude": 14.538056,
-            "max_latitude": 35.8848922,
-            "max_longitude": 14.5641411,
-            "min_latitude": 35.8639058,
-            "min_longitude": 14.5267365
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-64",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "\u017babbar",
+        "name": "Attard",
         "postal": "64",
         "type": "",
         "type_en": ""
     },
     "65": {
         "alt_names": [
-            "\u017bebbu\u0121 Gozo",
-            "\u017bebbu\u0121 G\u0127awdex"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -9091,24 +9084,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 36.070833,
-            "longitude": 14.236944,
-            "max_latitude": 36.0822238,
-            "max_longitude": 14.266588,
-            "min_latitude": 36.0490571,
-            "min_longitude": 14.2263722
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-65",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "\u017bebbu\u0121 Gozo",
+        "name": "Attard",
         "postal": "65",
         "type": "",
         "type_en": ""
     },
     "66": {
         "alt_names": [
-            "\u017bebbu\u0121 Malta"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -9231,24 +9224,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.873056,
-            "longitude": 14.441944,
-            "max_latitude": 35.886147,
-            "max_longitude": 14.4665909,
-            "min_latitude": 35.8603872,
-            "min_longitude": 14.4119275
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-66",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "\u017bebbu\u0121 Malta",
+        "name": "Attard",
         "postal": "66",
         "type": "",
         "type_en": ""
     },
     "67": {
         "alt_names": [
-            "\u017bejtun"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -9371,24 +9364,24 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.855556,
-            "longitude": 14.533333,
-            "max_latitude": 35.8699403,
-            "max_longitude": 14.5527028,
-            "min_latitude": 35.845767,
-            "min_longitude": 14.5151017
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-67",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "\u017bejtun",
+        "name": "Attard",
         "postal": "67",
         "type": "",
         "type_en": ""
     },
     "68": {
         "alt_names": [
-            "\u017burrieq"
+            "Attard"
         ],
         "cca2": "MT",
         "cca3": "MLT",
@@ -9511,17 +9504,17 @@
             "woe_name": "Malta"
         },
         "geo": {
-            "latitude": 35.829167,
-            "longitude": 14.475833,
-            "max_latitude": 35.8404648,
-            "max_longitude": 14.5144888,
-            "min_latitude": 35.8126989,
-            "min_longitude": 14.4575752
+            "latitude": 35.892778,
+            "longitude": 14.438333,
+            "max_latitude": 35.9019827,
+            "max_longitude": 14.4581044,
+            "min_latitude": 35.8811399,
+            "min_longitude": 14.4089986
         },
         "iso_3166_2": "MT-68",
         "iso_a2": "MT",
         "iso_a3": "MLT",
-        "name": "\u017burrieq",
+        "name": "Attard",
         "postal": "68",
         "type": "",
         "type_en": ""

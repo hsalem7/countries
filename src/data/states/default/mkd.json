@@ -1,7 +1,7 @@
 {
     "01": {
         "alt_names": [
-            ""
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -124,20 +124,24 @@
             "woe_name": "Aerodrom Municipality"
         },
         "geo": {
-            "latitude": "41.9517000000",
-            "longitude": "21.4932000000"
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-01",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Aerodrom",
+        "name": "Aerodrom *",
         "postal": "01",
         "type": "Municipality",
         "type_en": "Municipality"
     },
     "02": {
         "alt_names": [
-            "Aracinovo"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -260,24 +264,24 @@
             "woe_name": "Aracinovo Municipality"
         },
         "geo": {
-            "latitude": 42.0247381,
-            "longitude": 21.5766407,
-            "max_latitude": 42.0706939,
-            "max_longitude": 21.633435,
-            "min_latitude": 41.9844389,
-            "min_longitude": 21.53742
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-02",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Aracinovo",
+        "name": "Aerodrom *",
         "postal": "02",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "03": {
         "alt_names": [
-            "Berovo"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -400,24 +404,24 @@
             "woe_name": "Berovo"
         },
         "geo": {
-            "latitude": 41.71,
-            "longitude": 22.85,
-            "max_latitude": 41.7220225,
-            "max_longitude": 22.8621305,
-            "min_latitude": 41.6987916,
-            "min_longitude": 22.8312957
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-03",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Berovo",
+        "name": "Aerodrom *",
         "postal": "03",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "04": {
         "alt_names": [
-            "Bitola"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -540,24 +544,24 @@
             "woe_name": "Bitola"
         },
         "geo": {
-            "latitude": 41.031944,
-            "longitude": 21.334722,
-            "max_latitude": 41.048879,
-            "max_longitude": 21.3622927,
-            "min_latitude": 41.0027271,
-            "min_longitude": 21.2948782
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-04",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Bitola",
+        "name": "Aerodrom *",
         "postal": "04",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "05": {
         "alt_names": [
-            "Bogdanci"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -680,24 +684,24 @@
             "woe_name": "Bogdanci"
         },
         "geo": {
-            "latitude": 41.203138,
-            "longitude": 22.5754421,
-            "max_latitude": 41.2095342,
-            "max_longitude": 22.5874615,
-            "min_latitude": 41.1964168,
-            "min_longitude": 22.5654031
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-05",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Bogdanci",
+        "name": "Aerodrom *",
         "postal": "05",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "06": {
         "alt_names": [
-            "Bogovinje"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -820,24 +824,24 @@
             "woe_name": "Bogovinje"
         },
         "geo": {
-            "latitude": 41.9236371,
-            "longitude": 20.9163887,
-            "max_latitude": 41.9338751,
-            "max_longitude": 20.9272813,
-            "min_latitude": 41.9166969,
-            "min_longitude": 20.9023664
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-06",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Bogovinje",
+        "name": "Aerodrom *",
         "postal": "06",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "07": {
         "alt_names": [
-            "Bosilovo"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -960,24 +964,24 @@
             "woe_name": "Bosilovo Municipality"
         },
         "geo": {
-            "latitude": 41.4406,
-            "longitude": 22.7278,
-            "max_latitude": 41.4443203,
-            "max_longitude": 22.743305,
-            "min_latitude": 41.4356014,
-            "min_longitude": 22.7187556
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-07",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Bosilovo",
+        "name": "Aerodrom *",
         "postal": "07",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "08": {
         "alt_names": [
-            "Brvenica"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -1100,24 +1104,24 @@
             "woe_name": "Brvenica"
         },
         "geo": {
-            "latitude": 41.9672,
-            "longitude": 20.9808,
-            "max_latitude": 41.9760665,
-            "max_longitude": 20.9886396,
-            "min_latitude": 41.9597614,
-            "min_longitude": 20.9733618
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-08",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Brvenica",
+        "name": "Aerodrom *",
         "postal": "08",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "09": {
         "alt_names": [
-            ""
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -1240,20 +1244,24 @@
             "woe_name": "Butel Municipality"
         },
         "geo": {
-            "latitude": "42.0738000000",
-            "longitude": "21.4665000000"
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-09",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Butel",
+        "name": "Aerodrom *",
         "postal": "09",
         "type": "Municipality",
         "type_en": "Municipality"
     },
     "10": {
         "alt_names": [
-            "Valandovo"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -1376,24 +1384,24 @@
             "woe_name": "Valandovo"
         },
         "geo": {
-            "latitude": 41.316944,
-            "longitude": 22.561111,
-            "max_latitude": 41.3221053,
-            "max_longitude": 22.5714327,
-            "min_latitude": 41.3123712,
-            "min_longitude": 22.5510478
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-10",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Valandovo",
+        "name": "Aerodrom *",
         "postal": "10",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "11": {
         "alt_names": [
-            "Vasilevo"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -1516,24 +1524,24 @@
             "woe_name": "Vasilevo Municipality"
         },
         "geo": {
-            "latitude": 41.5201985,
-            "longitude": 22.6437026,
-            "max_latitude": 41.631592,
-            "max_longitude": 22.731699,
-            "min_latitude": 41.456077,
-            "min_longitude": 22.499725
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-11",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Vasilevo",
+        "name": "Aerodrom *",
         "postal": "11",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "12": {
         "alt_names": [
-            ""
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -1656,20 +1664,24 @@
             "woe_name": "Vevcani"
         },
         "geo": {
-            "latitude": "41.2362000000",
-            "longitude": "20.5689000000"
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-12",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Vev\u010dani",
+        "name": "Aerodrom *",
         "postal": "12",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "13": {
         "alt_names": [
-            "Veles"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -1792,24 +1804,24 @@
             "woe_name": "Veles"
         },
         "geo": {
-            "latitude": 41.7138462,
-            "longitude": 21.7704092,
-            "max_latitude": 41.737505,
-            "max_longitude": 21.7968535,
-            "min_latitude": 41.691838,
-            "min_longitude": 21.7434913
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-13",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Veles",
+        "name": "Aerodrom *",
         "postal": "13",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "14": {
         "alt_names": [
-            "Vinica"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -1932,24 +1944,24 @@
             "woe_name": "Vinica Municipality"
         },
         "geo": {
-            "latitude": 49.233083,
-            "longitude": 28.468217,
-            "max_latitude": 49.27902,
-            "max_longitude": 28.5710879,
-            "min_latitude": 49.190448,
-            "min_longitude": 28.3681799
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-14",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Vinica",
+        "name": "Aerodrom *",
         "postal": "14",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "15": {
         "alt_names": [
-            "Vrane\u0161tica"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -2072,24 +2084,24 @@
             "woe_name": "Vranestica Municipality"
         },
         "geo": {
-            "latitude": 41.4453257,
-            "longitude": 21.0259217,
-            "max_latitude": 41.4484842,
-            "max_longitude": 21.0308243,
-            "min_latitude": 41.4420771,
-            "min_longitude": 21.0224727
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-15",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Vrane\u0161tica",
+        "name": "Aerodrom *",
         "postal": "15",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "16": {
         "alt_names": [
-            "Vrapci\u0161te"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -2212,24 +2224,24 @@
             "woe_name": "Polog"
         },
         "geo": {
-            "latitude": 41.8384178,
-            "longitude": 20.8858003,
-            "max_latitude": 41.8453661,
-            "max_longitude": 20.890842,
-            "min_latitude": 41.8293341,
-            "min_longitude": 20.8794765
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-16",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Vrapci\u0161te",
+        "name": "Aerodrom *",
         "postal": "16",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "17": {
         "alt_names": [
-            ""
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -2352,20 +2364,24 @@
             "woe_name": "Gazi Baba Municipality"
         },
         "geo": {
-            "latitude": "42.0259000000",
-            "longitude": "21.5136000000"
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-17",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Gazi Baba",
+        "name": "Aerodrom *",
         "postal": "17",
         "type": "Municipality",
         "type_en": "Municipality"
     },
     "18": {
         "alt_names": [
-            "Gevgelija"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -2488,24 +2504,24 @@
             "woe_name": "Southeastern"
         },
         "geo": {
-            "latitude": 41.140278,
-            "longitude": 22.502778,
-            "max_latitude": 41.1520004,
-            "max_longitude": 22.5183677,
-            "min_latitude": 41.1323508,
-            "min_longitude": 22.4868571
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-18",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Gevgelija",
+        "name": "Aerodrom *",
         "postal": "18",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "19": {
         "alt_names": [
-            "Gostivar"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -2628,24 +2644,24 @@
             "woe_name": "Gostivar"
         },
         "geo": {
-            "latitude": 41.8,
-            "longitude": 20.916667,
-            "max_latitude": 41.8179286,
-            "max_longitude": 20.9324742,
-            "min_latitude": 41.784233,
-            "min_longitude": 20.8848596
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-19",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Gostivar",
+        "name": "Aerodrom *",
         "postal": "19",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "20": {
         "alt_names": [
-            "Gradsko"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -2768,24 +2784,24 @@
             "woe_name": "Gradsko"
         },
         "geo": {
-            "latitude": 41.5750625,
-            "longitude": 21.9494531,
-            "max_latitude": 41.5846933,
-            "max_longitude": 21.9661031,
-            "min_latitude": 41.5631299,
-            "min_longitude": 21.9327078
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-20",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Gradsko",
+        "name": "Aerodrom *",
         "postal": "20",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "21": {
         "alt_names": [
-            "Debar"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -2908,24 +2924,24 @@
             "woe_name": "Debar"
         },
         "geo": {
-            "latitude": 41.5266768,
-            "longitude": 20.5239064,
-            "max_latitude": 41.5438706,
-            "max_longitude": 20.5436398,
-            "min_latitude": 41.4924262,
-            "min_longitude": 20.4922057
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-21",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Debar",
+        "name": "Aerodrom *",
         "postal": "21",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "22": {
         "alt_names": [
-            "Debarca"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -3048,24 +3064,24 @@
             "woe_name": "Debarca"
         },
         "geo": {
-            "latitude": 42.0010109,
-            "longitude": 21.4201574,
-            "max_latitude": 42.0021113,
-            "max_longitude": 21.4216447,
-            "min_latitude": 41.9992847,
-            "min_longitude": 21.4180968
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-22",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Debarca",
+        "name": "Aerodrom *",
         "postal": "22",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "23": {
         "alt_names": [
-            "Delcevo"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -3188,24 +3204,24 @@
             "woe_name": "Delcevo"
         },
         "geo": {
-            "latitude": 41.9764,
-            "longitude": 22.7674,
-            "max_latitude": 41.9899275,
-            "max_longitude": 22.7877689,
-            "min_latitude": 41.9538413,
-            "min_longitude": 22.7602601
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-23",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Delcevo",
+        "name": "Aerodrom *",
         "postal": "23",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "24": {
         "alt_names": [
-            "Demir Kapija"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -3328,24 +3344,24 @@
             "woe_name": "Demir Kapija"
         },
         "geo": {
-            "latitude": 41.411389,
-            "longitude": 22.242222,
-            "max_latitude": 41.4142979,
-            "max_longitude": 22.2562623,
-            "min_latitude": 41.398904,
-            "min_longitude": 22.2329164
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-24",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Demir Kapija",
+        "name": "Aerodrom *",
         "postal": "24",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "25": {
         "alt_names": [
-            "Murga\u0161evo"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -3468,24 +3484,24 @@
             "woe_name": "Demir Hisar Municipality"
         },
         "geo": {
-            "latitude": 41.2213604,
-            "longitude": 21.2025287,
-            "max_latitude": 41.2294553,
-            "max_longitude": 21.2090261,
-            "min_latitude": 41.212795,
-            "min_longitude": 21.1942202
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-25",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Demir Hisar",
+        "name": "Aerodrom *",
         "postal": "25",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "26": {
         "alt_names": [
-            "Dojran"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -3608,24 +3624,24 @@
             "woe_name": "Dojran"
         },
         "geo": {
-            "latitude": 41.2436672,
-            "longitude": 22.6913764,
-            "max_latitude": 41.2946641,
-            "max_longitude": 22.7681351,
-            "min_latitude": 41.1488839,
-            "min_longitude": 22.5653611
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-26",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Dojran",
+        "name": "Aerodrom *",
         "postal": "26",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "27": {
         "alt_names": [
-            "Dolneni"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -3748,24 +3764,24 @@
             "woe_name": "Dolneni"
         },
         "geo": {
-            "latitude": 41.425278,
-            "longitude": 21.454444,
-            "max_latitude": 41.4306496,
-            "max_longitude": 21.459623,
-            "min_latitude": 41.4207005,
-            "min_longitude": 21.4454475
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-27",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Dolneni",
+        "name": "Aerodrom *",
         "postal": "27",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "28": {
         "alt_names": [
-            "Drugovo"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -3888,24 +3904,24 @@
             "woe_name": "Drugovo Municipality"
         },
         "geo": {
-            "latitude": 41.4408153,
-            "longitude": 20.9268201,
-            "max_latitude": 41.616372,
-            "max_longitude": 21.138616,
-            "min_latitude": 41.328747,
-            "min_longitude": 20.6818601
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-28",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Drugovo",
+        "name": "Aerodrom *",
         "postal": "28",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "29": {
         "alt_names": [
-            "Gjorce Petrov"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -4028,20 +4044,24 @@
             "woe_name": "Gjorce Petrov Municipality"
         },
         "geo": {
-            "latitude": "42.0640000000",
-            "longitude": "21.3002000000"
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-29",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Gjor\u010de Petrov",
+        "name": "Aerodrom *",
         "postal": "29",
         "type": "Municipality",
         "type_en": "Municipality"
     },
     "30": {
         "alt_names": [
-            "\u017delino"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -4164,24 +4184,24 @@
             "woe_name": "\u017delino"
         },
         "geo": {
-            "latitude": 41.9803419,
-            "longitude": 21.0609438,
-            "max_latitude": 41.9876251,
-            "max_longitude": 21.0698751,
-            "min_latitude": 41.9738654,
-            "min_longitude": 21.0548639
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-30",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "\u017delino",
+        "name": "Aerodrom *",
         "postal": "30",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "31": {
         "alt_names": [
-            "Zajas"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -4304,24 +4324,24 @@
             "woe_name": "Zajas"
         },
         "geo": {
-            "latitude": 41.6030328,
-            "longitude": 20.8791343,
-            "max_latitude": 41.664541,
-            "max_longitude": 20.9886531,
-            "min_latitude": 41.522742,
-            "min_longitude": 20.7818541
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-31",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Zajas",
+        "name": "Aerodrom *",
         "postal": "31",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "32": {
         "alt_names": [
-            "Zelenikovo"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -4444,24 +4464,24 @@
             "woe_name": "Zelenikovo Municipality"
         },
         "geo": {
-            "latitude": 41.8733812,
-            "longitude": 21.602725,
-            "max_latitude": 41.8769431,
-            "max_longitude": 21.6099306,
-            "min_latitude": 41.8673996,
-            "min_longitude": 21.5935826
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-32",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Zelenikovo",
+        "name": "Aerodrom *",
         "postal": "32",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "33": {
         "alt_names": [
-            "Zrnovci"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -4584,24 +4604,24 @@
             "woe_name": "Zrnovci Municipality"
         },
         "geo": {
-            "latitude": 41.8228221,
-            "longitude": 22.4172256,
-            "max_latitude": 41.8693271,
-            "max_longitude": 22.4490741,
-            "min_latitude": 41.788068,
-            "min_longitude": 22.354366
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-33",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Zrnovci",
+        "name": "Aerodrom *",
         "postal": "33",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "34": {
         "alt_names": [
-            "Ilinden"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -4724,24 +4744,24 @@
             "woe_name": "Ilinden"
         },
         "geo": {
-            "latitude": 41.99,
-            "longitude": 21.58,
-            "max_latitude": 42.0042037,
-            "max_longitude": 21.5856242,
-            "min_latitude": 41.9878302,
-            "min_longitude": 21.5397289
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-34",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Ilinden",
+        "name": "Aerodrom *",
         "postal": "34",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "35": {
         "alt_names": [
-            "Jegunovce"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -4864,24 +4884,24 @@
             "woe_name": "Jegunovce Municipality"
         },
         "geo": {
-            "latitude": 42.074072,
-            "longitude": 21.1220478,
-            "max_latitude": 42.0776731,
-            "max_longitude": 21.128905,
-            "min_latitude": 42.0686995,
-            "min_longitude": 21.1171566
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-35",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Jegunovce",
+        "name": "Aerodrom *",
         "postal": "35",
         "type": "Op\u0161tina",
         "type_en": "Municipality"
     },
     "36": {
         "alt_names": [
-            ""
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -5004,20 +5024,24 @@
             "woe_name": "Kavadartsi"
         },
         "geo": {
-            "latitude": "41.3234000000",
-            "longitude": "22.0373000000"
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-36",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Kavadartsi",
+        "name": "Aerodrom *",
         "postal": "36",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "37": {
         "alt_names": [
-            "Karbinci"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -5140,24 +5164,24 @@
             "woe_name": "Karbinci Municipality"
         },
         "geo": {
-            "latitude": 41.8180159,
-            "longitude": 22.2324758,
-            "max_latitude": 41.822406,
-            "max_longitude": 22.2458124,
-            "min_latitude": 41.8096282,
-            "min_longitude": 22.2270155
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-37",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Karbinci",
+        "name": "Aerodrom *",
         "postal": "37",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "38": {
         "alt_names": [
-            ""
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -5280,20 +5304,24 @@
             "woe_name": "Karpo\u0161"
         },
         "geo": {
-            "latitude": "41.9774000000",
-            "longitude": "21.3888000000"
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-38",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Karpo\u0161",
+        "name": "Aerodrom *",
         "postal": "38",
         "type": "Municipality",
         "type_en": "Municipality"
     },
     "39": {
         "alt_names": [
-            ""
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -5416,20 +5444,24 @@
             "woe_name": "Skopje"
         },
         "geo": {
-            "latitude": "41.9346000000",
-            "longitude": "21.4817000000"
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-39",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Kisela Voda",
+        "name": "Aerodrom *",
         "postal": "39",
         "type": "Municipality",
         "type_en": "Municipality"
     },
     "40": {
         "alt_names": [
-            "Kicevo"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -5552,24 +5584,24 @@
             "woe_name": "Kicevo"
         },
         "geo": {
-            "latitude": 41.5158412,
-            "longitude": 20.9586619,
-            "max_latitude": 41.5350852,
-            "max_longitude": 20.973544,
-            "min_latitude": 41.4940576,
-            "min_longitude": 20.9361862
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-40",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Kicevo",
+        "name": "Aerodrom *",
         "postal": "40",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "41": {
         "alt_names": [
-            "Konce"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -5692,24 +5724,24 @@
             "woe_name": "Konce Municipality"
         },
         "geo": {
-            "latitude": 41.4965779,
-            "longitude": 22.3829526,
-            "max_latitude": 41.4997406,
-            "max_longitude": 22.3924967,
-            "min_latitude": 41.4918386,
-            "min_longitude": 22.3740407
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-41",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Konce",
+        "name": "Aerodrom *",
         "postal": "41",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "42": {
         "alt_names": [
-            "Kocani"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -5832,24 +5864,24 @@
             "woe_name": "Kocani"
         },
         "geo": {
-            "latitude": 41.9168048,
-            "longitude": 22.4082849,
-            "max_latitude": 41.9339389,
-            "max_longitude": 22.4394573,
-            "min_latitude": 41.9041297,
-            "min_longitude": 22.3931301
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-42",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Kocani",
+        "name": "Aerodrom *",
         "postal": "42",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "43": {
         "alt_names": [
-            "Kratovo"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -5972,24 +6004,24 @@
             "woe_name": "Kratovo"
         },
         "geo": {
-            "latitude": 42.0800379,
-            "longitude": 22.1802799,
-            "max_latitude": 42.0853964,
-            "max_longitude": 22.1919322,
-            "min_latitude": 42.0729499,
-            "min_longitude": 22.1586944
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-43",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Kratovo",
+        "name": "Aerodrom *",
         "postal": "43",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "44": {
         "alt_names": [
-            "Kriva Palanka"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -6112,24 +6144,24 @@
             "woe_name": "Kriva Palanka"
         },
         "geo": {
-            "latitude": 42.2058454,
-            "longitude": 22.3307965,
-            "max_latitude": 42.2233612,
-            "max_longitude": 22.3575425,
-            "min_latitude": 42.1902456,
-            "min_longitude": 22.3109686
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-44",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Kriva Palanka",
+        "name": "Aerodrom *",
         "postal": "44",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "45": {
         "alt_names": [
-            "Krivoga\u0161tani"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -6252,24 +6284,24 @@
             "woe_name": "Krivogastani Municipality"
         },
         "geo": {
-            "latitude": 41.3082306,
-            "longitude": 21.3679689,
-            "max_latitude": 41.3876829,
-            "max_longitude": 21.428434,
-            "min_latitude": 41.245415,
-            "min_longitude": 21.3069439
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-45",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Krivoga\u0161tani",
+        "name": "Aerodrom *",
         "postal": "45",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "46": {
         "alt_names": [
-            "Kru\u0161evo"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -6392,24 +6424,24 @@
             "woe_name": "Kru\u0161evo"
         },
         "geo": {
-            "latitude": 41.3801216,
-            "longitude": 21.2435597,
-            "max_latitude": 41.3801311,
-            "max_longitude": 21.2442461,
-            "min_latitude": 41.3796977,
-            "min_longitude": 21.2435457
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-46",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Kru\u0161evo",
+        "name": "Aerodrom *",
         "postal": "46",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "47": {
         "alt_names": [
-            "Kumanovo"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -6532,24 +6564,24 @@
             "woe_name": "Kumanovo"
         },
         "geo": {
-            "latitude": 42.135833,
-            "longitude": 21.718056,
-            "max_latitude": 42.170783,
-            "max_longitude": 21.7575538,
-            "min_latitude": 42.0929044,
-            "min_longitude": 21.6693091
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-47",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Kumanovo",
+        "name": "Aerodrom *",
         "postal": "47",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "48": {
         "alt_names": [
-            "Lipkovo"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -6672,24 +6704,24 @@
             "woe_name": "Lipkovo"
         },
         "geo": {
-            "latitude": 42.1561352,
-            "longitude": 21.5870744,
-            "max_latitude": 42.1622105,
-            "max_longitude": 21.5949798,
-            "min_latitude": 42.1479736,
-            "min_longitude": 21.5788866
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-48",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Lipkovo",
+        "name": "Aerodrom *",
         "postal": "48",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "49": {
         "alt_names": [
-            "Lozovo"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -6812,24 +6844,24 @@
             "woe_name": "Lozovo Municipality"
         },
         "geo": {
-            "latitude": 41.780833,
-            "longitude": 21.901111,
-            "max_latitude": 41.7860898,
-            "max_longitude": 21.9099512,
-            "min_latitude": 41.7777045,
-            "min_longitude": 21.8945146
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-49",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Lozovo",
+        "name": "Aerodrom *",
         "postal": "49",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "50": {
         "alt_names": [
-            ""
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -6952,20 +6984,24 @@
             "woe_name": "Mavrovo and Rostusa"
         },
         "geo": {
-            "latitude": "41.6315000000",
-            "longitude": "20.6986000000"
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-50",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Mavrovo and Rostusa",
+        "name": "Aerodrom *",
         "postal": "50",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "51": {
         "alt_names": [
-            "Makedonska Kamenica"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -7088,24 +7124,24 @@
             "woe_name": "Makedonska Kamenica"
         },
         "geo": {
-            "latitude": 42.019722,
-            "longitude": 22.591667,
-            "max_latitude": 42.0301294,
-            "max_longitude": 22.5955296,
-            "min_latitude": 42.0103066,
-            "min_longitude": 22.5755525
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-51",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Makedonska Kamenica",
+        "name": "Aerodrom *",
         "postal": "51",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "52": {
         "alt_names": [
-            "Makedonski Brod"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -7228,24 +7264,24 @@
             "woe_name": "Brod"
         },
         "geo": {
-            "latitude": 41.5133088,
-            "longitude": 21.2174329,
-            "max_latitude": 41.5210334,
-            "max_longitude": 21.2262081,
-            "min_latitude": 41.5046204,
-            "min_longitude": 21.2085485
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-52",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Makedonski Brod",
+        "name": "Aerodrom *",
         "postal": "52",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "53": {
         "alt_names": [
-            "Mogila"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -7368,24 +7404,24 @@
             "woe_name": "Pelagonia"
         },
         "geo": {
-            "latitude": 41.108056,
-            "longitude": 21.378333,
-            "max_latitude": 41.1192271,
-            "max_longitude": 21.3925414,
-            "min_latitude": 41.1013039,
-            "min_longitude": 21.3631968
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-53",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Mogila",
+        "name": "Aerodrom *",
         "postal": "53",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "54": {
         "alt_names": [
-            "Negotino"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -7508,24 +7544,24 @@
             "woe_name": "Negotino"
         },
         "geo": {
-            "latitude": 41.4989985,
-            "longitude": 22.0953297,
-            "max_latitude": 41.6542421,
-            "max_longitude": 22.3007181,
-            "min_latitude": 41.348664,
-            "min_longitude": 21.9803289
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-54",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Negotino",
+        "name": "Aerodrom *",
         "postal": "54",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "55": {
         "alt_names": [
-            "Novaci"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -7648,24 +7684,24 @@
             "woe_name": "Novatsi"
         },
         "geo": {
-            "latitude": 45.18,
-            "longitude": 23.67,
-            "max_latitude": 45.2153314,
-            "max_longitude": 23.6997415,
-            "min_latitude": 45.1469974,
-            "min_longitude": 23.6471701
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-55",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Novaci",
+        "name": "Aerodrom *",
         "postal": "55",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "56": {
         "alt_names": [
-            "Novo Selo"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -7788,24 +7824,24 @@
             "woe_name": "Novo Selo"
         },
         "geo": {
-            "latitude": 41.413889,
-            "longitude": 22.880833,
-            "max_latitude": 41.4201658,
-            "max_longitude": 22.8911822,
-            "min_latitude": 41.4070199,
-            "min_longitude": 22.8698898
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-56",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Novo Selo",
+        "name": "Aerodrom *",
         "postal": "56",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "57": {
         "alt_names": [
-            "Oslomej"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -7928,24 +7964,24 @@
             "woe_name": "Oslomej Municipality"
         },
         "geo": {
-            "latitude": 41.5758391,
-            "longitude": 21.022196,
-            "max_latitude": 41.648807,
-            "max_longitude": 21.1034419,
-            "min_latitude": 41.5044949,
-            "min_longitude": 20.9666249
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-57",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Oslomej",
+        "name": "Aerodrom *",
         "postal": "57",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "58": {
         "alt_names": [
-            "Ohrid"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -8068,24 +8104,24 @@
             "woe_name": "Ohrid"
         },
         "geo": {
-            "latitude": 41.1230977,
-            "longitude": 20.8016481,
-            "max_latitude": 41.148656,
-            "max_longitude": 20.8305932,
-            "min_latitude": 41.0793365,
-            "min_longitude": 20.7540128
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-58",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Ohrid",
+        "name": "Aerodrom *",
         "postal": "58",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "60": {
         "alt_names": [
-            "Phecevo"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -8208,20 +8244,24 @@
             "woe_name": "Pehcevo Municipality"
         },
         "geo": {
-            "latitude": "41.7917000000",
-            "longitude": "22.8833000000"
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-60",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Peh\u010devo",
+        "name": "Aerodrom *",
         "postal": "60",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "61": {
         "alt_names": [
-            "Plasnica"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -8344,24 +8384,24 @@
             "woe_name": "Plasnica Municipality"
         },
         "geo": {
-            "latitude": 41.4546349,
-            "longitude": 21.1056539,
-            "max_latitude": 41.482524,
-            "max_longitude": 21.1960519,
-            "min_latitude": 41.406865,
-            "min_longitude": 21.038705
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-61",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Plasnica",
+        "name": "Aerodrom *",
         "postal": "61",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "62": {
         "alt_names": [
-            "Prilep"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -8484,24 +8524,24 @@
             "woe_name": "Prilep"
         },
         "geo": {
-            "latitude": 41.344444,
-            "longitude": 21.552778,
-            "max_latitude": 41.3645543,
-            "max_longitude": 21.5810538,
-            "min_latitude": 41.3232656,
-            "min_longitude": 21.5153933
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-62",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Prilep",
+        "name": "Aerodrom *",
         "postal": "62",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "63": {
         "alt_names": [
-            "Probi\u0161tip"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -8624,24 +8664,24 @@
             "woe_name": "Probistip"
         },
         "geo": {
-            "latitude": 41.9948176,
-            "longitude": 22.1877315,
-            "max_latitude": 42.0117575,
-            "max_longitude": 22.1926832,
-            "min_latitude": 41.9841539,
-            "min_longitude": 22.1594237
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-63",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Probi\u0161tip",
+        "name": "Aerodrom *",
         "postal": "63",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "64": {
         "alt_names": [
-            "Radovi\u0161"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -8764,24 +8804,24 @@
             "woe_name": "Radovis"
         },
         "geo": {
-            "latitude": 41.636111,
-            "longitude": 22.466667,
-            "max_latitude": 41.6488736,
-            "max_longitude": 22.4798942,
-            "min_latitude": 41.6224203,
-            "min_longitude": 22.4439095
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-64",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Radovi\u0161",
+        "name": "Aerodrom *",
         "postal": "64",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "65": {
         "alt_names": [
-            "Rankovce"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -8904,24 +8944,24 @@
             "woe_name": "Rankovce Municipality"
         },
         "geo": {
-            "latitude": 42.1695387,
-            "longitude": 22.116195,
-            "max_latitude": 42.1799108,
-            "max_longitude": 22.1322583,
-            "min_latitude": 42.1639124,
-            "min_longitude": 22.1079684
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-65",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Rankovce",
+        "name": "Aerodrom *",
         "postal": "65",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "66": {
         "alt_names": [
-            "Resen"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -9044,24 +9084,24 @@
             "woe_name": "Resen Municipality"
         },
         "geo": {
-            "latitude": 41.0889,
-            "longitude": 21.0122,
-            "max_latitude": 41.0996959,
-            "max_longitude": 21.0292053,
-            "min_latitude": 41.0795937,
-            "min_longitude": 20.9988428
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-66",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Resen",
+        "name": "Aerodrom *",
         "postal": "66",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "67": {
         "alt_names": [
-            "Rosoman"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -9184,24 +9224,24 @@
             "woe_name": "Vardar"
         },
         "geo": {
-            "latitude": 41.4848006,
-            "longitude": 21.8807064,
-            "max_latitude": 41.555479,
-            "max_longitude": 21.984525,
-            "min_latitude": 41.4309889,
-            "min_longitude": 21.8100951
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-67",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Rosoman",
+        "name": "Aerodrom *",
         "postal": "67",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "68": {
         "alt_names": [
-            ""
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -9324,20 +9364,24 @@
             "woe_name": "Saraj"
         },
         "geo": {
-            "latitude": "41.9750000000",
-            "longitude": "21.2491000000"
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-68",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Saraj",
+        "name": "Aerodrom *",
         "postal": "68",
         "type": "Municipality",
         "type_en": "Municipality"
     },
     "69": {
         "alt_names": [
-            "Sveti Nikole"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -9460,24 +9504,24 @@
             "woe_name": "Sveti Nikole"
         },
         "geo": {
-            "latitude": 41.866667,
-            "longitude": 21.95,
-            "max_latitude": 41.8749934,
-            "max_longitude": 21.9508554,
-            "min_latitude": 41.8555619,
-            "min_longitude": 21.9269728
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-69",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Sveti Nikole",
+        "name": "Aerodrom *",
         "postal": "69",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "70": {
         "alt_names": [
-            "Sopi\u0161te"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -9600,24 +9644,24 @@
             "woe_name": "Sopiste"
         },
         "geo": {
-            "latitude": 41.9500453,
-            "longitude": 21.4201362,
-            "max_latitude": 41.9634592,
-            "max_longitude": 21.4390469,
-            "min_latitude": 41.9434839,
-            "min_longitude": 21.4102507
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-70",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Sopi\u0161te",
+        "name": "Aerodrom *",
         "postal": "70",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "71": {
         "alt_names": [
-            "Northeastern"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -9740,20 +9784,24 @@
             "woe_name": "Northeastern"
         },
         "geo": {
-            "latitude": "42.2098000000",
-            "longitude": "21.8853000000"
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-71",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Staro Nagori\u010dane",
+        "name": "Aerodrom *",
         "postal": "71",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "72": {
         "alt_names": [
-            "Struga"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -9876,24 +9924,24 @@
             "woe_name": "Struga Municipality"
         },
         "geo": {
-            "latitude": 41.1778353,
-            "longitude": 20.6783258,
-            "max_latitude": 41.1973695,
-            "max_longitude": 20.7272307,
-            "min_latitude": 41.1677447,
-            "min_longitude": 20.6343199
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-72",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Struga",
+        "name": "Aerodrom *",
         "postal": "72",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "73": {
         "alt_names": [
-            "Southeastern"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -10016,20 +10064,24 @@
             "woe_name": "Southeastern"
         },
         "geo": {
-            "latitude": "41.3841000000",
-            "longitude": "22.6211000000"
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-73",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Strumitsa",
+        "name": "Aerodrom *",
         "postal": "73",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "74": {
         "alt_names": [
-            ""
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -10152,20 +10204,24 @@
             "woe_name": "Studenicani"
         },
         "geo": {
-            "latitude": "41.8317000000",
-            "longitude": "21.4592000000"
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-74",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Studeni\u010dani",
+        "name": "Aerodrom *",
         "postal": "74",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "75": {
         "alt_names": [
-            "Tearce"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -10288,24 +10344,24 @@
             "woe_name": "Tearce"
         },
         "geo": {
-            "latitude": 42.0777511,
-            "longitude": 21.0534923,
-            "max_latitude": 42.0861885,
-            "max_longitude": 21.0603228,
-            "min_latitude": 42.0697506,
-            "min_longitude": 21.0445913
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-75",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Tearce",
+        "name": "Aerodrom *",
         "postal": "75",
         "type": "Op\u0161tina",
         "type_en": "Municipality"
     },
     "76": {
         "alt_names": [
-            "Tetovo"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -10428,24 +10484,24 @@
             "woe_name": "Tetovo"
         },
         "geo": {
-            "latitude": 42,
-            "longitude": 20.966667,
-            "max_latitude": 42.0259693,
-            "max_longitude": 20.9893371,
-            "min_latitude": 41.9892736,
-            "min_longitude": 20.9485246
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-76",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Tetovo",
+        "name": "Aerodrom *",
         "postal": "76",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "77": {
         "alt_names": [
-            ""
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -10568,20 +10624,24 @@
             "woe_name": "Centar Municipality"
         },
         "geo": {
-            "latitude": "41.9752000000",
-            "longitude": "21.4226000000"
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-77",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Centar",
+        "name": "Aerodrom *",
         "postal": "77",
         "type": "Municipality",
         "type_en": "Municipality"
     },
     "78": {
         "alt_names": [
-            ""
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -10704,20 +10764,24 @@
             "woe_name": "Centar \u017eupa"
         },
         "geo": {
-            "latitude": "41.4644000000",
-            "longitude": "20.5799000000"
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-78",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Centar \u017eupa",
+        "name": "Aerodrom *",
         "postal": "78",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "79": {
         "alt_names": [
-            "Cair"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -10840,20 +10904,24 @@
             "woe_name": "Cair Municipality"
         },
         "geo": {
-            "latitude": "41.9946000000",
-            "longitude": "21.4367000000"
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-79",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "\u010cair",
+        "name": "Aerodrom *",
         "postal": "79",
         "type": "Municipality",
         "type_en": "Municipality"
     },
     "80": {
         "alt_names": [
-            "Ca\u0161ka"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -10976,24 +11044,24 @@
             "woe_name": "Ca\u0161ka"
         },
         "geo": {
-            "latitude": 41.647438,
-            "longitude": 21.6914115,
-            "max_latitude": 41.6554159,
-            "max_longitude": 21.697113,
-            "min_latitude": 41.6380384,
-            "min_longitude": 21.6835701
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-80",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Ca\u0161ka",
+        "name": "Aerodrom *",
         "postal": "80",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "81": {
         "alt_names": [
-            "Ce\u0161inovo-Oble\u0161evo"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -11116,24 +11184,24 @@
             "woe_name": "Cesinovo-Oblesevo Municipality"
         },
         "geo": {
-            "latitude": 41.8639316,
-            "longitude": 22.262246,
-            "max_latitude": 41.948915,
-            "max_longitude": 22.39093,
-            "min_latitude": 41.788461,
-            "min_longitude": 22.187428
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-81",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Ce\u0161inovo-Oble\u0161evo",
+        "name": "Aerodrom *",
         "postal": "81",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "82": {
         "alt_names": [
-            "Cucer Sandevo"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -11256,24 +11324,24 @@
             "woe_name": "Cucer Sandevo"
         },
         "geo": {
-            "latitude": 42.0974773,
-            "longitude": 21.3877179,
-            "max_latitude": 42.1044702,
-            "max_longitude": 21.3955476,
-            "min_latitude": 42.0934038,
-            "min_longitude": 21.3779903
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-82",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Cucer Sandevo",
+        "name": "Aerodrom *",
         "postal": "82",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "83": {
         "alt_names": [
-            "\u0160tip"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -11396,24 +11464,24 @@
             "woe_name": "\u0160tip"
         },
         "geo": {
-            "latitude": 41.737503,
-            "longitude": 22.193558,
-            "max_latitude": 41.7626373,
-            "max_longitude": 22.2150422,
-            "min_latitude": 41.7272394,
-            "min_longitude": 22.167642
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-83",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "\u0160tip",
+        "name": "Aerodrom *",
         "postal": "83",
         "type": "Statistical Region",
         "type_en": "Statistical Region"
     },
     "84": {
         "alt_names": [
-            ""
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -11536,20 +11604,24 @@
             "woe_name": "Centar Municipality"
         },
         "geo": {
-            "latitude": "42.0341000000",
-            "longitude": "21.4069000000"
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-84",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "\u0160uto Orizari",
+        "name": "Aerodrom *",
         "postal": "84",
         "type": "Municipality",
         "type_en": "Municipality"
     },
     "85": {
         "alt_names": [
-            "Skopje"
+            "Aerodrom *"
         ],
         "cca2": "MK",
         "cca3": "MKD",
@@ -11672,17 +11744,17 @@
             "woe_name": "Skopje"
         },
         "geo": {
-            "latitude": 41.9973462,
-            "longitude": 21.4279956,
-            "max_latitude": 42.0531486,
-            "max_longitude": 21.5377522,
-            "min_latitude": 41.9450319,
-            "min_longitude": 21.3120283
+            "latitude": 41.9464363,
+            "longitude": 21.4931713,
+            "max_latitude": 41.9776741,
+            "max_longitude": 21.554503,
+            "min_latitude": 41.918271,
+            "min_longitude": 21.437095
         },
         "iso_3166_2": "MK-85",
         "iso_a2": "MK",
         "iso_a3": "MKD",
-        "name": "Skopje",
+        "name": "Aerodrom *",
         "postal": "85",
         "type": "Statistical Region",
         "type_en": "Statistical Region"

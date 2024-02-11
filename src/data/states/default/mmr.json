@@ -141,7 +141,7 @@
     },
     "02": {
         "alt_names": [
-            "Pegu"
+            "Sagaing"
         ],
         "cca2": "MM",
         "cca3": "MMR",
@@ -264,24 +264,24 @@
             "woe_name": "Bago"
         },
         "geo": {
-            "latitude": 17.333333,
-            "longitude": 96.483333,
-            "max_latitude": 17.3624761,
-            "max_longitude": 96.5161585,
-            "min_latitude": 17.2299639,
-            "min_longitude": 96.4299202
+            "latitude": 21.9159702,
+            "longitude": 95.9621106,
+            "max_latitude": 21.9659415,
+            "max_longitude": 96.0088348,
+            "min_latitude": 21.8696635,
+            "min_longitude": 95.8791447
         },
         "iso_3166_2": "MM-02",
         "iso_a2": "MM",
         "iso_a3": "MMR",
-        "name": "Bago",
+        "name": "Sagaing",
         "postal": "02",
         "type": "Yin",
         "type_en": "Division"
     },
     "03": {
         "alt_names": [
-            "Magwe"
+            "Sagaing"
         ],
         "cca2": "MM",
         "cca3": "MMR",
@@ -404,24 +404,24 @@
             "woe_name": "Magway"
         },
         "geo": {
-            "latitude": 20.15,
-            "longitude": 94.95,
-            "max_latitude": 20.1782538,
-            "max_longitude": 94.9918231,
-            "min_latitude": 20.1100737,
-            "min_longitude": 94.9161388
+            "latitude": 21.9159702,
+            "longitude": 95.9621106,
+            "max_latitude": 21.9659415,
+            "max_longitude": 96.0088348,
+            "min_latitude": 21.8696635,
+            "min_longitude": 95.8791447
         },
         "iso_3166_2": "MM-03",
         "iso_a2": "MM",
         "iso_a3": "MMR",
-        "name": "Magway",
+        "name": "Sagaing",
         "postal": "03",
         "type": "Yin",
         "type_en": "Division"
     },
     "04": {
         "alt_names": [
-            "Mandalay"
+            "Sagaing"
         ],
         "cca2": "MM",
         "cca3": "MMR",
@@ -544,24 +544,24 @@
             "woe_name": "Mandalay"
         },
         "geo": {
-            "latitude": 21.975,
-            "longitude": 96.083333,
-            "max_latitude": 22.0261394,
-            "max_longitude": 96.1404102,
-            "min_latitude": 21.8545804,
-            "min_longitude": 96.0112381
+            "latitude": 21.9159702,
+            "longitude": 95.9621106,
+            "max_latitude": 21.9659415,
+            "max_longitude": 96.0088348,
+            "min_latitude": 21.8696635,
+            "min_longitude": 95.8791447
         },
         "iso_3166_2": "MM-04",
         "iso_a2": "MM",
         "iso_a3": "MMR",
-        "name": "Mandalay",
+        "name": "Sagaing",
         "postal": "04",
         "type": "Yin",
         "type_en": "Division"
     },
     "05": {
         "alt_names": [
-            "Tenasserim"
+            "Sagaing"
         ],
         "cca2": "MM",
         "cca3": "MMR",
@@ -684,27 +684,24 @@
             "woe_name": "Tanintharyi"
         },
         "geo": {
-            "latitude": 12.0896327,
-            "longitude": 99.0115113,
-            "max_latitude": 12.0926189,
-            "max_longitude": 99.020505,
-            "min_latitude": 12.0778055,
-            "min_longitude": 99.0064103
+            "latitude": 21.9159702,
+            "longitude": 95.9621106,
+            "max_latitude": 21.9659415,
+            "max_longitude": 96.0088348,
+            "min_latitude": 21.8696635,
+            "min_longitude": 95.8791447
         },
         "iso_3166_2": "MM-05",
         "iso_a2": "MM",
         "iso_a3": "MMR",
-        "name": "Tanintharyi",
+        "name": "Sagaing",
         "postal": "05",
         "type": "Yin",
         "type_en": "Division"
     },
     "06": {
         "alt_names": [
-            "Yangon",
-            "Rangun",
-            "Rangoun",
-            "Rang\u00fan"
+            "Sagaing"
         ],
         "cca2": "MM",
         "cca3": "MMR",
@@ -827,24 +824,24 @@
             "woe_name": "Yangon"
         },
         "geo": {
-            "latitude": 16.780833,
-            "longitude": 96.149722,
-            "max_latitude": 17.0788151,
-            "max_longitude": 96.3432311,
-            "min_latitude": 16.7288268,
-            "min_longitude": 95.9957885
+            "latitude": 21.9159702,
+            "longitude": 95.9621106,
+            "max_latitude": 21.9659415,
+            "max_longitude": 96.0088348,
+            "min_latitude": 21.8696635,
+            "min_longitude": 95.8791447
         },
         "iso_3166_2": "MM-06",
         "iso_a2": "MM",
         "iso_a3": "MMR",
-        "name": "Yangon",
+        "name": "Sagaing",
         "postal": "06",
         "type": "Yin",
         "type_en": "Division"
     },
     "07": {
         "alt_names": [
-            "Irrawaddy"
+            "Sagaing"
         ],
         "cca2": "MM",
         "cca3": "MMR",
@@ -967,24 +964,24 @@
             "woe_name": "Ayeyarwady"
         },
         "geo": {
-            "latitude": 17.0342125,
-            "longitude": 95.2266675,
-            "max_latitude": 18.4690619,
-            "max_longitude": 95.9665632,
-            "min_latitude": 13.9746695,
-            "min_longitude": 93.2260284
+            "latitude": 21.9159702,
+            "longitude": 95.9621106,
+            "max_latitude": 21.9659415,
+            "max_longitude": 96.0088348,
+            "min_latitude": 21.8696635,
+            "min_longitude": 95.8791447
         },
         "iso_3166_2": "MM-07",
         "iso_a2": "MM",
         "iso_a3": "MMR",
-        "name": "Ayeyarwady",
+        "name": "Sagaing",
         "postal": "07",
         "type": "Yin",
         "type_en": "Division"
     },
     "11": {
         "alt_names": [
-            "Kachin"
+            "Sagaing"
         ],
         "cca2": "MM",
         "cca3": "MMR",
@@ -1107,24 +1104,24 @@
             "woe_name": "Kachin"
         },
         "geo": {
-            "latitude": 25.850904,
-            "longitude": 97.4381355,
-            "max_latitude": 28.543259,
-            "max_longitude": 98.782791,
-            "min_latitude": 23.641569,
-            "min_longitude": 95.8360589
+            "latitude": 21.9159702,
+            "longitude": 95.9621106,
+            "max_latitude": 21.9659415,
+            "max_longitude": 96.0088348,
+            "min_latitude": 21.8696635,
+            "min_longitude": 95.8791447
         },
         "iso_3166_2": "MM-11",
         "iso_a2": "MM",
         "iso_a3": "MMR",
-        "name": "Kachin",
+        "name": "Sagaing",
         "postal": "11",
         "type": "Pyine",
         "type_en": "State"
     },
     "12": {
         "alt_names": [
-            "Kayah"
+            "Sagaing"
         ],
         "cca2": "MM",
         "cca3": "MMR",
@@ -1247,24 +1244,24 @@
             "woe_name": "Kayah"
         },
         "geo": {
-            "latitude": 19.2342061,
-            "longitude": 97.2652858,
-            "max_latitude": 19.9939339,
-            "max_longitude": 97.887894,
-            "min_latitude": 18.4917349,
-            "min_longitude": 96.833956
+            "latitude": 21.9159702,
+            "longitude": 95.9621106,
+            "max_latitude": 21.9659415,
+            "max_longitude": 96.0088348,
+            "min_latitude": 21.8696635,
+            "min_longitude": 95.8791447
         },
         "iso_3166_2": "MM-12",
         "iso_a2": "MM",
         "iso_a3": "MMR",
-        "name": "Kayah",
+        "name": "Sagaing",
         "postal": "12",
         "type": "Pyine",
         "type_en": "State"
     },
     "13": {
         "alt_names": [
-            "Karen"
+            "Sagaing"
         ],
         "cca2": "MM",
         "cca3": "MMR",
@@ -1387,24 +1384,24 @@
             "woe_name": "Kayin"
         },
         "geo": {
-            "latitude": 16.9459346,
-            "longitude": 97.9592863,
-            "max_latitude": 19.4953029,
-            "max_longitude": 98.9175031,
-            "min_latitude": 15.2195629,
-            "min_longitude": 96.3998219
+            "latitude": 21.9159702,
+            "longitude": 95.9621106,
+            "max_latitude": 21.9659415,
+            "max_longitude": 96.0088348,
+            "min_latitude": 21.8696635,
+            "min_longitude": 95.8791447
         },
         "iso_3166_2": "MM-13",
         "iso_a2": "MM",
         "iso_a3": "MMR",
-        "name": "Kayin",
+        "name": "Sagaing",
         "postal": "13",
         "type": "Pyine",
         "type_en": "State"
     },
     "14": {
         "alt_names": [
-            "Chin"
+            "Sagaing"
         ],
         "cca2": "MM",
         "cca3": "MMR",
@@ -1527,24 +1524,24 @@
             "woe_name": "Chin"
         },
         "geo": {
-            "latitude": 22.3896751,
-            "longitude": 93.5812692,
-            "max_latitude": 24.0915281,
-            "max_longitude": 94.1857909,
-            "min_latitude": 20.6635458,
-            "min_longitude": 92.6037597
+            "latitude": 21.9159702,
+            "longitude": 95.9621106,
+            "max_latitude": 21.9659415,
+            "max_longitude": 96.0088348,
+            "min_latitude": 21.8696635,
+            "min_longitude": 95.8791447
         },
         "iso_3166_2": "MM-14",
         "iso_a2": "MM",
         "iso_a3": "MMR",
-        "name": "Chin",
+        "name": "Sagaing",
         "postal": "14",
         "type": "Pyine",
         "type_en": "State"
     },
     "15": {
         "alt_names": [
-            "Mon"
+            "Sagaing"
         ],
         "cca2": "MM",
         "cca3": "MMR",
@@ -1667,24 +1664,24 @@
             "woe_name": "Mon"
         },
         "geo": {
-            "latitude": 17.0626039,
-            "longitude": 97.3516558,
-            "max_latitude": 17.7052629,
-            "max_longitude": 98.2378388,
-            "min_latitude": 14.884192,
-            "min_longitude": 96.8755518
+            "latitude": 21.9159702,
+            "longitude": 95.9621106,
+            "max_latitude": 21.9659415,
+            "max_longitude": 96.0088348,
+            "min_latitude": 21.8696635,
+            "min_longitude": 95.8791447
         },
         "iso_3166_2": "MM-15",
         "iso_a2": "MM",
         "iso_a3": "MMR",
-        "name": "Mon",
+        "name": "Sagaing",
         "postal": "15",
         "type": "Pyine",
         "type_en": "State"
     },
     "16": {
         "alt_names": [
-            "Arakan"
+            "Sagaing"
         ],
         "cca2": "MM",
         "cca3": "MMR",
@@ -1807,24 +1804,24 @@
             "woe_name": "Rakhine"
         },
         "geo": {
-            "latitude": 19.810093,
-            "longitude": 93.9878427,
-            "max_latitude": 21.4735741,
-            "max_longitude": 94.909111,
-            "min_latitude": 17.363218,
-            "min_longitude": 92.189278
+            "latitude": 21.9159702,
+            "longitude": 95.9621106,
+            "max_latitude": 21.9659415,
+            "max_longitude": 96.0088348,
+            "min_latitude": 21.8696635,
+            "min_longitude": 95.8791447
         },
         "iso_3166_2": "MM-16",
         "iso_a2": "MM",
         "iso_a3": "MMR",
-        "name": "Rakhine",
+        "name": "Sagaing",
         "postal": "16",
         "type": "Pyine",
         "type_en": "State"
     },
     "17": {
         "alt_names": [
-            "Shan"
+            "Sagaing"
         ],
         "cca2": "MM",
         "cca3": "MMR",
@@ -1947,17 +1944,17 @@
             "woe_name": "Shan"
         },
         "geo": {
-            "latitude": 21.156717,
-            "longitude": 97.5734783,
-            "max_latitude": 21.1839317,
-            "max_longitude": 97.5927543,
-            "min_latitude": 21.1287002,
-            "min_longitude": 97.5539589
+            "latitude": 21.9159702,
+            "longitude": 95.9621106,
+            "max_latitude": 21.9659415,
+            "max_longitude": 96.0088348,
+            "min_latitude": 21.8696635,
+            "min_longitude": 95.8791447
         },
         "iso_3166_2": "MM-17",
         "iso_a2": "MM",
         "iso_a3": "MMR",
-        "name": "Shan",
+        "name": "Sagaing",
         "postal": "17",
         "type": "Pyine",
         "type_en": "State"

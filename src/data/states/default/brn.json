@@ -141,7 +141,7 @@
     },
     "BM": {
         "alt_names": [
-            "Brunei-Muara"
+            "Belait"
         ],
         "cca2": "BN",
         "cca3": "BRN",
@@ -264,24 +264,24 @@
             "woe_name": "Brunei and Muara"
         },
         "geo": {
-            "latitude": 4.9311206,
-            "longitude": 114.9516869,
-            "max_latitude": 5.0450099,
-            "max_longitude": 115.1262673,
-            "min_latitude": 4.7286589,
-            "min_longitude": 114.771896
+            "latitude": 4.449758,
+            "longitude": 114.318703,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "BN-BM",
         "iso_a2": "BN",
         "iso_a3": "BRN",
-        "name": "Brunei-Muara",
+        "name": "Belait",
         "postal": "BM",
         "type": "Daerah-Daerah",
         "type_en": "District"
     },
     "TE": {
         "alt_names": [
-            "Temburong"
+            "Belait"
         ],
         "cca2": "BN",
         "cca3": "BRN",
@@ -404,24 +404,24 @@
             "woe_name": "Temburong"
         },
         "geo": {
-            "latitude": 4.6204128,
-            "longitude": 115.141484,
-            "max_latitude": 4.9088199,
-            "max_longitude": 115.359444,
-            "min_latitude": 4.296721,
-            "min_longitude": 115.022453
+            "latitude": 4.449758,
+            "longitude": 114.318703,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "BN-TE",
         "iso_a2": "BN",
         "iso_a3": "BRN",
-        "name": "Temburong",
+        "name": "Belait",
         "postal": "TE",
         "type": "Daerah-Daerah",
         "type_en": "District"
     },
     "TU": {
         "alt_names": [
-            "Tutong"
+            "Belait"
         ],
         "cca2": "BN",
         "cca3": "BRN",
@@ -544,17 +544,17 @@
             "woe_name": "Tutong"
         },
         "geo": {
-            "latitude": 4.7140373,
-            "longitude": 114.6667939,
-            "max_latitude": 4.9333759,
-            "max_longitude": 114.8825069,
-            "min_latitude": 4.3042129,
-            "min_longitude": 114.5288525
+            "latitude": 4.449758,
+            "longitude": 114.318703,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "BN-TU",
         "iso_a2": "BN",
         "iso_a3": "BRN",
-        "name": "Tutong",
+        "name": "Belait",
         "postal": "TU",
         "type": "Daerah-Daerah",
         "type_en": "District"

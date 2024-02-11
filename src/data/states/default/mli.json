@@ -141,7 +141,7 @@
     },
     "2": {
         "alt_names": [
-            "Koulikoro"
+            "Kayes"
         ],
         "cca2": "ML",
         "cca3": "MLI",
@@ -264,24 +264,24 @@
             "woe_name": "Koulikoro"
         },
         "geo": {
-            "latitude": 12.861111,
-            "longitude": -7.558333,
-            "max_latitude": 12.8789565,
-            "max_longitude": -7.5457191,
-            "min_latitude": 12.8513625,
-            "min_longitude": -7.5719232
+            "latitude": 14.4367876,
+            "longitude": -11.4452717,
+            "max_latitude": 14.4902814,
+            "max_longitude": -11.3716221,
+            "min_latitude": 14.4186581,
+            "min_longitude": -11.4719188
         },
         "iso_3166_2": "ML-2",
         "iso_a2": "ML",
         "iso_a3": "MLI",
-        "name": "Koulikoro",
+        "name": "Kayes",
         "postal": "2",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "3": {
         "alt_names": [
-            "Sikasso"
+            "Kayes"
         ],
         "cca2": "ML",
         "cca3": "MLI",
@@ -404,24 +404,24 @@
             "woe_name": "Sikasso"
         },
         "geo": {
-            "latitude": 11.316667,
-            "longitude": -5.666667,
-            "max_latitude": 11.3538204,
-            "max_longitude": -5.634414,
-            "min_latitude": 11.2896322,
-            "min_longitude": -5.7206155
+            "latitude": 14.4367876,
+            "longitude": -11.4452717,
+            "max_latitude": 14.4902814,
+            "max_longitude": -11.3716221,
+            "min_latitude": 14.4186581,
+            "min_longitude": -11.4719188
         },
         "iso_3166_2": "ML-3",
         "iso_a2": "ML",
         "iso_a3": "MLI",
-        "name": "Sikasso",
+        "name": "Kayes",
         "postal": "3",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "4": {
         "alt_names": [
-            "S\u00e9gou"
+            "Kayes"
         ],
         "cca2": "ML",
         "cca3": "MLI",
@@ -544,24 +544,24 @@
             "woe_name": "S\u00e9gou"
         },
         "geo": {
-            "latitude": 13.45,
-            "longitude": -6.266667,
-            "max_latitude": 13.4589132,
-            "max_longitude": -6.2011928,
-            "min_latitude": 13.4017673,
-            "min_longitude": -6.3270675
+            "latitude": 14.4367876,
+            "longitude": -11.4452717,
+            "max_latitude": 14.4902814,
+            "max_longitude": -11.3716221,
+            "min_latitude": 14.4186581,
+            "min_longitude": -11.4719188
         },
         "iso_3166_2": "ML-4",
         "iso_a2": "ML",
         "iso_a3": "MLI",
-        "name": "S\u00e9gou",
+        "name": "Kayes",
         "postal": "4",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "5": {
         "alt_names": [
-            "Mopti"
+            "Kayes"
         ],
         "cca2": "ML",
         "cca3": "MLI",
@@ -684,24 +684,24 @@
             "woe_name": "Mopti"
         },
         "geo": {
-            "latitude": 14.495833,
-            "longitude": -4.198611,
-            "max_latitude": 14.5178846,
-            "max_longitude": -4.1471441,
-            "min_latitude": 14.4526312,
-            "min_longitude": -4.2045531
+            "latitude": 14.4367876,
+            "longitude": -11.4452717,
+            "max_latitude": 14.4902814,
+            "max_longitude": -11.3716221,
+            "min_latitude": 14.4186581,
+            "min_longitude": -11.4719188
         },
         "iso_3166_2": "ML-5",
         "iso_a2": "ML",
         "iso_a3": "MLI",
-        "name": "Mopti",
+        "name": "Kayes",
         "postal": "5",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "6": {
         "alt_names": [
-            "Tombouctou"
+            "Kayes"
         ],
         "cca2": "ML",
         "cca3": "MLI",
@@ -824,24 +824,24 @@
             "woe_name": "Timbuktu"
         },
         "geo": {
-            "latitude": 16.7665887,
-            "longitude": -3.0025615,
-            "max_latitude": 16.7901617,
-            "max_longitude": -2.9932594,
-            "min_latitude": 16.7526054,
-            "min_longitude": -3.0226994
+            "latitude": 14.4367876,
+            "longitude": -11.4452717,
+            "max_latitude": 14.4902814,
+            "max_longitude": -11.3716221,
+            "min_latitude": 14.4186581,
+            "min_longitude": -11.4719188
         },
         "iso_3166_2": "ML-6",
         "iso_a2": "ML",
         "iso_a3": "MLI",
-        "name": "Tombouctou",
+        "name": "Kayes",
         "postal": "6",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "7": {
         "alt_names": [
-            "Gao"
+            "Kayes"
         ],
         "cca2": "ML",
         "cca3": "MLI",
@@ -964,24 +964,24 @@
             "woe_name": "Gao"
         },
         "geo": {
-            "latitude": 16.2639807,
-            "longitude": -0.0279867,
-            "max_latitude": 16.3047953,
-            "max_longitude": 0.0254726,
-            "min_latitude": 16.2237359,
-            "min_longitude": -0.0576808
+            "latitude": 14.4367876,
+            "longitude": -11.4452717,
+            "max_latitude": 14.4902814,
+            "max_longitude": -11.3716221,
+            "min_latitude": 14.4186581,
+            "min_longitude": -11.4719188
         },
         "iso_3166_2": "ML-7",
         "iso_a2": "ML",
         "iso_a3": "MLI",
-        "name": "Gao",
+        "name": "Kayes",
         "postal": "7",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "8": {
         "alt_names": [
-            "Kidal"
+            "Kayes"
         ],
         "cca2": "ML",
         "cca3": "MLI",
@@ -1104,24 +1104,24 @@
             "woe_name": "Kidal"
         },
         "geo": {
-            "latitude": 18.438889,
-            "longitude": 1.408333,
-            "max_latitude": 18.4647725,
-            "max_longitude": 1.4252616,
-            "min_latitude": 18.4226161,
-            "min_longitude": 1.39359
+            "latitude": 14.4367876,
+            "longitude": -11.4452717,
+            "max_latitude": 14.4902814,
+            "max_longitude": -11.3716221,
+            "min_latitude": 14.4186581,
+            "min_longitude": -11.4719188
         },
         "iso_3166_2": "ML-8",
         "iso_a2": "ML",
         "iso_a3": "MLI",
-        "name": "Kidal",
+        "name": "Kayes",
         "postal": "8",
         "type": "R\u00e9gion",
         "type_en": "Region"
     },
     "BKO": {
         "alt_names": [
-            "Bamako"
+            "Kayes"
         ],
         "cca2": "ML",
         "cca3": "MLI",
@@ -1244,17 +1244,17 @@
             "woe_name": "Bamako"
         },
         "geo": {
-            "latitude": 12.65,
-            "longitude": -8,
-            "max_latitude": 12.7329742,
-            "max_longitude": -7.8759453,
-            "min_latitude": 12.4909088,
-            "min_longitude": -8.1150808
+            "latitude": 14.4367876,
+            "longitude": -11.4452717,
+            "max_latitude": 14.4902814,
+            "max_longitude": -11.3716221,
+            "min_latitude": 14.4186581,
+            "min_longitude": -11.4719188
         },
         "iso_3166_2": "ML-BKO",
         "iso_a2": "ML",
         "iso_a3": "MLI",
-        "name": "Bamako",
+        "name": "Kayes",
         "postal": "BKO",
         "type": "District",
         "type_en": "District"

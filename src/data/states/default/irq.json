@@ -141,9 +141,7 @@
     },
     "AR": {
         "alt_names": [
-            "Arbil",
-            "Erbil",
-            "Irbil"
+            "al-Anbar"
         ],
         "cca2": "IQ",
         "cca3": "IRQ",
@@ -266,26 +264,24 @@
             "woe_name": "Arbil"
         },
         "geo": {
-            "latitude": 36.191111,
-            "longitude": 44.009167,
-            "max_latitude": 36.2661445,
-            "max_longitude": 44.101181,
-            "min_latitude": 36.1284471,
-            "min_longitude": 43.91613
+            "latitude": 32.5597614,
+            "longitude": 41.9196471,
+            "max_latitude": 35.1012211,
+            "max_longitude": 44.307257,
+            "min_latitude": 30.5896601,
+            "min_longitude": 38.7958871
         },
         "iso_3166_2": "IQ-AR",
         "iso_a2": "IQ",
         "iso_a3": "IRQ",
-        "name": "Arbil",
+        "name": "Al Anbar",
         "postal": "AR",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "BA": {
         "alt_names": [
-            "Basra",
-            "Bassora",
-            "al-Basrah"
+            "al-Anbar"
         ],
         "cca2": "IQ",
         "cca3": "IRQ",
@@ -408,25 +404,24 @@
             "woe_name": "Al-Basrah"
         },
         "geo": {
-            "latitude": 30.5,
-            "longitude": 47.816667,
-            "max_latitude": 30.6321515,
-            "max_longitude": 47.9299164,
-            "min_latitude": 30.4303216,
-            "min_longitude": 47.6141454
+            "latitude": 32.5597614,
+            "longitude": 41.9196471,
+            "max_latitude": 35.1012211,
+            "max_longitude": 44.307257,
+            "min_latitude": 30.5896601,
+            "min_longitude": 38.7958871
         },
         "iso_3166_2": "IQ-BA",
         "iso_a2": "IQ",
         "iso_a3": "IRQ",
-        "name": "Al Basrah",
+        "name": "Al Anbar",
         "postal": "BA",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "BB": {
         "alt_names": [
-            "Babil",
-            "Babylon"
+            "al-Anbar"
         ],
         "cca2": "IQ",
         "cca3": "IRQ",
@@ -549,26 +544,24 @@
             "woe_name": "Babil"
         },
         "geo": {
-            "latitude": 32.468191,
-            "longitude": 44.5501935,
-            "max_latitude": 33.233322,
-            "max_longitude": 45.214476,
-            "min_latitude": 32.0787799,
-            "min_longitude": 43.849441
+            "latitude": 32.5597614,
+            "longitude": 41.9196471,
+            "max_latitude": 35.1012211,
+            "max_longitude": 44.307257,
+            "min_latitude": 30.5896601,
+            "min_longitude": 38.7958871
         },
         "iso_3166_2": "IQ-BB",
         "iso_a2": "IQ",
         "iso_a3": "IRQ",
-        "name": "Babil",
+        "name": "Al Anbar",
         "postal": "BB",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "BG": {
         "alt_names": [
-            "Ba\u0121d\u0101d",
-            "Bagdad",
-            "Bagdad"
+            "al-Anbar"
         ],
         "cca2": "IQ",
         "cca3": "IRQ",
@@ -691,24 +684,24 @@
             "woe_name": "Baghdad"
         },
         "geo": {
-            "latitude": 33.325,
-            "longitude": 44.422,
-            "max_latitude": 33.4350586,
-            "max_longitude": 44.5558261,
-            "min_latitude": 33.1883135,
-            "min_longitude": 44.1559839
+            "latitude": 32.5597614,
+            "longitude": 41.9196471,
+            "max_latitude": 35.1012211,
+            "max_longitude": 44.307257,
+            "min_latitude": 30.5896601,
+            "min_longitude": 38.7958871
         },
         "iso_3166_2": "IQ-BG",
         "iso_a2": "IQ",
         "iso_a3": "IRQ",
-        "name": "Baghdad",
+        "name": "Al Anbar",
         "postal": "BG",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "DA": {
         "alt_names": [
-            "Dahuk"
+            "al-Anbar"
         ],
         "cca2": "IQ",
         "cca3": "IRQ",
@@ -831,24 +824,24 @@
             "woe_name": "Dihok"
         },
         "geo": {
-            "latitude": 37.133389,
-            "longitude": 43.1309888,
-            "max_latitude": 37.3780401,
-            "max_longitude": 44.110214,
-            "min_latitude": 36.696166,
-            "min_longitude": 42.3622129
+            "latitude": 32.5597614,
+            "longitude": 41.9196471,
+            "max_latitude": 35.1012211,
+            "max_longitude": 44.307257,
+            "min_latitude": 30.5896601,
+            "min_longitude": 38.7958871
         },
         "iso_3166_2": "IQ-DA",
         "iso_a2": "IQ",
         "iso_a3": "IRQ",
-        "name": "Dahuk",
+        "name": "Al Anbar",
         "postal": "DA",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "DI": {
         "alt_names": [
-            "Diyala"
+            "al-Anbar"
         ],
         "cca2": "IQ",
         "cca3": "IRQ",
@@ -971,25 +964,24 @@
             "woe_name": "Diyala"
         },
         "geo": {
-            "latitude": 33.7733487,
-            "longitude": 45.1494505,
-            "max_latitude": 35.1153911,
-            "max_longitude": 46.01852,
-            "min_latitude": 33.006982,
-            "min_longitude": 44.292854
+            "latitude": 32.5597614,
+            "longitude": 41.9196471,
+            "max_latitude": 35.1012211,
+            "max_longitude": 44.307257,
+            "min_latitude": 30.5896601,
+            "min_longitude": 38.7958871
         },
         "iso_3166_2": "IQ-DI",
         "iso_a2": "IQ",
         "iso_a3": "IRQ",
-        "name": "Diyal\u00e1",
+        "name": "Al Anbar",
         "postal": "DI",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "DQ": {
         "alt_names": [
-            "Dhi Qar",
-            "Thi Qar"
+            "al-Anbar"
         ],
         "cca2": "IQ",
         "cca3": "IRQ",
@@ -1112,26 +1104,24 @@
             "woe_name": "Dhi-Qar"
         },
         "geo": {
-            "latitude": 31.1042292,
-            "longitude": 46.3624686,
-            "max_latitude": 31.9975451,
-            "max_longitude": 47.1987489,
-            "min_latitude": 30.564833,
-            "min_longitude": 45.643673
+            "latitude": 32.5597614,
+            "longitude": 41.9196471,
+            "max_latitude": 35.1012211,
+            "max_longitude": 44.307257,
+            "min_latitude": 30.5896601,
+            "min_longitude": 38.7958871
         },
         "iso_3166_2": "IQ-DQ",
         "iso_a2": "IQ",
         "iso_a3": "IRQ",
-        "name": "Dhi Qar",
+        "name": "Al Anbar",
         "postal": "DQ",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "KA": {
         "alt_names": [
-            "Karbala",
-            "Kerbala",
-            "Kerbela"
+            "al-Anbar"
         ],
         "cca2": "IQ",
         "cca3": "IRQ",
@@ -1254,24 +1244,24 @@
             "woe_name": "Karbala'"
         },
         "geo": {
-            "latitude": 32.616667,
-            "longitude": 44.033333,
-            "max_latitude": 32.6572976,
-            "max_longitude": 44.0673636,
-            "min_latitude": 32.5575024,
-            "min_longitude": 43.9558696
+            "latitude": 32.5597614,
+            "longitude": 41.9196471,
+            "max_latitude": 35.1012211,
+            "max_longitude": 44.307257,
+            "min_latitude": 30.5896601,
+            "min_longitude": 38.7958871
         },
         "iso_3166_2": "IQ-KA",
         "iso_a2": "IQ",
         "iso_a3": "IRQ",
-        "name": "Karbala'",
+        "name": "Al Anbar",
         "postal": "KA",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "MA": {
         "alt_names": [
-            "Maysan"
+            "al-Anbar"
         ],
         "cca2": "IQ",
         "cca3": "IRQ",
@@ -1394,24 +1384,24 @@
             "woe_name": "Maysan"
         },
         "geo": {
-            "latitude": 31.8734002,
-            "longitude": 47.1362125,
-            "max_latitude": 32.840252,
-            "max_longitude": 47.8643842,
-            "min_latitude": 31.142853,
-            "min_longitude": 46.3017831
+            "latitude": 32.5597614,
+            "longitude": 41.9196471,
+            "max_latitude": 35.1012211,
+            "max_longitude": 44.307257,
+            "min_latitude": 30.5896601,
+            "min_longitude": 38.7958871
         },
         "iso_3166_2": "IQ-MA",
         "iso_a2": "IQ",
         "iso_a3": "IRQ",
-        "name": "Maysan",
+        "name": "Al Anbar",
         "postal": "MA",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "MU": {
         "alt_names": [
-            "al-Muthanna"
+            "al-Anbar"
         ],
         "cca2": "IQ",
         "cca3": "IRQ",
@@ -1534,26 +1524,24 @@
             "woe_name": "Al-Muthannia"
         },
         "geo": {
-            "latitude": 29.9133171,
-            "longitude": 45.2993862,
-            "max_latitude": 31.699816,
-            "max_longitude": 46.648625,
-            "min_latitude": 29.078844,
-            "min_longitude": 43.807403
+            "latitude": 32.5597614,
+            "longitude": 41.9196471,
+            "max_latitude": 35.1012211,
+            "max_longitude": 44.307257,
+            "min_latitude": 30.5896601,
+            "min_longitude": 38.7958871
         },
         "iso_3166_2": "IQ-MU",
         "iso_a2": "IQ",
         "iso_a3": "IRQ",
-        "name": "Al Muthann\u00e1",
+        "name": "Al Anbar",
         "postal": "MU",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "NA": {
         "alt_names": [
-            "Najaf",
-            "Nedjef",
-            "Nejef"
+            "al-Anbar"
         ],
         "cca2": "IQ",
         "cca3": "IRQ",
@@ -1676,25 +1664,24 @@
             "woe_name": "An-Najaf"
         },
         "geo": {
-            "latitude": 32,
-            "longitude": 44.33,
-            "max_latitude": 32.0761164,
-            "max_longitude": 44.3853665,
-            "min_latitude": 31.9676002,
-            "min_longitude": 44.2736149
+            "latitude": 32.5597614,
+            "longitude": 41.9196471,
+            "max_latitude": 35.1012211,
+            "max_longitude": 44.307257,
+            "min_latitude": 30.5896601,
+            "min_longitude": 38.7958871
         },
         "iso_3166_2": "IQ-NA",
         "iso_a2": "IQ",
         "iso_a3": "IRQ",
-        "name": "An Najaf",
+        "name": "Al Anbar",
         "postal": "NA",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "NI": {
         "alt_names": [
-            "Nineveh",
-            "Niniveh"
+            "al-Anbar"
         ],
         "cca2": "IQ",
         "cca3": "IRQ",
@@ -1817,24 +1804,24 @@
             "woe_name": "Ninawa"
         },
         "geo": {
-            "latitude": 36.229574,
-            "longitude": 42.2362435,
-            "max_latitude": 37.067181,
-            "max_longitude": 44.309753,
-            "min_latitude": 34.8811661,
-            "min_longitude": 41.218105
+            "latitude": 32.5597614,
+            "longitude": 41.9196471,
+            "max_latitude": 35.1012211,
+            "max_longitude": 44.307257,
+            "min_latitude": 30.5896601,
+            "min_longitude": 38.7958871
         },
         "iso_3166_2": "IQ-NI",
         "iso_a2": "IQ",
         "iso_a3": "IRQ",
-        "name": "Ninaw\u00e1",
+        "name": "Al Anbar",
         "postal": "NI",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "QA": {
         "alt_names": [
-            "al-Qadisiyah"
+            "al-Anbar"
         ],
         "cca2": "IQ",
         "cca3": "IRQ",
@@ -1957,24 +1944,24 @@
             "woe_name": "Al-Qadisiyah"
         },
         "geo": {
-            "latitude": 32.043691,
-            "longitude": 45.1494505,
-            "max_latitude": 32.420094,
-            "max_longitude": 45.826492,
-            "min_latitude": 31.2544539,
-            "min_longitude": 44.376614
+            "latitude": 32.5597614,
+            "longitude": 41.9196471,
+            "max_latitude": 35.1012211,
+            "max_longitude": 44.307257,
+            "min_latitude": 30.5896601,
+            "min_longitude": 38.7958871
         },
         "iso_3166_2": "IQ-QA",
         "iso_a2": "IQ",
         "iso_a3": "IRQ",
-        "name": "Al Qadisiyah",
+        "name": "Al Anbar",
         "postal": "QA",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "SD": {
         "alt_names": [
-            "Salah-ad-Din"
+            "al-Anbar"
         ],
         "cca2": "IQ",
         "cca3": "IRQ",
@@ -2097,26 +2084,24 @@
             "woe_name": "Sala ad-Din"
         },
         "geo": {
-            "latitude": 34.5337527,
-            "longitude": 43.483738,
-            "max_latitude": 35.675014,
-            "max_longitude": 44.955274,
-            "min_latitude": 33.414859,
-            "min_longitude": 42.450488
+            "latitude": 32.5597614,
+            "longitude": 41.9196471,
+            "max_latitude": 35.1012211,
+            "max_longitude": 44.307257,
+            "min_latitude": 30.5896601,
+            "min_longitude": 38.7958871
         },
         "iso_3166_2": "IQ-SD",
         "iso_a2": "IQ",
         "iso_a3": "IRQ",
-        "name": "Salah ad Din",
+        "name": "Al Anbar",
         "postal": "SD",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "SU": {
         "alt_names": [
-            "Sulaymaniya",
-            "Sulaym\u0101n\u012byah",
-            "as-Sulaymaniyah"
+            "al-Anbar"
         ],
         "cca2": "IQ",
         "cca3": "IRQ",
@@ -2239,24 +2224,24 @@
             "woe_name": "As-Sulaymaniyah"
         },
         "geo": {
-            "latitude": 35.55,
-            "longitude": 45.433333,
-            "max_latitude": 35.6029511,
-            "max_longitude": 45.476532,
-            "min_latitude": 35.5232852,
-            "min_longitude": 45.278778
+            "latitude": 32.5597614,
+            "longitude": 41.9196471,
+            "max_latitude": 35.1012211,
+            "max_longitude": 44.307257,
+            "min_latitude": 30.5896601,
+            "min_longitude": 38.7958871
         },
         "iso_3166_2": "IQ-SU",
         "iso_a2": "IQ",
         "iso_a3": "IRQ",
-        "name": "As Sulaymaniyah",
+        "name": "Al Anbar",
         "postal": "SU",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "TS": {
         "alt_names": [
-            "at-Tamim"
+            "al-Anbar"
         ],
         "cca2": "IQ",
         "cca3": "IRQ",
@@ -2379,24 +2364,24 @@
             "woe_name": "At-Ta'mim"
         },
         "geo": {
-            "latitude": 35.3292014,
-            "longitude": 43.9436788,
-            "max_latitude": 35.906433,
-            "max_longitude": 44.790187,
-            "min_latitude": 34.681948,
-            "min_longitude": 43.264615
+            "latitude": 32.5597614,
+            "longitude": 41.9196471,
+            "max_latitude": 35.1012211,
+            "max_longitude": 44.307257,
+            "min_latitude": 30.5896601,
+            "min_longitude": 38.7958871
         },
         "iso_3166_2": "IQ-TS",
         "iso_a2": "IQ",
         "iso_a3": "IRQ",
-        "name": "At Ta'mim",
+        "name": "Al Anbar",
         "postal": "TS",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "WA": {
         "alt_names": [
-            "Wasit"
+            "al-Anbar"
         ],
         "cca2": "IQ",
         "cca3": "IRQ",
@@ -2519,17 +2504,17 @@
             "woe_name": "Wasit"
         },
         "geo": {
-            "latitude": 32.6024094,
-            "longitude": 45.7520985,
-            "max_latitude": 33.47649,
-            "max_longitude": 46.606579,
-            "min_latitude": 31.9118621,
-            "min_longitude": 44.5098
+            "latitude": 32.5597614,
+            "longitude": 41.9196471,
+            "max_latitude": 35.1012211,
+            "max_longitude": 44.307257,
+            "min_latitude": 30.5896601,
+            "min_longitude": 38.7958871
         },
         "iso_3166_2": "IQ-WA",
         "iso_a2": "IQ",
         "iso_a3": "IRQ",
-        "name": "Wasit",
+        "name": "Al Anbar",
         "postal": "WA",
         "type": "Muhafazah",
         "type_en": "Province"

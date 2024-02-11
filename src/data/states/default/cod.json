@@ -141,7 +141,7 @@
     },
     "BN": {
         "alt_names": [
-            "Bandundu"
+            "Bas-Zaire"
         ],
         "cca2": "CD",
         "cca3": "COD",
@@ -264,24 +264,24 @@
             "woe_name": "Bandundu"
         },
         "geo": {
-            "latitude": -3.316667,
-            "longitude": 17.366667,
-            "max_latitude": -3.2987836,
-            "max_longitude": 17.4044975,
-            "min_latitude": -3.3406136,
-            "min_longitude": 17.3576054
+            "latitude": -5.2365685,
+            "longitude": 13.914399,
+            "max_latitude": -4.279238,
+            "max_longitude": 16.2585949,
+            "min_latitude": -6.0573001,
+            "min_longitude": 12.206631
         },
         "iso_3166_2": "CD-BN",
         "iso_a2": "CD",
         "iso_a3": "COD",
-        "name": "Bandundu",
+        "name": "Bas-Congo",
         "postal": "BN",
         "type": "Province",
         "type_en": "Province"
     },
     "EQ": {
         "alt_names": [
-            "\u00c9quateur"
+            "Bas-Zaire"
         ],
         "cca2": "CD",
         "cca3": "COD",
@@ -404,24 +404,24 @@
             "woe_name": "\u00c9quateur"
         },
         "geo": {
-            "latitude": 0.5640036,
-            "longitude": 20.3308814,
-            "max_latitude": 5.14574,
-            "max_longitude": 24.4267169,
-            "min_latitude": -2.529217,
-            "min_longitude": 16.5381639
+            "latitude": -5.2365685,
+            "longitude": 13.914399,
+            "max_latitude": -4.279238,
+            "max_longitude": 16.2585949,
+            "min_latitude": -6.0573001,
+            "min_longitude": 12.206631
         },
         "iso_3166_2": "CD-EQ",
         "iso_a2": "CD",
         "iso_a3": "COD",
-        "name": "\u00c9quateur",
+        "name": "Bas-Congo",
         "postal": "EQ",
         "type": "Province",
         "type_en": "Province"
     },
     "KA": {
         "alt_names": [
-            "Shaba"
+            "Bas-Zaire"
         ],
         "cca2": "CD",
         "cca3": "COD",
@@ -544,24 +544,24 @@
             "woe_name": "Katanga"
         },
         "geo": {
-            "latitude": -8.8851145,
-            "longitude": 26.419389,
-            "max_latitude": -4.999066,
-            "max_longitude": 30.5928848,
-            "min_latitude": -13.455676,
-            "min_longitude": 21.744753
+            "latitude": -5.2365685,
+            "longitude": 13.914399,
+            "max_latitude": -4.279238,
+            "max_longitude": 16.2585949,
+            "min_latitude": -6.0573001,
+            "min_longitude": 12.206631
         },
         "iso_3166_2": "CD-KA",
         "iso_a2": "CD",
         "iso_a3": "COD",
-        "name": "Katanga",
+        "name": "Bas-Congo",
         "postal": "KA",
         "type": "Province",
         "type_en": "Province"
     },
     "KE": {
         "alt_names": [
-            "Kasai-Oriental"
+            "Bas-Zaire"
         ],
         "cca2": "CD",
         "cca3": "COD",
@@ -684,24 +684,24 @@
             "woe_name": "Kasa\u00ef-Oriental"
         },
         "geo": {
-            "latitude": -2.8437453,
-            "longitude": 23.3823545,
-            "max_latitude": -1.738482,
-            "max_longitude": 26.265937,
-            "min_latitude": -7.9387741,
-            "min_longitude": 21.9100151
+            "latitude": -5.2365685,
+            "longitude": 13.914399,
+            "max_latitude": -4.279238,
+            "max_longitude": 16.2585949,
+            "min_latitude": -6.0573001,
+            "min_longitude": 12.206631
         },
         "iso_3166_2": "CD-KE",
         "iso_a2": "CD",
         "iso_a3": "COD",
-        "name": "Kasai-Oriental",
+        "name": "Bas-Congo",
         "postal": "KE",
         "type": "Province",
         "type_en": "Province"
     },
     "KN": {
         "alt_names": [
-            "Kinshasa"
+            "Bas-Zaire"
         ],
         "cca2": "CD",
         "cca3": "COD",
@@ -824,24 +824,24 @@
             "woe_name": "Kinshasa City"
         },
         "geo": {
-            "latitude": -4.325,
-            "longitude": 15.322222,
-            "max_latitude": -4.2934483,
-            "max_longitude": 15.4694102,
-            "min_latitude": -4.5093664,
-            "min_longitude": 15.1764986
+            "latitude": -5.2365685,
+            "longitude": 13.914399,
+            "max_latitude": -4.279238,
+            "max_longitude": 16.2585949,
+            "min_latitude": -6.0573001,
+            "min_longitude": 12.206631
         },
         "iso_3166_2": "CD-KN",
         "iso_a2": "CD",
         "iso_a3": "COD",
-        "name": "Kinshasa",
+        "name": "Bas-Congo",
         "postal": "KN",
         "type": "Neutral City",
         "type_en": "Neutral City"
     },
     "KW": {
         "alt_names": [
-            "Kasai-Occidental"
+            "Bas-Zaire"
         ],
         "cca2": "CD",
         "cca3": "COD",
@@ -964,24 +964,24 @@
             "woe_name": "Kasa\u00ef-Occidental"
         },
         "geo": {
-            "latitude": -5.3205473,
-            "longitude": 21.8568586,
-            "max_latitude": -2.338351,
-            "max_longitude": 23.742881,
-            "min_latitude": -7.9022269,
-            "min_longitude": 19.6801381
+            "latitude": -5.2365685,
+            "longitude": 13.914399,
+            "max_latitude": -4.279238,
+            "max_longitude": 16.2585949,
+            "min_latitude": -6.0573001,
+            "min_longitude": 12.206631
         },
         "iso_3166_2": "CD-KW",
         "iso_a2": "CD",
         "iso_a3": "COD",
-        "name": "Kasai-Occidental",
+        "name": "Bas-Congo",
         "postal": "KW",
         "type": "Province",
         "type_en": "Province"
     },
     "MA": {
         "alt_names": [
-            "Maniema"
+            "Bas-Zaire"
         ],
         "cca2": "CD",
         "cca3": "COD",
@@ -1104,24 +1104,24 @@
             "woe_name": "Maniema"
         },
         "geo": {
-            "latitude": -3.0730929,
-            "longitude": 26.0413889,
-            "max_latitude": -0.082443,
-            "max_longitude": 28.8420401,
-            "min_latitude": -5.0007425,
-            "min_longitude": 24.456906
+            "latitude": -5.2365685,
+            "longitude": 13.914399,
+            "max_latitude": -4.279238,
+            "max_longitude": 16.2585949,
+            "min_latitude": -6.0573001,
+            "min_longitude": 12.206631
         },
         "iso_3166_2": "CD-MA",
         "iso_a2": "CD",
         "iso_a3": "COD",
-        "name": "Maniema",
+        "name": "Bas-Congo",
         "postal": "MA",
         "type": "Province",
         "type_en": "Province"
     },
     "NK": {
         "alt_names": [
-            "Nord-Kivu"
+            "Bas-Zaire"
         ],
         "cca2": "CD",
         "cca3": "COD",
@@ -1244,25 +1244,24 @@
             "woe_name": "Nord-Kivu"
         },
         "geo": {
-            "latitude": -0.7917729,
-            "longitude": 29.0459927,
-            "max_latitude": 0.9623669,
-            "max_longitude": 29.984388,
-            "min_latitude": -2.0661759,
-            "min_longitude": 27.201624
+            "latitude": -5.2365685,
+            "longitude": 13.914399,
+            "max_latitude": -4.279238,
+            "max_longitude": 16.2585949,
+            "min_latitude": -6.0573001,
+            "min_longitude": 12.206631
         },
         "iso_3166_2": "CD-NK",
         "iso_a2": "CD",
         "iso_a3": "COD",
-        "name": "Nord-Kivu",
+        "name": "Bas-Congo",
         "postal": "NK",
         "type": "Province",
         "type_en": "Province"
     },
     "OR": {
         "alt_names": [
-            "Haut-Zaire",
-            "Orientale"
+            "Bas-Zaire"
         ],
         "cca2": "CD",
         "cca3": "COD",
@@ -1385,24 +1384,24 @@
             "woe_name": "Orientale"
         },
         "geo": {
-            "latitude": 1.6406296,
-            "longitude": 26.419389,
-            "max_latitude": 5.386098,
-            "max_longitude": 31.2769461,
-            "min_latitude": -2.1170779,
-            "min_longitude": 22.2904529
+            "latitude": -5.2365685,
+            "longitude": 13.914399,
+            "max_latitude": -4.279238,
+            "max_longitude": 16.2585949,
+            "min_latitude": -6.0573001,
+            "min_longitude": 12.206631
         },
         "iso_3166_2": "CD-OR",
         "iso_a2": "CD",
         "iso_a3": "COD",
-        "name": "Orientale",
+        "name": "Bas-Congo",
         "postal": "OR",
         "type": "Province",
         "type_en": "Province"
     },
     "SK": {
         "alt_names": [
-            "Sud-Kivu"
+            "Bas-Zaire"
         ],
         "cca2": "CD",
         "cca3": "COD",
@@ -1525,17 +1524,17 @@
             "woe_name": "Sud-Kivu"
         },
         "geo": {
-            "latitude": -3.011658,
-            "longitude": 28.299435,
-            "max_latitude": -1.568222,
-            "max_longitude": 29.2644927,
-            "min_latitude": -4.9999781,
-            "min_longitude": 26.798393
+            "latitude": -5.2365685,
+            "longitude": 13.914399,
+            "max_latitude": -4.279238,
+            "max_longitude": 16.2585949,
+            "min_latitude": -6.0573001,
+            "min_longitude": 12.206631
         },
         "iso_3166_2": "CD-SK",
         "iso_a2": "CD",
         "iso_a3": "COD",
-        "name": "Sud-Kivu",
+        "name": "Bas-Congo",
         "postal": "SK",
         "type": "Province",
         "type_en": "Province"

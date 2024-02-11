@@ -141,7 +141,7 @@
     },
     "71": {
         "alt_names": [
-            "Midway Islands"
+            "Johnston Atoll"
         ],
         "cca2": "UM",
         "cca3": "UMI",
@@ -264,24 +264,24 @@
             "woe_name": "Midway Islands"
         },
         "geo": {
-            "latitude": 28.2100759,
-            "longitude": -177.3761105,
-            "max_latitude": 28.218655,
-            "max_longitude": -177.3599096,
-            "min_latitude": 28.1950941,
-            "min_longitude": -177.3967235
+            "latitude": 16.7322716,
+            "longitude": -169.5308371,
+            "max_latitude": 16.7411327,
+            "max_longitude": -169.5171051,
+            "min_latitude": 16.7265491,
+            "min_longitude": -169.5434875
         },
         "iso_3166_2": "UM-71",
         "iso_a2": "UM",
         "iso_a3": "UMI",
-        "name": "Midway Islands",
+        "name": "Johnston Atoll",
         "postal": "71",
         "type": "",
         "type_en": ""
     },
     "76": {
         "alt_names": [
-            "Navassa Island"
+            "Johnston Atoll"
         ],
         "cca2": "UM",
         "cca3": "UMI",
@@ -404,24 +404,24 @@
             "woe_name": "Navassa Island"
         },
         "geo": {
-            "latitude": 18.4100689,
-            "longitude": -75.0114612,
-            "max_latitude": 18.4211503,
-            "max_longitude": -75.0000572,
-            "min_latitude": 18.3965558,
-            "min_longitude": -75.0283813
+            "latitude": 16.7322716,
+            "longitude": -169.5308371,
+            "max_latitude": 16.7411327,
+            "max_longitude": -169.5171051,
+            "min_latitude": 16.7265491,
+            "min_longitude": -169.5434875
         },
         "iso_3166_2": "UM-76",
         "iso_a2": "UM",
         "iso_a3": "UMI",
-        "name": "Navassa Island",
+        "name": "Johnston Atoll",
         "postal": "76",
         "type": "",
         "type_en": ""
     },
     "79": {
         "alt_names": [
-            "Wake Island"
+            "Johnston Atoll"
         ],
         "cca2": "UM",
         "cca3": "UMI",
@@ -544,24 +544,24 @@
             "woe_name": "Wake Atoll"
         },
         "geo": {
-            "latitude": 19.2823192,
-            "longitude": 166.647047,
-            "max_latitude": 28.3977184,
-            "max_longitude": -159.9849071,
-            "min_latitude": -0.3824678,
-            "min_longitude": 166.5989221
+            "latitude": 16.7322716,
+            "longitude": -169.5308371,
+            "max_latitude": 16.7411327,
+            "max_longitude": -169.5171051,
+            "min_latitude": 16.7265491,
+            "min_longitude": -169.5434875
         },
         "iso_3166_2": "UM-79",
         "iso_a2": "UM",
         "iso_a3": "UMI",
-        "name": "Wake Island",
+        "name": "Johnston Atoll",
         "postal": "79",
         "type": "",
         "type_en": ""
     },
     "81": {
         "alt_names": [
-            "Baker Island"
+            "Johnston Atoll"
         ],
         "cca2": "UM",
         "cca3": "UMI",
@@ -684,24 +684,24 @@
             "woe_name": "Baker Island"
         },
         "geo": {
-            "latitude": 0.1936266,
-            "longitude": -176.476908,
-            "max_latitude": 0.2008295,
-            "max_longitude": -176.4701875,
-            "min_latitude": 0.1899033,
-            "min_longitude": -176.4867685
+            "latitude": 16.7322716,
+            "longitude": -169.5308371,
+            "max_latitude": 16.7411327,
+            "max_longitude": -169.5171051,
+            "min_latitude": 16.7265491,
+            "min_longitude": -169.5434875
         },
         "iso_3166_2": "UM-81",
         "iso_a2": "UM",
         "iso_a3": "UMI",
-        "name": "Baker Island",
+        "name": "Johnston Atoll",
         "postal": "81",
         "type": "",
         "type_en": ""
     },
     "84": {
         "alt_names": [
-            "Howland Island"
+            "Johnston Atoll"
         ],
         "cca2": "UM",
         "cca3": "UMI",
@@ -824,24 +824,24 @@
             "woe_name": "Howland Island"
         },
         "geo": {
-            "latitude": 0.8113219,
-            "longitude": -176.6182736,
-            "max_latitude": 0.8192775,
-            "max_longitude": -176.6115152,
-            "min_latitude": 0.7952522,
-            "min_longitude": -176.6238443
+            "latitude": 16.7322716,
+            "longitude": -169.5308371,
+            "max_latitude": 16.7411327,
+            "max_longitude": -169.5171051,
+            "min_latitude": 16.7265491,
+            "min_longitude": -169.5434875
         },
         "iso_3166_2": "UM-84",
         "iso_a2": "UM",
         "iso_a3": "UMI",
-        "name": "Howland Island",
+        "name": "Johnston Atoll",
         "postal": "84",
         "type": "",
         "type_en": ""
     },
     "86": {
         "alt_names": [
-            "Jarvis Island"
+            "Johnston Atoll"
         ],
         "cca2": "UM",
         "cca3": "UMI",
@@ -964,24 +964,24 @@
             "woe_name": "Jarvis Island"
         },
         "geo": {
-            "latitude": -0.3743503,
-            "longitude": -159.9967206,
-            "max_latitude": -0.3624568,
-            "max_longitude": -159.9849071,
-            "min_latitude": -0.3824678,
-            "min_longitude": -160.0134561
+            "latitude": 16.7322716,
+            "longitude": -169.5308371,
+            "max_latitude": 16.7411327,
+            "max_longitude": -169.5171051,
+            "min_latitude": 16.7265491,
+            "min_longitude": -169.5434875
         },
         "iso_3166_2": "UM-86",
         "iso_a2": "UM",
         "iso_a3": "UMI",
-        "name": "Jarvis Island",
+        "name": "Johnston Atoll",
         "postal": "86",
         "type": "",
         "type_en": ""
     },
     "95": {
         "alt_names": [
-            "Palmyra Atoll"
+            "Johnston Atoll"
         ],
         "cca2": "UM",
         "cca3": "UMI",
@@ -1104,17 +1104,17 @@
             "woe_name": "Palmyra Atoll"
         },
         "geo": {
-            "latitude": 5.883333,
-            "longitude": -162.083333,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 16.7322716,
+            "longitude": -169.5308371,
+            "max_latitude": 16.7411327,
+            "max_longitude": -169.5171051,
+            "min_latitude": 16.7265491,
+            "min_longitude": -169.5434875
         },
         "iso_3166_2": "UM-95",
         "iso_a2": "UM",
         "iso_a3": "UMI",
-        "name": "Palmyra Atoll",
+        "name": "Johnston Atoll",
         "postal": "95",
         "type": "",
         "type_en": ""

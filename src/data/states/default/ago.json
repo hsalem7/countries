@@ -141,7 +141,7 @@
     },
     "BGU": {
         "alt_names": [
-            "Benguela"
+            "Bengo"
         ],
         "cca2": "AO",
         "cca3": "AGO",
@@ -264,24 +264,24 @@
             "woe_name": "Benguela"
         },
         "geo": {
-            "latitude": -12.5905158,
-            "longitude": 13.416501,
-            "max_latitude": -12.5622063,
-            "max_longitude": 13.4346042,
-            "min_latitude": -12.6193441,
-            "min_longitude": 13.3585294
+            "latitude": -9.1042257,
+            "longitude": 13.7289167,
+            "max_latitude": -7.6291261,
+            "max_longitude": 14.7415391,
+            "min_latitude": -10.473318,
+            "min_longitude": 13.1099769
         },
         "iso_3166_2": "AO-BGU",
         "iso_a2": "AO",
         "iso_a3": "AGO",
-        "name": "Benguela",
+        "name": "Bengo",
         "postal": "BGU",
         "type": "Prov\u00edncia",
         "type_en": "Province"
     },
     "BIE": {
         "alt_names": [
-            "Bi\u00e9"
+            "Bengo"
         ],
         "cca2": "AO",
         "cca3": "AGO",
@@ -404,24 +404,24 @@
             "woe_name": "Bi\u00e9"
         },
         "geo": {
-            "latitude": -12.5727907,
-            "longitude": 17.668887,
-            "max_latitude": -10.572202,
-            "max_longitude": 19.2239829,
-            "min_latitude": -14.305984,
-            "min_longitude": 15.7335889
+            "latitude": -9.1042257,
+            "longitude": 13.7289167,
+            "max_latitude": -7.6291261,
+            "max_longitude": 14.7415391,
+            "min_latitude": -10.473318,
+            "min_longitude": 13.1099769
         },
         "iso_3166_2": "AO-BIE",
         "iso_a2": "AO",
         "iso_a3": "AGO",
-        "name": "Bi\u00e9",
+        "name": "Bengo",
         "postal": "BIE",
         "type": "Prov\u00edncia",
         "type_en": "Province"
     },
     "CAB": {
         "alt_names": [
-            "Kabinda"
+            "Bengo"
         ],
         "cca2": "AO",
         "cca3": "AGO",
@@ -544,24 +544,24 @@
             "woe_name": "Cabinda"
         },
         "geo": {
-            "latitude": -5.56,
-            "longitude": 12.19,
-            "max_latitude": -5.5409834,
-            "max_longitude": 12.2682953,
-            "min_latitude": -5.6216234,
-            "min_longitude": 12.1627235
+            "latitude": -9.1042257,
+            "longitude": 13.7289167,
+            "max_latitude": -7.6291261,
+            "max_longitude": 14.7415391,
+            "min_latitude": -10.473318,
+            "min_longitude": 13.1099769
         },
         "iso_3166_2": "AO-CAB",
         "iso_a2": "AO",
         "iso_a3": "AGO",
-        "name": "Cabinda",
+        "name": "Bengo",
         "postal": "CAB",
         "type": "Prov\u00edncia",
         "type_en": "Province"
     },
     "CCU": {
         "alt_names": [
-            "Cuando-Cubango"
+            "Bengo"
         ],
         "cca2": "AO",
         "cca3": "AGO",
@@ -684,24 +684,24 @@
             "woe_name": "Cuando Cubango"
         },
         "geo": {
-            "latitude": -16.4180824,
-            "longitude": 18.8076195,
-            "max_latitude": -13.60931,
-            "max_longitude": 23.4281539,
-            "min_latitude": -18.042076,
-            "min_longitude": 16.463013
+            "latitude": -9.1042257,
+            "longitude": 13.7289167,
+            "max_latitude": -7.6291261,
+            "max_longitude": 14.7415391,
+            "min_latitude": -10.473318,
+            "min_longitude": 13.1099769
         },
         "iso_3166_2": "AO-CCU",
         "iso_a2": "AO",
         "iso_a3": "AGO",
-        "name": "Cuando-Cubango",
+        "name": "Bengo",
         "postal": "CCU",
         "type": "Prov\u00edncia",
         "type_en": "Province"
     },
     "CNN": {
         "alt_names": [
-            "Cunene"
+            "Bengo"
         ],
         "cca2": "AO",
         "cca3": "AGO",
@@ -824,24 +824,24 @@
             "woe_name": "Cunene"
         },
         "geo": {
-            "latitude": -16.2802221,
-            "longitude": 16.1580937,
-            "max_latitude": -15.158318,
-            "max_longitude": 17.402746,
-            "min_latitude": -17.442467,
-            "min_longitude": 13.1554
+            "latitude": -9.1042257,
+            "longitude": 13.7289167,
+            "max_latitude": -7.6291261,
+            "max_longitude": 14.7415391,
+            "min_latitude": -10.473318,
+            "min_longitude": 13.1099769
         },
         "iso_3166_2": "AO-CNN",
         "iso_a2": "AO",
         "iso_a3": "AGO",
-        "name": "Cunene",
+        "name": "Bengo",
         "postal": "CNN",
         "type": "Prov\u00edncia",
         "type_en": "Province"
     },
     "CNO": {
         "alt_names": [
-            "Cuanza-Norte"
+            "Bengo"
         ],
         "cca2": "AO",
         "cca3": "AGO",
@@ -964,24 +964,24 @@
             "woe_name": "Cuanza Norte"
         },
         "geo": {
-            "latitude": -9.2398513,
-            "longitude": 14.6587821,
-            "max_latitude": -7.9370771,
-            "max_longitude": 15.830849,
-            "min_latitude": -9.787161,
-            "min_longitude": 13.9980831
+            "latitude": -9.1042257,
+            "longitude": 13.7289167,
+            "max_latitude": -7.6291261,
+            "max_longitude": 14.7415391,
+            "min_latitude": -10.473318,
+            "min_longitude": 13.1099769
         },
         "iso_3166_2": "AO-CNO",
         "iso_a2": "AO",
         "iso_a3": "AGO",
-        "name": "Cuanza Norte",
+        "name": "Bengo",
         "postal": "CNO",
         "type": "Prov\u00edncia",
         "type_en": "Province"
     },
     "CUS": {
         "alt_names": [
-            "Cuanza-Sul"
+            "Bengo"
         ],
         "cca2": "AO",
         "cca3": "AGO",
@@ -1104,24 +1104,24 @@
             "woe_name": "Cuanza Sul"
         },
         "geo": {
-            "latitude": -10.595191,
-            "longitude": 15.4068079,
-            "max_latitude": -9.6833171,
-            "max_longitude": 16.6080669,
-            "min_latitude": -12.22624,
-            "min_longitude": 13.4936401
+            "latitude": -9.1042257,
+            "longitude": 13.7289167,
+            "max_latitude": -7.6291261,
+            "max_longitude": 14.7415391,
+            "min_latitude": -10.473318,
+            "min_longitude": 13.1099769
         },
         "iso_3166_2": "AO-CUS",
         "iso_a2": "AO",
         "iso_a3": "AGO",
-        "name": "Cuanza Sul",
+        "name": "Bengo",
         "postal": "CUS",
         "type": "Prov\u00edncia",
         "type_en": "Province"
     },
     "HUA": {
         "alt_names": [
-            "Huambo"
+            "Bengo"
         ],
         "cca2": "AO",
         "cca3": "AGO",
@@ -1244,24 +1244,24 @@
             "woe_name": "Huambo"
         },
         "geo": {
-            "latitude": -12.766667,
-            "longitude": 15.733333,
-            "max_latitude": -12.7248395,
-            "max_longitude": 15.7939885,
-            "min_latitude": -12.8151062,
-            "min_longitude": 15.68882
+            "latitude": -9.1042257,
+            "longitude": 13.7289167,
+            "max_latitude": -7.6291261,
+            "max_longitude": 14.7415391,
+            "min_latitude": -10.473318,
+            "min_longitude": 13.1099769
         },
         "iso_3166_2": "AO-HUA",
         "iso_a2": "AO",
         "iso_a3": "AGO",
-        "name": "Huambo",
+        "name": "Bengo",
         "postal": "HUA",
         "type": "Prov\u00edncia",
         "type_en": "Province"
     },
     "HUI": {
         "alt_names": [
-            "Hu\u00edla"
+            "Bengo"
         ],
         "cca2": "AO",
         "cca3": "AGO",
@@ -1384,24 +1384,24 @@
             "woe_name": "Hu\u00edla"
         },
         "geo": {
-            "latitude": -14.9280553,
-            "longitude": 14.6587821,
-            "max_latitude": -13.364136,
-            "max_longitude": 16.753408,
-            "min_latitude": -16.3515149,
-            "min_longitude": 13.2254381
+            "latitude": -9.1042257,
+            "longitude": 13.7289167,
+            "max_latitude": -7.6291261,
+            "max_longitude": 14.7415391,
+            "min_latitude": -10.473318,
+            "min_longitude": 13.1099769
         },
         "iso_3166_2": "AO-HUI",
         "iso_a2": "AO",
         "iso_a3": "AGO",
-        "name": "Hu\u00edla",
+        "name": "Bengo",
         "postal": "HUI",
         "type": "Prov\u00edncia",
         "type_en": "Province"
     },
     "LNO": {
         "alt_names": [
-            "Lunda Norte"
+            "Bengo"
         ],
         "cca2": "AO",
         "cca3": "AGO",
@@ -1524,24 +1524,24 @@
             "woe_name": "Lunda Norte"
         },
         "geo": {
-            "latitude": -8.3525022,
-            "longitude": 19.1880047,
-            "max_latitude": -6.911378,
-            "max_longitude": 21.942862,
-            "min_latitude": -10.451853,
-            "min_longitude": 17.286396
+            "latitude": -9.1042257,
+            "longitude": 13.7289167,
+            "max_latitude": -7.6291261,
+            "max_longitude": 14.7415391,
+            "min_latitude": -10.473318,
+            "min_longitude": 13.1099769
         },
         "iso_3166_2": "AO-LNO",
         "iso_a2": "AO",
         "iso_a3": "AGO",
-        "name": "Lunda Norte",
+        "name": "Bengo",
         "postal": "LNO",
         "type": "Prov\u00edncia",
         "type_en": "Province"
     },
     "LSU": {
         "alt_names": [
-            "Lunda Sul"
+            "Bengo"
         ],
         "cca2": "AO",
         "cca3": "AGO",
@@ -1664,24 +1664,24 @@
             "woe_name": "Lunda Sul"
         },
         "geo": {
-            "latitude": -10.2866578,
-            "longitude": 20.7122465,
-            "max_latitude": -8.4244639,
-            "max_longitude": 22.3292389,
-            "min_latitude": -11.5039,
-            "min_longitude": 18.481274
+            "latitude": -9.1042257,
+            "longitude": 13.7289167,
+            "max_latitude": -7.6291261,
+            "max_longitude": 14.7415391,
+            "min_latitude": -10.473318,
+            "min_longitude": 13.1099769
         },
         "iso_3166_2": "AO-LSU",
         "iso_a2": "AO",
         "iso_a3": "AGO",
-        "name": "Lunda Sul",
+        "name": "Bengo",
         "postal": "LSU",
         "type": "Prov\u00edncia",
         "type_en": "Province"
     },
     "LUA": {
         "alt_names": [
-            "Luanda"
+            "Bengo"
         ],
         "cca2": "AO",
         "cca3": "AGO",
@@ -1804,24 +1804,24 @@
             "woe_name": "Luanda"
         },
         "geo": {
-            "latitude": -8.838333,
-            "longitude": 13.234444,
-            "max_latitude": -8.756154,
-            "max_longitude": 13.4101221,
-            "min_latitude": -8.9509107,
-            "min_longitude": 13.1580869
+            "latitude": -9.1042257,
+            "longitude": 13.7289167,
+            "max_latitude": -7.6291261,
+            "max_longitude": 14.7415391,
+            "min_latitude": -10.473318,
+            "min_longitude": 13.1099769
         },
         "iso_3166_2": "AO-LUA",
         "iso_a2": "AO",
         "iso_a3": "AGO",
-        "name": "Luanda",
+        "name": "Bengo",
         "postal": "LUA",
         "type": "Prov\u00edncia",
         "type_en": "Province"
     },
     "MAL": {
         "alt_names": [
-            "Malange"
+            "Bengo"
         ],
         "cca2": "AO",
         "cca3": "AGO",
@@ -1944,24 +1944,24 @@
             "woe_name": "Malanje"
         },
         "geo": {
-            "latitude": -9.5469,
-            "longitude": 16.3387,
-            "max_latitude": -9.5124286,
-            "max_longitude": 16.3876533,
-            "min_latitude": -9.5720597,
-            "min_longitude": 16.2992908
+            "latitude": -9.1042257,
+            "longitude": 13.7289167,
+            "max_latitude": -7.6291261,
+            "max_longitude": 14.7415391,
+            "min_latitude": -10.473318,
+            "min_longitude": 13.1099769
         },
         "iso_3166_2": "AO-MAL",
         "iso_a2": "AO",
         "iso_a3": "AGO",
-        "name": "Malange",
+        "name": "Bengo",
         "postal": "MAL",
         "type": "Prov\u00edncia",
         "type_en": "Province"
     },
     "MOX": {
         "alt_names": [
-            "Moxico"
+            "Bengo"
         ],
         "cca2": "AO",
         "cca3": "AGO",
@@ -2084,24 +2084,24 @@
             "woe_name": "Moxico"
         },
         "geo": {
-            "latitude": -13.4293579,
-            "longitude": 20.3308814,
-            "max_latitude": -10.58553,
-            "max_longitude": 24.0821189,
-            "min_latitude": -16.207985,
-            "min_longitude": 17.922985
+            "latitude": -9.1042257,
+            "longitude": 13.7289167,
+            "max_latitude": -7.6291261,
+            "max_longitude": 14.7415391,
+            "min_latitude": -10.473318,
+            "min_longitude": 13.1099769
         },
         "iso_3166_2": "AO-MOX",
         "iso_a2": "AO",
         "iso_a3": "AGO",
-        "name": "Moxico",
+        "name": "Bengo",
         "postal": "MOX",
         "type": "Prov\u00edncia",
         "type_en": "Province"
     },
     "NAM": {
         "alt_names": [
-            "Namibe"
+            "Bengo"
         ],
         "cca2": "AO",
         "cca3": "AGO",
@@ -2224,24 +2224,24 @@
             "woe_name": "Namibe"
         },
         "geo": {
-            "latitude": -15.195278,
-            "longitude": 12.150833,
-            "max_latitude": -15.1747363,
-            "max_longitude": 12.1851254,
-            "min_latitude": -15.218767,
-            "min_longitude": 12.120602
+            "latitude": -9.1042257,
+            "longitude": 13.7289167,
+            "max_latitude": -7.6291261,
+            "max_longitude": 14.7415391,
+            "min_latitude": -10.473318,
+            "min_longitude": 13.1099769
         },
         "iso_3166_2": "AO-NAM",
         "iso_a2": "AO",
         "iso_a3": "AGO",
-        "name": "Namibe",
+        "name": "Bengo",
         "postal": "NAM",
         "type": "Prov\u00edncia",
         "type_en": "Province"
     },
     "UIG": {
         "alt_names": [
-            "U\u00edge"
+            "Bengo"
         ],
         "cca2": "AO",
         "cca3": "AGO",
@@ -2364,24 +2364,24 @@
             "woe_name": "Uige"
         },
         "geo": {
-            "latitude": -7.616667,
-            "longitude": 15.05,
-            "max_latitude": -7.5901119,
-            "max_longitude": 15.0770187,
-            "min_latitude": -7.6323089,
-            "min_longitude": 15.0356484
+            "latitude": -9.1042257,
+            "longitude": 13.7289167,
+            "max_latitude": -7.6291261,
+            "max_longitude": 14.7415391,
+            "min_latitude": -10.473318,
+            "min_longitude": 13.1099769
         },
         "iso_3166_2": "AO-UIG",
         "iso_a2": "AO",
         "iso_a3": "AGO",
-        "name": "U\u00edge",
+        "name": "Bengo",
         "postal": "UIG",
         "type": "Prov\u00edncia",
         "type_en": "Province"
     },
     "ZAI": {
         "alt_names": [
-            "Zaire"
+            "Bengo"
         ],
         "cca2": "AO",
         "cca3": "AGO",
@@ -2504,17 +2504,17 @@
             "woe_name": "Zaire"
         },
         "geo": {
-            "latitude": -6.5733458,
-            "longitude": 13.1740348,
-            "max_latitude": -5.8416281,
-            "max_longitude": 15.0035509,
-            "min_latitude": -7.8169699,
-            "min_longitude": 12.2700424
+            "latitude": -9.1042257,
+            "longitude": 13.7289167,
+            "max_latitude": -7.6291261,
+            "max_longitude": 14.7415391,
+            "min_latitude": -10.473318,
+            "min_longitude": 13.1099769
         },
         "iso_3166_2": "AO-ZAI",
         "iso_a2": "AO",
         "iso_a3": "AGO",
-        "name": "Zaire",
+        "name": "Bengo",
         "postal": "ZAI",
         "type": "Prov\u00edncia",
         "type_en": "Province"

@@ -141,7 +141,7 @@
     },
     "02": {
         "alt_names": [
-            "Bar"
+            "Andrijevica"
         ],
         "cca2": "ME",
         "cca3": "MNE",
@@ -264,24 +264,24 @@
             "woe_name": "Bar"
         },
         "geo": {
-            "latitude": 42.2040425,
-            "longitude": 19.140438,
-            "max_latitude": 42.315069,
-            "max_longitude": 19.3438407,
-            "min_latitude": 42.006969,
-            "min_longitude": 18.9345229
+            "latitude": 42.739722,
+            "longitude": 19.785833,
+            "max_latitude": 42.744286,
+            "max_longitude": 19.799509,
+            "min_latitude": 42.7250737,
+            "min_longitude": 19.771657
         },
         "iso_3166_2": "ME-02",
         "iso_a2": "ME",
         "iso_a3": "MNE",
-        "name": "Bar",
+        "name": "Andrijevica",
         "postal": "02",
         "type": "Op\u0161tina",
         "type_en": "Municipality"
     },
     "03": {
         "alt_names": [
-            "Berane"
+            "Andrijevica"
         ],
         "cca2": "ME",
         "cca3": "MNE",
@@ -404,24 +404,24 @@
             "woe_name": "Berane"
         },
         "geo": {
-            "latitude": 42.84,
-            "longitude": 19.86,
-            "max_latitude": 42.8696597,
-            "max_longitude": 19.8848308,
-            "min_latitude": 42.807177,
-            "min_longitude": 19.8447418
+            "latitude": 42.739722,
+            "longitude": 19.785833,
+            "max_latitude": 42.744286,
+            "max_longitude": 19.799509,
+            "min_latitude": 42.7250737,
+            "min_longitude": 19.771657
         },
         "iso_3166_2": "ME-03",
         "iso_a2": "ME",
         "iso_a3": "MNE",
-        "name": "Berane",
+        "name": "Andrijevica",
         "postal": "03",
         "type": "Op\u0161tina",
         "type_en": "Municipality"
     },
     "04": {
         "alt_names": [
-            "Bijelo Polje"
+            "Andrijevica"
         ],
         "cca2": "ME",
         "cca3": "MNE",
@@ -544,24 +544,24 @@
             "woe_name": "Bijelo Polje"
         },
         "geo": {
-            "latitude": 43.04,
-            "longitude": 19.75,
-            "max_latitude": 43.065439,
-            "max_longitude": 19.7872352,
-            "min_latitude": 43.0089153,
-            "min_longitude": 19.7273254
+            "latitude": 42.739722,
+            "longitude": 19.785833,
+            "max_latitude": 42.744286,
+            "max_longitude": 19.799509,
+            "min_latitude": 42.7250737,
+            "min_longitude": 19.771657
         },
         "iso_3166_2": "ME-04",
         "iso_a2": "ME",
         "iso_a3": "MNE",
-        "name": "Bijelo Polje",
+        "name": "Andrijevica",
         "postal": "04",
         "type": "Op\u0161tina",
         "type_en": "Municipality"
     },
     "05": {
         "alt_names": [
-            "Budva"
+            "Andrijevica"
         ],
         "cca2": "ME",
         "cca3": "MNE",
@@ -684,24 +684,24 @@
             "woe_name": "Budva"
         },
         "geo": {
-            "latitude": 42.288056,
-            "longitude": 18.8425,
-            "max_latitude": 42.3027695,
-            "max_longitude": 18.8609032,
-            "min_latitude": 42.2734745,
-            "min_longitude": 18.8220477
+            "latitude": 42.739722,
+            "longitude": 19.785833,
+            "max_latitude": 42.744286,
+            "max_longitude": 19.799509,
+            "min_latitude": 42.7250737,
+            "min_longitude": 19.771657
         },
         "iso_3166_2": "ME-05",
         "iso_a2": "ME",
         "iso_a3": "MNE",
-        "name": "Budva",
+        "name": "Andrijevica",
         "postal": "05",
         "type": "Op\u0161tina",
         "type_en": "Municipality"
     },
     "06": {
         "alt_names": [
-            "Cetinje"
+            "Andrijevica"
         ],
         "cca2": "ME",
         "cca3": "MNE",
@@ -824,24 +824,24 @@
             "woe_name": "Cetinje"
         },
         "geo": {
-            "latitude": 42.38,
-            "longitude": 18.92,
-            "max_latitude": 42.4086289,
-            "max_longitude": 18.9402152,
-            "min_latitude": 42.3725432,
-            "min_longitude": 18.8862705
+            "latitude": 42.739722,
+            "longitude": 19.785833,
+            "max_latitude": 42.744286,
+            "max_longitude": 19.799509,
+            "min_latitude": 42.7250737,
+            "min_longitude": 19.771657
         },
         "iso_3166_2": "ME-06",
         "iso_a2": "ME",
         "iso_a3": "MNE",
-        "name": "Cetinje",
+        "name": "Andrijevica",
         "postal": "06",
         "type": "Op\u0161tina",
         "type_en": "Municipality"
     },
     "07": {
         "alt_names": [
-            "Danilovgrad"
+            "Andrijevica"
         ],
         "cca2": "ME",
         "cca3": "MNE",
@@ -964,24 +964,24 @@
             "woe_name": "Danilovgrad"
         },
         "geo": {
-            "latitude": 42.5537532,
-            "longitude": 19.1077389,
-            "max_latitude": 42.5631326,
-            "max_longitude": 19.1203737,
-            "min_latitude": 42.5411924,
-            "min_longitude": 19.0853548
+            "latitude": 42.739722,
+            "longitude": 19.785833,
+            "max_latitude": 42.744286,
+            "max_longitude": 19.799509,
+            "min_latitude": 42.7250737,
+            "min_longitude": 19.771657
         },
         "iso_3166_2": "ME-07",
         "iso_a2": "ME",
         "iso_a3": "MNE",
-        "name": "Danilovgrad",
+        "name": "Andrijevica",
         "postal": "07",
         "type": "Op\u0161tina",
         "type_en": "Municipality"
     },
     "08": {
         "alt_names": [
-            "Herceg-Novi"
+            "Andrijevica"
         ],
         "cca2": "ME",
         "cca3": "MNE",
@@ -1104,24 +1104,24 @@
             "woe_name": "Herceg Novi"
         },
         "geo": {
-            "latitude": 42.4572478,
-            "longitude": 18.5314753,
-            "max_latitude": 42.4661614,
-            "max_longitude": 18.5613638,
-            "min_latitude": 42.4490956,
-            "min_longitude": 18.5141516
+            "latitude": 42.739722,
+            "longitude": 19.785833,
+            "max_latitude": 42.744286,
+            "max_longitude": 19.799509,
+            "min_latitude": 42.7250737,
+            "min_longitude": 19.771657
         },
         "iso_3166_2": "ME-08",
         "iso_a2": "ME",
         "iso_a3": "MNE",
-        "name": "Herceg-Novi",
+        "name": "Andrijevica",
         "postal": "08",
         "type": "Op\u0161tina",
         "type_en": "Municipality"
     },
     "09": {
         "alt_names": [
-            "Kola\u0161in"
+            "Andrijevica"
         ],
         "cca2": "ME",
         "cca3": "MNE",
@@ -1244,24 +1244,24 @@
             "woe_name": "Kola\u0161in"
         },
         "geo": {
-            "latitude": 42.823611,
-            "longitude": 19.5225,
-            "max_latitude": 42.8338702,
-            "max_longitude": 19.5420171,
-            "min_latitude": 42.8146069,
-            "min_longitude": 19.5110321
+            "latitude": 42.739722,
+            "longitude": 19.785833,
+            "max_latitude": 42.744286,
+            "max_longitude": 19.799509,
+            "min_latitude": 42.7250737,
+            "min_longitude": 19.771657
         },
         "iso_3166_2": "ME-09",
         "iso_a2": "ME",
         "iso_a3": "MNE",
-        "name": "Kola\u0161in",
+        "name": "Andrijevica",
         "postal": "09",
         "type": "Op\u0161tina",
         "type_en": "Municipality"
     },
     "10": {
         "alt_names": [
-            "Kotor"
+            "Andrijevica"
         ],
         "cca2": "ME",
         "cca3": "MNE",
@@ -1384,24 +1384,24 @@
             "woe_name": "Kotor"
         },
         "geo": {
-            "latitude": 42.424662,
-            "longitude": 18.771234,
-            "max_latitude": 42.4273177,
-            "max_longitude": 18.7748086,
-            "min_latitude": 42.4211597,
-            "min_longitude": 18.7663583
+            "latitude": 42.739722,
+            "longitude": 19.785833,
+            "max_latitude": 42.744286,
+            "max_longitude": 19.799509,
+            "min_latitude": 42.7250737,
+            "min_longitude": 19.771657
         },
         "iso_3166_2": "ME-10",
         "iso_a2": "ME",
         "iso_a3": "MNE",
-        "name": "Kotor",
+        "name": "Andrijevica",
         "postal": "10",
         "type": "Op\u0161tina",
         "type_en": "Municipality"
     },
     "11": {
         "alt_names": [
-            "Mojkovac"
+            "Andrijevica"
         ],
         "cca2": "ME",
         "cca3": "MNE",
@@ -1524,24 +1524,24 @@
             "woe_name": "Mojkovac"
         },
         "geo": {
-            "latitude": 42.96,
-            "longitude": 19.58,
-            "max_latitude": 42.9672261,
-            "max_longitude": 19.5910262,
-            "min_latitude": 42.9522135,
-            "min_longitude": 19.5728303
+            "latitude": 42.739722,
+            "longitude": 19.785833,
+            "max_latitude": 42.744286,
+            "max_longitude": 19.799509,
+            "min_latitude": 42.7250737,
+            "min_longitude": 19.771657
         },
         "iso_3166_2": "ME-11",
         "iso_a2": "ME",
         "iso_a3": "MNE",
-        "name": "Mojkovac",
+        "name": "Andrijevica",
         "postal": "11",
         "type": "Op\u0161tina",
         "type_en": "Municipality"
     },
     "12": {
         "alt_names": [
-            "Nik\u0161ic\u00b4"
+            "Andrijevica"
         ],
         "cca2": "ME",
         "cca3": "MNE",
@@ -1664,24 +1664,24 @@
             "woe_name": "Nik\u0161ic"
         },
         "geo": {
-            "latitude": 42.78,
-            "longitude": 18.94,
-            "max_latitude": 42.8094439,
-            "max_longitude": 18.9982796,
-            "min_latitude": 42.7371471,
-            "min_longitude": 18.897965
+            "latitude": 42.739722,
+            "longitude": 19.785833,
+            "max_latitude": 42.744286,
+            "max_longitude": 19.799509,
+            "min_latitude": 42.7250737,
+            "min_longitude": 19.771657
         },
         "iso_3166_2": "ME-12",
         "iso_a2": "ME",
         "iso_a3": "MNE",
-        "name": "Nik\u0161ic\u00b4",
+        "name": "Andrijevica",
         "postal": "12",
         "type": "Op\u0161tina",
         "type_en": "Municipality"
     },
     "13": {
         "alt_names": [
-            "Plav"
+            "Andrijevica"
         ],
         "cca2": "ME",
         "cca3": "MNE",
@@ -1804,24 +1804,24 @@
             "woe_name": "Plav"
         },
         "geo": {
-            "latitude": 42.6001337,
-            "longitude": 19.9407541,
-            "max_latitude": 42.6091342,
-            "max_longitude": 19.9534082,
-            "min_latitude": 42.5892922,
-            "min_longitude": 19.930226
+            "latitude": 42.739722,
+            "longitude": 19.785833,
+            "max_latitude": 42.744286,
+            "max_longitude": 19.799509,
+            "min_latitude": 42.7250737,
+            "min_longitude": 19.771657
         },
         "iso_3166_2": "ME-13",
         "iso_a2": "ME",
         "iso_a3": "MNE",
-        "name": "Plav",
+        "name": "Andrijevica",
         "postal": "13",
         "type": "Op\u0161tina",
         "type_en": "Municipality"
     },
     "14": {
         "alt_names": [
-            "Pljevlja"
+            "Andrijevica"
         ],
         "cca2": "ME",
         "cca3": "MNE",
@@ -1944,24 +1944,24 @@
             "woe_name": "Pljevlja"
         },
         "geo": {
-            "latitude": 43.36,
-            "longitude": 19.36,
-            "max_latitude": 43.3736113,
-            "max_longitude": 19.3831443,
-            "min_latitude": 43.3385382,
-            "min_longitude": 19.3206596
+            "latitude": 42.739722,
+            "longitude": 19.785833,
+            "max_latitude": 42.744286,
+            "max_longitude": 19.799509,
+            "min_latitude": 42.7250737,
+            "min_longitude": 19.771657
         },
         "iso_3166_2": "ME-14",
         "iso_a2": "ME",
         "iso_a3": "MNE",
-        "name": "Pljevlja",
+        "name": "Andrijevica",
         "postal": "14",
         "type": "Op\u0161tina",
         "type_en": "Municipality"
     },
     "15": {
         "alt_names": [
-            "Plu\u017eine"
+            "Andrijevica"
         ],
         "cca2": "ME",
         "cca3": "MNE",
@@ -2084,24 +2084,24 @@
             "woe_name": "Plu\u017eine"
         },
         "geo": {
-            "latitude": 43.1541366,
-            "longitude": 18.8410376,
-            "max_latitude": 43.1582202,
-            "max_longitude": 18.8480115,
-            "min_latitude": 43.1508473,
-            "min_longitude": 18.8326693
+            "latitude": 42.739722,
+            "longitude": 19.785833,
+            "max_latitude": 42.744286,
+            "max_longitude": 19.799509,
+            "min_latitude": 42.7250737,
+            "min_longitude": 19.771657
         },
         "iso_3166_2": "ME-15",
         "iso_a2": "ME",
         "iso_a3": "MNE",
-        "name": "Plu\u017eine",
+        "name": "Andrijevica",
         "postal": "15",
         "type": "Op\u0161tina",
         "type_en": "Municipality"
     },
     "16": {
         "alt_names": [
-            "Podgorica"
+            "Andrijevica"
         ],
         "cca2": "ME",
         "cca3": "MNE",
@@ -2224,24 +2224,24 @@
             "woe_name": "Podgorica"
         },
         "geo": {
-            "latitude": 42.441286,
-            "longitude": 19.262892,
-            "max_latitude": 42.4956435,
-            "max_longitude": 19.3302512,
-            "min_latitude": 42.368358,
-            "min_longitude": 19.1815065
+            "latitude": 42.739722,
+            "longitude": 19.785833,
+            "max_latitude": 42.744286,
+            "max_longitude": 19.799509,
+            "min_latitude": 42.7250737,
+            "min_longitude": 19.771657
         },
         "iso_3166_2": "ME-16",
         "iso_a2": "ME",
         "iso_a3": "MNE",
-        "name": "Podgorica",
+        "name": "Andrijevica",
         "postal": "16",
         "type": "Op\u0161tina",
         "type_en": "Municipality"
     },
     "17": {
         "alt_names": [
-            "Ro\u017eaje"
+            "Andrijevica"
         ],
         "cca2": "ME",
         "cca3": "MNE",
@@ -2364,24 +2364,24 @@
             "woe_name": "Ro\u017eaje"
         },
         "geo": {
-            "latitude": 42.8333,
-            "longitude": 20.1667,
-            "max_latitude": 42.8588217,
-            "max_longitude": 20.1917553,
-            "min_latitude": 42.8273239,
-            "min_longitude": 20.1424885
+            "latitude": 42.739722,
+            "longitude": 19.785833,
+            "max_latitude": 42.744286,
+            "max_longitude": 19.799509,
+            "min_latitude": 42.7250737,
+            "min_longitude": 19.771657
         },
         "iso_3166_2": "ME-17",
         "iso_a2": "ME",
         "iso_a3": "MNE",
-        "name": "Ro\u017eaje",
+        "name": "Andrijevica",
         "postal": "17",
         "type": "Op\u0161tina",
         "type_en": "Municipality"
     },
     "18": {
         "alt_names": [
-            "\u0160avnik"
+            "Andrijevica"
         ],
         "cca2": "ME",
         "cca3": "MNE",
@@ -2504,24 +2504,24 @@
             "woe_name": "\u0160avnik"
         },
         "geo": {
-            "latitude": 42.9577803,
-            "longitude": 19.0943627,
-            "max_latitude": 42.9614791,
-            "max_longitude": 19.1002035,
-            "min_latitude": 42.9521195,
-            "min_longitude": 19.0911485
+            "latitude": 42.739722,
+            "longitude": 19.785833,
+            "max_latitude": 42.744286,
+            "max_longitude": 19.799509,
+            "min_latitude": 42.7250737,
+            "min_longitude": 19.771657
         },
         "iso_3166_2": "ME-18",
         "iso_a2": "ME",
         "iso_a3": "MNE",
-        "name": "\u0160avnik",
+        "name": "Andrijevica",
         "postal": "18",
         "type": "Op\u0161tina",
         "type_en": "Municipality"
     },
     "19": {
         "alt_names": [
-            "Tivat"
+            "Andrijevica"
         ],
         "cca2": "ME",
         "cca3": "MNE",
@@ -2644,24 +2644,24 @@
             "woe_name": "Tivat"
         },
         "geo": {
-            "latitude": 42.43,
-            "longitude": 18.7,
-            "max_latitude": 42.4461189,
-            "max_longitude": 18.7237287,
-            "min_latitude": 42.4175716,
-            "min_longitude": 18.6844826
+            "latitude": 42.739722,
+            "longitude": 19.785833,
+            "max_latitude": 42.744286,
+            "max_longitude": 19.799509,
+            "min_latitude": 42.7250737,
+            "min_longitude": 19.771657
         },
         "iso_3166_2": "ME-19",
         "iso_a2": "ME",
         "iso_a3": "MNE",
-        "name": "Tivat",
+        "name": "Andrijevica",
         "postal": "19",
         "type": "Op\u0161tina",
         "type_en": "Municipality"
     },
     "20": {
         "alt_names": [
-            "Ulcinj"
+            "Andrijevica"
         ],
         "cca2": "ME",
         "cca3": "MNE",
@@ -2784,24 +2784,24 @@
             "woe_name": "Ulcinj"
         },
         "geo": {
-            "latitude": 41.9310884,
-            "longitude": 19.2147632,
-            "max_latitude": 41.9386158,
-            "max_longitude": 19.2313958,
-            "min_latitude": 41.9187885,
-            "min_longitude": 19.1914062
+            "latitude": 42.739722,
+            "longitude": 19.785833,
+            "max_latitude": 42.744286,
+            "max_longitude": 19.799509,
+            "min_latitude": 42.7250737,
+            "min_longitude": 19.771657
         },
         "iso_3166_2": "ME-20",
         "iso_a2": "ME",
         "iso_a3": "MNE",
-        "name": "Ulcinj",
+        "name": "Andrijevica",
         "postal": "20",
         "type": "Op\u0161tina",
         "type_en": "Municipality"
     },
     "21": {
         "alt_names": [
-            "\u017dabljak"
+            "Andrijevica"
         ],
         "cca2": "ME",
         "cca3": "MNE",
@@ -2924,17 +2924,17 @@
             "woe_name": "\u017dabljak"
         },
         "geo": {
-            "latitude": 43.1555152,
-            "longitude": 19.1226018,
-            "max_latitude": 43.1686245,
-            "max_longitude": 19.1503287,
-            "min_latitude": 43.1471842,
-            "min_longitude": 19.1090442
+            "latitude": 42.739722,
+            "longitude": 19.785833,
+            "max_latitude": 42.744286,
+            "max_longitude": 19.799509,
+            "min_latitude": 42.7250737,
+            "min_longitude": 19.771657
         },
         "iso_3166_2": "ME-21",
         "iso_a2": "ME",
         "iso_a3": "MNE",
-        "name": "\u017dabljak",
+        "name": "Andrijevica",
         "postal": "21",
         "type": "Op\u0161tina",
         "type_en": "Municipality"

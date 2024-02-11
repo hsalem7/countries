@@ -141,7 +141,7 @@
     },
     "BL": {
         "alt_names": [
-            "Blantyre"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -264,24 +264,24 @@
             "woe_name": "Blantyre"
         },
         "geo": {
-            "latitude": -15.786111,
-            "longitude": 35.005833,
-            "max_latitude": -15.6822126,
-            "max_longitude": 35.1090431,
-            "min_latitude": -15.8702044,
-            "min_longitude": 34.952488
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-BL",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Blantyre",
+        "name": "Balaka",
         "postal": "BL",
         "type": "District",
         "type_en": "District"
     },
     "CK": {
         "alt_names": [
-            "Chikwawa"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -404,24 +404,24 @@
             "woe_name": "Chikwawa"
         },
         "geo": {
-            "latitude": -16.035,
-            "longitude": 34.801,
-            "max_latitude": -16.0070408,
-            "max_longitude": 34.8167897,
-            "min_latitude": -16.0552991,
-            "min_longitude": 34.7784233
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-CK",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Chikwawa",
+        "name": "Balaka",
         "postal": "CK",
         "type": "District",
         "type_en": "District"
     },
     "CR": {
         "alt_names": [
-            "Chiradzulu"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -544,24 +544,24 @@
             "woe_name": "Chiradzulu"
         },
         "geo": {
-            "latitude": -15.6759485,
-            "longitude": 35.1406293,
-            "max_latitude": -15.6594037,
-            "max_longitude": 35.1468944,
-            "min_latitude": -15.6875012,
-            "min_longitude": 35.1309299
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-CR",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Chiradzulu",
+        "name": "Balaka",
         "postal": "CR",
         "type": "District",
         "type_en": "District"
     },
     "CT": {
         "alt_names": [
-            "Chitipa"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -684,24 +684,24 @@
             "woe_name": "Chitipa"
         },
         "geo": {
-            "latitude": -9.7037655,
-            "longitude": 33.2700253,
-            "max_latitude": -9.6740303,
-            "max_longitude": 33.2946682,
-            "min_latitude": -9.7162481,
-            "min_longitude": 33.2463455
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-CT",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Chitipa",
+        "name": "Balaka",
         "postal": "CT",
         "type": "District",
         "type_en": "District"
     },
     "DE": {
         "alt_names": [
-            "Dedza"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -824,24 +824,24 @@
             "woe_name": "Dedza"
         },
         "geo": {
-            "latitude": -14.3816618,
-            "longitude": 34.3254842,
-            "max_latitude": -14.3712497,
-            "max_longitude": 34.34515,
-            "min_latitude": -14.398852,
-            "min_longitude": 34.3036938
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-DE",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Dedza",
+        "name": "Balaka",
         "postal": "DE",
         "type": "District",
         "type_en": "District"
     },
     "DO": {
         "alt_names": [
-            "Dowa"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -964,24 +964,24 @@
             "woe_name": "Dowa"
         },
         "geo": {
-            "latitude": -13.6514687,
-            "longitude": 33.9359756,
-            "max_latitude": -13.6396478,
-            "max_longitude": 33.9471531,
-            "min_latitude": -13.6647528,
-            "min_longitude": 33.9223479
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-DO",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Dowa",
+        "name": "Balaka",
         "postal": "DO",
         "type": "District",
         "type_en": "District"
     },
     "KS": {
         "alt_names": [
-            "Kasungu"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -1104,24 +1104,24 @@
             "woe_name": "Kasungu"
         },
         "geo": {
-            "latitude": -13.033333,
-            "longitude": 33.483333,
-            "max_latitude": -13.007652,
-            "max_longitude": 33.5083008,
-            "min_latitude": -13.0698636,
-            "min_longitude": 33.4539701
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-KS",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Kasungu",
+        "name": "Balaka",
         "postal": "KS",
         "type": "District",
         "type_en": "District"
     },
     "LI": {
         "alt_names": [
-            "Lilongwe"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -1244,24 +1244,24 @@
             "woe_name": "Lilongwe"
         },
         "geo": {
-            "latitude": -13.983333,
-            "longitude": 33.783333,
-            "max_latitude": -13.8624138,
-            "max_longitude": 33.8478469,
-            "min_latitude": -14.0644008,
-            "min_longitude": 33.7162716
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-LI",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Lilongwe",
+        "name": "Balaka",
         "postal": "LI",
         "type": "District",
         "type_en": "District"
     },
     "LK": {
         "alt_names": [
-            "Likoma Island"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -1384,24 +1384,24 @@
             "woe_name": "Nkhata Bay"
         },
         "geo": {
-            "latitude": -12.0584005,
-            "longitude": 34.7354031,
-            "max_latitude": -12.0311794,
-            "max_longitude": 34.7604815,
-            "min_latitude": -12.1000348,
-            "min_longitude": 34.7087596
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-LK",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Likoma Island",
+        "name": "Balaka",
         "postal": "LK",
         "type": "District",
         "type_en": "District"
     },
     "MC": {
         "alt_names": [
-            "Mchinji"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -1524,24 +1524,24 @@
             "woe_name": "Mchinji"
         },
         "geo": {
-            "latitude": -13.8000058,
-            "longitude": 32.8930441,
-            "max_latitude": -13.7765674,
-            "max_longitude": 32.90946,
-            "min_latitude": -13.8171608,
-            "min_longitude": 32.8671455
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-MC",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Mchinji",
+        "name": "Balaka",
         "postal": "MC",
         "type": "District",
         "type_en": "District"
     },
     "MG": {
         "alt_names": [
-            "Mangochi"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -1664,24 +1664,24 @@
             "woe_name": "Mangochi"
         },
         "geo": {
-            "latitude": -14.4861733,
-            "longitude": 35.253304,
-            "max_latitude": -14.4638539,
-            "max_longitude": 35.2740097,
-            "min_latitude": -14.5005024,
-            "min_longitude": 35.2314378
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-MG",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Mangochi",
+        "name": "Balaka",
         "postal": "MG",
         "type": "District",
         "type_en": "District"
     },
     "MH": {
         "alt_names": [
-            "Machinga"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -1804,24 +1804,24 @@
             "woe_name": "Machinga"
         },
         "geo": {
-            "latitude": -15.1699934,
-            "longitude": 35.2999779,
-            "max_latitude": -15.1613515,
-            "max_longitude": 35.3173972,
-            "min_latitude": -15.1822628,
-            "min_longitude": 35.2879491
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-MH",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Machinga",
+        "name": "Balaka",
         "postal": "MH",
         "type": "District",
         "type_en": "District"
     },
     "MU": {
         "alt_names": [
-            "Mulanje"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -1944,24 +1944,24 @@
             "woe_name": "Mulanje"
         },
         "geo": {
-            "latitude": -16.033333,
-            "longitude": 35.5,
-            "max_latitude": -16.0180114,
-            "max_longitude": 35.5212391,
-            "min_latitude": -16.0381583,
-            "min_longitude": 35.4918706
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-MU",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Mulanje",
+        "name": "Balaka",
         "postal": "MU",
         "type": "District",
         "type_en": "District"
     },
     "MW": {
         "alt_names": [
-            "Mwanza"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -2084,24 +2084,24 @@
             "woe_name": "Mwanza"
         },
         "geo": {
-            "latitude": -15.609722,
-            "longitude": 34.5225,
-            "max_latitude": -15.5777469,
-            "max_longitude": 34.5392461,
-            "min_latitude": -15.6189038,
-            "min_longitude": 34.4934655
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-MW",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Mwanza",
+        "name": "Balaka",
         "postal": "MW",
         "type": "District",
         "type_en": "District"
     },
     "MZ": {
         "alt_names": [
-            "Mzimba"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -2224,24 +2224,24 @@
             "woe_name": "Mzimba"
         },
         "geo": {
-            "latitude": -11.9,
-            "longitude": 33.6,
-            "max_latitude": -11.8862493,
-            "max_longitude": 33.6040878,
-            "min_latitude": -11.913209,
-            "min_longitude": 33.5802269
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-MZ",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Mzimba",
+        "name": "Balaka",
         "postal": "MZ",
         "type": "District",
         "type_en": "District"
     },
     "NB": {
         "alt_names": [
-            "Nkhata Bay"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -2364,24 +2364,24 @@
             "woe_name": "Nkhata Bay"
         },
         "geo": {
-            "latitude": -11.6085556,
-            "longitude": 34.2949409,
-            "max_latitude": -11.6009539,
-            "max_longitude": 34.3032989,
-            "min_latitude": -11.6133972,
-            "min_longitude": 34.2894459
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-NB",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Nkhata Bay",
+        "name": "Balaka",
         "postal": "NB",
         "type": "District",
         "type_en": "District"
     },
     "NE": {
         "alt_names": [
-            ""
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -2504,20 +2504,24 @@
             "woe_name": "Mwanza"
         },
         "geo": {
-            "latitude": "-15.4366000000",
-            "longitude": "34.6946000000"
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-NE",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Neno",
+        "name": "Balaka",
         "postal": "NE",
         "type": "District",
         "type_en": "District"
     },
     "NI": {
         "alt_names": [
-            "Ntchisi"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -2640,24 +2644,24 @@
             "woe_name": "Ntchisi"
         },
         "geo": {
-            "latitude": -13.2841992,
-            "longitude": 33.8857747,
-            "max_latitude": -13.0142031,
-            "max_longitude": 34.131686,
-            "min_latitude": -13.534227,
-            "min_longitude": 33.703213
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-NI",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Ntchisi",
+        "name": "Balaka",
         "postal": "NI",
         "type": "District",
         "type_en": "District"
     },
     "NK": {
         "alt_names": [
-            "Nkhotakota"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -2780,24 +2784,24 @@
             "woe_name": "Nkhotakota"
         },
         "geo": {
-            "latitude": -12.9316863,
-            "longitude": 34.2810541,
-            "max_latitude": -12.9116282,
-            "max_longitude": 34.2997456,
-            "min_latitude": -12.9423296,
-            "min_longitude": 34.2674732
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-NK",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Nkhotakota",
+        "name": "Balaka",
         "postal": "NK",
         "type": "District",
         "type_en": "District"
     },
     "NS": {
         "alt_names": [
-            "Nsanje"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -2920,24 +2924,24 @@
             "woe_name": "Nsanje"
         },
         "geo": {
-            "latitude": -16.916667,
-            "longitude": 35.266667,
-            "max_latitude": -16.8957132,
-            "max_longitude": 35.27349,
-            "min_latitude": -16.9436398,
-            "min_longitude": 35.2404084
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-NS",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Nsanje",
+        "name": "Balaka",
         "postal": "NS",
         "type": "District",
         "type_en": "District"
     },
     "NU": {
         "alt_names": [
-            "Ntcheu"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -3060,24 +3064,24 @@
             "woe_name": "Ntcheu"
         },
         "geo": {
-            "latitude": -14.8219765,
-            "longitude": 34.6358702,
-            "max_latitude": -14.7955467,
-            "max_longitude": 34.6578313,
-            "min_latitude": -14.8403539,
-            "min_longitude": 34.6122551
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-NU",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Ntcheu",
+        "name": "Balaka",
         "postal": "NU",
         "type": "District",
         "type_en": "District"
     },
     "PH": {
         "alt_names": [
-            "Phalombe"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -3200,24 +3204,24 @@
             "woe_name": "Phalombe"
         },
         "geo": {
-            "latitude": -15.7633303,
-            "longitude": 35.6587503,
-            "max_latitude": -15.748579,
-            "max_longitude": 35.6769688,
-            "min_latitude": -15.7868579,
-            "min_longitude": 35.638361
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-PH",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Phalombe",
+        "name": "Balaka",
         "postal": "PH",
         "type": "District",
         "type_en": "District"
     },
     "RU": {
         "alt_names": [
-            "Rumphi"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -3340,24 +3344,24 @@
             "woe_name": "Rumphi"
         },
         "geo": {
-            "latitude": -11.016667,
-            "longitude": 33.866667,
-            "max_latitude": -11.0083478,
-            "max_longitude": 33.8720083,
-            "min_latitude": -11.0211537,
-            "min_longitude": 33.8431264
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-RU",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Rumphi",
+        "name": "Balaka",
         "postal": "RU",
         "type": "District",
         "type_en": "District"
     },
     "SA": {
         "alt_names": [
-            "Salima"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -3480,24 +3484,24 @@
             "woe_name": "Salima"
         },
         "geo": {
-            "latitude": -13.7795533,
-            "longitude": 34.458641,
-            "max_latitude": -13.7622286,
-            "max_longitude": 34.4751836,
-            "min_latitude": -13.7959897,
-            "min_longitude": 34.4338989
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-SA",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Salima",
+        "name": "Balaka",
         "postal": "SA",
         "type": "District",
         "type_en": "District"
     },
     "TH": {
         "alt_names": [
-            "Thyolo"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -3620,24 +3624,24 @@
             "woe_name": "Thyolo"
         },
         "geo": {
-            "latitude": -16.066667,
-            "longitude": 35.133333,
-            "max_latitude": -16.0617329,
-            "max_longitude": 35.1527309,
-            "min_latitude": -16.0789703,
-            "min_longitude": 35.1302433
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-TH",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Thyolo",
+        "name": "Balaka",
         "postal": "TH",
         "type": "District",
         "type_en": "District"
     },
     "ZO": {
         "alt_names": [
-            "Zomba"
+            "Balaka"
         ],
         "cca2": "MW",
         "cca3": "MWI",
@@ -3760,17 +3764,17 @@
             "woe_name": "Zomba"
         },
         "geo": {
-            "latitude": -15.383333,
-            "longitude": 35.333333,
-            "max_latitude": -15.3602598,
-            "max_longitude": 35.3924561,
-            "min_latitude": -15.4255095,
-            "min_longitude": 35.2947378
+            "latitude": -14.9876054,
+            "longitude": 34.9561748,
+            "max_latitude": -14.9766781,
+            "max_longitude": 34.9850202,
+            "min_latitude": -15.0083795,
+            "min_longitude": 34.9307894
         },
         "iso_3166_2": "MW-ZO",
         "iso_a2": "MW",
         "iso_a3": "MWI",
-        "name": "Zomba",
+        "name": "Balaka",
         "postal": "ZO",
         "type": "District",
         "type_en": "District"

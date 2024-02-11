@@ -1,7 +1,7 @@
 {
     "1": {
         "alt_names": [
-            "Ulaanbaatar"
+            "Orhon"
         ],
         "cca2": "MN",
         "cca3": "MNG",
@@ -124,17 +124,17 @@
             "woe_name": "Ulaanbaatar"
         },
         "geo": {
-            "latitude": 47.92,
-            "longitude": 106.92,
-            "max_latitude": 47.9591229,
-            "max_longitude": 107.1043,
-            "min_latitude": 47.8241773,
-            "min_longitude": 106.6994427
+            "latitude": 49.004705,
+            "longitude": 104.3016527,
+            "max_latitude": 49.1322389,
+            "max_longitude": 104.577072,
+            "min_latitude": 48.9046019,
+            "min_longitude": 104.004139
         },
         "iso_3166_2": "MN-1",
         "iso_a2": "MN",
         "iso_a3": "MNG",
-        "name": "Ulaanbaatar",
+        "name": "Orhon",
         "postal": "1",
         "type": "Hot",
         "type_en": "Municipality"
@@ -281,7 +281,7 @@
     },
     "037": {
         "alt_names": [
-            "Darhan uul"
+            "Orhon"
         ],
         "cca2": "MN",
         "cca3": "MNG",
@@ -404,25 +404,24 @@
             "woe_name": "Darhan-Uul"
         },
         "geo": {
-            "latitude": 49.448929,
-            "longitude": 106.2325245,
-            "max_latitude": 49.8259659,
-            "max_longitude": 106.806087,
-            "min_latitude": 49.084558,
-            "min_longitude": 105.8157009
+            "latitude": 49.004705,
+            "longitude": 104.3016527,
+            "max_latitude": 49.1322389,
+            "max_longitude": 104.577072,
+            "min_latitude": 48.9046019,
+            "min_longitude": 104.004139
         },
         "iso_3166_2": "MN-037",
         "iso_a2": "MN",
         "iso_a3": "MNG",
-        "name": "Darhan uul",
+        "name": "Orhon",
         "postal": "037",
         "type": "Hot",
         "type_en": "Municipality"
     },
     "039": {
         "alt_names": [
-            "Hentii",
-            "Khentii"
+            "Orhon"
         ],
         "cca2": "MN",
         "cca3": "MNG",
@@ -545,25 +544,24 @@
             "woe_name": "Hentiy"
         },
         "geo": {
-            "latitude": 47.6081209,
-            "longitude": 109.9372856,
-            "max_latitude": 49.4067421,
-            "max_longitude": 112.6971711,
-            "min_latitude": 46.062024,
-            "min_longitude": 108.350123
+            "latitude": 49.004705,
+            "longitude": 104.3016527,
+            "max_latitude": 49.1322389,
+            "max_longitude": 104.577072,
+            "min_latitude": 48.9046019,
+            "min_longitude": 104.004139
         },
         "iso_3166_2": "MN-039",
         "iso_a2": "MN",
         "iso_a3": "MNG",
-        "name": "Hentiy",
+        "name": "Orhon",
         "postal": "039",
         "type": "Aimag|aymag",
         "type_en": "Province"
     },
     "041": {
         "alt_names": [
-            "Hovsgol",
-            "Khuvsgul"
+            "Orhon"
         ],
         "cca2": "MN",
         "cca3": "MNG",
@@ -686,24 +684,24 @@
             "woe_name": "H\u00f6vsg\u00f6l"
         },
         "geo": {
-            "latitude": 50.2204484,
-            "longitude": 100.3213768,
-            "max_latitude": 52.1542471,
-            "max_longitude": 102.78852,
-            "min_latitude": 48.233659,
-            "min_longitude": 96.879998
+            "latitude": 49.004705,
+            "longitude": 104.3016527,
+            "max_latitude": 49.1322389,
+            "max_longitude": 104.577072,
+            "min_latitude": 48.9046019,
+            "min_longitude": 104.004139
         },
         "iso_3166_2": "MN-041",
         "iso_a2": "MN",
         "iso_a3": "MNG",
-        "name": "H\u00f6vsg\u00f6l",
+        "name": "Orhon",
         "postal": "041",
         "type": "Aimag|aymag",
         "type_en": "Province"
     },
     "043": {
         "alt_names": [
-            "Khovd"
+            "Orhon"
         ],
         "cca2": "MN",
         "cca3": "MNG",
@@ -826,24 +824,24 @@
             "woe_name": "Hovd"
         },
         "geo": {
-            "latitude": 48.004167,
-            "longitude": 91.65,
-            "max_latitude": 48.0193817,
-            "max_longitude": 91.6702652,
-            "min_latitude": 47.9380819,
-            "min_longitude": 91.6108704
+            "latitude": 49.004705,
+            "longitude": 104.3016527,
+            "max_latitude": 49.1322389,
+            "max_longitude": 104.577072,
+            "min_latitude": 48.9046019,
+            "min_longitude": 104.004139
         },
         "iso_3166_2": "MN-043",
         "iso_a2": "MN",
         "iso_a3": "MNG",
-        "name": "Hovd",
+        "name": "Orhon",
         "postal": "043",
         "type": "Aimag|aymag",
         "type_en": "Province"
     },
     "046": {
         "alt_names": [
-            "Uvs"
+            "Orhon"
         ],
         "cca2": "MN",
         "cca3": "MNG",
@@ -966,24 +964,24 @@
             "woe_name": "Uvs"
         },
         "geo": {
-            "latitude": 49.6449707,
-            "longitude": 93.2736576,
-            "max_latitude": 50.894646,
-            "max_longitude": 95.7276089,
-            "min_latitude": 48.4370969,
-            "min_longitude": 90.000101
+            "latitude": 49.004705,
+            "longitude": 104.3016527,
+            "max_latitude": 49.1322389,
+            "max_longitude": 104.577072,
+            "min_latitude": 48.9046019,
+            "min_longitude": 104.004139
         },
         "iso_3166_2": "MN-046",
         "iso_a2": "MN",
         "iso_a3": "MNG",
-        "name": "Uvs",
+        "name": "Orhon",
         "postal": "046",
         "type": "Aimag|aymag",
         "type_en": "Province"
     },
     "047": {
         "alt_names": [
-            "Tov"
+            "Orhon"
         ],
         "cca2": "MN",
         "cca3": "MNG",
@@ -1106,24 +1104,24 @@
             "woe_name": "T\u00f6v"
         },
         "geo": {
-            "latitude": 47.2124056,
-            "longitude": 106.41541,
-            "max_latitude": 49.1231531,
-            "max_longitude": 109.044458,
-            "min_latitude": 46.384292,
-            "min_longitude": 104.070697
+            "latitude": 49.004705,
+            "longitude": 104.3016527,
+            "max_latitude": 49.1322389,
+            "max_longitude": 104.577072,
+            "min_latitude": 48.9046019,
+            "min_longitude": 104.004139
         },
         "iso_3166_2": "MN-047",
         "iso_a2": "MN",
         "iso_a3": "MNG",
-        "name": "T\u00f6v",
+        "name": "Orhon",
         "postal": "047",
         "type": "Aimag|aymag",
         "type_en": "Province"
     },
     "049": {
         "alt_names": [
-            "Selenge"
+            "Orhon"
         ],
         "cca2": "MN",
         "cca3": "MNG",
@@ -1246,24 +1244,24 @@
             "woe_name": "Selenge"
         },
         "geo": {
-            "latitude": 50.0059273,
-            "longitude": 106.4434108,
-            "max_latitude": 50.4804,
-            "max_longitude": 108.5555881,
-            "min_latitude": 48.497168,
-            "min_longitude": 104.345383
+            "latitude": 49.004705,
+            "longitude": 104.3016527,
+            "max_latitude": 49.1322389,
+            "max_longitude": 104.577072,
+            "min_latitude": 48.9046019,
+            "min_longitude": 104.004139
         },
         "iso_3166_2": "MN-049",
         "iso_a2": "MN",
         "iso_a3": "MNG",
-        "name": "Selenge",
+        "name": "Orhon",
         "postal": "049",
         "type": "Aimag|aymag",
         "type_en": "Province"
     },
     "051": {
         "alt_names": [
-            "Sukhbaatar"
+            "Orhon"
         ],
         "cca2": "MN",
         "cca3": "MNG",
@@ -1386,24 +1384,24 @@
             "woe_name": "S\u00fchbaatar"
         },
         "geo": {
-            "latitude": 50.236389,
-            "longitude": 106.206389,
-            "max_latitude": 50.265753,
-            "max_longitude": 106.2765886,
-            "min_latitude": 50.1804158,
-            "min_longitude": 106.1433793
+            "latitude": 49.004705,
+            "longitude": 104.3016527,
+            "max_latitude": 49.1322389,
+            "max_longitude": 104.577072,
+            "min_latitude": 48.9046019,
+            "min_longitude": 104.004139
         },
         "iso_3166_2": "MN-051",
         "iso_a2": "MN",
         "iso_a3": "MNG",
-        "name": "S\u00fchbaatar",
+        "name": "Orhon",
         "postal": "051",
         "type": "Aimag|aymag",
         "type_en": "Province"
     },
     "053": {
         "alt_names": [
-            "Omnogobi"
+            "Orhon"
         ],
         "cca2": "MN",
         "cca3": "MNG",
@@ -1526,25 +1524,24 @@
             "woe_name": "\u00d6mn\u00f6govi"
         },
         "geo": {
-            "latitude": 43.500024,
-            "longitude": 104.2861116,
-            "max_latitude": 45.188183,
-            "max_longitude": 108.033485,
-            "min_latitude": 41.567638,
-            "min_longitude": 99.389793
+            "latitude": 49.004705,
+            "longitude": 104.3016527,
+            "max_latitude": 49.1322389,
+            "max_longitude": 104.577072,
+            "min_latitude": 48.9046019,
+            "min_longitude": 104.004139
         },
         "iso_3166_2": "MN-053",
         "iso_a2": "MN",
         "iso_a3": "MNG",
-        "name": "\u00d6mn\u00f6govi",
+        "name": "Orhon",
         "postal": "053",
         "type": "Aimag|aymag",
         "type_en": "Province"
     },
     "055": {
         "alt_names": [
-            "Ovorhangai",
-            "Uvurkhangai"
+            "Orhon"
         ],
         "cca2": "MN",
         "cca3": "MNG",
@@ -1667,24 +1664,24 @@
             "woe_name": "\u00d6v\u00f6rhangay"
         },
         "geo": {
-            "latitude": 45.7624392,
-            "longitude": 103.0917032,
-            "max_latitude": 47.414307,
-            "max_longitude": 104.655877,
-            "min_latitude": 44.056532,
-            "min_longitude": 101.1333329
+            "latitude": 49.004705,
+            "longitude": 104.3016527,
+            "max_latitude": 49.1322389,
+            "max_longitude": 104.577072,
+            "min_latitude": 48.9046019,
+            "min_longitude": 104.004139
         },
         "iso_3166_2": "MN-055",
         "iso_a2": "MN",
         "iso_a3": "MNG",
-        "name": "\u00d6v\u00f6rhangay",
+        "name": "Orhon",
         "postal": "055",
         "type": "Aimag|aymag",
         "type_en": "Province"
     },
     "057": {
         "alt_names": [
-            "Zavkhan"
+            "Orhon"
         ],
         "cca2": "MN",
         "cca3": "MNG",
@@ -1807,24 +1804,24 @@
             "woe_name": "Dzavhan"
         },
         "geo": {
-            "latitude": 48.2388147,
-            "longitude": 96.0703019,
-            "max_latitude": 50.041237,
-            "max_longitude": 99.2185871,
-            "min_latitude": 46.583037,
-            "min_longitude": 93.173905
+            "latitude": 49.004705,
+            "longitude": 104.3016527,
+            "max_latitude": 49.1322389,
+            "max_longitude": 104.577072,
+            "min_latitude": 48.9046019,
+            "min_longitude": 104.004139
         },
         "iso_3166_2": "MN-057",
         "iso_a2": "MN",
         "iso_a3": "MNG",
-        "name": "Dzavhan",
+        "name": "Orhon",
         "postal": "057",
         "type": "Aimag|aymag",
         "type_en": "Province"
     },
     "059": {
         "alt_names": [
-            "Dundgobi"
+            "Orhon"
         ],
         "cca2": "MN",
         "cca3": "MNG",
@@ -1947,24 +1944,24 @@
             "woe_name": "Dundgovi"
         },
         "geo": {
-            "latitude": 45.5822786,
-            "longitude": 106.7644209,
-            "max_latitude": 46.779331,
-            "max_longitude": 108.658953,
-            "min_latitude": 44.179281,
-            "min_longitude": 103.618634
+            "latitude": 49.004705,
+            "longitude": 104.3016527,
+            "max_latitude": 49.1322389,
+            "max_longitude": 104.577072,
+            "min_latitude": 48.9046019,
+            "min_longitude": 104.004139
         },
         "iso_3166_2": "MN-059",
         "iso_a2": "MN",
         "iso_a3": "MNG",
-        "name": "Dundgovi",
+        "name": "Orhon",
         "postal": "059",
         "type": "Aimag|aymag",
         "type_en": "Province"
     },
     "061": {
         "alt_names": [
-            "Dornod"
+            "Orhon"
         ],
         "cca2": "MN",
         "cca3": "MNG",
@@ -2087,24 +2084,24 @@
             "woe_name": "Dornod"
         },
         "geo": {
-            "latitude": 47.4658154,
-            "longitude": 115.3927119,
-            "max_latitude": 50.2829088,
-            "max_longitude": 119.924301,
-            "min_latitude": 46.2355,
-            "min_longitude": 111.9632341
+            "latitude": 49.004705,
+            "longitude": 104.3016527,
+            "max_latitude": 49.1322389,
+            "max_longitude": 104.577072,
+            "min_latitude": 48.9046019,
+            "min_longitude": 104.004139
         },
         "iso_3166_2": "MN-061",
         "iso_a2": "MN",
         "iso_a3": "MNG",
-        "name": "Dornod",
+        "name": "Orhon",
         "postal": "061",
         "type": "Aimag|aymag",
         "type_en": "Province"
     },
     "063": {
         "alt_names": [
-            "Dornogobi"
+            "Orhon"
         ],
         "cca2": "MN",
         "cca3": "MNG",
@@ -2227,24 +2224,24 @@
             "woe_name": "Dornogovi"
         },
         "geo": {
-            "latitude": 43.9653889,
-            "longitude": 109.1773459,
-            "max_latitude": 46.628413,
-            "max_longitude": 112.015564,
-            "min_latitude": 42.387329,
-            "min_longitude": 107.636619
+            "latitude": 49.004705,
+            "longitude": 104.3016527,
+            "max_latitude": 49.1322389,
+            "max_longitude": 104.577072,
+            "min_latitude": 48.9046019,
+            "min_longitude": 104.004139
         },
         "iso_3166_2": "MN-063",
         "iso_a2": "MN",
         "iso_a3": "MNG",
-        "name": "Dornogovi",
+        "name": "Orhon",
         "postal": "063",
         "type": "Aimag|aymag",
         "type_en": "Province"
     },
     "064": {
         "alt_names": [
-            "Gobisumber"
+            "Orhon"
         ],
         "cca2": "MN",
         "cca3": "MNG",
@@ -2367,25 +2364,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.4762754,
-            "longitude": 108.5570627,
-            "max_latitude": 46.98451,
-            "max_longitude": 109.0039898,
-            "min_latitude": 45.906124,
-            "min_longitude": 107.9454489
+            "latitude": 49.004705,
+            "longitude": 104.3016527,
+            "max_latitude": 49.1322389,
+            "max_longitude": 104.577072,
+            "min_latitude": 48.9046019,
+            "min_longitude": 104.004139
         },
         "iso_3166_2": "MN-064",
         "iso_a2": "MN",
         "iso_a3": "MNG",
-        "name": "Govi-S\u00fcmber",
+        "name": "Orhon",
         "postal": "064",
         "type": "Hot",
         "type_en": "Municipality"
     },
     "065": {
         "alt_names": [
-            "Gobi-Altai",
-            "Gobi-Altay"
+            "Orhon"
         ],
         "cca2": "MN",
         "cca3": "MNG",
@@ -2508,24 +2504,24 @@
             "woe_name": "Govi-Altay"
         },
         "geo": {
-            "latitude": 45.4511227,
-            "longitude": 95.8505766,
-            "max_latitude": 47.7823939,
-            "max_longitude": 98.466612,
-            "min_latitude": 42.705204,
-            "min_longitude": 93.063152
+            "latitude": 49.004705,
+            "longitude": 104.3016527,
+            "max_latitude": 49.1322389,
+            "max_longitude": 104.577072,
+            "min_latitude": 48.9046019,
+            "min_longitude": 104.004139
         },
         "iso_3166_2": "MN-065",
         "iso_a2": "MN",
         "iso_a3": "MNG",
-        "name": "Govi-Altay",
+        "name": "Orhon",
         "postal": "065",
         "type": "Aimag|aymag",
         "type_en": "Province"
     },
     "067": {
         "alt_names": [
-            "Bulgan"
+            "Orhon"
         ],
         "cca2": "MN",
         "cca3": "MNG",
@@ -2648,25 +2644,24 @@
             "woe_name": "Bulgan"
         },
         "geo": {
-            "latitude": 48.811944,
-            "longitude": 103.533611,
-            "max_latitude": 48.8664087,
-            "max_longitude": 103.587513,
-            "min_latitude": 48.7746887,
-            "min_longitude": 103.4531021
+            "latitude": 49.004705,
+            "longitude": 104.3016527,
+            "max_latitude": 49.1322389,
+            "max_longitude": 104.577072,
+            "min_latitude": 48.9046019,
+            "min_longitude": 104.004139
         },
         "iso_3166_2": "MN-067",
         "iso_a2": "MN",
         "iso_a3": "MNG",
-        "name": "Bulgan",
+        "name": "Orhon",
         "postal": "067",
         "type": "Aimag|aymag",
         "type_en": "Province"
     },
     "069": {
         "alt_names": [
-            "Bayanhongor",
-            "Bayankhongor"
+            "Orhon"
         ],
         "cca2": "MN",
         "cca3": "MNG",
@@ -2789,25 +2784,24 @@
             "woe_name": "Bayanhongor"
         },
         "geo": {
-            "latitude": 46.191667,
-            "longitude": 100.717778,
-            "max_latitude": 46.2142884,
-            "max_longitude": 100.7368184,
-            "min_latitude": 46.1453508,
-            "min_longitude": 100.6864358
+            "latitude": 49.004705,
+            "longitude": 104.3016527,
+            "max_latitude": 49.1322389,
+            "max_longitude": 104.577072,
+            "min_latitude": 48.9046019,
+            "min_longitude": 104.004139
         },
         "iso_3166_2": "MN-069",
         "iso_a2": "MN",
         "iso_a3": "MNG",
-        "name": "Bayanhongor",
+        "name": "Orhon",
         "postal": "069",
         "type": "Aimag|aymag",
         "type_en": "Province"
     },
     "071": {
         "alt_names": [
-            "Bayan-Olgii",
-            "Bayan-Ulgii"
+            "Orhon"
         ],
         "cca2": "MN",
         "cca3": "MNG",
@@ -2930,26 +2924,24 @@
             "woe_name": "Bayan-\u00d6lgiy"
         },
         "geo": {
-            "latitude": 48.3983254,
-            "longitude": 89.6625915,
-            "max_latitude": 50.009587,
-            "max_longitude": 91.9268699,
-            "min_latitude": 46.544199,
-            "min_longitude": 87.7496641
+            "latitude": 49.004705,
+            "longitude": 104.3016527,
+            "max_latitude": 49.1322389,
+            "max_longitude": 104.577072,
+            "min_latitude": 48.9046019,
+            "min_longitude": 104.004139
         },
         "iso_3166_2": "MN-071",
         "iso_a2": "MN",
         "iso_a3": "MNG",
-        "name": "Bayan-\u00d6lgiy",
+        "name": "Orhon",
         "postal": "071",
         "type": "Aimag|aymag",
         "type_en": "Province"
     },
     "073": {
         "alt_names": [
-            "Arhangai",
-            "Arhangay",
-            "Arkhangai"
+            "Orhon"
         ],
         "cca2": "MN",
         "cca3": "MNG",
@@ -3072,17 +3064,17 @@
             "woe_name": "Arhangay"
         },
         "geo": {
-            "latitude": 47.8971101,
-            "longitude": 100.7240165,
-            "max_latitude": 49.1983439,
-            "max_longitude": 103.673478,
-            "min_latitude": 46.826294,
-            "min_longitude": 98.166168
+            "latitude": 49.004705,
+            "longitude": 104.3016527,
+            "max_latitude": 49.1322389,
+            "max_longitude": 104.577072,
+            "min_latitude": 48.9046019,
+            "min_longitude": 104.004139
         },
         "iso_3166_2": "MN-073",
         "iso_a2": "MN",
         "iso_a3": "MNG",
-        "name": "Arhangay",
+        "name": "Orhon",
         "postal": "073",
         "type": "Aimag|aymag",
         "type_en": "Province"

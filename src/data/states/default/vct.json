@@ -141,7 +141,7 @@
     },
     "02": {
         "alt_names": [
-            "Saint Andrew"
+            "Charlotte"
         ],
         "cca2": "VC",
         "cca3": "VCT",
@@ -264,24 +264,24 @@
             "woe_name": "Saint Andrew"
         },
         "geo": {
-            "latitude": 13.2008061,
-            "longitude": -61.2393885,
-            "max_latitude": 13.237138,
-            "max_longitude": -61.1988969,
-            "min_latitude": 13.1545565,
-            "min_longitude": -61.2786131
+            "latitude": 13.2175451,
+            "longitude": -61.1636244,
+            "max_latitude": 13.3830995,
+            "max_longitude": -61.1154812,
+            "min_latitude": 13.1704095,
+            "min_longitude": -61.2052961
         },
         "iso_3166_2": "VC-02",
         "iso_a2": "VC",
         "iso_a3": "VCT",
-        "name": "Saint Andrew",
+        "name": "Charlotte",
         "postal": "02",
         "type": "Parish",
         "type_en": "Parish"
     },
     "03": {
         "alt_names": [
-            "Saint David"
+            "Charlotte"
         ],
         "cca2": "VC",
         "cca3": "VCT",
@@ -404,24 +404,24 @@
             "woe_name": "Saint David"
         },
         "geo": {
-            "latitude": 13.3154926,
-            "longitude": -61.1985879,
-            "max_latitude": 13.3817949,
-            "max_longitude": -61.165864,
-            "min_latitude": 13.258588,
-            "min_longitude": -61.262369
+            "latitude": 13.2175451,
+            "longitude": -61.1636244,
+            "max_latitude": 13.3830995,
+            "max_longitude": -61.1154812,
+            "min_latitude": 13.1704095,
+            "min_longitude": -61.2052961
         },
         "iso_3166_2": "VC-03",
         "iso_a2": "VC",
         "iso_a3": "VCT",
-        "name": "Saint David",
+        "name": "Charlotte",
         "postal": "03",
         "type": "Parish",
         "type_en": "Parish"
     },
     "04": {
         "alt_names": [
-            "Saint George"
+            "Charlotte"
         ],
         "cca2": "VC",
         "cca3": "VCT",
@@ -544,24 +544,24 @@
             "woe_name": "Saint George"
         },
         "geo": {
-            "latitude": 13.1698266,
-            "longitude": -61.1985879,
-            "max_latitude": 13.213651,
-            "max_longitude": -61.14351,
-            "min_latitude": 13.122844,
-            "min_longitude": -61.2366879
+            "latitude": 13.2175451,
+            "longitude": -61.1636244,
+            "max_latitude": 13.3830995,
+            "max_longitude": -61.1154812,
+            "min_latitude": 13.1704095,
+            "min_longitude": -61.2052961
         },
         "iso_3166_2": "VC-04",
         "iso_a2": "VC",
         "iso_a3": "VCT",
-        "name": "Saint George",
+        "name": "Charlotte",
         "postal": "04",
         "type": "Parish",
         "type_en": "Parish"
     },
     "05": {
         "alt_names": [
-            "Saint Patrick"
+            "Charlotte"
         ],
         "cca2": "VC",
         "cca3": "VCT",
@@ -684,24 +684,24 @@
             "woe_name": "Saint Patrick"
         },
         "geo": {
-            "latitude": 13.2379389,
-            "longitude": -61.245218,
-            "max_latitude": 13.2749832,
-            "max_longitude": -61.1890409,
-            "min_latitude": 13.2022794,
-            "min_longitude": -61.2790731
+            "latitude": 13.2175451,
+            "longitude": -61.1636244,
+            "max_latitude": 13.3830995,
+            "max_longitude": -61.1154812,
+            "min_latitude": 13.1704095,
+            "min_longitude": -61.2052961
         },
         "iso_3166_2": "VC-05",
         "iso_a2": "VC",
         "iso_a3": "VCT",
-        "name": "Saint Patrick",
+        "name": "Charlotte",
         "postal": "05",
         "type": "Parish",
         "type_en": "Parish"
     },
     "06": {
         "alt_names": [
-            "Grenadines"
+            "Charlotte"
         ],
         "cca2": "VC",
         "cca3": "VCT",
@@ -824,17 +824,17 @@
             "woe_name": "Grenadines"
         },
         "geo": {
-            "latitude": 12.6666667,
-            "longitude": -61.25,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 13.2175451,
+            "longitude": -61.1636244,
+            "max_latitude": 13.3830995,
+            "max_longitude": -61.1154812,
+            "min_latitude": 13.1704095,
+            "min_longitude": -61.2052961
         },
         "iso_3166_2": "VC-06",
         "iso_a2": "VC",
         "iso_a3": "VCT",
-        "name": "Grenadines",
+        "name": "Charlotte",
         "postal": "06",
         "type": "Parish",
         "type_en": "Parish"

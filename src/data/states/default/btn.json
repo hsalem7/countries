@@ -142,9 +142,8 @@
     },
     "12": {
         "alt_names": [
-            "Chhuka",
-            "Chuka",
-            "Chukha"
+            "Paro",
+            "Rinpung"
         ],
         "cca2": "BT",
         "cca3": "BTN",
@@ -267,25 +266,25 @@
             "woe_name": "Chhukha"
         },
         "geo": {
-            "latitude": 27.0522919,
-            "longitude": 89.5756987,
-            "max_latitude": 27.0611895,
-            "max_longitude": 89.5806313,
-            "min_latitude": 27.0483479,
-            "min_longitude": 89.5604609
+            "latitude": 27.4285949,
+            "longitude": 89.4166516,
+            "max_latitude": 27.7510569,
+            "max_longitude": 89.563836,
+            "min_latitude": 27.1771741,
+            "min_longitude": 89.131271
         },
         "iso_3166_2": "BT-12",
         "iso_a2": "BT",
         "iso_a3": "BTN",
-        "name": "Chhukha",
+        "name": "Paro",
         "postal": "12",
         "type": "Dzongkhag",
         "type_en": "District"
     },
     "13": {
         "alt_names": [
-            "Ha",
-            "Haa"
+            "Paro",
+            "Rinpung"
         ],
         "cca2": "BT",
         "cca3": "BTN",
@@ -408,25 +407,25 @@
             "woe_name": "Ha"
         },
         "geo": {
-            "latitude": 27.2651669,
-            "longitude": 89.1705998,
-            "max_latitude": 27.6211449,
-            "max_longitude": 89.395981,
-            "min_latitude": 27.0723781,
-            "min_longitude": 88.895052
+            "latitude": 27.4285949,
+            "longitude": 89.4166516,
+            "max_latitude": 27.7510569,
+            "max_longitude": 89.563836,
+            "min_latitude": 27.1771741,
+            "min_longitude": 89.131271
         },
         "iso_3166_2": "BT-13",
         "iso_a2": "BT",
         "iso_a3": "BTN",
-        "name": "Ha",
+        "name": "Paro",
         "postal": "13",
         "type": "Dzongkhag",
         "type_en": "District"
     },
     "14": {
         "alt_names": [
-            "Samchi",
-            "Samtse"
+            "Paro",
+            "Rinpung"
         ],
         "cca2": "BT",
         "cca3": "BTN",
@@ -549,29 +548,25 @@
             "woe_name": "Samchi"
         },
         "geo": {
-            "latitude": 26.9131041,
-            "longitude": 89.0836019,
-            "max_latitude": 26.9162536,
-            "max_longitude": 89.090538,
-            "min_latitude": 26.9078347,
-            "min_longitude": 89.0766335
+            "latitude": 27.4285949,
+            "longitude": 89.4166516,
+            "max_latitude": 27.7510569,
+            "max_longitude": 89.563836,
+            "min_latitude": 27.1771741,
+            "min_longitude": 89.131271
         },
         "iso_3166_2": "BT-14",
         "iso_a2": "BT",
         "iso_a3": "BTN",
-        "name": "Samtse",
+        "name": "Paro",
         "postal": "14",
         "type": "Dzongkhag",
         "type_en": "District"
     },
     "15": {
         "alt_names": [
-            "Thimbu",
-            "Thimphu",
-            "Thimpu",
-            "Timbhu",
-            "Timbu",
-            "Timphu"
+            "Paro",
+            "Rinpung"
         ],
         "cca2": "BT",
         "cca3": "BTN",
@@ -694,25 +689,25 @@
             "woe_name": "Thimphu"
         },
         "geo": {
-            "latitude": 27.4727924,
-            "longitude": 89.6392863,
-            "max_latitude": 27.5336949,
-            "max_longitude": 89.6726418,
-            "min_latitude": 27.4251092,
-            "min_longitude": 89.6041488
+            "latitude": 27.4285949,
+            "longitude": 89.4166516,
+            "max_latitude": 27.7510569,
+            "max_longitude": 89.563836,
+            "min_latitude": 27.1771741,
+            "min_longitude": 89.131271
         },
         "iso_3166_2": "BT-15",
         "iso_a2": "BT",
         "iso_a3": "BTN",
-        "name": "Thimphu",
+        "name": "Paro",
         "postal": "15",
         "type": "Dzongkhag",
         "type_en": "District"
     },
     "21": {
         "alt_names": [
-            "Chirang",
-            "Tsirang"
+            "Paro",
+            "Rinpung"
         ],
         "cca2": "BT",
         "cca3": "BTN",
@@ -835,25 +830,25 @@
             "woe_name": "Chirang"
         },
         "geo": {
-            "latitude": 27.032207,
-            "longitude": 90.1869644,
-            "max_latitude": 27.177361,
-            "max_longitude": 90.357412,
-            "min_latitude": 26.8187539,
-            "min_longitude": 90.0039251
+            "latitude": 27.4285949,
+            "longitude": 89.4166516,
+            "max_latitude": 27.7510569,
+            "max_longitude": 89.563836,
+            "min_latitude": 27.1771741,
+            "min_longitude": 89.131271
         },
         "iso_3166_2": "BT-21",
         "iso_a2": "BT",
         "iso_a3": "BTN",
-        "name": "Tsirang",
+        "name": "Paro",
         "postal": "21",
         "type": "Dzongkhag",
         "type_en": "District"
     },
     "22": {
         "alt_names": [
-            "Daga",
-            "Dagana"
+            "Paro",
+            "Rinpung"
         ],
         "cca2": "BT",
         "cca3": "BTN",
@@ -976,24 +971,25 @@
             "woe_name": "Daga"
         },
         "geo": {
-            "latitude": 27.0322861,
-            "longitude": 89.8879304,
-            "max_latitude": 27.26369,
-            "max_longitude": 90.081441,
-            "min_latitude": 26.808901,
-            "min_longitude": 89.648614
+            "latitude": 27.4285949,
+            "longitude": 89.4166516,
+            "max_latitude": 27.7510569,
+            "max_longitude": 89.563836,
+            "min_latitude": 27.1771741,
+            "min_longitude": 89.131271
         },
         "iso_3166_2": "BT-22",
         "iso_a2": "BT",
         "iso_a3": "BTN",
-        "name": "Dagana",
+        "name": "Paro",
         "postal": "22",
         "type": "Dzongkhag",
         "type_en": "District"
     },
     "23": {
         "alt_names": [
-            "Punakha"
+            "Paro",
+            "Rinpung"
         ],
         "cca2": "BT",
         "cca3": "BTN",
@@ -1116,27 +1112,25 @@
             "woe_name": "Punakha"
         },
         "geo": {
-            "latitude": 27.5920869,
-            "longitude": 89.8797459,
-            "max_latitude": 27.5961249,
-            "max_longitude": 89.8855448,
-            "min_latitude": 27.5877193,
-            "min_longitude": 89.8721123
+            "latitude": 27.4285949,
+            "longitude": 89.4166516,
+            "max_latitude": 27.7510569,
+            "max_longitude": 89.563836,
+            "min_latitude": 27.1771741,
+            "min_longitude": 89.131271
         },
         "iso_3166_2": "BT-23",
         "iso_a2": "BT",
         "iso_a3": "BTN",
-        "name": "Punakha",
+        "name": "Paro",
         "postal": "23",
         "type": "Dzongkhag",
         "type_en": "District"
     },
     "24": {
         "alt_names": [
-            "Wangdi Phodrang",
-            "Wangdiphodrang",
-            "Wangdue",
-            "Wangdue Phodrang"
+            "Paro",
+            "Rinpung"
         ],
         "cca2": "BT",
         "cca3": "BTN",
@@ -1259,27 +1253,25 @@
             "woe_name": "Wangdi Phodrang"
         },
         "geo": {
-            "latitude": 27.4879018,
-            "longitude": 89.8996196,
-            "max_latitude": 27.4991359,
-            "max_longitude": 89.9055432,
-            "min_latitude": 27.474542,
-            "min_longitude": 89.8926686
+            "latitude": 27.4285949,
+            "longitude": 89.4166516,
+            "max_latitude": 27.7510569,
+            "max_longitude": 89.563836,
+            "min_latitude": 27.1771741,
+            "min_longitude": 89.131271
         },
         "iso_3166_2": "BT-24",
         "iso_a2": "BT",
         "iso_a3": "BTN",
-        "name": "Wangdue Phodrang",
+        "name": "Paro",
         "postal": "24",
         "type": "Dzongkhag",
         "type_en": "District"
     },
     "31": {
         "alt_names": [
-            "Gaylegphug",
-            "Geylegphug",
-            "Sarbhang",
-            "Sarpang"
+            "Paro",
+            "Rinpung"
         ],
         "cca2": "BT",
         "cca3": "BTN",
@@ -1402,25 +1394,25 @@
             "woe_name": "Geylegphug"
         },
         "geo": {
-            "latitude": 26.9373041,
-            "longitude": 90.4879916,
-            "max_latitude": 27.209321,
-            "max_longitude": 90.963801,
-            "min_latitude": 26.7076319,
-            "min_longitude": 89.734461
+            "latitude": 27.4285949,
+            "longitude": 89.4166516,
+            "max_latitude": 27.7510569,
+            "max_longitude": 89.563836,
+            "min_latitude": 27.1771741,
+            "min_longitude": 89.131271
         },
         "iso_3166_2": "BT-31",
         "iso_a2": "BT",
         "iso_a3": "BTN",
-        "name": "Sarpang",
+        "name": "Paro",
         "postal": "31",
         "type": "Dzongkhag",
         "type_en": "District"
     },
     "32": {
         "alt_names": [
-            "Tongsa",
-            "Trongsa"
+            "Paro",
+            "Rinpung"
         ],
         "cca2": "BT",
         "cca3": "BTN",
@@ -1543,24 +1535,25 @@
             "woe_name": "Tongsa"
         },
         "geo": {
-            "latitude": 27.5002269,
-            "longitude": 90.5080634,
-            "max_latitude": 27.508043,
-            "max_longitude": 90.5157137,
-            "min_latitude": 27.4940347,
-            "min_longitude": 90.5036116
+            "latitude": 27.4285949,
+            "longitude": 89.4166516,
+            "max_latitude": 27.7510569,
+            "max_longitude": 89.563836,
+            "min_latitude": 27.1771741,
+            "min_longitude": 89.131271
         },
         "iso_3166_2": "BT-32",
         "iso_a2": "BT",
         "iso_a3": "BTN",
-        "name": "Trongsa",
+        "name": "Paro",
         "postal": "32",
         "type": "Dzongkhag",
         "type_en": "District"
     },
     "33": {
         "alt_names": [
-            "Bumthang"
+            "Paro",
+            "Rinpung"
         ],
         "cca2": "BT",
         "cca3": "BTN",
@@ -1683,25 +1676,25 @@
             "woe_name": "Bumthang"
         },
         "geo": {
-            "latitude": 27.641839,
-            "longitude": 90.6773046,
-            "max_latitude": 28.090851,
-            "max_longitude": 91.0160089,
-            "min_latitude": 27.320946,
-            "min_longitude": 90.484435
+            "latitude": 27.4285949,
+            "longitude": 89.4166516,
+            "max_latitude": 27.7510569,
+            "max_longitude": 89.563836,
+            "min_latitude": 27.1771741,
+            "min_longitude": 89.131271
         },
         "iso_3166_2": "BT-33",
         "iso_a2": "BT",
         "iso_a3": "BTN",
-        "name": "Bumthang",
+        "name": "Paro",
         "postal": "33",
         "type": "Dzongkhag",
         "type_en": "District"
     },
     "34": {
         "alt_names": [
-            "Shemgang",
-            "Zhemgang"
+            "Paro",
+            "Rinpung"
         ],
         "cca2": "BT",
         "cca3": "BTN",
@@ -1824,25 +1817,25 @@
             "woe_name": "Shemgang"
         },
         "geo": {
-            "latitude": 27.1439047,
-            "longitude": 90.6903529,
-            "max_latitude": 27.1492833,
-            "max_longitude": 90.6956578,
-            "min_latitude": 27.1353061,
-            "min_longitude": 90.6856155
+            "latitude": 27.4285949,
+            "longitude": 89.4166516,
+            "max_latitude": 27.7510569,
+            "max_longitude": 89.563836,
+            "min_latitude": 27.1771741,
+            "min_longitude": 89.131271
         },
         "iso_3166_2": "BT-34",
         "iso_a2": "BT",
         "iso_a3": "BTN",
-        "name": "Zhemgang",
+        "name": "Paro",
         "postal": "34",
         "type": "Dzongkhag",
         "type_en": "District"
     },
     "41": {
         "alt_names": [
-            "Tashigang",
-            "Trashigang"
+            "Paro",
+            "Rinpung"
         ],
         "cca2": "BT",
         "cca3": "BTN",
@@ -1965,25 +1958,25 @@
             "woe_name": "Tashigang"
         },
         "geo": {
-            "latitude": 27.2566795,
-            "longitude": 91.7538817,
-            "max_latitude": 27.482902,
-            "max_longitude": 92.1251979,
-            "min_latitude": 27.0165199,
-            "min_longitude": 91.378786
+            "latitude": 27.4285949,
+            "longitude": 89.4166516,
+            "max_latitude": 27.7510569,
+            "max_longitude": 89.563836,
+            "min_latitude": 27.1771741,
+            "min_longitude": 89.131271
         },
         "iso_3166_2": "BT-41",
         "iso_a2": "BT",
         "iso_a3": "BTN",
-        "name": "Trashigang",
+        "name": "Paro",
         "postal": "41",
         "type": "Dzongkhag",
         "type_en": "District"
     },
     "42": {
         "alt_names": [
-            "Monggar",
-            "Mongor"
+            "Paro",
+            "Rinpung"
         ],
         "cca2": "BT",
         "cca3": "BTN",
@@ -2106,25 +2099,25 @@
             "woe_name": "Mongar"
         },
         "geo": {
-            "latitude": 27.275,
-            "longitude": 91.24,
-            "max_latitude": 27.280493,
-            "max_longitude": 91.2454034,
-            "min_latitude": 27.2708807,
-            "min_longitude": 91.2341595
+            "latitude": 27.4285949,
+            "longitude": 89.4166516,
+            "max_latitude": 27.7510569,
+            "max_longitude": 89.563836,
+            "min_latitude": 27.1771741,
+            "min_longitude": 89.131271
         },
         "iso_3166_2": "BT-42",
         "iso_a2": "BT",
         "iso_a3": "BTN",
-        "name": "Monggar",
+        "name": "Paro",
         "postal": "42",
         "type": "Dzongkhag",
         "type_en": "District"
     },
     "43": {
         "alt_names": [
-            "Pema Gatshel",
-            "Pemagatsel"
+            "Paro",
+            "Rinpung"
         ],
         "cca2": "BT",
         "cca3": "BTN",
@@ -2247,27 +2240,25 @@
             "woe_name": "Pemagatsel"
         },
         "geo": {
-            "latitude": 27.002382,
-            "longitude": 91.3469247,
-            "max_latitude": 27.1670959,
-            "max_longitude": 91.517646,
-            "min_latitude": 26.8459449,
-            "min_longitude": 91.173817
+            "latitude": 27.4285949,
+            "longitude": 89.4166516,
+            "max_latitude": 27.7510569,
+            "max_longitude": 89.563836,
+            "min_latitude": 27.1771741,
+            "min_longitude": 89.131271
         },
         "iso_3166_2": "BT-43",
         "iso_a2": "BT",
         "iso_a3": "BTN",
-        "name": "Pemagatshel",
+        "name": "Paro",
         "postal": "43",
         "type": "Dzongkhag",
         "type_en": "District"
     },
     "44": {
         "alt_names": [
-            "Lhuentse",
-            "Lhun Tshi",
-            "Lhuntshi",
-            "Lhuntsi"
+            "Paro",
+            "Rinpung"
         ],
         "cca2": "BT",
         "cca3": "BTN",
@@ -2390,26 +2381,25 @@
             "woe_name": "Lhuntshi"
         },
         "geo": {
-            "latitude": 27.6649208,
-            "longitude": 91.1761004,
-            "max_latitude": 27.677438,
-            "max_longitude": 91.1892156,
-            "min_latitude": 27.6492443,
-            "min_longitude": 91.1688424
+            "latitude": 27.4285949,
+            "longitude": 89.4166516,
+            "max_latitude": 27.7510569,
+            "max_longitude": 89.563836,
+            "min_latitude": 27.1771741,
+            "min_longitude": 89.131271
         },
         "iso_3166_2": "BT-44",
         "iso_a2": "BT",
         "iso_a3": "BTN",
-        "name": "Lhuentse",
+        "name": "Paro",
         "postal": "44",
         "type": "Dzongkhag",
         "type_en": "District"
     },
     "45": {
         "alt_names": [
-            "Samdruk Jongkhar",
-            "Samdrup",
-            "Samdrup Jongkha"
+            "Paro",
+            "Rinpung"
         ],
         "cca2": "BT",
         "cca3": "BTN",
@@ -2532,24 +2522,25 @@
             "woe_name": "Samdrup Jongkhar"
         },
         "geo": {
-            "latitude": 26.928696,
-            "longitude": 91.637215,
-            "max_latitude": 27.2464701,
-            "max_longitude": 92.1221539,
-            "min_latitude": 26.777367,
-            "min_longitude": 90.995525
+            "latitude": 27.4285949,
+            "longitude": 89.4166516,
+            "max_latitude": 27.7510569,
+            "max_longitude": 89.563836,
+            "min_latitude": 27.1771741,
+            "min_longitude": 89.131271
         },
         "iso_3166_2": "BT-45",
         "iso_a2": "BT",
         "iso_a3": "BTN",
-        "name": "Samdrup Jongkha",
+        "name": "Paro",
         "postal": "45",
         "type": "Dzongkhag",
         "type_en": "District"
     },
     "GA": {
         "alt_names": [
-            "Gaza"
+            "Paro",
+            "Rinpung"
         ],
         "cca2": "BT",
         "cca3": "BTN",
@@ -2672,24 +2663,25 @@
             "woe_name": "Gasa"
         },
         "geo": {
-            "latitude": 28.0185886,
-            "longitude": 89.9253233,
-            "max_latitude": 28.323778,
-            "max_longitude": 90.617648,
-            "min_latitude": 27.687483,
-            "min_longitude": 89.4369429
+            "latitude": 27.4285949,
+            "longitude": 89.4166516,
+            "max_latitude": 27.7510569,
+            "max_longitude": 89.563836,
+            "min_latitude": 27.1771741,
+            "min_longitude": 89.131271
         },
         "iso_3166_2": "BT-GA",
         "iso_a2": "BT",
         "iso_a3": "BTN",
-        "name": "Gasa",
+        "name": "Paro",
         "postal": "GA",
         "type": "Dzongkhag",
         "type_en": "District"
     },
     "TY": {
         "alt_names": [
-            "Tashiyangtse"
+            "Paro",
+            "Rinpung"
         ],
         "cca2": "BT",
         "cca3": "BTN",
@@ -2812,17 +2804,17 @@
             "woe_name": "Tashi Yangtse"
         },
         "geo": {
-            "latitude": 27.583333,
-            "longitude": 91.466667,
-            "max_latitude": 28.050773,
-            "max_longitude": 91.7378998,
-            "min_latitude": 27.383962,
-            "min_longitude": 91.3176727
+            "latitude": 27.4285949,
+            "longitude": 89.4166516,
+            "max_latitude": 27.7510569,
+            "max_longitude": 89.563836,
+            "min_latitude": 27.1771741,
+            "min_longitude": 89.131271
         },
         "iso_3166_2": "BT-TY",
         "iso_a2": "BT",
         "iso_a3": "BTN",
-        "name": "Trashi Yangtse",
+        "name": "Paro",
         "postal": "TY",
         "type": "Dzongkhag",
         "type_en": "District"

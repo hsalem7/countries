@@ -142,8 +142,8 @@
     },
     "02": {
         "alt_names": [
-            "Azarbayj\u0101n-e Bakhtari",
-            "West Azerbaijan"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -266,25 +266,25 @@
             "woe_name": "West Azarbaijan"
         },
         "geo": {
-            "latitude": 34.0489281,
-            "longitude": -111.0937311,
-            "max_latitude": 37.0042599,
-            "max_longitude": -109.0452231,
-            "min_latitude": 31.3321771,
-            "min_longitude": -114.8165909
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-02",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Az\u00afarbayjan-e Gharbi",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "02",
         "type": "Ostan",
         "type_en": "Province"
     },
     "03": {
         "alt_names": [
-            "Ardabil",
-            "Ardebil"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -407,24 +407,25 @@
             "woe_name": "Ardebil"
         },
         "geo": {
-            "latitude": 38.25,
-            "longitude": 48.283333,
-            "max_latitude": 38.3550081,
-            "max_longitude": 48.4719989,
-            "min_latitude": 38.1784257,
-            "min_longitude": 48.2100678
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-03",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Ardabil",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "03",
         "type": "Ostan",
         "type_en": "Province"
     },
     "04": {
         "alt_names": [
-            "Isfahan"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -547,24 +548,25 @@
             "woe_name": "Esfahan"
         },
         "geo": {
-            "latitude": 32.6546275,
-            "longitude": 51.6679826,
-            "max_latitude": 32.8200277,
-            "max_longitude": 51.8486024,
-            "min_latitude": 32.5045501,
-            "min_longitude": 51.5254498
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-04",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Esfahan",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "04",
         "type": "Ostan",
         "type_en": "Province"
     },
     "05": {
         "alt_names": [
-            "Ilam"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -687,24 +689,25 @@
             "woe_name": "Ilam"
         },
         "geo": {
-            "latitude": 33.6375,
-            "longitude": 46.422778,
-            "max_latitude": 33.6528069,
-            "max_longitude": 46.4482427,
-            "min_latitude": 33.6210342,
-            "min_longitude": 46.3797726
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-05",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Ilam",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "05",
         "type": "Ostan",
         "type_en": "Province"
     },
     "06": {
         "alt_names": [
-            "Bushehr"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -827,24 +830,25 @@
             "woe_name": "Bushehr"
         },
         "geo": {
-            "latitude": 28.9780255,
-            "longitude": 50.8379918,
-            "max_latitude": 28.9784922,
-            "max_longitude": 50.8385061,
-            "min_latitude": 28.9775018,
-            "min_longitude": 50.8374439
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-06",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Bushehr",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "06",
         "type": "Ostan",
         "type_en": "Province"
     },
     "07": {
         "alt_names": [
-            "Teheran"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -967,24 +971,25 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 35.7006336,
-            "longitude": 51.4716563,
-            "max_latitude": 35.7107648,
-            "max_longitude": 51.4861434,
-            "min_latitude": 35.6910776,
-            "min_longitude": 51.4592261
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-07",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Tehran",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "07",
         "type": "Ostan",
         "type_en": "Province"
     },
     "08": {
         "alt_names": [
-            "Chaharmahal Bakhtiari"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -1107,24 +1112,25 @@
             "woe_name": "Chahar Mahall and Bakhtiari"
         },
         "geo": {
-            "latitude": 31.9614348,
-            "longitude": 50.8456323,
-            "max_latitude": 32.700775,
-            "max_longitude": 51.3524481,
-            "min_latitude": 31.112481,
-            "min_longitude": 49.7608151
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-08",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Chahar Mah\u00b8all va Bakhtiari",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "08",
         "type": "Ostan",
         "type_en": "Province"
     },
     "10": {
         "alt_names": [
-            "Arabistan"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -1247,24 +1253,25 @@
             "woe_name": "Khuzestan"
         },
         "geo": {
-            "latitude": 31.4360149,
-            "longitude": 49.041312,
-            "max_latitude": 33.09328,
-            "max_longitude": 50.433708,
-            "min_latitude": 29.9426961,
-            "min_longitude": 47.614482
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-10",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Khuzestan",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "10",
         "type": "Ostan",
         "type_en": "Province"
     },
     "11": {
         "alt_names": [
-            "Zanjan"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -1387,24 +1394,25 @@
             "woe_name": "Zanjan"
         },
         "geo": {
-            "latitude": 36.666667,
-            "longitude": 48.483333,
-            "max_latitude": 36.726124,
-            "max_longitude": 48.6016273,
-            "min_latitude": 36.6359171,
-            "min_longitude": 48.384819
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-11",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Zanjan",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "11",
         "type": "Ostan",
         "type_en": "Province"
     },
     "12": {
         "alt_names": [
-            "Semnan"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -1527,24 +1535,25 @@
             "woe_name": "Semnan"
         },
         "geo": {
-            "latitude": 35.572778,
-            "longitude": 53.397222,
-            "max_latitude": 35.6169769,
-            "max_longitude": 53.436985,
-            "min_latitude": 35.5383726,
-            "min_longitude": 53.3312416
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-12",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Semnan",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "12",
         "type": "Ostan",
         "type_en": "Province"
     },
     "13": {
         "alt_names": [
-            "Sistan-e Baluchistan"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -1667,24 +1676,25 @@
             "woe_name": "Sistan and Baluchestan"
         },
         "geo": {
-            "latitude": 27.2001559,
-            "longitude": 60.6392527,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-13",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Sistan va Baluchestan",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "13",
         "type": "Ostan",
         "type_en": "Province"
     },
     "14": {
         "alt_names": [
-            "Fars"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -1807,24 +1817,25 @@
             "woe_name": "Fars"
         },
         "geo": {
-            "latitude": 29.1043813,
-            "longitude": 53.045893,
-            "max_latitude": 31.763714,
-            "max_longitude": 55.6170359,
-            "min_latitude": 27.147872,
-            "min_longitude": 50.582478
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-14",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Fars",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "14",
         "type": "Ostan",
         "type_en": "Province"
     },
     "15": {
         "alt_names": [
-            "Kerman"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -1947,25 +1958,25 @@
             "woe_name": "Kerman"
         },
         "geo": {
-            "latitude": 30.2839379,
-            "longitude": 57.0833628,
-            "max_latitude": 30.3459171,
-            "max_longitude": 57.1968843,
-            "min_latitude": 30.2001849,
-            "min_longitude": 56.9356155
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-15",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Kerman",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "15",
         "type": "Ostan",
         "type_en": "Province"
     },
     "16": {
         "alt_names": [
-            "Kurdestan",
-            "Kurdistan"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -2088,24 +2099,25 @@
             "woe_name": "Kordestan"
         },
         "geo": {
-            "latitude": 34.3135711,
-            "longitude": 47.0535126,
-            "max_latitude": 34.3188878,
-            "max_longitude": 47.0581582,
-            "min_latitude": 34.3086925,
-            "min_longitude": 47.0484325
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-16",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Kordestan",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "16",
         "type": "Ostan",
         "type_en": "Province"
     },
     "17": {
         "alt_names": [
-            "Bakhtaran"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -2228,25 +2240,25 @@
             "woe_name": "Kermanshah"
         },
         "geo": {
-            "latitude": 34.3135711,
-            "longitude": 47.0535126,
-            "max_latitude": 34.3188878,
-            "max_longitude": 47.0581582,
-            "min_latitude": 34.3086925,
-            "min_longitude": 47.0484325
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-17",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Kermanshah",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "17",
         "type": "Ostan",
         "type_en": "Province"
     },
     "18": {
         "alt_names": [
-            "Boyer Ahmad-e Kohkiluyeh",
-            "Kohkilouyeh"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -2369,24 +2381,25 @@
             "woe_name": "Kohgiluyeh and Buyer Ahmad"
         },
         "geo": {
-            "latitude": 30.724586,
-            "longitude": 50.8456323,
-            "max_latitude": 31.5126911,
-            "max_longitude": 51.6962241,
-            "min_latitude": 30.171534,
-            "min_longitude": 49.913279
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-18",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Kohkiluyeh va Buyer Ahmad",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "18",
         "type": "Ostan",
         "type_en": "Province"
     },
     "19": {
         "alt_names": [
-            "Gilan"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -2509,24 +2522,25 @@
             "woe_name": "Gilan"
         },
         "geo": {
-            "latitude": 37.4651668,
-            "longitude": 49.4611697,
-            "max_latitude": 37.4669978,
-            "max_longitude": 49.4642952,
-            "min_latitude": 37.4634536,
-            "min_longitude": 49.4595517
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-19",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Gilan",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "19",
         "type": "Ostan",
         "type_en": "Province"
     },
     "20": {
         "alt_names": [
-            "Lorestan"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -2649,24 +2663,25 @@
             "woe_name": "Lorestan"
         },
         "geo": {
-            "latitude": 33.5818394,
-            "longitude": 48.3988186,
-            "max_latitude": 34.412064,
-            "max_longitude": 50.0329071,
-            "min_latitude": 32.643707,
-            "min_longitude": 46.872047
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-20",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Lorestan",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "20",
         "type": "Ostan",
         "type_en": "Province"
     },
     "21": {
         "alt_names": [
-            "Mazandaran"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -2789,24 +2804,25 @@
             "woe_name": "Mazandaran"
         },
         "geo": {
-            "latitude": 36.2262393,
-            "longitude": 52.5318604,
-            "max_latitude": 36.9641991,
-            "max_longitude": 54.232438,
-            "min_latitude": 35.774562,
-            "min_longitude": 50.308859
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-21",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Mazandaran",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "21",
         "type": "Ostan",
         "type_en": "Province"
     },
     "22": {
         "alt_names": [
-            "Markazi"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -2929,24 +2945,25 @@
             "woe_name": "Markazi"
         },
         "geo": {
-            "latitude": 34.612305,
-            "longitude": 49.8547266,
-            "max_latitude": 35.710403,
-            "max_longitude": 51.0862229,
-            "min_latitude": 33.5383001,
-            "min_longitude": 48.889122
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-22",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Markazi",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "22",
         "type": "Ostan",
         "type_en": "Province"
     },
     "23": {
         "alt_names": [
-            "Hormozgan"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -3069,24 +3086,25 @@
             "woe_name": "Hormozgan"
         },
         "geo": {
-            "latitude": 27.1907825,
-            "longitude": 56.2635988,
-            "max_latitude": 27.1963352,
-            "max_longitude": 56.2897182,
-            "min_latitude": 27.1667586,
-            "min_longitude": 56.2467733
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-23",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Hormozgan",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "23",
         "type": "Ostan",
         "type_en": "Province"
     },
     "24": {
         "alt_names": [
-            "Hamedan"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -3209,24 +3227,25 @@
             "woe_name": "Hamadan"
         },
         "geo": {
-            "latitude": 34.8,
-            "longitude": 48.516667,
-            "max_latitude": 34.8825162,
-            "max_longitude": 48.5836458,
-            "min_latitude": 34.7421415,
-            "min_longitude": 48.4364891
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-24",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Hamadan",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "24",
         "type": "Ostan",
         "type_en": "Province"
     },
     "25": {
         "alt_names": [
-            "Yazd"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -3349,24 +3368,25 @@
             "woe_name": "Yazd"
         },
         "geo": {
-            "latitude": 31.8974232,
-            "longitude": 54.3568562,
-            "max_latitude": 31.9654157,
-            "max_longitude": 54.4530487,
-            "min_latitude": 31.7937011,
-            "min_longitude": 54.2245674
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-25",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Yazd",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "25",
         "type": "Ostan",
         "type_en": "Province"
     },
     "26": {
         "alt_names": [
-            "Qom"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -3489,24 +3509,25 @@
             "woe_name": "Qom"
         },
         "geo": {
-            "latitude": 34.6399443,
-            "longitude": 50.8759419,
-            "max_latitude": 34.8156355,
-            "max_longitude": 50.9421444,
-            "min_latitude": 34.5336217,
-            "min_longitude": 50.7619858
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-26",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Qom",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "26",
         "type": "Ostan",
         "type_en": "Province"
     },
     "27": {
         "alt_names": [
-            "Golestan"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -3629,24 +3650,25 @@
             "woe_name": "Golestan"
         },
         "geo": {
-            "latitude": 34.3137505,
-            "longitude": 47.0536816,
-            "max_latitude": 34.3188878,
-            "max_longitude": 47.0581582,
-            "min_latitude": 34.3086925,
-            "min_longitude": 47.0484325
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-27",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Golestan",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "27",
         "type": "Ostan",
         "type_en": "Province"
     },
     "28": {
         "alt_names": [
-            "Qazvin"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -3769,24 +3791,25 @@
             "woe_name": "Qazvin"
         },
         "geo": {
-            "latitude": 36.1840731,
-            "longitude": 50.0673777,
-            "max_latitude": 36.1854853,
-            "max_longitude": 50.0673777,
-            "min_latitude": 36.1829514,
-            "min_longitude": 50.067299
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-28",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Qazvin",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "28",
         "type": "Ostan",
         "type_en": "Province"
     },
     "29": {
         "alt_names": [
-            "Khorasan-e Janubi"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -3909,24 +3932,25 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 32.5175643,
-            "longitude": 59.1041758,
-            "max_latitude": 35.1648275,
-            "max_longitude": 61.144714,
-            "min_latitude": 30.389156,
-            "min_longitude": 55.306599
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-29",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Khorasan-e Janubi",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "29",
         "type": "Ostan",
         "type_en": "Province"
     },
     "30": {
         "alt_names": [
-            "Khorasan-e Razavi"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -4049,24 +4073,25 @@
             "woe_name": "Razavi Khorasan"
         },
         "geo": {
-            "latitude": 35.1020253,
-            "longitude": 59.1041758,
-            "max_latitude": 37.7905918,
-            "max_longitude": 61.282579,
-            "min_latitude": 33.4001927,
-            "min_longitude": 56.4763309
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-30",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Khorasan-e Razavi",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "30",
         "type": "Ostan",
         "type_en": "Province"
     },
     "31": {
         "alt_names": [
-            "Khorasan-e Shemali"
+            "Azarbayj\u0101n-e Khavari",
+            "East Azerbaijan"
         ],
         "cca2": "IR",
         "cca3": "IRN",
@@ -4189,17 +4214,17 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 37.4710353,
-            "longitude": 57.1013188,
-            "max_latitude": 38.2725939,
-            "max_longitude": 58.387249,
-            "min_latitude": 36.6166539,
-            "min_longitude": 55.805023
+            "latitude": 38.4703541,
+            "longitude": 47.0571193,
+            "max_latitude": 38.473952,
+            "max_longitude": 47.060772,
+            "min_latitude": 38.4669948,
+            "min_longitude": 47.0525068
         },
         "iso_3166_2": "IR-31",
         "iso_a2": "IR",
         "iso_a3": "IRN",
-        "name": "Khorasan-e Shemali",
+        "name": "Az\u00afarbayjan-e Sharqi",
         "postal": "31",
         "type": "Ostan",
         "type_en": "Province"

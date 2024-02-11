@@ -141,7 +141,7 @@
     },
     "BL": {
         "alt_names": [
-            "Bolama"
+            "Bafat\u00e1"
         ],
         "cca2": "GW",
         "cca3": "GNB",
@@ -264,24 +264,24 @@
             "woe_name": "Bolama"
         },
         "geo": {
-            "latitude": 11.5770712,
-            "longitude": -15.4800382,
-            "max_latitude": 11.5904801,
-            "max_longitude": -15.4710599,
-            "min_latitude": 11.5640396,
-            "min_longitude": -15.4946602
+            "latitude": 12.171944,
+            "longitude": -14.6575,
+            "max_latitude": 12.2007357,
+            "max_longitude": -14.6261502,
+            "min_latitude": 12.1559758,
+            "min_longitude": -14.6747733
         },
         "iso_3166_2": "GW-BL",
         "iso_a2": "GW",
         "iso_a3": "GNB",
-        "name": "Bolama",
+        "name": "Bafat\u00e1",
         "postal": "BL",
         "type": "Regi\u00e3o",
         "type_en": "Region"
     },
     "BM": {
         "alt_names": [
-            "Biombo"
+            "Bafat\u00e1"
         ],
         "cca2": "GW",
         "cca3": "GNB",
@@ -404,24 +404,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 11.8529061,
-            "longitude": -15.7351171,
-            "max_latitude": 12.026648,
-            "max_longitude": -15.6145911,
-            "min_latitude": 11.7364393,
-            "min_longitude": -15.9681988
+            "latitude": 12.171944,
+            "longitude": -14.6575,
+            "max_latitude": 12.2007357,
+            "max_longitude": -14.6261502,
+            "min_latitude": 12.1559758,
+            "min_longitude": -14.6747733
         },
         "iso_3166_2": "GW-BM",
         "iso_a2": "GW",
         "iso_a3": "GNB",
-        "name": "Biombo",
+        "name": "Bafat\u00e1",
         "postal": "BM",
         "type": "Regi\u00e3o",
         "type_en": "Region"
     },
     "BS": {
         "alt_names": [
-            "Bissau"
+            "Bafat\u00e1"
         ],
         "cca2": "GW",
         "cca3": "GNB",
@@ -544,24 +544,24 @@
             "woe_name": "Bissau"
         },
         "geo": {
-            "latitude": 11.8816553,
-            "longitude": -15.6177942,
-            "max_latitude": 11.9180031,
-            "max_longitude": -15.5579567,
-            "min_latitude": 11.8207819,
-            "min_longitude": -15.6621402
+            "latitude": 12.171944,
+            "longitude": -14.6575,
+            "max_latitude": 12.2007357,
+            "max_longitude": -14.6261502,
+            "min_latitude": 12.1559758,
+            "min_longitude": -14.6747733
         },
         "iso_3166_2": "GW-BS",
         "iso_a2": "GW",
         "iso_a3": "GNB",
-        "name": "Bissau",
+        "name": "Bafat\u00e1",
         "postal": "BS",
         "type": "Sector Aut\u00f3nomo",
         "type_en": "Autonomous Sector"
     },
     "CA": {
         "alt_names": [
-            "Cacheo"
+            "Bafat\u00e1"
         ],
         "cca2": "GW",
         "cca3": "GNB",
@@ -684,24 +684,24 @@
             "woe_name": "Cacheu"
         },
         "geo": {
-            "latitude": 12.2732631,
-            "longitude": -16.1669156,
-            "max_latitude": 12.2793106,
-            "max_longitude": -16.1526919,
-            "min_latitude": 12.2542116,
-            "min_longitude": -16.1758661
+            "latitude": 12.171944,
+            "longitude": -14.6575,
+            "max_latitude": 12.2007357,
+            "max_longitude": -14.6261502,
+            "min_latitude": 12.1559758,
+            "min_longitude": -14.6747733
         },
         "iso_3166_2": "GW-CA",
         "iso_a2": "GW",
         "iso_a3": "GNB",
-        "name": "Cacheu",
+        "name": "Bafat\u00e1",
         "postal": "CA",
         "type": "Regi\u00e3o",
         "type_en": "Region"
     },
     "GA": {
         "alt_names": [
-            "Gab\u00fa"
+            "Bafat\u00e1"
         ],
         "cca2": "GW",
         "cca3": "GNB",
@@ -824,24 +824,24 @@
             "woe_name": "Gabu"
         },
         "geo": {
-            "latitude": 11.8962488,
-            "longitude": -14.1001326,
-            "max_latitude": 12.6777339,
-            "max_longitude": -13.6365221,
-            "min_latitude": 11.56273,
-            "min_longitude": -14.570715
+            "latitude": 12.171944,
+            "longitude": -14.6575,
+            "max_latitude": 12.2007357,
+            "max_longitude": -14.6261502,
+            "min_latitude": 12.1559758,
+            "min_longitude": -14.6747733
         },
         "iso_3166_2": "GW-GA",
         "iso_a2": "GW",
         "iso_a3": "GNB",
-        "name": "Gab\u00fa",
+        "name": "Bafat\u00e1",
         "postal": "GA",
         "type": "Regi\u00e3o",
         "type_en": "Region"
     },
     "OI": {
         "alt_names": [
-            "Oio"
+            "Bafat\u00e1"
         ],
         "cca2": "GW",
         "cca3": "GNB",
@@ -964,24 +964,24 @@
             "woe_name": "Oio"
         },
         "geo": {
-            "latitude": 12.2760709,
-            "longitude": -15.3131185,
-            "max_latitude": 12.680788,
-            "max_longitude": -14.841685,
-            "min_latitude": 11.890556,
-            "min_longitude": -15.765291
+            "latitude": 12.171944,
+            "longitude": -14.6575,
+            "max_latitude": 12.2007357,
+            "max_longitude": -14.6261502,
+            "min_latitude": 12.1559758,
+            "min_longitude": -14.6747733
         },
         "iso_3166_2": "GW-OI",
         "iso_a2": "GW",
         "iso_a3": "GNB",
-        "name": "Oio",
+        "name": "Bafat\u00e1",
         "postal": "OI",
         "type": "Regi\u00e3o",
         "type_en": "Region"
     },
     "QU": {
         "alt_names": [
-            "Quinara"
+            "Bafat\u00e1"
         ],
         "cca2": "GW",
         "cca3": "GNB",
@@ -1104,24 +1104,24 @@
             "woe_name": "Quinara"
         },
         "geo": {
-            "latitude": 11.795562,
-            "longitude": -15.1726816,
-            "max_latitude": 11.9419759,
-            "max_longitude": -14.8287029,
-            "min_latitude": 11.3275232,
-            "min_longitude": -15.6142401
+            "latitude": 12.171944,
+            "longitude": -14.6575,
+            "max_latitude": 12.2007357,
+            "max_longitude": -14.6261502,
+            "min_latitude": 12.1559758,
+            "min_longitude": -14.6747733
         },
         "iso_3166_2": "GW-QU",
         "iso_a2": "GW",
         "iso_a3": "GNB",
-        "name": "Quinara",
+        "name": "Bafat\u00e1",
         "postal": "QU",
         "type": "Regi\u00e3o",
         "type_en": "Region"
     },
     "TO": {
         "alt_names": [
-            "Tombali"
+            "Bafat\u00e1"
         ],
         "cca2": "GW",
         "cca3": "GNB",
@@ -1244,17 +1244,17 @@
             "woe_name": "Tombali"
         },
         "geo": {
-            "latitude": 11.300838,
-            "longitude": -15.409939,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 12.171944,
+            "longitude": -14.6575,
+            "max_latitude": 12.2007357,
+            "max_longitude": -14.6261502,
+            "min_latitude": 12.1559758,
+            "min_longitude": -14.6747733
         },
         "iso_3166_2": "GW-TO",
         "iso_a2": "GW",
         "iso_a3": "GNB",
-        "name": "Tombali",
+        "name": "Bafat\u00e1",
         "postal": "TO",
         "type": "Regi\u00e3o",
         "type_en": "Region"

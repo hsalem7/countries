@@ -1,7 +1,8 @@
 {
     "40": {
         "alt_names": [
-            ""
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -124,24 +125,25 @@
             "woe_name": "Sevastopol City Municipality"
         },
         "geo": {
-            "latitude": "44.5182000000",
-            "longitude": "33.6396000000"
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
-        "iso_3166_2": "UA-40",
+        "iso_3166_2": "RU-40",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Sevastopol",
+        "name": "Adygeya, Respublika",
         "postal": "40",
         "type": "Gorod Federalnogo Znacheniya",
         "type_en": "Federal City"
     },
     "43": {
         "alt_names": [
-            "Crim\u00e9e",
-            "Crim\u00e9ia",
-            "Krim",
-            "Krymskaya Respublika",
-            "Respublika Krym"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -264,13 +266,17 @@
             "woe_name": "Crimea"
         },
         "geo": {
-            "latitude": "45.3115000000",
-            "longitude": "34.2784000000"
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
-        "iso_3166_2": "UA-43",
+        "iso_3166_2": "RU-43",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Crimea",
+        "name": "Adygeya, Respublika",
         "postal": "43",
         "type": "Oblast",
         "type_en": "Autonomous Republic"
@@ -418,9 +424,8 @@
     },
     "AL": {
         "alt_names": [
-            "Altaj",
-            "Altay",
-            "Gorno-Altaj"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -543,26 +548,25 @@
             "woe_name": "Gorno-Altay"
         },
         "geo": {
-            "latitude": 55.7671943,
-            "longitude": 37.606158,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-AL",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Altay, Respublika",
+        "name": "Adygeya, Respublika",
         "postal": "AL",
         "type": "Respublika",
         "type_en": "Republic"
     },
     "ALT": {
         "alt_names": [
-            "Altaj",
-            "Altay",
-            "Gorno-Altaj"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -685,24 +689,25 @@
             "woe_name": "Altay"
         },
         "geo": {
-            "latitude": 55.7671943,
-            "longitude": 37.606158,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-ALT",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Altay, Respublika",
+        "name": "Adygeya, Respublika",
         "postal": "ALT",
         "type": "Kray",
         "type_en": "Territory"
     },
     "AMU": {
         "alt_names": [
-            "Amurskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -825,25 +830,25 @@
             "woe_name": "Amur"
         },
         "geo": {
-            "latitude": 54.6035065,
-            "longitude": 127.4801721,
-            "max_latitude": 57.0585329,
-            "max_longitude": 134.920255,
-            "min_latitude": 48.852265,
-            "min_longitude": 119.66795
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-AMU",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Amurskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "AMU",
         "type": "Oblast",
         "type_en": "Region"
     },
     "ARK": {
         "alt_names": [
-            "Arhangelskaja Oblast",
-            "Arhangelsk"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -966,25 +971,25 @@
             "woe_name": "Arkhangel'sk"
         },
         "geo": {
-            "latitude": 63.2852803,
-            "longitude": 42.5884191,
-            "max_latitude": 81.8581221,
-            "max_longitude": 69.048235,
-            "min_latitude": 60.632123,
-            "min_longitude": 35.502945
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-ARK",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Arkhangel'skaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "ARK",
         "type": "Oblast",
         "type_en": "Region"
     },
     "AST": {
         "alt_names": [
-            "Astrahanska Oblast",
-            "Astrahan"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -1107,24 +1112,25 @@
             "woe_name": "Astrakhan'"
         },
         "geo": {
-            "latitude": 46.1321166,
-            "longitude": 48.0610115,
-            "max_latitude": 48.8653439,
-            "max_longitude": 49.279398,
-            "min_latitude": 45.1725559,
-            "min_longitude": 44.9707619
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-AST",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Astrakhanskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "AST",
         "type": "Oblast",
         "type_en": "Region"
     },
     "BA": {
         "alt_names": [
-            "Ba\u0161kortostan"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -1247,24 +1253,25 @@
             "woe_name": "Bashkortostan"
         },
         "geo": {
-            "latitude": 54.2312172,
-            "longitude": 56.1645257,
-            "max_latitude": 56.53352,
-            "max_longitude": 60.0029501,
-            "min_latitude": 51.5712259,
-            "min_longitude": 53.1579969
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-BA",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Bashkortostan, Respublika",
+        "name": "Adygeya, Respublika",
         "postal": "BA",
         "type": "Respublika",
         "type_en": "Republic"
     },
     "BEL": {
         "alt_names": [
-            "Belgorodskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -1387,25 +1394,25 @@
             "woe_name": "Belgorod"
         },
         "geo": {
-            "latitude": 50.7106926,
-            "longitude": 37.7533377,
-            "max_latitude": 51.4325619,
-            "max_longitude": 39.2751271,
-            "min_latitude": 49.796403,
-            "min_longitude": 35.3285271
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-BEL",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Belgorodskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "BEL",
         "type": "Oblast",
         "type_en": "Region"
     },
     "BRY": {
         "alt_names": [
-            "Brjanskaja Oblast",
-            "Brjansk"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -1528,25 +1535,25 @@
             "woe_name": "Bryansk"
         },
         "geo": {
-            "latitude": 53.0408599,
-            "longitude": 33.2690899,
-            "max_latitude": 54.0362991,
-            "max_longitude": 35.3212781,
-            "min_latitude": 51.844038,
-            "min_longitude": 31.2421049
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-BRY",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Bryanskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "BRY",
         "type": "Oblast",
         "type_en": "Region"
     },
     "BU": {
         "alt_names": [
-            "Buryat Republic",
-            "Burjatija"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -1669,30 +1676,25 @@
             "woe_name": "Buryat"
         },
         "geo": {
-            "latitude": 55.7685161,
-            "longitude": 37.6425744,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-BU",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Buryatiya, Respublika",
+        "name": "Adygeya, Respublika",
         "postal": "BU",
         "type": "Respublika",
         "type_en": "Republic"
     },
     "CE": {
         "alt_names": [
-            "Chechen",
-            "Chechenia",
-            "Ichkeria",
-            "I\u010dkeria",
-            "\u010ce\u010dens",
-            "\u010ce\u010denskaja Respublika",
-            "\u010ce\u010denija"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -1815,26 +1817,25 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 55.7521689,
-            "longitude": 37.5886438,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-CE",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Chechenskaya Respublika",
+        "name": "Adygeya, Respublika",
         "postal": "CE",
         "type": "Respublika",
         "type_en": "Republic"
     },
     "CHE": {
         "alt_names": [
-            "Cheljabinsk",
-            "\u010celjabinskaja Oblast",
-            "\u010celjabinsk"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -1957,27 +1958,25 @@
             "woe_name": "Chelyabinsk"
         },
         "geo": {
-            "latitude": 54.4319422,
-            "longitude": 60.8788963,
-            "max_latitude": 56.3648829,
-            "max_longitude": 63.3492892,
-            "min_latitude": 51.990638,
-            "min_longitude": 57.1300707
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-CHE",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Chelyabinskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "CHE",
         "type": "Oblast",
         "type_en": "Region"
     },
     "CHU": {
         "alt_names": [
-            "Chuckchi",
-            "\u010cukotskij Avtonomnyj Okrug",
-            "\u010cuk\u010di",
-            "\u010cukotka"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -2100,27 +2099,25 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 65.6298355,
-            "longitude": 171.6952159,
-            "max_latitude": 71.5940113,
-            "max_longitude": -168.9996789,
-            "min_latitude": 61.8096659,
-            "min_longitude": 157.732108
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-CHU",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Chukotskiy avtonomnyy okrug",
+        "name": "Adygeya, Respublika",
         "postal": "CHU",
         "type": "Avtonomnyy Okrug",
         "type_en": "Autonomous Province"
     },
     "CU": {
         "alt_names": [
-            "Chuvash Republic",
-            "Chuvashskaya Respublika",
-            "\u010cuva\u0161skaja Respublika",
-            "\u010cuva\u0161ija"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -2243,24 +2240,25 @@
             "woe_name": "Chuvash"
         },
         "geo": {
-            "latitude": 55.5595992,
-            "longitude": 46.9283536,
-            "max_latitude": 56.3299659,
-            "max_longitude": 48.416765,
-            "min_latitude": 54.6260479,
-            "min_longitude": 45.910572
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-CU",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Chuvashskaya Respublika",
+        "name": "Adygeya, Respublika",
         "postal": "CU",
         "type": "Respublika",
         "type_en": "Republic"
     },
     "DA": {
         "alt_names": [
-            "Dagestan, Respublika"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -2383,25 +2381,25 @@
             "woe_name": "Dagestan"
         },
         "geo": {
-            "latitude": 55.7599606,
-            "longitude": 37.6504362,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-DA",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Dagestan, Respublika",
+        "name": "Adygeya, Respublika",
         "postal": "DA",
         "type": "Respublika",
         "type_en": "Republic"
     },
     "IN": {
         "alt_names": [
-            "Ingushetija",
-            "Ingu\u0161etija"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -2524,24 +2522,25 @@
             "woe_name": "Ingush"
         },
         "geo": {
-            "latitude": 43.4051698,
-            "longitude": 44.8202999,
-            "max_latitude": 43.6107959,
-            "max_longitude": 45.1902339,
-            "min_latitude": 42.614831,
-            "min_longitude": 44.4769308
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-IN",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Ingushskaya Respublika [Respublika Ingushetiya]",
+        "name": "Adygeya, Respublika",
         "postal": "IN",
         "type": "Respublika",
         "type_en": "Republic"
     },
     "IRK": {
         "alt_names": [
-            "Irkutskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -2664,24 +2663,25 @@
             "woe_name": "Irkutsk"
         },
         "geo": {
-            "latitude": 56.132142,
-            "longitude": 103.948625,
-            "max_latitude": 64.316956,
-            "max_longitude": 119.1306879,
-            "min_latitude": 51.1373171,
-            "min_longitude": 95.65774
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-IRK",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Irkutskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "IRK",
         "type": "Oblast",
         "type_en": "Region"
     },
     "IVA": {
         "alt_names": [
-            "Ivanovskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -2804,26 +2804,25 @@
             "woe_name": "Ivanovo"
         },
         "geo": {
-            "latitude": 57.1056854,
-            "longitude": 41.4830084,
-            "max_latitude": 57.742722,
-            "max_longitude": 43.3058696,
-            "min_latitude": 56.3503961,
-            "min_longitude": 39.3779529
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-IVA",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Ivanovskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "IVA",
         "type": "Oblast",
         "type_en": "Region"
     },
     "KAM": {
         "alt_names": [
-            "Kamchatskaya Oblast",
-            "Kam\u010datskaja Oblast",
-            "Kam\u010datka"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -2946,26 +2945,25 @@
             "woe_name": "Kamchatka"
         },
         "geo": {
-            "latitude": 55.743583,
-            "longitude": 37.5880195,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-KAM",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Kamchatskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "KAM",
         "type": "Oblast",
         "type_en": "Region"
     },
     "KB": {
         "alt_names": [
-            "Kabardino-Balkarian Republic",
-            "Kabardino-Balkarskaja Respublika",
-            "Kabardino-Balkarija"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -3088,26 +3086,25 @@
             "woe_name": "Kabardin-Balkar"
         },
         "geo": {
-            "latitude": 43.3932469,
-            "longitude": 43.5628498,
-            "max_latitude": 44.0228141,
-            "max_longitude": 44.470551,
-            "min_latitude": 42.8891,
-            "min_longitude": 42.3981201
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-KB",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Kabardino-Balkarskaya Respublika",
+        "name": "Adygeya, Respublika",
         "postal": "KB",
         "type": "Respublika",
         "type_en": "Republic"
     },
     "KC": {
         "alt_names": [
-            "Karachay-Cherkessian",
-            "Kara\u010dajevo-\u010cerkesskaja Respublika",
-            "Kara\u010daj-\u010cerkessija"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -3230,24 +3227,25 @@
             "woe_name": "Karachay-Cherkess"
         },
         "geo": {
-            "latitude": 43.8845143,
-            "longitude": 41.730394,
-            "max_latitude": 44.4969789,
-            "max_longitude": 42.6780321,
-            "min_latitude": 43.187437,
-            "min_longitude": 40.6833698
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-KC",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Karachayevo-Cherkesskaya Respublika",
+        "name": "Adygeya, Respublika",
         "postal": "KC",
         "type": "Respublika",
         "type_en": "Republic"
     },
     "KDA": {
         "alt_names": [
-            "Krasnodarskij Kraj"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -3370,24 +3368,25 @@
             "woe_name": "Krasnodar"
         },
         "geo": {
-            "latitude": 45.6415289,
-            "longitude": 39.7055977,
-            "max_latitude": 46.8802379,
-            "max_longitude": 41.7476441,
-            "min_latitude": 43.3848639,
-            "min_longitude": 36.5980539
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-KDA",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Krasnodarskiy kray",
+        "name": "Adygeya, Respublika",
         "postal": "KDA",
         "type": "Kray",
         "type_en": "Territory"
     },
     "KEM": {
         "alt_names": [
-            "Kemerovskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -3510,24 +3509,25 @@
             "woe_name": "Kemerovo"
         },
         "geo": {
-            "latitude": 54.7574648,
-            "longitude": 87.4055288,
-            "max_latitude": 56.83512,
-            "max_longitude": 89.399602,
-            "min_latitude": 52.1605449,
-            "min_longitude": 84.450098
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-KEM",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Kemerovskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "KEM",
         "type": "Oblast",
         "type_en": "Region"
     },
     "KGD": {
         "alt_names": [
-            "Kaliningradskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -3650,24 +3650,25 @@
             "woe_name": "Kaliningrad"
         },
         "geo": {
-            "latitude": 54.8235292,
-            "longitude": 21.4816163,
-            "max_latitude": 55.2944458,
-            "max_longitude": 22.886888,
-            "min_latitude": 54.318845,
-            "min_longitude": 19.6388525
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-KGD",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Kaliningradskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "KGD",
         "type": "Oblast",
         "type_en": "Region"
     },
     "KGN": {
         "alt_names": [
-            "Kurganskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -3790,25 +3791,25 @@
             "woe_name": "Kurgan"
         },
         "geo": {
-            "latitude": 55.4481548,
-            "longitude": 65.1180975,
-            "max_latitude": 56.8420819,
-            "max_longitude": 68.7217089,
-            "min_latitude": 54.1874291,
-            "min_longitude": 61.9661031
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-KGN",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Kurganskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "KGN",
         "type": "Oblast",
         "type_en": "Region"
     },
     "KHA": {
         "alt_names": [
-            "Habarovskij Kray",
-            "Habarovsk"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -3931,25 +3932,25 @@
             "woe_name": "Khabarovsk"
         },
         "geo": {
-            "latitude": 50.5888431,
-            "longitude": 135,
-            "max_latitude": 62.5246119,
-            "max_longitude": 147.2038518,
-            "min_latitude": 46.6347189,
-            "min_longitude": 130.3886411
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-KHA",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Khabarovskiy kray",
+        "name": "Adygeya, Respublika",
         "postal": "KHA",
         "type": "Kray",
         "type_en": "Territory"
     },
     "KHM": {
         "alt_names": [
-            "Hanty-Mansijskij Avtonomnyj Okrug",
-            "Hanty-Mansija"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -4072,24 +4073,25 @@
             "woe_name": "Khanty-Mansiy"
         },
         "geo": {
-            "latitude": 62.2287062,
-            "longitude": 70.6410058,
-            "max_latitude": 65.710701,
-            "max_longitude": 85.9728444,
-            "min_latitude": 58.5764188,
-            "min_longitude": 59.1974788
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-KHM",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Khanty-Mansiyskiy avtonomnyy okrug [Yugra]",
+        "name": "Adygeya, Respublika",
         "postal": "KHM",
         "type": "Avtonomnyy Okrug",
         "type_en": "Autonomous Province"
     },
     "KIR": {
         "alt_names": [
-            "Kirovskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -4212,25 +4214,25 @@
             "woe_name": "Kirov"
         },
         "geo": {
-            "latitude": 58.4198529,
-            "longitude": 50.2097248,
-            "max_latitude": 61.0629159,
-            "max_longitude": 53.9431012,
-            "min_latitude": 56.061146,
-            "min_longitude": 46.2618118
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-KIR",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Kirovskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "KIR",
         "type": "Oblast",
         "type_en": "Region"
     },
     "KK": {
         "alt_names": [
-            "Khakass Republic",
-            "Hakasija"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -4353,27 +4355,25 @@
             "woe_name": "Khakass"
         },
         "geo": {
-            "latitude": 53.0452281,
-            "longitude": 90.3982145,
-            "max_latitude": 55.4318869,
-            "max_longitude": 91.9249129,
-            "min_latitude": 51.2842118,
-            "min_longitude": 87.8758369
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-KK",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Khakasiya, Respublika",
+        "name": "Adygeya, Respublika",
         "postal": "KK",
         "type": "Respublika",
         "type_en": "Republic"
     },
     "KL": {
         "alt_names": [
-            "Halmg-Tang\u010d",
-            "Kalmyk Republic",
-            "Khalmg-Tangch",
-            "Kalmykija"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -4496,25 +4496,25 @@
             "woe_name": "Kalmyk"
         },
         "geo": {
-            "latitude": 46.5676845,
-            "longitude": 45.7731614,
-            "max_latitude": 48.2743179,
-            "max_longitude": 47.601117,
-            "min_latitude": 44.7639349,
-            "min_longitude": 41.6327159
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-KL",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Kalmykiya, Respublika",
+        "name": "Adygeya, Respublika",
         "postal": "KL",
         "type": "Respublika",
         "type_en": "Republic"
     },
     "KLU": {
         "alt_names": [
-            "Kaluzhskaya Oblast",
-            "Kalu\u017eskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -4637,24 +4637,25 @@
             "woe_name": "Kaluga"
         },
         "geo": {
-            "latitude": 54.3872666,
-            "longitude": 35.1889094,
-            "max_latitude": 55.3402639,
-            "max_longitude": 37.2756489,
-            "min_latitude": 53.2759969,
-            "min_longitude": 33.4465778
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-KLU",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Kaluzhskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "KLU",
         "type": "Oblast",
         "type_en": "Region"
     },
     "KO": {
         "alt_names": [
-            "Komi, Respublika"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -4777,24 +4778,25 @@
             "woe_name": "Komi"
         },
         "geo": {
-            "latitude": 63.8630539,
-            "longitude": 54.8312689,
-            "max_latitude": 68.4228769,
-            "max_longitude": 66.2523211,
-            "min_latitude": 59.196101,
-            "min_longitude": 45.4046569
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-KO",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Komi, Respublika",
+        "name": "Adygeya, Respublika",
         "postal": "KO",
         "type": "Respublika",
         "type_en": "Republic"
     },
     "KOS": {
         "alt_names": [
-            "Kostromskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -4917,25 +4919,25 @@
             "woe_name": "Kostroma"
         },
         "geo": {
-            "latitude": 58.5501069,
-            "longitude": 43.9541103,
-            "max_latitude": 59.62038,
-            "max_longitude": 47.6446471,
-            "min_latitude": 57.277828,
-            "min_longitude": 40.3997611
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-KOS",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Kostromskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "KOS",
         "type": "Oblast",
         "type_en": "Region"
     },
     "KR": {
         "alt_names": [
-            "Karelian Republic",
-            "Karelija"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -5058,24 +5060,25 @@
             "woe_name": "Karelia"
         },
         "geo": {
-            "latitude": 63.1558702,
-            "longitude": 32.9905552,
-            "max_latitude": 66.6732639,
-            "max_longitude": 37.9320522,
-            "min_latitude": 60.6857671,
-            "min_longitude": 29.3102922
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-KR",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Kareliya, Respublika",
+        "name": "Adygeya, Respublika",
         "postal": "KR",
         "type": "Respublika",
         "type_en": "Republic"
     },
     "KRS": {
         "alt_names": [
-            "Kurskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -5198,26 +5201,25 @@
             "woe_name": "Kursk"
         },
         "geo": {
-            "latitude": 51.7634026,
-            "longitude": 35.3811812,
-            "max_latitude": 52.4405099,
-            "max_longitude": 38.5257578,
-            "min_latitude": 50.9034249,
-            "min_longitude": 34.0821881
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-KRS",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Kurskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "KRS",
         "type": "Oblast",
         "type_en": "Region"
     },
     "KYA": {
         "alt_names": [
-            "Krasnojarsk",
-            "Krasnojarskij Kraj",
-            "Krasnojarsk"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -5340,24 +5342,25 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 64.2479758,
-            "longitude": 95.1104176,
-            "max_latitude": 81.2663089,
-            "max_longitude": 113.9162833,
-            "min_latitude": 51.7734569,
-            "min_longitude": 76.1117517
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-KYA",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Krasnoyarskiy kray",
+        "name": "Adygeya, Respublika",
         "postal": "KYA",
         "type": "Kray",
         "type_en": "Territory"
     },
     "LEN": {
         "alt_names": [
-            "Leningradskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -5480,25 +5483,25 @@
             "woe_name": "Leningrad"
         },
         "geo": {
-            "latitude": 60.0793208,
-            "longitude": 31.8926644,
-            "max_latitude": 61.3297682,
-            "max_longitude": 35.6959784,
-            "min_latitude": 58.4147179,
-            "min_longitude": 27.740038
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-LEN",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Leningradskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "LEN",
         "type": "Oblast",
         "type_en": "Region"
     },
     "LIP": {
         "alt_names": [
-            "Lipeckaja Oblast",
-            "Lipeck"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -5621,24 +5624,25 @@
             "woe_name": "Lipetsk"
         },
         "geo": {
-            "latitude": 52.5264702,
-            "longitude": 39.2032269,
-            "max_latitude": 53.5848638,
-            "max_longitude": 40.764882,
-            "min_latitude": 51.8867799,
-            "min_longitude": 37.7224471
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-LIP",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Lipetskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "LIP",
         "type": "Oblast",
         "type_en": "Region"
     },
     "MAG": {
         "alt_names": [
-            "Magadanskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -5761,25 +5765,25 @@
             "woe_name": "Maga Buryatdan"
         },
         "geo": {
-            "latitude": 62.6643417,
-            "longitude": 153.9149909,
-            "max_latitude": 66.336092,
-            "max_longitude": 163.4827849,
-            "min_latitude": 58.8373489,
-            "min_longitude": 144.722207
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-MAG",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Magadanskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "MAG",
         "type": "Oblast",
         "type_en": "Region"
     },
     "ME": {
         "alt_names": [
-            "Mariy El",
-            "Marij El"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -5902,25 +5906,25 @@
             "woe_name": "Mariy-El"
         },
         "geo": {
-            "latitude": 56.438457,
-            "longitude": 47.9607757,
-            "max_latitude": 57.3436309,
-            "max_longitude": 50.2000648,
-            "min_latitude": 55.8266931,
-            "min_longitude": 45.6197337
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-ME",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Mariy El, Respublika",
+        "name": "Adygeya, Respublika",
         "postal": "ME",
         "type": "Respublika",
         "type_en": "Republic"
     },
     "MO": {
         "alt_names": [
-            "Mordovian Republic",
-            "Mordovija"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -6043,24 +6047,25 @@
             "woe_name": "Mordovia"
         },
         "geo": {
-            "latitude": 54.2369441,
-            "longitude": 44.0683969,
-            "max_latitude": 55.1882439,
-            "max_longitude": 46.7113749,
-            "min_latitude": 53.6542969,
-            "min_longitude": 42.170382
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-MO",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Mordoviya, Respublika",
+        "name": "Adygeya, Respublika",
         "postal": "MO",
         "type": "Respublika",
         "type_en": "Republic"
     },
     "MOS": {
         "alt_names": [
-            "Moskovskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -6183,27 +6188,25 @@
             "woe_name": "Moskva"
         },
         "geo": {
-            "latitude": 55.340396,
-            "longitude": 38.2917651,
-            "max_latitude": 56.962834,
-            "max_longitude": 40.2060071,
-            "min_latitude": 54.254261,
-            "min_longitude": 35.149022
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-MOS",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Moskovskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "MOS",
         "type": "Gorod Federalnogo Znacheniya",
         "type_en": "Federal City"
     },
     "MOW": {
         "alt_names": [
-            "Moskva",
-            "Moskau",
-            "Moscou",
-            "Mosc\u00fa"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -6326,24 +6329,25 @@
             "woe_name": "Moskovsskaya"
         },
         "geo": {
-            "latitude": 55.755826,
-            "longitude": 37.6173,
-            "max_latitude": 56.009657,
-            "max_longitude": 37.9456611,
-            "min_latitude": 55.489927,
-            "min_longitude": 37.3193288
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-MOW",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Moskva",
+        "name": "Adygeya, Respublika",
         "postal": "MOW",
         "type": "Oblast",
         "type_en": "Region"
     },
     "MUR": {
         "alt_names": [
-            "Murmanskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -6466,24 +6470,25 @@
             "woe_name": "Murmansk"
         },
         "geo": {
-            "latitude": 67.8442674,
-            "longitude": 35.0884101,
-            "max_latitude": 69.9520907,
-            "max_longitude": 41.4017088,
-            "min_latitude": 66.0565385,
-            "min_longitude": 28.4163852
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-MUR",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Murmanskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "MUR",
         "type": "Oblast",
         "type_en": "Region"
     },
     "NEN": {
         "alt_names": [
-            "Nenetskij Avtonomnyj Okrug"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -6606,24 +6611,25 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 67.6078337,
-            "longitude": 57.6338331,
-            "max_latitude": 70.4649036,
-            "max_longitude": 65.6777838,
-            "min_latitude": 65.823471,
-            "min_longitude": 43.2703527
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-NEN",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Nenetskiy avtonomnyy okrug",
+        "name": "Adygeya, Respublika",
         "postal": "NEN",
         "type": "Avtonomnyy Okrug",
         "type_en": "Autonomous Province"
     },
     "NGR": {
         "alt_names": [
-            "Novgorodskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -6746,29 +6752,25 @@
             "woe_name": "Novgorod"
         },
         "geo": {
-            "latitude": 58.2427552,
-            "longitude": 32.5665191,
-            "max_latitude": 59.4451521,
-            "max_longitude": 36.2195299,
-            "min_latitude": 56.917883,
-            "min_longitude": 29.6230571
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-NGR",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Novgorodskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "NGR",
         "type": "Oblast",
         "type_en": "Region"
     },
     "NIZ": {
         "alt_names": [
-            "Gorki",
-            "Gorkij",
-            "Gorky",
-            "Nizhegorodskaya Oblast",
-            "Ni\u017eegorodskaja Oblast",
-            "Ni\u017enij Novgorod"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -6891,24 +6893,25 @@
             "woe_name": "Nizhegorod"
         },
         "geo": {
-            "latitude": 55.7995159,
-            "longitude": 44.0296769,
-            "max_latitude": 58.0889949,
-            "max_longitude": 47.7473761,
-            "min_latitude": 54.4718669,
-            "min_longitude": 41.775117
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-NIZ",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Nizhegorodskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "NIZ",
         "type": "Oblast",
         "type_en": "Region"
     },
     "NVS": {
         "alt_names": [
-            "Novosibirskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -7031,24 +7034,25 @@
             "woe_name": "Novosibirsk"
         },
         "geo": {
-            "latitude": 55.4467133,
-            "longitude": 80.1043924,
-            "max_latitude": 57.236193,
-            "max_longitude": 85.117563,
-            "min_latitude": 53.2909191,
-            "min_longitude": 75.087855
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-NVS",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Novosibirskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "NVS",
         "type": "Oblast",
         "type_en": "Region"
     },
     "OMS": {
         "alt_names": [
-            "Omskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -7171,24 +7175,25 @@
             "woe_name": "Omsk"
         },
         "geo": {
-            "latitude": 55.0554669,
-            "longitude": 73.3167343,
-            "max_latitude": 58.5741489,
-            "max_longitude": 76.3037678,
-            "min_latitude": 53.435124,
-            "min_longitude": 70.3547371
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-OMS",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Omskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "OMS",
         "type": "Oblast",
         "type_en": "Region"
     },
     "ORE": {
         "alt_names": [
-            "Orenburgskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -7311,25 +7316,25 @@
             "woe_name": "Orenburg"
         },
         "geo": {
-            "latitude": 51.7634026,
-            "longitude": 54.6188188,
-            "max_latitude": 54.36583,
-            "max_longitude": 61.6907461,
-            "min_latitude": 50.494961,
-            "min_longitude": 50.7683845
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-ORE",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Orenburgskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "ORE",
         "type": "Oblast",
         "type_en": "Region"
     },
     "ORL": {
         "alt_names": [
-            "Orlovskaja Oblast",
-            "Orjol"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -7452,24 +7457,25 @@
             "woe_name": "Orel"
         },
         "geo": {
-            "latitude": 52.7450189,
-            "longitude": 36.4849627,
-            "max_latitude": 53.6372159,
-            "max_longitude": 38.0644791,
-            "min_latitude": 51.9367449,
-            "min_longitude": 34.7917679
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-ORL",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Orlovskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "ORL",
         "type": "Oblast",
         "type_en": "Region"
     },
     "PER": {
         "alt_names": [
-            "Permskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -7592,24 +7598,25 @@
             "woe_name": "Perm'"
         },
         "geo": {
-            "latitude": 58,
-            "longitude": 56.316667,
-            "max_latitude": 58.176955,
-            "max_longitude": 56.6568071,
-            "min_latitude": 57.864017,
-            "min_longitude": 55.8117439
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-PER",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Perm",
+        "name": "Adygeya, Respublika",
         "postal": "PER",
         "type": "Kray",
         "type_en": "Territory"
     },
     "PNZ": {
         "alt_names": [
-            "Penzenskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -7732,26 +7739,25 @@
             "woe_name": "Penza"
         },
         "geo": {
-            "latitude": 53.1412105,
-            "longitude": 44.0940048,
-            "max_latitude": 54.0281089,
-            "max_longitude": 46.985298,
-            "min_latitude": 52.3048359,
-            "min_longitude": 42.091744
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-PNZ",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Penzenskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "PNZ",
         "type": "Oblast",
         "type_en": "Region"
     },
     "PRI": {
         "alt_names": [
-            "Primorskij",
-            "Primorskij Kraj",
-            "Primorje"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -7874,26 +7880,25 @@
             "woe_name": "Primor'ye"
         },
         "geo": {
-            "latitude": 45.0525641,
-            "longitude": 135,
-            "max_latitude": 48.4587049,
-            "max_longitude": 139.021501,
-            "min_latitude": 42.2883814,
-            "min_longitude": 130.39465
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-PRI",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Primorskiy kray",
+        "name": "Adygeya, Respublika",
         "postal": "PRI",
         "type": "Kray",
         "type_en": "Territory"
     },
     "PSK": {
         "alt_names": [
-            "Pihkva",
-            "Pleskau",
-            "Pskovskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -8016,24 +8021,25 @@
             "woe_name": "Pskov"
         },
         "geo": {
-            "latitude": 56.7708599,
-            "longitude": 29.094009,
-            "max_latitude": 59.0188519,
-            "max_longitude": 31.5162641,
-            "min_latitude": 55.5896019,
-            "min_longitude": 27.323293
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-PSK",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Pskovskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "PSK",
         "type": "Oblast",
         "type_en": "Region"
     },
     "ROS": {
         "alt_names": [
-            "Rostovskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -8156,25 +8162,25 @@
             "woe_name": "Rostov"
         },
         "geo": {
-            "latitude": 47.6853247,
-            "longitude": 41.8258952,
-            "max_latitude": 50.2123279,
-            "max_longitude": 44.3225439,
-            "min_latitude": 45.9521199,
-            "min_longitude": 38.2223739
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-ROS",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Rostovskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "ROS",
         "type": "Oblast",
         "type_en": "Region"
     },
     "RYA": {
         "alt_names": [
-            "Rjazanskaja Oblast",
-            "Rjazan"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -8297,27 +8303,25 @@
             "woe_name": "Ryazan'"
         },
         "geo": {
-            "latitude": 54.3875964,
-            "longitude": 41.259566,
-            "max_latitude": 55.3661119,
-            "max_longitude": 42.694238,
-            "min_latitude": 53.3123849,
-            "min_longitude": 38.6651351
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-RYA",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Ryazanskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "RYA",
         "type": "Oblast",
         "type_en": "Region"
     },
     "SA": {
         "alt_names": [
-            "Jakutija",
-            "Sakha",
-            "Yakutsk-Sakha",
-            "Saha"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -8440,25 +8444,25 @@
             "woe_name": "Chukot"
         },
         "geo": {
-            "latitude": 66.7613451,
-            "longitude": 124.1237531,
-            "max_latitude": 76.7581309,
-            "max_longitude": 162.858423,
-            "min_latitude": 55.4906601,
-            "min_longitude": 105.529348
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-SA",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Sakha, Respublika [Yakutiya]",
+        "name": "Adygeya, Respublika",
         "postal": "SA",
         "type": "Avtonomnyy Okrug",
         "type_en": "Autonomous Province"
     },
     "SAK": {
         "alt_names": [
-            "Sahalinskaya Oblast",
-            "Sahalin"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -8581,24 +8585,25 @@
             "woe_name": "Sakhalin"
         },
         "geo": {
-            "latitude": 49.9807847,
-            "longitude": 143.3738129,
-            "max_latitude": 54.416035,
-            "max_longitude": 156.5116784,
-            "min_latitude": 43.3608536,
-            "min_longitude": 141.1964501
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-SAK",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Sakhalinskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "SAK",
         "type": "Oblast",
         "type_en": "Region"
     },
     "SAM": {
         "alt_names": [
-            "Samarskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -8721,24 +8726,25 @@
             "woe_name": "Samara"
         },
         "geo": {
-            "latitude": 53.4183839,
-            "longitude": 50.4725528,
-            "max_latitude": 54.678024,
-            "max_longitude": 52.555451,
-            "min_latitude": 51.773957,
-            "min_longitude": 47.9246881
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-SAM",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Samarskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "SAM",
         "type": "Oblast",
         "type_en": "Region"
     },
     "SAR": {
         "alt_names": [
-            "Saratovskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -8861,27 +8867,25 @@
             "woe_name": "Saratov"
         },
         "geo": {
-            "latitude": 51.8369263,
-            "longitude": 46.7539397,
-            "max_latitude": 52.814547,
-            "max_longitude": 50.8330918,
-            "min_latitude": 49.800981,
-            "min_longitude": 42.5132981
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-SAR",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Saratovskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "SAR",
         "type": "Oblast",
         "type_en": "Region"
     },
     "SE": {
         "alt_names": [
-            "Alania",
-            "North Ossetian Republic",
-            "Osetija",
-            "Alanija"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -9004,24 +9008,25 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 43.0451302,
-            "longitude": 44.2870972,
-            "max_latitude": 43.839755,
-            "max_longitude": 44.956779,
-            "min_latitude": 42.5470799,
-            "min_longitude": 43.4103983
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-SE",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Severnaya Osetiya, Respublika [Alaniya] [Respublika Severnaya Osetiya-Alaniya]",
+        "name": "Adygeya, Respublika",
         "postal": "SE",
         "type": "Respublika",
         "type_en": "Republic"
     },
     "SMO": {
         "alt_names": [
-            "Smolenskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -9144,28 +9149,25 @@
             "woe_name": "Smolensk"
         },
         "geo": {
-            "latitude": 54.9882994,
-            "longitude": 32.6677378,
-            "max_latitude": 56.0709438,
-            "max_longitude": 35.3920447,
-            "min_latitude": 53.414513,
-            "min_longitude": 30.7486752
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-SMO",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Smolenskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "SMO",
         "type": "Oblast",
         "type_en": "Region"
     },
     "SPE": {
         "alt_names": [
-            "San Pietroburgo",
-            "Sankt-Peterburg",
-            "Sankt Petersburg",
-            "Saint-P\u00e9tersbourg",
-            "San Petersburgo"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -9288,24 +9290,25 @@
             "woe_name": "City of St. Petersburg"
         },
         "geo": {
-            "latitude": 59.9342802,
-            "longitude": 30.3350986,
-            "max_latitude": 60.089675,
-            "max_longitude": 30.559783,
-            "min_latitude": 59.7452159,
-            "min_longitude": 30.090332
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-SPE",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Sankt-Peterburg",
+        "name": "Adygeya, Respublika",
         "postal": "SPE",
         "type": "Gorod Federalnogo Znacheniya",
         "type_en": "Federal City"
     },
     "STA": {
         "alt_names": [
-            "Stavropolskij Kraj"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -9428,24 +9431,25 @@
             "woe_name": "Stavropol'"
         },
         "geo": {
-            "latitude": 44.6680993,
-            "longitude": 43.520214,
-            "max_latitude": 46.2299116,
-            "max_longitude": 45.7189749,
-            "min_latitude": 43.658068,
-            "min_longitude": 40.8430621
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-STA",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Stavropol'skiy kray",
+        "name": "Adygeya, Respublika",
         "postal": "STA",
         "type": "Kray",
         "type_en": "Territory"
     },
     "SVE": {
         "alt_names": [
-            "Sverdlovskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -9568,24 +9572,25 @@
             "woe_name": "Sverdlovsk"
         },
         "geo": {
-            "latitude": 59.007735,
-            "longitude": 61.9316226,
-            "max_latitude": 61.945903,
-            "max_longitude": 66.178652,
-            "min_latitude": 56.0562339,
-            "min_longitude": 57.2360151
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-SVE",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Sverdlovskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "SVE",
         "type": "Oblast",
         "type_en": "Region"
     },
     "TA": {
         "alt_names": [
-            "Tatarstan, Respublika"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -9708,24 +9713,25 @@
             "woe_name": "Tatarstan"
         },
         "geo": {
-            "latitude": 55.1802364,
-            "longitude": 50.7263945,
-            "max_latitude": 56.6772159,
-            "max_longitude": 54.2602891,
-            "min_latitude": 53.976026,
-            "min_longitude": 47.2586476
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-TA",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Tatarstan, Respublika",
+        "name": "Adygeya, Respublika",
         "postal": "TA",
         "type": "Respublika",
         "type_en": "Republic"
     },
     "TAM": {
         "alt_names": [
-            "Tambovskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -9848,24 +9854,25 @@
             "woe_name": "Tambov"
         },
         "geo": {
-            "latitude": 52.6416589,
-            "longitude": 41.4216451,
-            "max_latitude": 53.8228889,
-            "max_longitude": 43.244815,
-            "min_latitude": 51.589638,
-            "min_longitude": 39.9170968
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-TAM",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Tambovskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "TAM",
         "type": "Oblast",
         "type_en": "Region"
     },
     "TOM": {
         "alt_names": [
-            "Tomskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -9988,24 +9995,25 @@
             "woe_name": "Tomsk"
         },
         "geo": {
-            "latitude": 58.8969882,
-            "longitude": 82.67655,
-            "max_latitude": 61.0335298,
-            "max_longitude": 89.3753271,
-            "min_latitude": 55.66864,
-            "min_longitude": 75.0574591
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-TOM",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Tomskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "TOM",
         "type": "Oblast",
         "type_en": "Region"
     },
     "TUL": {
         "alt_names": [
-            "Tulskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -10128,24 +10136,25 @@
             "woe_name": "Tula"
         },
         "geo": {
-            "latitude": 54.163768,
-            "longitude": 37.5649507,
-            "max_latitude": 54.8505721,
-            "max_longitude": 38.952968,
-            "min_latitude": 52.9556001,
-            "min_longitude": 35.8963269
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-TUL",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Tul'skaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "TUL",
         "type": "Oblast",
         "type_en": "Region"
     },
     "TVE": {
         "alt_names": [
-            "Tverskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -10268,24 +10277,25 @@
             "woe_name": "Tver'"
         },
         "geo": {
-            "latitude": 57.0021654,
-            "longitude": 33.9853142,
-            "max_latitude": 58.8721109,
-            "max_longitude": 38.31839,
-            "min_latitude": 55.6322698,
-            "min_longitude": 30.7768341
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-TVE",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Tverskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "TVE",
         "type": "Oblast",
         "type_en": "Region"
     },
     "TY": {
         "alt_names": [
-            "Tuva"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -10408,26 +10418,25 @@
             "woe_name": "Tuva"
         },
         "geo": {
-            "latitude": 51.8872669,
-            "longitude": 95.6260172,
-            "max_latitude": 53.727431,
-            "max_longitude": 99.269666,
-            "min_latitude": 49.7417159,
-            "min_longitude": 88.7985341
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-TY",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Tyva, Respublika [Tuva]",
+        "name": "Adygeya, Respublika",
         "postal": "TY",
         "type": "Respublika",
         "type_en": "Republic"
     },
     "TYU": {
         "alt_names": [
-            "Tjumenskaja Oblast",
-            "Tumen",
-            "Tjumen"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -10550,26 +10559,25 @@
             "woe_name": "Tyumen'"
         },
         "geo": {
-            "latitude": 56.9634387,
-            "longitude": 66.948278,
-            "max_latitude": 59.9896339,
-            "max_longitude": 75.194199,
-            "min_latitude": 55.145467,
-            "min_longitude": 64.8277999
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-TYU",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Tyumenskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "TYU",
         "type": "Oblast",
         "type_en": "Region"
     },
     "UD": {
         "alt_names": [
-            "Udmurt Republic",
-            "Udmurtskaya Respublika",
-            "Udmurtija"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -10692,25 +10700,25 @@
             "woe_name": "Udmurt"
         },
         "geo": {
-            "latitude": 57.0670218,
-            "longitude": 53.0277948,
-            "max_latitude": 58.545039,
-            "max_longitude": 54.4275462,
-            "min_latitude": 55.8642715,
-            "min_longitude": 51.1226019
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-UD",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Udmurtskaya Respublika",
+        "name": "Adygeya, Respublika",
         "postal": "UD",
         "type": "Respublika",
         "type_en": "Republic"
     },
     "ULY": {
         "alt_names": [
-            "Uljanovskaja Oblast",
-            "Uljanovsk"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -10833,24 +10841,25 @@
             "woe_name": "Ul'yanovsk"
         },
         "geo": {
-            "latitude": 53.9793357,
-            "longitude": 47.7762426,
-            "max_latitude": 54.891972,
-            "max_longitude": 50.2391649,
-            "min_latitude": 52.5380879,
-            "min_longitude": 45.7949271
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-ULY",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Ul'yanovskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "ULY",
         "type": "Oblast",
         "type_en": "Region"
     },
     "VGG": {
         "alt_names": [
-            "Volgogradskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -10973,24 +10982,25 @@
             "woe_name": "Volgograd"
         },
         "geo": {
-            "latitude": 49.7604522,
-            "longitude": 45,
-            "max_latitude": 51.2443039,
-            "max_longitude": 47.4312876,
-            "min_latitude": 47.441459,
-            "min_longitude": 41.167564
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-VGG",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Volgogradskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "VGG",
         "type": "Oblast",
         "type_en": "Region"
     },
     "VLA": {
         "alt_names": [
-            "Vladimirskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -11113,24 +11123,25 @@
             "woe_name": "Vladimir"
         },
         "geo": {
-            "latitude": 56.1553465,
-            "longitude": 40.5926685,
-            "max_latitude": 56.81697,
-            "max_longitude": 42.977175,
-            "min_latitude": 55.103193,
-            "min_longitude": 38.272862
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-VLA",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Vladimirskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "VLA",
         "type": "Oblast",
         "type_en": "Region"
     },
     "VLG": {
         "alt_names": [
-            "Vologodskaja Oblast"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -11253,25 +11264,25 @@
             "woe_name": "Vologda"
         },
         "geo": {
-            "latitude": 59.8706711,
-            "longitude": 40.6555411,
-            "max_latitude": 61.607277,
-            "max_longitude": 47.1578849,
-            "min_latitude": 58.4831769,
-            "min_longitude": 34.7161178
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-VLG",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Vologodskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "VLG",
         "type": "Oblast",
         "type_en": "Region"
     },
     "VOR": {
         "alt_names": [
-            "Vorone\u017eskaja Oblast",
-            "Vorone\u017e"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -11394,24 +11405,25 @@
             "woe_name": "Voronezh"
         },
         "geo": {
-            "latitude": 50.8589713,
-            "longitude": 39.8644375,
-            "max_latitude": 52.102429,
-            "max_longitude": 42.944786,
-            "min_latitude": 49.556056,
-            "min_longitude": 38.13708
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-VOR",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Voronezhskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "VOR",
         "type": "Oblast",
         "type_en": "Region"
     },
     "X01~": {
         "alt_names": [
-            ""
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -11534,22 +11546,25 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "68.7999000000",
-            "longitude": "67.2613000000"
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-X01~",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "",
+        "name": "Adygeya, Respublika",
         "postal": "X01~",
         "type": "",
         "type_en": ""
     },
     "YAN": {
         "alt_names": [
-            "Jamalija",
-            "Jamalo-Nenetskij Avtonomnyj Okrug",
-            "Jamalo-Nenets"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -11672,25 +11687,25 @@
             "woe_name": "Yamal-Nenets"
         },
         "geo": {
-            "latitude": 66.0653057,
-            "longitude": 76.9345194,
-            "max_latitude": 73.5224935,
-            "max_longitude": 86.0139701,
-            "min_latitude": 62.1900029,
-            "min_longitude": 62.0121153
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-YAN",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Yamalo-Nenetskiy avtonomnyy okrug",
+        "name": "Adygeya, Respublika",
         "postal": "YAN",
         "type": "Avtonomnyy Okrug",
         "type_en": "Autonomous Province"
     },
     "YAR": {
         "alt_names": [
-            "Jaroslavskaja Oblast",
-            "Jaroslavl"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -11813,28 +11828,25 @@
             "woe_name": "Yaroslavl'"
         },
         "geo": {
-            "latitude": 57.8991523,
-            "longitude": 38.8388633,
-            "max_latitude": 58.950021,
-            "max_longitude": 41.178673,
-            "min_latitude": 56.5401059,
-            "min_longitude": 37.3243239
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-YAR",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Yaroslavskaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "YAR",
         "type": "Oblast",
         "type_en": "Region"
     },
     "YEV": {
         "alt_names": [
-            "Jevrejskaja Oblast",
-            "Jevrejskaja Respublika",
-            "Jewish Autonomous Oblast",
-            "Yevreyskaya Oblast",
-            "Jevrej"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -11957,26 +11969,25 @@
             "woe_name": "Yevrey"
         },
         "geo": {
-            "latitude": 48.4808147,
-            "longitude": 131.7657367,
-            "max_latitude": 49.4938831,
-            "max_longitude": 134.9953569,
-            "min_latitude": 47.659438,
-            "min_longitude": 130.5212439
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-YEV",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Yevreyskaya avtonomnaya oblast'",
+        "name": "Adygeya, Respublika",
         "postal": "YEV",
         "type": "Avtonomnaya Oblast",
         "type_en": "Autonomous Region"
     },
     "ZAB": {
         "alt_names": [
-            "Zabajkal'skij kraj",
-            "Zabajkal'skij",
-            "Zabaykal'skij kray"
+            "Adygei Republic",
+            "Adygeja"
         ],
         "cca2": "RU",
         "cca3": "RUS",
@@ -12099,17 +12110,17 @@
             "woe_name": "Chita"
         },
         "geo": {
-            "latitude": 53.0928771,
-            "longitude": 116.967656,
-            "max_latitude": 58.435147,
-            "max_longitude": 122.1303228,
-            "min_latitude": 49.1551025,
-            "min_longitude": 107.736142
+            "latitude": 44.8229155,
+            "longitude": 40.1754463,
+            "max_latitude": 45.21684,
+            "max_longitude": 40.7744969,
+            "min_latitude": 43.757678,
+            "min_longitude": 38.6818529
         },
         "iso_3166_2": "RU-ZAB",
         "iso_a2": "RU",
         "iso_a3": "RUS",
-        "name": "Zabaykal'skij kray",
+        "name": "Adygeya, Respublika",
         "postal": "ZAB",
         "type": "Oblast",
         "type_en": "Region"

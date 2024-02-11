@@ -141,7 +141,7 @@
     },
     "102": {
         "alt_names": [
-            "Kampala"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -264,24 +264,24 @@
             "woe_name": "Kampala"
         },
         "geo": {
-            "latitude": 0.313611,
-            "longitude": 32.581111,
-            "max_latitude": 0.413199,
-            "max_longitude": 32.6892796,
-            "min_latitude": 0.2144788,
-            "min_longitude": 32.5089713
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-102",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kampala",
+        "name": "Kalangala",
         "postal": "102",
         "type": "District",
         "type_en": "District"
     },
     "103": {
         "alt_names": [
-            "Kiboga"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -404,24 +404,24 @@
             "woe_name": "Kiboga"
         },
         "geo": {
-            "latitude": 0.92,
-            "longitude": 31.76,
-            "max_latitude": 0.9379159,
-            "max_longitude": 31.7912579,
-            "min_latitude": 0.8917448,
-            "min_longitude": 31.7495441
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-103",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kiboga",
+        "name": "Kalangala",
         "postal": "103",
         "type": "District",
         "type_en": "District"
     },
     "104": {
         "alt_names": [
-            "Luwero"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -544,24 +544,24 @@
             "woe_name": "Luwero"
         },
         "geo": {
-            "latitude": 0.833056,
-            "longitude": 32.499444,
-            "max_latitude": 0.8670285,
-            "max_longitude": 32.5168967,
-            "min_latitude": 0.8201451,
-            "min_longitude": 32.4716377
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-104",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Luwero",
+        "name": "Kalangala",
         "postal": "104",
         "type": "County",
         "type_en": "County"
     },
     "105": {
         "alt_names": [
-            "Masaka"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -684,24 +684,24 @@
             "woe_name": "Masaka"
         },
         "geo": {
-            "latitude": -0.34,
-            "longitude": 31.74,
-            "max_latitude": -0.3013382,
-            "max_longitude": 31.791172,
-            "min_latitude": -0.3747893,
-            "min_longitude": 31.7146216
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-105",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Masaka",
+        "name": "Kalangala",
         "postal": "105",
         "type": "District",
         "type_en": "District"
     },
     "106": {
         "alt_names": [
-            "Mpigi"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -824,24 +824,24 @@
             "woe_name": "Mpigi"
         },
         "geo": {
-            "latitude": 0.233333,
-            "longitude": 32.333333,
-            "max_latitude": 0.2413123,
-            "max_longitude": 32.3413467,
-            "min_latitude": 0.212645,
-            "min_longitude": 32.314911
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-106",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Mpigi",
+        "name": "Kalangala",
         "postal": "106",
         "type": "District",
         "type_en": "District"
     },
     "107": {
         "alt_names": [
-            "Mubende"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -964,24 +964,24 @@
             "woe_name": "Mubende"
         },
         "geo": {
-            "latitude": 0.5575,
-            "longitude": 31.395,
-            "max_latitude": 0.5817504,
-            "max_longitude": 31.4111137,
-            "min_latitude": 0.5415836,
-            "min_longitude": 31.363821
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-107",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Mubende",
+        "name": "Kalangala",
         "postal": "107",
         "type": "District",
         "type_en": "District"
     },
     "108": {
         "alt_names": [
-            "Mukono"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -1104,24 +1104,24 @@
             "woe_name": "Mukono"
         },
         "geo": {
-            "latitude": 0.353333,
-            "longitude": 32.755278,
-            "max_latitude": 0.3836455,
-            "max_longitude": 32.7797699,
-            "min_latitude": 0.3381098,
-            "min_longitude": 32.7301923
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-108",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Mukono",
+        "name": "Kalangala",
         "postal": "108",
         "type": "District",
         "type_en": "District"
     },
     "109": {
         "alt_names": [
-            "Nakasongola"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -1244,24 +1244,24 @@
             "woe_name": "Nakasongola"
         },
         "geo": {
-            "latitude": 1.315,
-            "longitude": 32.465,
-            "max_latitude": 1.3266522,
-            "max_longitude": 32.4732686,
-            "min_latitude": 1.304857,
-            "min_longitude": 32.4460602
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-109",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Nakasongola",
+        "name": "Kalangala",
         "postal": "109",
         "type": "District",
         "type_en": "District"
     },
     "110": {
         "alt_names": [
-            "Rakai"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -1384,24 +1384,24 @@
             "woe_name": "Rakai"
         },
         "geo": {
-            "latitude": -0.70294,
-            "longitude": 31.40991,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-110",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Rakai",
+        "name": "Kalangala",
         "postal": "110",
         "type": "District",
         "type_en": "District"
     },
     "111": {
         "alt_names": [
-            "Sembabule"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -1524,24 +1524,24 @@
             "woe_name": "Sembabule"
         },
         "geo": {
-            "latitude": -0.08,
-            "longitude": 31.46,
-            "max_latitude": -0.076561,
-            "max_longitude": 31.4668179,
-            "min_latitude": -0.0872039,
-            "min_longitude": 31.4558314
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-111",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Sembabule",
+        "name": "Kalangala",
         "postal": "111",
         "type": "District",
         "type_en": "District"
     },
     "112": {
         "alt_names": [
-            "Kayunga"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -1664,24 +1664,24 @@
             "woe_name": "Kayunga"
         },
         "geo": {
-            "latitude": 0.7013707,
-            "longitude": 32.9029088,
-            "max_latitude": 0.7074843,
-            "max_longitude": 32.9095459,
-            "min_latitude": 0.6945249,
-            "min_longitude": 32.8980446
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-112",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kayunga",
+        "name": "Kalangala",
         "postal": "112",
         "type": "District",
         "type_en": "District"
     },
     "113": {
         "alt_names": [
-            "Wakiso"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -1804,24 +1804,24 @@
             "woe_name": "Wakiso"
         },
         "geo": {
-            "latitude": 0.398056,
-            "longitude": 32.478056,
-            "max_latitude": 0.4039581,
-            "max_longitude": 32.4863777,
-            "min_latitude": 0.3950514,
-            "min_longitude": 32.4742611
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-113",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Wakiso",
+        "name": "Kalangala",
         "postal": "113",
         "type": "District",
         "type_en": "District"
     },
     "114": {
         "alt_names": [
-            "Mityana"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -1944,24 +1944,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 0.4016398,
-            "longitude": 32.043969,
-            "max_latitude": 0.4203956,
-            "max_longitude": 32.0710365,
-            "min_latitude": 0.3833989,
-            "min_longitude": 32.0198165
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-114",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Mityana",
+        "name": "Kalangala",
         "postal": "114",
         "type": "County",
         "type_en": "County"
     },
     "115": {
         "alt_names": [
-            "Nakaseke"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -2084,24 +2084,24 @@
             "woe_name": "Nakaseke"
         },
         "geo": {
-            "latitude": 1.0922742,
-            "longitude": 32.0837445,
-            "max_latitude": 1.4669437,
-            "max_longitude": 32.501335,
-            "min_latitude": 0.5353182,
-            "min_longitude": 31.8218994
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-115",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Nakaseke",
+        "name": "Kalangala",
         "postal": "115",
         "type": "District",
         "type_en": "District"
     },
     "116": {
         "alt_names": [
-            "Lyantonde"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -2224,24 +2224,24 @@
             "woe_name": "Masaka"
         },
         "geo": {
-            "latitude": -0.406944,
-            "longitude": 31.1575,
-            "max_latitude": -0.4017166,
-            "max_longitude": 31.1623442,
-            "min_latitude": -0.4140758,
-            "min_longitude": 31.1474097
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-116",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Lyantonde",
+        "name": "Kalangala",
         "postal": "116",
         "type": "District",
         "type_en": "District"
     },
     "117": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -2364,20 +2364,24 @@
             "woe_name": "Mukono"
         },
         "geo": {
-            "latitude": "0.1874610000",
-            "longitude": "33.0039000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-117",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Buikwe",
+        "name": "Kalangala",
         "postal": "117",
         "type": "District",
         "type_en": "District"
     },
     "118": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -2500,20 +2504,24 @@
             "woe_name": "Masaka"
         },
         "geo": {
-            "latitude": "-0.1146340000",
-            "longitude": "31.6487000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-118",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Bukomansimbi",
+        "name": "Kalangala",
         "postal": "118",
         "type": "District",
         "type_en": "District"
     },
     "119": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -2636,20 +2644,24 @@
             "woe_name": "Mpigi"
         },
         "geo": {
-            "latitude": "0.1356740000",
-            "longitude": "32.0026000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-119",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Butambala",
+        "name": "Kalangala",
         "postal": "119",
         "type": "District",
         "type_en": "District"
     },
     "120": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -2772,20 +2784,24 @@
             "woe_name": "Mukono"
         },
         "geo": {
-            "latitude": "0.0968329000",
-            "longitude": "33.2585000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-120",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Buvuma",
+        "name": "Kalangala",
         "postal": "120",
         "type": "District",
         "type_en": "District"
     },
     "121": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -2908,20 +2924,24 @@
             "woe_name": "Mpigi"
         },
         "geo": {
-            "latitude": "0.1960930000",
-            "longitude": "31.6617000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-121",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Gomba",
+        "name": "Kalangala",
         "postal": "121",
         "type": "District",
         "type_en": "District"
     },
     "122": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -3044,20 +3064,24 @@
             "woe_name": "Masaka"
         },
         "geo": {
-            "latitude": "-0.1577900000",
-            "longitude": "31.8386000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-122",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kalungu",
+        "name": "Kalangala",
         "postal": "122",
         "type": "District",
         "type_en": "District"
     },
     "123": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -3180,20 +3204,24 @@
             "woe_name": "Kiboga"
         },
         "geo": {
-            "latitude": "1.1412200000",
-            "longitude": "31.6487000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-123",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kyankwanzi",
+        "name": "Kalangala",
         "postal": "123",
         "type": "District",
         "type_en": "District"
     },
     "124": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -3316,20 +3344,24 @@
             "woe_name": "Masaka"
         },
         "geo": {
-            "latitude": "-0.4210450000",
-            "longitude": "31.4330000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-124",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Lwengo",
+        "name": "Kalangala",
         "postal": "124",
         "type": "District",
         "type_en": "District"
     },
     "201": {
         "alt_names": [
-            "Bugiri"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -3452,24 +3484,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 0.569444,
-            "longitude": 33.748611,
-            "max_latitude": 0.5827803,
-            "max_longitude": 33.7664796,
-            "min_latitude": 0.5541143,
-            "min_longitude": 33.7357521
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-201",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Bugiri",
+        "name": "Kalangala",
         "postal": "201",
         "type": "District",
         "type_en": "District"
     },
     "202": {
         "alt_names": [
-            "Busia"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -3592,24 +3624,24 @@
             "woe_name": "Busia"
         },
         "geo": {
-            "latitude": 0.4706692,
-            "longitude": 34.0919803,
-            "max_latitude": 0.4804746,
-            "max_longitude": 34.1007899,
-            "min_latitude": 0.4560136,
-            "min_longitude": 34.0731525
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-202",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Busia",
+        "name": "Kalangala",
         "postal": "202",
         "type": "District",
         "type_en": "District"
     },
     "203": {
         "alt_names": [
-            "Iganga"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -3732,24 +3764,24 @@
             "woe_name": "Iganga"
         },
         "geo": {
-            "latitude": 0.615,
-            "longitude": 33.485,
-            "max_latitude": 0.633675,
-            "max_longitude": 33.4971428,
-            "min_latitude": 0.5867283,
-            "min_longitude": 33.4485625
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-203",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Iganga",
+        "name": "Kalangala",
         "postal": "203",
         "type": "District",
         "type_en": "District"
     },
     "204": {
         "alt_names": [
-            "Jinja"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -3872,24 +3904,24 @@
             "woe_name": "Jinja"
         },
         "geo": {
-            "latitude": 0.424444,
-            "longitude": 33.204167,
-            "max_latitude": 0.4795304,
-            "max_longitude": 33.2535861,
-            "min_latitude": 0.4114044,
-            "min_longitude": 33.1757498
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-204",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Jinja",
+        "name": "Kalangala",
         "postal": "204",
         "type": "District",
         "type_en": "District"
     },
     "205": {
         "alt_names": [
-            "Kamuli"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -4012,24 +4044,24 @@
             "woe_name": "Kamuli"
         },
         "geo": {
-            "latitude": 0.945,
-            "longitude": 33.125,
-            "max_latitude": 0.9535993,
-            "max_longitude": 33.1316112,
-            "min_latitude": 0.9370791,
-            "min_longitude": 33.116076
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-205",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kamuli",
+        "name": "Kalangala",
         "postal": "205",
         "type": "District",
         "type_en": "District"
     },
     "206": {
         "alt_names": [
-            "Kapchorwa"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -4152,24 +4184,24 @@
             "woe_name": "Kapchorwa"
         },
         "geo": {
-            "latitude": 1.4,
-            "longitude": 34.45,
-            "max_latitude": 1.4056369,
-            "max_longitude": 34.4549704,
-            "min_latitude": 1.3889478,
-            "min_longitude": 34.439199
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-206",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kapchorwa",
+        "name": "Kalangala",
         "postal": "206",
         "type": "District",
         "type_en": "District"
     },
     "207": {
         "alt_names": [
-            "Katakwi"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -4292,24 +4324,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 1.915,
-            "longitude": 33.955,
-            "max_latitude": 1.9234477,
-            "max_longitude": 33.967924,
-            "min_latitude": 1.9058622,
-            "min_longitude": 33.9466382
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-207",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Katakwi",
+        "name": "Kalangala",
         "postal": "207",
         "type": "County",
         "type_en": "County"
     },
     "208": {
         "alt_names": [
-            "Kumi"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -4432,24 +4464,24 @@
             "woe_name": "Kumi"
         },
         "geo": {
-            "latitude": 1.49,
-            "longitude": 33.935,
-            "max_latitude": 1.4952798,
-            "max_longitude": 33.9476252,
-            "min_latitude": 1.4751163,
-            "min_longitude": 33.9199877
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-208",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kumi",
+        "name": "Kalangala",
         "postal": "208",
         "type": "District",
         "type_en": "District"
     },
     "209": {
         "alt_names": [
-            "Mbale"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -4572,24 +4604,24 @@
             "woe_name": "Mbale"
         },
         "geo": {
-            "latitude": 1.080556,
-            "longitude": 34.175,
-            "max_latitude": 1.1036286,
-            "max_longitude": 34.2084217,
-            "min_latitude": 1.0560868,
-            "min_longitude": 34.1436195
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-209",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Mbale",
+        "name": "Kalangala",
         "postal": "209",
         "type": "County",
         "type_en": "County"
     },
     "210": {
         "alt_names": [
-            "Pallisa"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -4712,24 +4744,24 @@
             "woe_name": "Pallisa"
         },
         "geo": {
-            "latitude": 1.1675,
-            "longitude": 33.71,
-            "max_latitude": 1.179402,
-            "max_longitude": 33.7169123,
-            "min_latitude": 1.1583564,
-            "min_longitude": 33.7033511
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-210",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Pallisa",
+        "name": "Kalangala",
         "postal": "210",
         "type": "District",
         "type_en": "District"
     },
     "211": {
         "alt_names": [
-            "Soroti"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -4852,24 +4884,24 @@
             "woe_name": "Soroti"
         },
         "geo": {
-            "latitude": 1.715,
-            "longitude": 33.611111,
-            "max_latitude": 1.7504162,
-            "max_longitude": 33.6426258,
-            "min_latitude": 1.6942225,
-            "min_longitude": 33.5904408
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-211",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Soroti",
+        "name": "Kalangala",
         "postal": "211",
         "type": "District",
         "type_en": "District"
     },
     "212": {
         "alt_names": [
-            "Tororo"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -4992,24 +5024,24 @@
             "woe_name": "Tororo"
         },
         "geo": {
-            "latitude": 0.692778,
-            "longitude": 34.181111,
-            "max_latitude": 0.7098016,
-            "max_longitude": 34.2079068,
-            "min_latitude": 0.6541015,
-            "min_longitude": 34.1529751
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-212",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Tororo",
+        "name": "Kalangala",
         "postal": "212",
         "type": "District",
         "type_en": "District"
     },
     "213": {
         "alt_names": [
-            "Kaberamaido"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -5132,24 +5164,24 @@
             "woe_name": "Kaberamaido"
         },
         "geo": {
-            "latitude": 1.766667,
-            "longitude": 33.152222,
-            "max_latitude": 1.7682606,
-            "max_longitude": 33.1565666,
-            "min_latitude": 1.7596816,
-            "min_longitude": 33.1466532
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-213",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kaberamaido",
+        "name": "Kalangala",
         "postal": "213",
         "type": "District",
         "type_en": "District"
     },
     "214": {
         "alt_names": [
-            "Mayuge"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -5272,24 +5304,24 @@
             "woe_name": "Mayuge"
         },
         "geo": {
-            "latitude": 0.2532134,
-            "longitude": 33.5508661,
-            "max_latitude": 0.46483,
-            "max_longitude": 33.7006029,
-            "min_latitude": -0.046986,
-            "min_longitude": 33.4011293
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-214",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Mayuge",
+        "name": "Kalangala",
         "postal": "214",
         "type": "District",
         "type_en": "District"
     },
     "215": {
         "alt_names": [
-            "Sironko"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -5412,24 +5444,24 @@
             "woe_name": "Sironko"
         },
         "geo": {
-            "latitude": 1.233333,
-            "longitude": 34.25,
-            "max_latitude": 1.2361664,
-            "max_longitude": 34.252839,
-            "min_latitude": 1.2243245,
-            "min_longitude": 34.2446638
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-215",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Sironko",
+        "name": "Kalangala",
         "postal": "215",
         "type": "County",
         "type_en": "County"
     },
     "216": {
         "alt_names": [
-            "Amuria"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -5552,24 +5584,24 @@
             "woe_name": "Amuria"
         },
         "geo": {
-            "latitude": 2.03017,
-            "longitude": 33.6427533,
-            "max_latitude": 2.0345965,
-            "max_longitude": 33.6482048,
-            "min_latitude": 2.0231453,
-            "min_longitude": 33.6368751
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-216",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Amuria",
+        "name": "Kalangala",
         "postal": "216",
         "type": "District",
         "type_en": "District"
     },
     "217": {
         "alt_names": [
-            "Budaka"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -5692,24 +5724,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 1.016667,
-            "longitude": 33.945,
-            "max_latitude": 1.02043,
-            "max_longitude": 33.959062,
-            "min_latitude": 1.0106683,
-            "min_longitude": 33.939128
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-217",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Budaka",
+        "name": "Kalangala",
         "postal": "217",
         "type": "County",
         "type_en": "County"
     },
     "218": {
         "alt_names": [
-            "Bukwa"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -5832,24 +5864,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 1.2938,
-            "longitude": 34.7396699,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-218",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Bukwa",
+        "name": "Kalangala",
         "postal": "218",
         "type": "County",
         "type_en": "County"
     },
     "219": {
         "alt_names": [
-            "Butaleja"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -5972,24 +6004,24 @@
             "woe_name": "Butaleja"
         },
         "geo": {
-            "latitude": 0.925201,
-            "longitude": 33.945702,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-219",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Butaleja",
+        "name": "Kalangala",
         "postal": "219",
         "type": "County",
         "type_en": "County"
     },
     "220": {
         "alt_names": [
-            "Kaliro"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -6112,24 +6144,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 0.8927499,
-            "longitude": 33.5028005,
-            "max_latitude": 0.9000694,
-            "max_longitude": 33.5104035,
-            "min_latitude": 0.8857374,
-            "min_longitude": 33.4992672
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-220",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kaliro",
+        "name": "Kalangala",
         "postal": "220",
         "type": "County",
         "type_en": "County"
     },
     "221": {
         "alt_names": [
-            "Manafwa"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -6252,24 +6284,24 @@
             "woe_name": "Manafwa"
         },
         "geo": {
-            "latitude": 0.9063599,
-            "longitude": 34.2866091,
-            "max_latitude": 1.0062541,
-            "max_longitude": 34.484844,
-            "min_latitude": 0.746111,
-            "min_longitude": 34.165519
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-221",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Manafwa",
+        "name": "Kalangala",
         "postal": "221",
         "type": "District",
         "type_en": "District"
     },
     "222": {
         "alt_names": [
-            "Namutumba"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -6392,24 +6424,24 @@
             "woe_name": "Namutumba"
         },
         "geo": {
-            "latitude": 0.8360898,
-            "longitude": 33.6860965,
-            "max_latitude": 0.8400807,
-            "max_longitude": 33.6882877,
-            "min_latitude": 0.8321851,
-            "min_longitude": 33.6810781
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-222",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Namutumba",
+        "name": "Kalangala",
         "postal": "222",
         "type": "County",
         "type_en": "County"
     },
     "223": {
         "alt_names": [
-            "Bududa"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -6532,24 +6564,24 @@
             "woe_name": "Manafwa"
         },
         "geo": {
-            "latitude": 1.0029693,
-            "longitude": 34.3338123,
-            "max_latitude": 1.011033,
-            "max_longitude": 34.3380904,
-            "min_latitude": 0.9976026,
-            "min_longitude": 34.3259883
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-223",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Bududa",
+        "name": "Kalangala",
         "postal": "223",
         "type": "District",
         "type_en": "District"
     },
     "224": {
         "alt_names": [
-            "Bukedea"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -6672,24 +6704,24 @@
             "woe_name": "Kumi"
         },
         "geo": {
-            "latitude": 1.3475,
-            "longitude": 34.044444,
-            "max_latitude": 1.3518796,
-            "max_longitude": 34.0469742,
-            "min_latitude": 1.344586,
-            "min_longitude": 34.0401077
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-224",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Bukedea",
+        "name": "Kalangala",
         "postal": "224",
         "type": "District",
         "type_en": "District"
     },
     "225": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -6812,20 +6844,24 @@
             "woe_name": "Sironko"
         },
         "geo": {
-            "latitude": "1.2949700000",
-            "longitude": "34.2883000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-225",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Bulambuli",
+        "name": "Kalangala",
         "postal": "225",
         "type": "County",
         "type_en": "County"
     },
     "226": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -6948,20 +6984,24 @@
             "woe_name": "Kamuli"
         },
         "geo": {
-            "latitude": "1.2474900000",
-            "longitude": "33.1662000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-226",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Buyende",
+        "name": "Kalangala",
         "postal": "226",
         "type": "District",
         "type_en": "District"
     },
     "227": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -7084,20 +7124,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "1.0360300000",
-            "longitude": "33.7704000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-227",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kibuku",
+        "name": "Kalangala",
         "postal": "227",
         "type": "County",
         "type_en": "County"
     },
     "228": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -7220,20 +7264,24 @@
             "woe_name": "Kapchorwa"
         },
         "geo": {
-            "latitude": "1.4589600000",
-            "longitude": "34.5990000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-228",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kween",
+        "name": "Kalangala",
         "postal": "228",
         "type": "District",
         "type_en": "District"
     },
     "229": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -7356,20 +7404,24 @@
             "woe_name": "Iganga"
         },
         "geo": {
-            "latitude": "0.7382460000",
-            "longitude": "33.3432000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-229",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Luuka",
+        "name": "Kalangala",
         "postal": "229",
         "type": "District",
         "type_en": "District"
     },
     "230": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -7492,20 +7544,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "0.2462620000",
-            "longitude": "33.8049000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-230",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Namayingo",
+        "name": "Kalangala",
         "postal": "230",
         "type": "District",
         "type_en": "District"
     },
     "231": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -7628,20 +7684,24 @@
             "woe_name": "Kumi"
         },
         "geo": {
-            "latitude": "1.5107500000",
-            "longitude": "33.7704000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-231",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Ngora",
+        "name": "Kalangala",
         "postal": "231",
         "type": "District",
         "type_en": "District"
     },
     "232": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -7764,20 +7824,24 @@
             "woe_name": "Soroti"
         },
         "geo": {
-            "latitude": "1.5021200000",
-            "longitude": "33.4424000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-232",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Serere",
+        "name": "Kalangala",
         "postal": "232",
         "type": "District",
         "type_en": "District"
     },
     "301": {
         "alt_names": [
-            "Adjumani"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -7900,24 +7964,24 @@
             "woe_name": "Adjumani"
         },
         "geo": {
-            "latitude": 3.384444,
-            "longitude": 31.781944,
-            "max_latitude": 3.3905632,
-            "max_longitude": 31.8085957,
-            "min_latitude": 3.3578541,
-            "min_longitude": 31.763835
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-301",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Adjumani",
+        "name": "Kalangala",
         "postal": "301",
         "type": "District",
         "type_en": "District"
     },
     "302": {
         "alt_names": [
-            "Apac"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -8040,24 +8104,24 @@
             "woe_name": "Apac"
         },
         "geo": {
-            "latitude": 1.983333,
-            "longitude": 32.533333,
-            "max_latitude": 1.9909571,
-            "max_longitude": 32.5391007,
-            "min_latitude": 1.9798057,
-            "min_longitude": 32.5274278
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-302",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Apac",
+        "name": "Kalangala",
         "postal": "302",
         "type": "District",
         "type_en": "District"
     },
     "303": {
         "alt_names": [
-            "Arua"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -8180,24 +8244,24 @@
             "woe_name": "Arua Municipality"
         },
         "geo": {
-            "latitude": 3.038333,
-            "longitude": 30.910833,
-            "max_latitude": 3.0597949,
-            "max_longitude": 30.9381553,
-            "min_latitude": 2.980156,
-            "min_longitude": 30.8827865
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-303",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Arua",
+        "name": "Kalangala",
         "postal": "303",
         "type": "County",
         "type_en": "County"
     },
     "304": {
         "alt_names": [
-            "Gulu"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -8320,24 +8384,24 @@
             "woe_name": "Gulu"
         },
         "geo": {
-            "latitude": 2.78,
-            "longitude": 32.3,
-            "max_latitude": 2.8207154,
-            "max_longitude": 32.3316479,
-            "min_latitude": 2.7299274,
-            "min_longitude": 32.2442722
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-304",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Gulu",
+        "name": "Kalangala",
         "postal": "304",
         "type": "County",
         "type_en": "County"
     },
     "305": {
         "alt_names": [
-            "Kitgum"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -8460,24 +8524,24 @@
             "woe_name": "Kitgum"
         },
         "geo": {
-            "latitude": 3.2884847,
-            "longitude": 32.8789499,
-            "max_latitude": 3.311252,
-            "max_longitude": 32.8989887,
-            "min_latitude": 3.271503,
-            "min_longitude": 32.8665876
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-305",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kitgum",
+        "name": "Kalangala",
         "postal": "305",
         "type": "District",
         "type_en": "District"
     },
     "306": {
         "alt_names": [
-            "Kotido"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -8600,24 +8664,24 @@
             "woe_name": "Kotido"
         },
         "geo": {
-            "latitude": 3.006111,
-            "longitude": 34.1125,
-            "max_latitude": 3.0211803,
-            "max_longitude": 34.1233742,
-            "min_latitude": 2.9930987,
-            "min_longitude": 34.101026
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-306",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kotido",
+        "name": "Kalangala",
         "postal": "306",
         "type": "County",
         "type_en": "County"
     },
     "307": {
         "alt_names": [
-            "Lira"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -8740,24 +8804,24 @@
             "woe_name": "Lira"
         },
         "geo": {
-            "latitude": 2.247222,
-            "longitude": 32.9,
-            "max_latitude": 2.2770474,
-            "max_longitude": 32.9197788,
-            "min_latitude": 2.2199915,
-            "min_longitude": 32.8629635
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-307",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Lira",
+        "name": "Kalangala",
         "postal": "307",
         "type": "District",
         "type_en": "District"
     },
     "308": {
         "alt_names": [
-            "Moroto"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -8880,24 +8944,24 @@
             "woe_name": "Moroto"
         },
         "geo": {
-            "latitude": 2.53,
-            "longitude": 34.67,
-            "max_latitude": 2.5395847,
-            "max_longitude": 34.6737099,
-            "min_latitude": 2.518148,
-            "min_longitude": 34.6501924
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-308",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Moroto",
+        "name": "Kalangala",
         "postal": "308",
         "type": "District",
         "type_en": "District"
     },
     "309": {
         "alt_names": [
-            "Moyo"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -9020,24 +9084,24 @@
             "woe_name": "Moyo"
         },
         "geo": {
-            "latitude": 3.655,
-            "longitude": 31.72,
-            "max_latitude": 3.6649148,
-            "max_longitude": 31.7376995,
-            "min_latitude": 3.6419376,
-            "min_longitude": 31.7107917
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-309",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Moyo",
+        "name": "Kalangala",
         "postal": "309",
         "type": "District",
         "type_en": "District"
     },
     "310": {
         "alt_names": [
-            "Nebbi"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -9160,24 +9224,24 @@
             "woe_name": "Nebbi"
         },
         "geo": {
-            "latitude": 2.479167,
-            "longitude": 31.09,
-            "max_latitude": 2.4935382,
-            "max_longitude": 31.1025953,
-            "min_latitude": 2.4683704,
-            "min_longitude": 31.07337
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-310",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Nebbi",
+        "name": "Kalangala",
         "postal": "310",
         "type": "District",
         "type_en": "District"
     },
     "311": {
         "alt_names": [
-            "Nakapiripirit"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -9300,24 +9364,24 @@
             "woe_name": "Nakapiripirit"
         },
         "geo": {
-            "latitude": 1.8502515,
-            "longitude": 34.7215859,
-            "max_latitude": 1.8577372,
-            "max_longitude": 34.7301005,
-            "min_latitude": 1.8424673,
-            "min_longitude": 34.7171401
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-311",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Nakapiripirit",
+        "name": "Kalangala",
         "postal": "311",
         "type": "District",
         "type_en": "District"
     },
     "312": {
         "alt_names": [
-            "Pader"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -9440,24 +9504,24 @@
             "woe_name": "Pader"
         },
         "geo": {
-            "latitude": 2.881111,
-            "longitude": 33.086389,
-            "max_latitude": 2.8881804,
-            "max_longitude": 33.0921077,
-            "min_latitude": 2.8723218,
-            "min_longitude": 33.0796623
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-312",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Pader",
+        "name": "Kalangala",
         "postal": "312",
         "type": "District",
         "type_en": "District"
     },
     "313": {
         "alt_names": [
-            "Yumbe"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -9580,24 +9644,24 @@
             "woe_name": "Yumbe"
         },
         "geo": {
-            "latitude": 3.466667,
-            "longitude": 31.25,
-            "max_latitude": 3.4764325,
-            "max_longitude": 31.2558459,
-            "min_latitude": 3.4607329,
-            "min_longitude": 31.238594
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-313",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Yumbe",
+        "name": "Kalangala",
         "postal": "313",
         "type": "District",
         "type_en": "District"
     },
     "314": {
         "alt_names": [
-            "Amolatar"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -9720,24 +9784,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 1.6329923,
-            "longitude": 32.8183226,
-            "max_latitude": 1.6377698,
-            "max_longitude": 32.8252603,
-            "min_latitude": 1.6298765,
-            "min_longitude": 32.8126432
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-314",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Amolatar",
+        "name": "Kalangala",
         "postal": "314",
         "type": "County",
         "type_en": "County"
     },
     "315": {
         "alt_names": [
-            "Kaabong"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -9860,24 +9924,24 @@
             "woe_name": "Kaabong"
         },
         "geo": {
-            "latitude": 3.5124436,
-            "longitude": 34.1337219,
-            "max_latitude": 3.5195678,
-            "max_longitude": 34.1406263,
-            "min_latitude": 3.5059357,
-            "min_longitude": 34.1279876
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-315",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kaabong",
+        "name": "Kalangala",
         "postal": "315",
         "type": "District",
         "type_en": "District"
     },
     "316": {
         "alt_names": [
-            "Koboko"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -10000,24 +10064,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 3.41,
-            "longitude": 30.96,
-            "max_latitude": 3.4341307,
-            "max_longitude": 30.9837413,
-            "min_latitude": 3.3891923,
-            "min_longitude": 30.938208
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-316",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Koboko",
+        "name": "Kalangala",
         "postal": "316",
         "type": "County",
         "type_en": "County"
     },
     "317": {
         "alt_names": [
-            "Abim"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -10140,24 +10204,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 2.706698,
-            "longitude": 33.6595337,
-            "max_latitude": 2.7221257,
-            "max_longitude": 33.6679459,
-            "min_latitude": 2.6962337,
-            "min_longitude": 33.6534405
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-317",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Abim",
+        "name": "Kalangala",
         "postal": "317",
         "type": "County",
         "type_en": "County"
     },
     "318": {
         "alt_names": [
-            "Dokolo"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -10280,24 +10344,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 1.916667,
-            "longitude": 33.166667,
-            "max_latitude": 1.9208743,
-            "max_longitude": 33.1776167,
-            "min_latitude": 1.9062268,
-            "min_longitude": 33.164935
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-318",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Dokolo",
+        "name": "Kalangala",
         "postal": "318",
         "type": "County",
         "type_en": "County"
     },
     "319": {
         "alt_names": [
-            "Amuru"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -10420,24 +10484,24 @@
             "woe_name": "Gulu"
         },
         "geo": {
-            "latitude": 2.9667878,
-            "longitude": 32.0837445,
-            "max_latitude": 3.584319,
-            "max_longitude": 32.388592,
-            "min_latitude": 2.529905,
-            "min_longitude": 31.344368
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-319",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Amuru",
+        "name": "Kalangala",
         "postal": "319",
         "type": "District",
         "type_en": "District"
     },
     "320": {
         "alt_names": [
-            "Maracha"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -10560,24 +10624,24 @@
             "woe_name": "Maracha"
         },
         "geo": {
-            "latitude": 3.2873127,
-            "longitude": 30.9403023,
-            "max_latitude": 3.2919098,
-            "max_longitude": 30.9473842,
-            "min_latitude": 3.2831701,
-            "min_longitude": 30.9346805
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-320",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Maracha",
+        "name": "Kalangala",
         "postal": "320",
         "type": "District",
         "type_en": "District"
     },
     "321": {
         "alt_names": [
-            "Oyam"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -10700,24 +10764,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 2.2776281,
-            "longitude": 32.4467238,
-            "max_latitude": 2.622433,
-            "max_longitude": 32.8245309,
-            "min_latitude": 2.0733884,
-            "min_longitude": 32.2280412
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-321",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Oyam",
+        "name": "Kalangala",
         "postal": "321",
         "type": "County",
         "type_en": "County"
     },
     "322": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -10840,20 +10904,24 @@
             "woe_name": "Pader"
         },
         "geo": {
-            "latitude": "2.8917600000",
-            "longitude": "33.3941000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-322",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Agago",
+        "name": "Kalangala",
         "postal": "322",
         "type": "District",
         "type_en": "District"
     },
     "323": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -10976,20 +11044,24 @@
             "woe_name": "Lira"
         },
         "geo": {
-            "latitude": "2.2713800000",
-            "longitude": "33.2107000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-323",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Alebtong",
+        "name": "Kalangala",
         "postal": "323",
         "type": "District",
         "type_en": "District"
     },
     "324": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -11112,20 +11184,24 @@
             "woe_name": "Nakapiripirit"
         },
         "geo": {
-            "latitude": "1.6725800000",
-            "longitude": "34.8830000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-324",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Amudat",
+        "name": "Kalangala",
         "postal": "324",
         "type": "District",
         "type_en": "District"
     },
     "325": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -11248,20 +11324,24 @@
             "woe_name": "Bushenyi"
         },
         "geo": {
-            "latitude": "-0.3519950000",
-            "longitude": "30.3282000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-325",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Buhweju",
+        "name": "Kalangala",
         "postal": "325",
         "type": "District",
         "type_en": "District"
     },
     "326": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -11384,20 +11464,24 @@
             "woe_name": "Apac"
         },
         "geo": {
-            "latitude": "2.2875600000",
-            "longitude": "32.6929000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-326",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kole",
+        "name": "Kalangala",
         "postal": "326",
         "type": "District",
         "type_en": "District"
     },
     "327": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -11520,20 +11604,24 @@
             "woe_name": "Kitgum"
         },
         "geo": {
-            "latitude": "3.5690300000",
-            "longitude": "32.7269000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-327",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Lamwo",
+        "name": "Kalangala",
         "postal": "327",
         "type": "District",
         "type_en": "District"
     },
     "328": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -11656,20 +11744,24 @@
             "woe_name": "Moroto"
         },
         "geo": {
-            "latitude": "2.4278200000",
-            "longitude": "34.3004000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-328",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Napak",
+        "name": "Kalangala",
         "postal": "328",
         "type": "District",
         "type_en": "District"
     },
     "329": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -11792,20 +11884,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "2.5709400000",
-            "longitude": "31.8584000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-329",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Nwoya",
+        "name": "Kalangala",
         "postal": "329",
         "type": "District",
         "type_en": "District"
     },
     "330": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -11928,20 +12024,24 @@
             "woe_name": "Lira"
         },
         "geo": {
-            "latitude": "2.4763700000",
-            "longitude": "33.3294000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-330",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Otuke",
+        "name": "Kalangala",
         "postal": "330",
         "type": "District",
         "type_en": "District"
     },
     "331": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -12064,20 +12164,24 @@
             "woe_name": "Nebbi"
         },
         "geo": {
-            "latitude": "2.5411100000",
-            "longitude": "30.9019000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-331",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Zombo",
+        "name": "Kalangala",
         "postal": "331",
         "type": "District",
         "type_en": "District"
     },
     "401": {
         "alt_names": [
-            "Bundibugyo"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -12200,24 +12304,24 @@
             "woe_name": "Bundibugyo"
         },
         "geo": {
-            "latitude": 0.7125,
-            "longitude": 30.06,
-            "max_latitude": 0.7167534,
-            "max_longitude": 30.0672626,
-            "min_latitude": 0.7008759,
-            "min_longitude": 30.0584221
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-401",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Bundibugyo",
+        "name": "Kalangala",
         "postal": "401",
         "type": "District",
         "type_en": "District"
     },
     "402": {
         "alt_names": [
-            "Bushenyi"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -12340,24 +12444,24 @@
             "woe_name": "Bushenyi"
         },
         "geo": {
-            "latitude": -0.541667,
-            "longitude": 30.185,
-            "max_latitude": -0.5361228,
-            "max_longitude": 30.2082825,
-            "min_latitude": -0.5504345,
-            "min_longitude": 30.1815355
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-402",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Bushenyi",
+        "name": "Kalangala",
         "postal": "402",
         "type": "District",
         "type_en": "District"
     },
     "403": {
         "alt_names": [
-            "Hoima"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -12480,24 +12584,24 @@
             "woe_name": "Hoima"
         },
         "geo": {
-            "latitude": 1.431944,
-            "longitude": 31.3525,
-            "max_latitude": 1.4481528,
-            "max_longitude": 31.375494,
-            "min_latitude": 1.4163196,
-            "min_longitude": 31.3272573
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-403",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Hoima",
+        "name": "Kalangala",
         "postal": "403",
         "type": "District",
         "type_en": "District"
     },
     "404": {
         "alt_names": [
-            "Kabale"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -12620,24 +12724,24 @@
             "woe_name": "Kabale"
         },
         "geo": {
-            "latitude": -1.25,
-            "longitude": 29.99,
-            "max_latitude": -1.2280573,
-            "max_longitude": 30.0149918,
-            "min_latitude": -1.2719921,
-            "min_longitude": 29.9646521
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-404",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kabale",
+        "name": "Kalangala",
         "postal": "404",
         "type": "District",
         "type_en": "District"
     },
     "405": {
         "alt_names": [
-            "Kabarole"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -12760,24 +12864,24 @@
             "woe_name": "Kabarole"
         },
         "geo": {
-            "latitude": 0.5896682,
-            "longitude": 30.2548787,
-            "max_latitude": 0.5914896,
-            "max_longitude": 30.2577274,
-            "min_latitude": 0.5870078,
-            "min_longitude": 30.2527723
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-405",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kabarole",
+        "name": "Kalangala",
         "postal": "405",
         "type": "District",
         "type_en": "District"
     },
     "406": {
         "alt_names": [
-            "Kasese"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -12900,24 +13004,24 @@
             "woe_name": "Kasese"
         },
         "geo": {
-            "latitude": 0.186667,
-            "longitude": 30.088056,
-            "max_latitude": 0.1932903,
-            "max_longitude": 30.1070882,
-            "min_latitude": 0.1502894,
-            "min_longitude": 30.0615886
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-406",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kasese",
+        "name": "Kalangala",
         "postal": "406",
         "type": "District",
         "type_en": "District"
     },
     "407": {
         "alt_names": [
-            "Kibaale"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -13040,24 +13144,24 @@
             "woe_name": "Kibale"
         },
         "geo": {
-            "latitude": 0.7682547,
-            "longitude": 31.0776593,
-            "max_latitude": 0.7959682,
-            "max_longitude": 31.0847855,
-            "min_latitude": 0.7634414,
-            "min_longitude": 31.0700227
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-407",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kibaale",
+        "name": "Kalangala",
         "postal": "407",
         "type": "District",
         "type_en": "District"
     },
     "408": {
         "alt_names": [
-            "Kisoro"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -13180,24 +13284,24 @@
             "woe_name": "Kisoro"
         },
         "geo": {
-            "latitude": -1.285,
-            "longitude": 29.685,
-            "max_latitude": -1.2734509,
-            "max_longitude": 29.7032762,
-            "min_latitude": -1.2916639,
-            "min_longitude": 29.6779346
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-408",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kisoro",
+        "name": "Kalangala",
         "postal": "408",
         "type": "District",
         "type_en": "District"
     },
     "409": {
         "alt_names": [
-            "Masindi"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -13320,24 +13424,24 @@
             "woe_name": "Masindi"
         },
         "geo": {
-            "latitude": 1.683333,
-            "longitude": 31.733333,
-            "max_latitude": 1.7076062,
-            "max_longitude": 31.7424202,
-            "min_latitude": 1.6642805,
-            "min_longitude": 31.6970158
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-409",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Masindi",
+        "name": "Kalangala",
         "postal": "409",
         "type": "District",
         "type_en": "District"
     },
     "410": {
         "alt_names": [
-            "Mbarara"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -13460,24 +13564,24 @@
             "woe_name": "Mbarara"
         },
         "geo": {
-            "latitude": -0.613333,
-            "longitude": 30.658333,
-            "max_latitude": -0.563716,
-            "max_longitude": 30.70477,
-            "min_latitude": -0.659326,
-            "min_longitude": 30.6038331
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-410",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Mbarara",
+        "name": "Kalangala",
         "postal": "410",
         "type": "District",
         "type_en": "District"
     },
     "411": {
         "alt_names": [
-            "Ntungamo"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -13600,24 +13704,24 @@
             "woe_name": "Ntungamo"
         },
         "geo": {
-            "latitude": -0.881944,
-            "longitude": 30.265278,
-            "max_latitude": -0.8652263,
-            "max_longitude": 30.2731704,
-            "min_latitude": -0.8855658,
-            "min_longitude": 30.2594376
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-411",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Ntungamo",
+        "name": "Kalangala",
         "postal": "411",
         "type": "District",
         "type_en": "District"
     },
     "412": {
         "alt_names": [
-            "Rukungiri"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -13740,24 +13844,24 @@
             "woe_name": "Rukungiri"
         },
         "geo": {
-            "latitude": -0.79,
-            "longitude": 29.925,
-            "max_latitude": -0.7836099,
-            "max_longitude": 29.9323367,
-            "min_latitude": -0.7959682,
-            "min_longitude": 29.9177456
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-412",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Rukungiri",
+        "name": "Kalangala",
         "postal": "412",
         "type": "District",
         "type_en": "District"
     },
     "413": {
         "alt_names": [
-            "Kamwenge"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -13880,24 +13984,24 @@
             "woe_name": "Kamwenge"
         },
         "geo": {
-            "latitude": 0.186066,
-            "longitude": 30.4512086,
-            "max_latitude": 0.1904579,
-            "max_longitude": 30.4590797,
-            "min_latitude": 0.1808451,
-            "min_longitude": 30.4474068
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-413",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kamwenge",
+        "name": "Kalangala",
         "postal": "413",
         "type": "District",
         "type_en": "District"
     },
     "414": {
         "alt_names": [
-            "Kanungu"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -14020,24 +14124,24 @@
             "woe_name": "Kanungu"
         },
         "geo": {
-            "latitude": -0.896944,
-            "longitude": 29.775556,
-            "max_latitude": -0.8688307,
-            "max_longitude": 29.7992992,
-            "min_latitude": -0.9059052,
-            "min_longitude": 29.7632074
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-414",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kanungu",
+        "name": "Kalangala",
         "postal": "414",
         "type": "District",
         "type_en": "District"
     },
     "415": {
         "alt_names": [
-            "Kyenjojo"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -14160,24 +14264,24 @@
             "woe_name": "Kyenjojo"
         },
         "geo": {
-            "latitude": 0.61,
-            "longitude": 30.644167,
-            "max_latitude": 0.6239767,
-            "max_longitude": 30.6506539,
-            "min_latitude": 0.5959977,
-            "min_longitude": 30.6322003
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-415",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kyenjojo",
+        "name": "Kalangala",
         "postal": "415",
         "type": "District",
         "type_en": "District"
     },
     "416": {
         "alt_names": [
-            "Ibanda"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -14300,24 +14404,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": -0.12,
-            "longitude": 30.5,
-            "max_latitude": -0.0857448,
-            "max_longitude": 30.5148696,
-            "min_latitude": -0.1435945,
-            "min_longitude": 30.4829407
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-416",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Ibanda",
+        "name": "Kalangala",
         "postal": "416",
         "type": "County",
         "type_en": "County"
     },
     "417": {
         "alt_names": [
-            "Isingiro"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -14440,24 +14544,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": -0.7454997,
-            "longitude": 30.7579834,
-            "max_latitude": -0.6023487,
-            "max_longitude": 30.9170723,
-            "min_latitude": -1.0761676,
-            "min_longitude": 30.4783058
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-417",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Isingiro",
+        "name": "Kalangala",
         "postal": "417",
         "type": "County",
         "type_en": "County"
     },
     "419": {
         "alt_names": [
-            "Buliisa"
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -14580,24 +14684,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 2.0299607,
-            "longitude": 31.5370003,
-            "max_latitude": 2.323078,
-            "max_longitude": 31.7638859,
-            "min_latitude": 1.666287,
-            "min_longitude": 31.3198184
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-419",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Buliisa",
+        "name": "Kalangala",
         "postal": "419",
         "type": "County",
         "type_en": "County"
     },
     "420": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -14720,20 +14824,24 @@
             "woe_name": "Masindi"
         },
         "geo": {
-            "latitude": "2.0286300000",
-            "longitude": "32.0563000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-420",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kiryandongo",
+        "name": "Kalangala",
         "postal": "420",
         "type": "District",
         "type_en": "District"
     },
     "421": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -14856,20 +14964,24 @@
             "woe_name": "Kyenjojo"
         },
         "geo": {
-            "latitude": "0.4636630000",
-            "longitude": "31.0230000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-421",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Kyegegwa",
+        "name": "Kalangala",
         "postal": "421",
         "type": "District",
         "type_en": "District"
     },
     "422": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -14992,20 +15104,24 @@
             "woe_name": "Bushenyi"
         },
         "geo": {
-            "latitude": "-0.6368280000",
-            "longitude": "30.0476000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-422",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Mitooma",
+        "name": "Kalangala",
         "postal": "422",
         "type": "District",
         "type_en": "District"
     },
     "423": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -15128,20 +15244,24 @@
             "woe_name": "Bundibugyo"
         },
         "geo": {
-            "latitude": "1.0203800000",
-            "longitude": "30.3756000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-423",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Ntoroko",
+        "name": "Kalangala",
         "postal": "423",
         "type": "District",
         "type_en": "District"
     },
     "424": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -15264,20 +15384,24 @@
             "woe_name": "Bushenyi"
         },
         "geo": {
-            "latitude": "-0.2699970000",
-            "longitude": "29.9095000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-424",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Rubirizi",
+        "name": "Kalangala",
         "postal": "424",
         "type": "District",
         "type_en": "District"
     },
     "425": {
         "alt_names": [
-            ""
+            "Kalangala"
         ],
         "cca2": "UG",
         "cca3": "UGA",
@@ -15400,13 +15524,17 @@
             "woe_name": "Bushenyi"
         },
         "geo": {
-            "latitude": "-0.6368280000",
-            "longitude": "30.3454000000"
+            "latitude": -0.3208374,
+            "longitude": 32.2937428,
+            "max_latitude": -0.3073312,
+            "max_longitude": 32.3186016,
+            "min_latitude": -0.3332787,
+            "min_longitude": 32.2802353
         },
         "iso_3166_2": "UG-425",
         "iso_a2": "UG",
         "iso_a3": "UGA",
-        "name": "Sheema",
+        "name": "Kalangala",
         "postal": "425",
         "type": "District",
         "type_en": "District"

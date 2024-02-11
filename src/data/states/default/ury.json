@@ -141,7 +141,7 @@
     },
     "CA": {
         "alt_names": [
-            "Canelones"
+            "Artigas"
         ],
         "cca2": "UY",
         "cca3": "URY",
@@ -264,24 +264,24 @@
             "woe_name": "Canelones"
         },
         "geo": {
-            "latitude": null,
-            "longitude": "-55.9590",
-            "max_latitude": -34.5166646,
-            "max_longitude": -56.2833322,
-            "min_latitude": "-34.5227800",
-            "min_longitude": "-56.2777800"
+            "latitude": -30.4880891,
+            "longitude": -57.1013188,
+            "max_latitude": -30.082224,
+            "max_longitude": -55.9870069,
+            "min_latitude": -31.054585,
+            "min_longitude": -57.888187
         },
         "iso_3166_2": "UY-CA",
         "iso_a2": "UY",
         "iso_a3": "URY",
-        "name": "Canelones",
+        "name": "Artigas",
         "postal": "CA",
         "type": "Departamento",
         "type_en": "Department"
     },
     "CL": {
         "alt_names": [
-            "Cerro Lago"
+            "Artigas"
         ],
         "cca2": "UY",
         "cca3": "URY",
@@ -404,24 +404,24 @@
             "woe_name": "Cerro Largo"
         },
         "geo": {
-            "latitude": -32.3769,
-            "longitude": -54.1654,
-            "max_latitude": -32.483,
-            "max_longitude": "-54.183330",
-            "min_latitude": "-32.366670",
-            "min_longitude": -53.517
+            "latitude": -30.4880891,
+            "longitude": -57.1013188,
+            "max_latitude": -30.082224,
+            "max_longitude": -55.9870069,
+            "min_latitude": -31.054585,
+            "min_longitude": -57.888187
         },
         "iso_3166_2": "UY-CL",
         "iso_a2": "UY",
         "iso_a3": "URY",
-        "name": "Cerro Lago",
+        "name": "Artigas",
         "postal": "CL",
         "type": "Departamento",
         "type_en": "Department"
     },
     "CO": {
         "alt_names": [
-            "Colonia"
+            "Artigas"
         ],
         "cca2": "UY",
         "cca3": "URY",
@@ -544,24 +544,24 @@
             "woe_name": "Colonia"
         },
         "geo": {
-            "latitude": -34.4607,
-            "longitude": -57.8339,
-            "max_latitude": -34.4517,
-            "max_longitude": -57.7667,
-            "min_latitude": -35.5012,
-            "min_longitude": -56.7844
+            "latitude": -30.4880891,
+            "longitude": -57.1013188,
+            "max_latitude": -30.082224,
+            "max_longitude": -55.9870069,
+            "min_latitude": -31.054585,
+            "min_longitude": -57.888187
         },
         "iso_3166_2": "UY-CO",
         "iso_a2": "UY",
         "iso_a3": "URY",
-        "name": "Colonia",
+        "name": "Artigas",
         "postal": "CO",
         "type": "Departamento",
         "type_en": "Department"
     },
     "DU": {
         "alt_names": [
-            "Durazno"
+            "Artigas"
         ],
         "cca2": "UY",
         "cca3": "URY",
@@ -684,24 +684,24 @@
             "woe_name": "Durazno"
         },
         "geo": {
-            "latitude": -33.3822982,
-            "longitude": -56.5275506,
-            "max_latitude": -33.3566481,
-            "max_longitude": -56.4953762,
-            "min_latitude": -33.413685,
-            "min_longitude": -56.6182749
+            "latitude": -30.4880891,
+            "longitude": -57.1013188,
+            "max_latitude": -30.082224,
+            "max_longitude": -55.9870069,
+            "min_latitude": -31.054585,
+            "min_longitude": -57.888187
         },
         "iso_3166_2": "UY-DU",
         "iso_a2": "UY",
         "iso_a3": "URY",
-        "name": "Durazno",
+        "name": "Artigas",
         "postal": "DU",
         "type": "Departamento",
         "type_en": "Department"
     },
     "FD": {
         "alt_names": [
-            "FLorida"
+            "Artigas"
         ],
         "cca2": "UY",
         "cca3": "URY",
@@ -824,24 +824,24 @@
             "woe_name": "Florida"
         },
         "geo": {
-            "latitude": -34.1,
-            "longitude": -56.216667,
-            "max_latitude": -34.0753834,
-            "max_longitude": -56.2004211,
-            "min_latitude": -34.1148295,
-            "min_longitude": -56.2453946
+            "latitude": -30.4880891,
+            "longitude": -57.1013188,
+            "max_latitude": -30.082224,
+            "max_longitude": -55.9870069,
+            "min_latitude": -31.054585,
+            "min_longitude": -57.888187
         },
         "iso_3166_2": "UY-FD",
         "iso_a2": "UY",
         "iso_a3": "URY",
-        "name": "Florida",
+        "name": "Artigas",
         "postal": "FD",
         "type": "Departamento",
         "type_en": "Department"
     },
     "FS": {
         "alt_names": [
-            "Flores"
+            "Artigas"
         ],
         "cca2": "UY",
         "cca3": "URY",
@@ -964,24 +964,24 @@
             "woe_name": "Flores"
         },
         "geo": {
-            "latitude": -33.5629477,
-            "longitude": -56.8311117,
-            "max_latitude": -33.12822,
-            "max_longitude": -56.3974,
-            "min_latitude": -33.963974,
-            "min_longitude": -57.359303
+            "latitude": -30.4880891,
+            "longitude": -57.1013188,
+            "max_latitude": -30.082224,
+            "max_longitude": -55.9870069,
+            "min_latitude": -31.054585,
+            "min_longitude": -57.888187
         },
         "iso_3166_2": "UY-FS",
         "iso_a2": "UY",
         "iso_a3": "URY",
-        "name": "Flores",
+        "name": "Artigas",
         "postal": "FS",
         "type": "Departamento",
         "type_en": "Department"
     },
     "LA": {
         "alt_names": [
-            "Lavalleja"
+            "Artigas"
         ],
         "cca2": "UY",
         "cca3": "URY",
@@ -1104,24 +1104,24 @@
             "woe_name": "Lavalleja"
         },
         "geo": {
-            "latitude": -34.0040354,
-            "longitude": -54.9611836,
-            "max_latitude": -33.296482,
-            "max_longitude": -54.126133,
-            "min_latitude": -34.6143989,
-            "min_longitude": -55.6264269
+            "latitude": -30.4880891,
+            "longitude": -57.1013188,
+            "max_latitude": -30.082224,
+            "max_longitude": -55.9870069,
+            "min_latitude": -31.054585,
+            "min_longitude": -57.888187
         },
         "iso_3166_2": "UY-LA",
         "iso_a2": "UY",
         "iso_a3": "URY",
-        "name": "Lavalleja",
+        "name": "Artigas",
         "postal": "LA",
         "type": "Departamento",
         "type_en": "Department"
     },
     "MA": {
         "alt_names": [
-            "Maldonado"
+            "Artigas"
         ],
         "cca2": "UY",
         "cca3": "URY",
@@ -1244,24 +1244,24 @@
             "woe_name": "Maldonado"
         },
         "geo": {
-            "latitude": -34.6277617,
-            "longitude": -54.9611836,
-            "max_latitude": -33.9133488,
-            "max_longitude": -54.4719539,
-            "min_latitude": -34.9733882,
-            "min_longitude": -55.4849819
+            "latitude": -30.4880891,
+            "longitude": -57.1013188,
+            "max_latitude": -30.082224,
+            "max_longitude": -55.9870069,
+            "min_latitude": -31.054585,
+            "min_longitude": -57.888187
         },
         "iso_3166_2": "UY-MA",
         "iso_a2": "UY",
         "iso_a3": "URY",
-        "name": "Maldonado",
+        "name": "Artigas",
         "postal": "MA",
         "type": "Departamento",
         "type_en": "Department"
     },
     "MO": {
         "alt_names": [
-            "Montevideo"
+            "Artigas"
         ],
         "cca2": "UY",
         "cca3": "URY",
@@ -1384,24 +1384,24 @@
             "woe_name": "Montevideo"
         },
         "geo": {
-            "latitude": -34.9011127,
-            "longitude": -56.1645314,
-            "max_latitude": -34.70193,
-            "max_longitude": -56.0292436,
-            "min_latitude": -34.9379555,
-            "min_longitude": -56.4311685
+            "latitude": -30.4880891,
+            "longitude": -57.1013188,
+            "max_latitude": -30.082224,
+            "max_longitude": -55.9870069,
+            "min_latitude": -31.054585,
+            "min_longitude": -57.888187
         },
         "iso_3166_2": "UY-MO",
         "iso_a2": "UY",
         "iso_a3": "URY",
-        "name": "Montevideo",
+        "name": "Artigas",
         "postal": "MO",
         "type": "Departamento",
         "type_en": "Department"
     },
     "PA": {
         "alt_names": [
-            "Paysand\u00fa"
+            "Artigas"
         ],
         "cca2": "UY",
         "cca3": "URY",
@@ -1524,24 +1524,24 @@
             "woe_name": "Paysand\u00fa"
         },
         "geo": {
-            "latitude": -32.2216595,
-            "longitude": -57.4627259,
-            "max_latitude": -31.4293369,
-            "max_longitude": -56.2413251,
-            "min_latitude": -32.572212,
-            "min_longitude": -58.205719
+            "latitude": -30.4880891,
+            "longitude": -57.1013188,
+            "max_latitude": -30.082224,
+            "max_longitude": -55.9870069,
+            "min_latitude": -31.054585,
+            "min_longitude": -57.888187
         },
         "iso_3166_2": "UY-PA",
         "iso_a2": "UY",
         "iso_a3": "URY",
-        "name": "Paysand\u00fa",
+        "name": "Artigas",
         "postal": "PA",
         "type": "Departamento",
         "type_en": "Department"
     },
     "RN": {
         "alt_names": [
-            "R\u00edo Negro"
+            "Artigas"
         ],
         "cca2": "UY",
         "cca3": "URY",
@@ -1664,24 +1664,24 @@
             "woe_name": "R\u00edo Negro"
         },
         "geo": {
-            "latitude": -32.7625409,
+            "latitude": -30.4880891,
             "longitude": -57.1013188,
-            "max_latitude": -32.3229219,
-            "max_longitude": -56.547501,
-            "min_latitude": -33.4182849,
-            "min_longitude": -58.4203151
+            "max_latitude": -30.082224,
+            "max_longitude": -55.9870069,
+            "min_latitude": -31.054585,
+            "min_longitude": -57.888187
         },
         "iso_3166_2": "UY-RN",
         "iso_a2": "UY",
         "iso_a3": "URY",
-        "name": "R\u00edo Negro",
+        "name": "Artigas",
         "postal": "RN",
         "type": "Departamento",
         "type_en": "Department"
     },
     "RO": {
         "alt_names": [
-            "Rocha"
+            "Artigas"
         ],
         "cca2": "UY",
         "cca3": "URY",
@@ -1804,24 +1804,24 @@
             "woe_name": "Rocha"
         },
         "geo": {
-            "latitude": -33.9674948,
-            "longitude": -53.9106594,
-            "max_latitude": -33.1358951,
-            "max_longitude": -53.3785147,
-            "min_latitude": -34.7936294,
-            "min_longitude": -54.564964
+            "latitude": -30.4880891,
+            "longitude": -57.1013188,
+            "max_latitude": -30.082224,
+            "max_longitude": -55.9870069,
+            "min_latitude": -31.054585,
+            "min_longitude": -57.888187
         },
         "iso_3166_2": "UY-RO",
         "iso_a2": "UY",
         "iso_a3": "URY",
-        "name": "Rocha",
+        "name": "Artigas",
         "postal": "RO",
         "type": "Departamento",
         "type_en": "Department"
     },
     "RV": {
         "alt_names": [
-            "Rivera"
+            "Artigas"
         ],
         "cca2": "UY",
         "cca3": "URY",
@@ -1944,24 +1944,24 @@
             "woe_name": "Rivera"
         },
         "geo": {
-            "latitude": -30.9025,
-            "longitude": -55.550556,
-            "max_latitude": -30.8566634,
-            "max_longitude": -55.4523149,
-            "min_latitude": -30.9871014,
-            "min_longitude": -55.6165266
+            "latitude": -30.4880891,
+            "longitude": -57.1013188,
+            "max_latitude": -30.082224,
+            "max_longitude": -55.9870069,
+            "min_latitude": -31.054585,
+            "min_longitude": -57.888187
         },
         "iso_3166_2": "UY-RV",
         "iso_a2": "UY",
         "iso_a3": "URY",
-        "name": "Rivera",
+        "name": "Artigas",
         "postal": "RV",
         "type": "Departamento",
         "type_en": "Department"
     },
     "SA": {
         "alt_names": [
-            "Salto"
+            "Artigas"
         ],
         "cca2": "UY",
         "cca3": "URY",
@@ -2084,24 +2084,24 @@
             "woe_name": "Salto"
         },
         "geo": {
-            "latitude": -31.4679335,
+            "latitude": -30.4880891,
             "longitude": -57.1013188,
-            "max_latitude": -30.716536,
-            "max_longitude": -55.9999059,
-            "min_latitude": -31.8470001,
-            "min_longitude": -58.0779601
+            "max_latitude": -30.082224,
+            "max_longitude": -55.9870069,
+            "min_latitude": -31.054585,
+            "min_longitude": -57.888187
         },
         "iso_3166_2": "UY-SA",
         "iso_a2": "UY",
         "iso_a3": "URY",
-        "name": "Salto",
+        "name": "Artigas",
         "postal": "SA",
         "type": "Departamento",
         "type_en": "Department"
     },
     "SJ": {
         "alt_names": [
-            "San Jos\u00e9"
+            "Artigas"
         ],
         "cca2": "UY",
         "cca3": "URY",
@@ -2224,24 +2224,24 @@
             "woe_name": "San Jos\u00e9"
         },
         "geo": {
-            "latitude": -34.250223,
-            "longitude": -56.741207,
-            "max_latitude": -33.816353,
-            "max_longitude": -56.343634,
-            "min_latitude": -34.78946,
-            "min_longitude": -57.1731299
+            "latitude": -30.4880891,
+            "longitude": -57.1013188,
+            "max_latitude": -30.082224,
+            "max_longitude": -55.9870069,
+            "min_latitude": -31.054585,
+            "min_longitude": -57.888187
         },
         "iso_3166_2": "UY-SJ",
         "iso_a2": "UY",
         "iso_a3": "URY",
-        "name": "San Jos\u00e9",
+        "name": "Artigas",
         "postal": "SJ",
         "type": "Departamento",
         "type_en": "Department"
     },
     "SO": {
         "alt_names": [
-            "Soriano"
+            "Artigas"
         ],
         "cca2": "UY",
         "cca3": "URY",
@@ -2364,24 +2364,24 @@
             "woe_name": "Soriano"
         },
         "geo": {
-            "latitude": -33.5103372,
-            "longitude": -57.7346113,
-            "max_latitude": -33.006599,
-            "max_longitude": -57.0863759,
-            "min_latitude": -33.9466588,
-            "min_longitude": -58.442722
+            "latitude": -30.4880891,
+            "longitude": -57.1013188,
+            "max_latitude": -30.082224,
+            "max_longitude": -55.9870069,
+            "min_latitude": -31.054585,
+            "min_longitude": -57.888187
         },
         "iso_3166_2": "UY-SO",
         "iso_a2": "UY",
         "iso_a3": "URY",
-        "name": "Soriano",
+        "name": "Artigas",
         "postal": "SO",
         "type": "Departamento",
         "type_en": "Department"
     },
     "TA": {
         "alt_names": [
-            "Tacuaremb\u00f3"
+            "Artigas"
         ],
         "cca2": "UY",
         "cca3": "URY",
@@ -2504,24 +2504,24 @@
             "woe_name": "Tacuaremb\u00f3"
         },
         "geo": {
-            "latitude": -32.0106717,
-            "longitude": -55.6689636,
-            "max_latitude": -31.210968,
-            "max_longitude": -54.651097,
-            "min_latitude": -32.872563,
-            "min_longitude": -56.663515
+            "latitude": -30.4880891,
+            "longitude": -57.1013188,
+            "max_latitude": -30.082224,
+            "max_longitude": -55.9870069,
+            "min_latitude": -31.054585,
+            "min_longitude": -57.888187
         },
         "iso_3166_2": "UY-TA",
         "iso_a2": "UY",
         "iso_a3": "URY",
-        "name": "Tacuaremb\u00f3",
+        "name": "Artigas",
         "postal": "TA",
         "type": "Departamento",
         "type_en": "Department"
     },
     "TT": {
         "alt_names": [
-            "Treinta y Tres"
+            "Artigas"
         ],
         "cca2": "UY",
         "cca3": "URY",
@@ -2644,17 +2644,17 @@
             "woe_name": "Treinta y Tres"
         },
         "geo": {
-            "latitude": -33.1476661,
-            "longitude": -54.2593118,
-            "max_latitude": -32.682854,
-            "max_longitude": -53.2823961,
-            "min_latitude": -33.444572,
-            "min_longitude": -55.158798
+            "latitude": -30.4880891,
+            "longitude": -57.1013188,
+            "max_latitude": -30.082224,
+            "max_longitude": -55.9870069,
+            "min_latitude": -31.054585,
+            "min_longitude": -57.888187
         },
         "iso_3166_2": "UY-TT",
         "iso_a2": "UY",
         "iso_a3": "URY",
-        "name": "Treinta y Tres",
+        "name": "Artigas",
         "postal": "TT",
         "type": "Departamento",
         "type_en": "Department"

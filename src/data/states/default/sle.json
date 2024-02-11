@@ -141,7 +141,7 @@
     },
     "N": {
         "alt_names": [
-            "Northern"
+            "Eastern"
         ],
         "cca2": "SL",
         "cca3": "SLE",
@@ -264,24 +264,24 @@
             "woe_name": "Northern"
         },
         "geo": {
-            "latitude": 9.3500888,
-            "longitude": -11.7068294,
-            "max_latitude": 10.0004329,
-            "max_longitude": -10.5848049,
-            "min_latitude": 8.2419749,
-            "min_longitude": -13.3032624
+            "latitude": 8.2473775,
+            "longitude": -10.8903099,
+            "max_latitude": 9.069968,
+            "max_longitude": -10.2842381,
+            "min_latitude": 7.341372,
+            "min_longitude": -11.5805801
         },
         "iso_3166_2": "SL-N",
         "iso_a2": "SL",
         "iso_a3": "SLE",
-        "name": "Northern",
+        "name": "Eastern",
         "postal": "N",
         "type": "Province",
         "type_en": "Province"
     },
     "S": {
         "alt_names": [
-            "Southern"
+            "Eastern"
         ],
         "cca2": "SL",
         "cca3": "SLE",
@@ -404,24 +404,24 @@
             "woe_name": "Southern"
         },
         "geo": {
-            "latitude": 7.7906625,
-            "longitude": -11.8891721,
-            "max_latitude": 8.507107,
-            "max_longitude": -11.1348019,
-            "min_latitude": 6.9296111,
-            "min_longitude": -13.0692559
+            "latitude": 8.2473775,
+            "longitude": -10.8903099,
+            "max_latitude": 9.069968,
+            "max_longitude": -10.2842381,
+            "min_latitude": 7.341372,
+            "min_longitude": -11.5805801
         },
         "iso_3166_2": "SL-S",
         "iso_a2": "SL",
         "iso_a3": "SLE",
-        "name": "Southern",
+        "name": "Eastern",
         "postal": "S",
         "type": "Province",
         "type_en": "Province"
     },
     "W": {
         "alt_names": [
-            "Western Area (Freetown)"
+            "Eastern"
         ],
         "cca2": "SL",
         "cca3": "SLE",
@@ -544,17 +544,17 @@
             "woe_name": "Western"
         },
         "geo": {
-            "latitude": 8.484444,
-            "longitude": -13.234444,
-            "max_latitude": 8.4996723,
-            "max_longitude": -13.1487465,
-            "min_latitude": 8.4091211,
-            "min_longitude": -13.2985468
+            "latitude": 8.2473775,
+            "longitude": -10.8903099,
+            "max_latitude": 9.069968,
+            "max_longitude": -10.2842381,
+            "min_latitude": 7.341372,
+            "min_longitude": -11.5805801
         },
         "iso_3166_2": "SL-W",
         "iso_a2": "SL",
         "iso_a3": "SLE",
-        "name": "Western Area (Freetown)",
+        "name": "Eastern",
         "postal": "W",
         "type": "Province",
         "type_en": "Province"

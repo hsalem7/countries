@@ -141,8 +141,7 @@
     },
     "FS": {
         "alt_names": [
-            "Foreistata",
-            "Vrystaat"
+            "Oos Kaap"
         ],
         "cca2": "ZA",
         "cca3": "ZAF",
@@ -265,24 +264,24 @@
             "woe_name": "Orange Free State"
         },
         "geo": {
-            "latitude": -28.4541105,
-            "longitude": 26.7967849,
-            "max_latitude": -26.6687389,
-            "max_longitude": 29.7851298,
-            "min_latitude": -30.69408,
-            "min_longitude": 24.3466211
+            "latitude": -32.2968402,
+            "longitude": 26.419389,
+            "max_latitude": -30.0018012,
+            "max_longitude": 30.1947187,
+            "min_latitude": -34.2136378,
+            "min_longitude": 22.7357412
         },
         "iso_3166_2": "ZA-FS",
         "iso_a2": "ZA",
         "iso_a3": "ZAF",
-        "name": "Free State",
+        "name": "Eastern Cape",
         "postal": "FS",
         "type": "Provinsie",
         "type_en": "Province"
     },
     "GT": {
         "alt_names": [
-            "Pretoria-Witwatersrand-Vereeniging"
+            "Oos Kaap"
         ],
         "cca2": "ZA",
         "cca3": "ZAF",
@@ -405,24 +404,24 @@
             "woe_name": "Gauteng"
         },
         "geo": {
-            "latitude": -26.2707593,
-            "longitude": 28.1122679,
-            "max_latitude": -25.1096099,
-            "max_longitude": 29.0984187,
-            "min_latitude": -26.9118973,
-            "min_longitude": 27.1563401
+            "latitude": -32.2968402,
+            "longitude": 26.419389,
+            "max_latitude": -30.0018012,
+            "max_longitude": 30.1947187,
+            "min_latitude": -34.2136378,
+            "min_longitude": 22.7357412
         },
         "iso_3166_2": "ZA-GT",
         "iso_a2": "ZA",
         "iso_a3": "ZAF",
-        "name": "Gauteng",
+        "name": "Eastern Cape",
         "postal": "GT",
         "type": "Provinsie",
         "type_en": "Province"
     },
     "LP": {
         "alt_names": [
-            "Limpopo"
+            "Oos Kaap"
         ],
         "cca2": "ZA",
         "cca3": "ZAF",
@@ -545,24 +544,24 @@
             "woe_name": "Limpopo"
         },
         "geo": {
-            "latitude": -23.4012946,
-            "longitude": 29.4179324,
-            "max_latitude": -22.1250298,
-            "max_longitude": 31.8838412,
-            "min_latitude": -25.4227899,
-            "min_longitude": 26.4075388
+            "latitude": -32.2968402,
+            "longitude": 26.419389,
+            "max_latitude": -30.0018012,
+            "max_longitude": 30.1947187,
+            "min_latitude": -34.2136378,
+            "min_longitude": 22.7357412
         },
         "iso_3166_2": "ZA-LP",
         "iso_a2": "ZA",
         "iso_a3": "ZAF",
-        "name": "Limpopo",
+        "name": "Eastern Cape",
         "postal": "LP",
         "type": "Provinsie",
         "type_en": "Province"
     },
     "MP": {
         "alt_names": [
-            "eMpumalanga"
+            "Oos Kaap"
         ],
         "cca2": "ZA",
         "cca3": "ZAF",
@@ -685,24 +684,24 @@
             "woe_name": "Mpumalanga"
         },
         "geo": {
-            "latitude": -29.817,
-            "longitude": 30.637,
-            "max_latitude": -29.7785889,
-            "max_longitude": 30.67445,
-            "min_latitude": -29.853415,
-            "min_longitude": 30.5890079
+            "latitude": -32.2968402,
+            "longitude": 26.419389,
+            "max_latitude": -30.0018012,
+            "max_longitude": 30.1947187,
+            "min_latitude": -34.2136378,
+            "min_longitude": 22.7357412
         },
         "iso_3166_2": "ZA-MP",
         "iso_a2": "ZA",
         "iso_a3": "ZAF",
-        "name": "Mpumalanga",
+        "name": "Eastern Cape",
         "postal": "MP",
         "type": "Provinsie",
         "type_en": "Province"
     },
     "NC": {
         "alt_names": [
-            "Northern Cape"
+            "Oos Kaap"
         ],
         "cca2": "ZA",
         "cca3": "ZAF",
@@ -825,24 +824,24 @@
             "woe_name": "Northern Cape"
         },
         "geo": {
-            "latitude": -29.0466808,
-            "longitude": 21.8568586,
-            "max_latitude": -24.76586,
-            "max_longitude": 25.54933,
-            "min_latitude": -32.9449877,
-            "min_longitude": 16.451941
+            "latitude": -32.2968402,
+            "longitude": 26.419389,
+            "max_latitude": -30.0018012,
+            "max_longitude": 30.1947187,
+            "min_latitude": -34.2136378,
+            "min_longitude": 22.7357412
         },
         "iso_3166_2": "ZA-NC",
         "iso_a2": "ZA",
         "iso_a3": "ZAF",
-        "name": "Northern Cape",
+        "name": "Eastern Cape",
         "postal": "NC",
         "type": "Provinsie",
         "type_en": "Province"
     },
     "NL": {
         "alt_names": [
-            "Kwazulu-Natal"
+            "Oos Kaap"
         ],
         "cca2": "ZA",
         "cca3": "ZAF",
@@ -965,24 +964,24 @@
             "woe_name": "KwaZulu-Natal"
         },
         "geo": {
-            "latitude": -28.5305539,
-            "longitude": 30.8958242,
-            "max_latitude": -26.80442,
-            "max_longitude": 32.8909911,
-            "min_latitude": -31.0853648,
-            "min_longitude": 28.8734801
+            "latitude": -32.2968402,
+            "longitude": 26.419389,
+            "max_latitude": -30.0018012,
+            "max_longitude": 30.1947187,
+            "min_latitude": -34.2136378,
+            "min_longitude": 22.7357412
         },
         "iso_3166_2": "ZA-NL",
         "iso_a2": "ZA",
         "iso_a3": "ZAF",
-        "name": "Kwazulu-Natal",
+        "name": "Eastern Cape",
         "postal": "NL",
         "type": "Provinsie",
         "type_en": "Province"
     },
     "NW": {
         "alt_names": [
-            "North-West"
+            "Oos Kaap"
         ],
         "cca2": "ZA",
         "cca3": "ZAF",
@@ -1105,24 +1104,24 @@
             "woe_name": "North West"
         },
         "geo": {
-            "latitude": -26.6638599,
-            "longitude": 25.2837585,
-            "max_latitude": -24.6366288,
-            "max_longitude": 28.2983488,
-            "min_latitude": -28.112206,
-            "min_longitude": 22.6290299
+            "latitude": -32.2968402,
+            "longitude": 26.419389,
+            "max_latitude": -30.0018012,
+            "max_longitude": 30.1947187,
+            "min_latitude": -34.2136378,
+            "min_longitude": 22.7357412
         },
         "iso_3166_2": "ZA-NW",
         "iso_a2": "ZA",
         "iso_a3": "ZAF",
-        "name": "North-West",
+        "name": "Eastern Cape",
         "postal": "NW",
         "type": "Provinsie",
         "type_en": "Province"
     },
     "WC": {
         "alt_names": [
-            "Wes Kaap"
+            "Oos Kaap"
         ],
         "cca2": "ZA",
         "cca3": "ZAF",
@@ -1245,17 +1244,17 @@
             "woe_name": "Western Cape"
         },
         "geo": {
-            "latitude": -33.2277918,
-            "longitude": 21.8568586,
-            "max_latitude": -30.4302599,
-            "max_longitude": 24.22241,
-            "min_latitude": -34.8330058,
-            "min_longitude": 17.7575637
+            "latitude": -32.2968402,
+            "longitude": 26.419389,
+            "max_latitude": -30.0018012,
+            "max_longitude": 30.1947187,
+            "min_latitude": -34.2136378,
+            "min_longitude": 22.7357412
         },
         "iso_3166_2": "ZA-WC",
         "iso_a2": "ZA",
         "iso_a3": "ZAF",
-        "name": "Western Cape",
+        "name": "Eastern Cape",
         "postal": "WC",
         "type": "Provinsie",
         "type_en": "Province"

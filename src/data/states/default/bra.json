@@ -141,7 +141,7 @@
     },
     "AL": {
         "alt_names": [
-            "Alagoas"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -264,24 +264,24 @@
             "woe_name": "Alagoas"
         },
         "geo": {
-            "latitude": -9.5713058,
-            "longitude": -36.7819505,
-            "max_latitude": -8.8131293,
-            "max_longitude": -35.1522142,
-            "min_latitude": -10.5037567,
-            "min_longitude": -38.2273267
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-AL",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Alagoas",
+        "name": "Acre",
         "postal": "AL",
         "type": "Estado",
         "type_en": "State"
     },
     "AM": {
         "alt_names": [
-            "Amazonas"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -404,24 +404,24 @@
             "woe_name": "Amazonas"
         },
         "geo": {
-            "latitude": -3.4168427,
-            "longitude": -65.8560646,
-            "max_latitude": 2.246628,
-            "max_longitude": -56.0975519,
-            "min_latitude": -9.8180491,
-            "min_longitude": -73.8015533
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-AM",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Amazonas",
+        "name": "Acre",
         "postal": "AM",
         "type": "Estado",
         "type_en": "State"
     },
     "AP": {
         "alt_names": [
-            "Amap\u00e1"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -544,24 +544,24 @@
             "woe_name": "Amap\u00e1"
         },
         "geo": {
-            "latitude": 2.0447397,
-            "longitude": -50.7874222,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-AP",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Amap\u00e1",
+        "name": "Acre",
         "postal": "AP",
         "type": "Estado",
         "type_en": "State"
     },
     "BA": {
         "alt_names": [
-            "Bahia"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -684,24 +684,24 @@
             "woe_name": "Bahia"
         },
         "geo": {
-            "latitude": -12.579738,
-            "longitude": -41.7007272,
-            "max_latitude": -8.5328229,
-            "max_longitude": -37.3484113,
-            "min_latitude": -18.3359162,
-            "min_longitude": -46.6170906
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-BA",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Bahia",
+        "name": "Acre",
         "postal": "BA",
         "type": "Estado",
         "type_en": "State"
     },
     "CE": {
         "alt_names": [
-            "Cear\u00e1"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -824,24 +824,24 @@
             "woe_name": "Cear\u00e1"
         },
         "geo": {
-            "latitude": -5.4983977,
-            "longitude": -39.3206241,
-            "max_latitude": -2.7844329,
-            "max_longitude": -37.2530223,
-            "min_latitude": -7.8581851,
-            "min_longitude": -41.4235126
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-CE",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Cear\u00e1",
+        "name": "Acre",
         "postal": "CE",
         "type": "Estado",
         "type_en": "State"
     },
     "DF": {
         "alt_names": [
-            "Distrito Federal"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -964,24 +964,24 @@
             "woe_name": "Distrito Federal"
         },
         "geo": {
-            "latitude": -15.826691,
-            "longitude": -47.9218204,
-            "max_latitude": -15.5001712,
-            "max_longitude": -47.3081926,
-            "min_latitude": -16.0517624,
-            "min_longitude": -48.2870947
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-DF",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Distrito Federal",
+        "name": "Acre",
         "postal": "DF",
         "type": "Distrito Federal",
         "type_en": "Federal District"
     },
     "ES": {
         "alt_names": [
-            "Esp\u00edrito Santo"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -1104,24 +1104,24 @@
             "woe_name": "Esp\u00edrito Santo"
         },
         "geo": {
-            "latitude": -19.1834229,
-            "longitude": -40.3088626,
-            "max_latitude": -17.891947,
-            "max_longitude": -28.8359374,
-            "min_latitude": -21.3017845,
-            "min_longitude": -41.8797894
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-ES",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Esp\u00edrito Santo",
+        "name": "Acre",
         "postal": "ES",
         "type": "Estado",
         "type_en": "State"
     },
     "GO": {
         "alt_names": [
-            "Goi\u00e1s"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -1244,24 +1244,24 @@
             "woe_name": "Goi\u00e1s"
         },
         "geo": {
-            "latitude": -15.93397,
-            "longitude": -50.1403832,
-            "max_latitude": -15.9224628,
-            "max_longitude": -50.1251296,
-            "min_latitude": -15.9523406,
-            "min_longitude": -50.1606536
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-GO",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Goi\u00e1s",
+        "name": "Acre",
         "postal": "GO",
         "type": "Estado",
         "type_en": "State"
     },
     "MA": {
         "alt_names": [
-            "Maranh\u00e3o"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -1384,24 +1384,24 @@
             "woe_name": "Maranh\u00e3o"
         },
         "geo": {
-            "latitude": -4.9609498,
-            "longitude": -45.2744159,
-            "max_latitude": -1.049999,
-            "max_longitude": -41.7958785,
-            "min_latitude": -10.2617676,
-            "min_longitude": -48.7551446
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-MA",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Maranh\u00e3o",
+        "name": "Acre",
         "postal": "MA",
         "type": "Estado",
         "type_en": "State"
     },
     "MG": {
         "alt_names": [
-            "Minas Gerais"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -1524,24 +1524,24 @@
             "woe_name": "Minas Gerais"
         },
         "geo": {
-            "latitude": -18.512178,
-            "longitude": -44.5550308,
-            "max_latitude": -14.233183,
-            "max_longitude": -39.8568263,
-            "min_latitude": -22.9227576,
-            "min_longitude": -51.0460748
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-MG",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Minas Gerais",
+        "name": "Acre",
         "postal": "MG",
         "type": "Estado",
         "type_en": "State"
     },
     "MS": {
         "alt_names": [
-            "Mato Grosso do Sul"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -1664,24 +1664,24 @@
             "woe_name": "Mato Grosso do Sul"
         },
         "geo": {
-            "latitude": -20.7722295,
-            "longitude": -54.7851531,
-            "max_latitude": -17.1666336,
-            "max_longitude": -50.9229023,
-            "min_latitude": -24.0561184,
-            "min_longitude": -58.1670573
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-MS",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Mato Grosso do Sul",
+        "name": "Acre",
         "postal": "MS",
         "type": "Estado",
         "type_en": "State"
     },
     "MT": {
         "alt_names": [
-            "Mato Grosso"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -1804,24 +1804,24 @@
             "woe_name": "Mato Grosso"
         },
         "geo": {
-            "latitude": -12.6818712,
-            "longitude": -56.921099,
-            "max_latitude": -7.3490372,
-            "max_longitude": -50.2247999,
-            "min_latitude": -18.0420517,
-            "min_longitude": -61.6331946
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-MT",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Mato Grosso",
+        "name": "Acre",
         "postal": "MT",
         "type": "Estado",
         "type_en": "State"
     },
     "PA": {
         "alt_names": [
-            "Par\u00e1"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -1944,24 +1944,24 @@
             "woe_name": "Par\u00e1"
         },
         "geo": {
-            "latitude": -1.9981271,
-            "longitude": -54.9306152,
-            "max_latitude": 2.5910246,
-            "max_longitude": -46.0643195,
-            "min_latitude": -9.8411565,
-            "min_longitude": -58.898277
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-PA",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Par\u00e1",
+        "name": "Acre",
         "postal": "PA",
         "type": "Estado",
         "type_en": "State"
     },
     "PB": {
         "alt_names": [
-            "Para\u00edba"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -2084,24 +2084,24 @@
             "woe_name": "Para\u00edba"
         },
         "geo": {
-            "latitude": -7.2399609,
-            "longitude": -36.7819505,
-            "max_latitude": -6.0259143,
-            "max_longitude": -34.7931433,
-            "min_latitude": -8.3029572,
-            "min_longitude": -38.7656069
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-PB",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Para\u00edba",
+        "name": "Acre",
         "postal": "PB",
         "type": "Estado",
         "type_en": "State"
     },
     "PE": {
         "alt_names": [
-            "Pernambuco"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -2224,24 +2224,24 @@
             "woe_name": "Pernambuco"
         },
         "geo": {
-            "latitude": -8.8137173,
-            "longitude": -36.954107,
-            "max_latitude": -3.8305016,
-            "max_longitude": -32.3918587,
-            "min_latitude": -9.4829006,
-            "min_longitude": -41.3583307
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-PE",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Pernambuco",
+        "name": "Acre",
         "postal": "PE",
         "type": "Estado",
         "type_en": "State"
     },
     "PI": {
         "alt_names": [
-            "Piau\u00ed"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -2364,24 +2364,24 @@
             "woe_name": "Piau\u00ed"
         },
         "geo": {
-            "latitude": -7.7183401,
-            "longitude": -42.7289236,
-            "max_latitude": -2.7473161,
-            "max_longitude": -40.3705066,
-            "min_latitude": -10.9287593,
-            "min_longitude": -45.9942887
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-PI",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Piau\u00ed",
+        "name": "Acre",
         "postal": "PI",
         "type": "Estado",
         "type_en": "State"
     },
     "PR": {
         "alt_names": [
-            "Paran\u00e1"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -2504,24 +2504,24 @@
             "woe_name": "Paran\u00e1"
         },
         "geo": {
-            "latitude": -25.2520888,
-            "longitude": -52.0215415,
-            "max_latitude": -22.5166644,
-            "max_longitude": -48.0235303,
-            "min_latitude": -26.7172983,
-            "min_longitude": -54.6192979
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-PR",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Paran\u00e1",
+        "name": "Acre",
         "postal": "PR",
         "type": "Estado",
         "type_en": "State"
     },
     "RJ": {
         "alt_names": [
-            "Rio de Janeiro"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -2644,24 +2644,24 @@
             "woe_name": "Rio de Janeiro"
         },
         "geo": {
-            "latitude": -22.9068467,
-            "longitude": -43.1728965,
-            "max_latitude": -22.7461987,
-            "max_longitude": -43.1018358,
-            "min_latitude": -23.0763469,
-            "min_longitude": -43.7950599
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-RJ",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Rio de Janeiro",
+        "name": "Acre",
         "postal": "RJ",
         "type": "Estado",
         "type_en": "State"
     },
     "RN": {
         "alt_names": [
-            "Rio Grande do Norte"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -2784,24 +2784,24 @@
             "woe_name": "Rio Grande do Norte"
         },
         "geo": {
-            "latitude": -5.4025803,
-            "longitude": -36.954107,
-            "max_latitude": -4.8317963,
-            "max_longitude": -34.9687549,
-            "min_latitude": -6.9827372,
-            "min_longitude": -38.5821039
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-RN",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Rio Grande do Norte",
+        "name": "Acre",
         "postal": "RN",
         "type": "Estado",
         "type_en": "State"
     },
     "RO": {
         "alt_names": [
-            "Rond\u00f4nia"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -2924,24 +2924,24 @@
             "woe_name": "Rond\u00f4nia"
         },
         "geo": {
-            "latitude": -11.5057341,
-            "longitude": -63.580611,
-            "max_latitude": -7.9692976,
-            "max_longitude": -59.7743471,
-            "min_latitude": -13.6937038,
-            "min_longitude": -66.8102456
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-RO",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Rond\u00f4nia",
+        "name": "Acre",
         "postal": "RO",
         "type": "Estado",
         "type_en": "State"
     },
     "RR": {
         "alt_names": [
-            "Roraima"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -3064,24 +3064,24 @@
             "woe_name": "Roraima"
         },
         "geo": {
-            "latitude": 2.7375971,
-            "longitude": -62.0750998,
-            "max_latitude": 5.2718389,
-            "max_longitude": -58.8868782,
-            "min_latitude": -1.5806358,
-            "min_longitude": -64.8252444
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-RR",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Roraima",
+        "name": "Acre",
         "postal": "RR",
         "type": "Estado",
         "type_en": "State"
     },
     "RS": {
         "alt_names": [
-            "Rio Grande do Sul"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -3204,24 +3204,24 @@
             "woe_name": "Rio Grande do Sul"
         },
         "geo": {
-            "latitude": -30.0346316,
-            "longitude": -51.2176986,
-            "max_latitude": -27.0805987,
-            "max_longitude": -49.6916345,
-            "min_latitude": -33.752084,
-            "min_longitude": -57.649284
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-RS",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Rio Grande do Sul",
+        "name": "Acre",
         "postal": "RS",
         "type": "Estado",
         "type_en": "State"
     },
     "SC": {
         "alt_names": [
-            "Santa Catarina"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -3344,24 +3344,24 @@
             "woe_name": "Santa Catarina"
         },
         "geo": {
-            "latitude": -27.2423392,
-            "longitude": -50.2188556,
-            "max_latitude": -25.9559588,
-            "max_longitude": -48.3568081,
-            "min_latitude": -29.351441,
-            "min_longitude": -53.8363587
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-SC",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Santa Catarina",
+        "name": "Acre",
         "postal": "SC",
         "type": "Estado",
         "type_en": "State"
     },
     "SE": {
         "alt_names": [
-            "Sergipe"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -3484,24 +3484,24 @@
             "woe_name": "Sergipe"
         },
         "geo": {
-            "latitude": -10.5740934,
-            "longitude": -37.3856581,
-            "max_latitude": -9.5150294,
-            "max_longitude": -36.3998681,
-            "min_latitude": -11.5685288,
-            "min_longitude": -38.2456472
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-SE",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Sergipe",
+        "name": "Acre",
         "postal": "SE",
         "type": "Estado",
         "type_en": "State"
     },
     "SP": {
         "alt_names": [
-            "S\u00e3o Paulo"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -3624,24 +3624,24 @@
             "woe_name": "S\u00e3o Paulo"
         },
         "geo": {
-            "latitude": -23.5505199,
-            "longitude": -46.6333094,
-            "max_latitude": -23.3566039,
-            "max_longitude": -46.3650844,
-            "min_latitude": -24.0082209,
-            "min_longitude": -46.825514
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-SP",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "S\u00e3o Paulo",
+        "name": "Acre",
         "postal": "SP",
         "type": "Estado",
         "type_en": "State"
     },
     "TO": {
         "alt_names": [
-            "Tocantins"
+            "Acre"
         ],
         "cca2": "BR",
         "cca3": "BRA",
@@ -3764,17 +3764,17 @@
             "woe_name": "Tocantins"
         },
         "geo": {
-            "latitude": -10.17528,
-            "longitude": -48.2982474,
-            "max_latitude": -5.1683828,
-            "max_longitude": -45.6960778,
-            "min_latitude": -13.4677157,
-            "min_longitude": -50.7420581
+            "latitude": -9.0237964,
+            "longitude": -70.8119953,
+            "max_latitude": -7.1118268,
+            "max_longitude": -66.6240709,
+            "min_latitude": -11.1452221,
+            "min_longitude": -73.9915154
         },
         "iso_3166_2": "BR-TO",
         "iso_a2": "BR",
         "iso_a3": "BRA",
-        "name": "Tocantins",
+        "name": "Acre",
         "postal": "TO",
         "type": "Estado",
         "type_en": "State"

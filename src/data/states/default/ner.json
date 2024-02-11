@@ -141,7 +141,7 @@
     },
     "2": {
         "alt_names": [
-            "Diffa"
+            "Agadez"
         ],
         "cca2": "NE",
         "cca3": "NER",
@@ -264,24 +264,24 @@
             "woe_name": "Diffa"
         },
         "geo": {
-            "latitude": 13.316667,
-            "longitude": 12.616667,
-            "max_latitude": 13.3314146,
-            "max_longitude": 12.6319599,
-            "min_latitude": 13.3027664,
-            "min_longitude": 12.6024342
+            "latitude": 16.966667,
+            "longitude": 7.983333,
+            "max_latitude": 16.9894109,
+            "max_longitude": 8.0210101,
+            "min_latitude": 16.948514,
+            "min_longitude": 7.9526987
         },
         "iso_3166_2": "NE-2",
         "iso_a2": "NE",
         "iso_a3": "NER",
-        "name": "Diffa",
+        "name": "Agadez",
         "postal": "2",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "3": {
         "alt_names": [
-            "Dosso"
+            "Agadez"
         ],
         "cca2": "NE",
         "cca3": "NER",
@@ -404,24 +404,24 @@
             "woe_name": "Dosso"
         },
         "geo": {
-            "latitude": 13.05,
-            "longitude": 3.2,
-            "max_latitude": 13.0693243,
-            "max_longitude": 3.2271886,
-            "min_latitude": 13.0239105,
-            "min_longitude": 3.1782688
+            "latitude": 16.966667,
+            "longitude": 7.983333,
+            "max_latitude": 16.9894109,
+            "max_longitude": 8.0210101,
+            "min_latitude": 16.948514,
+            "min_longitude": 7.9526987
         },
         "iso_3166_2": "NE-3",
         "iso_a2": "NE",
         "iso_a3": "NER",
-        "name": "Dosso",
+        "name": "Agadez",
         "postal": "3",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "4": {
         "alt_names": [
-            "Maradi"
+            "Agadez"
         ],
         "cca2": "NE",
         "cca3": "NER",
@@ -544,24 +544,24 @@
             "woe_name": "Maradi"
         },
         "geo": {
-            "latitude": 13.483333,
-            "longitude": 7.1,
-            "max_latitude": 13.5319182,
-            "max_longitude": 7.1284973,
-            "min_latitude": 13.46399,
-            "min_longitude": 7.0772901
+            "latitude": 16.966667,
+            "longitude": 7.983333,
+            "max_latitude": 16.9894109,
+            "max_longitude": 8.0210101,
+            "min_latitude": 16.948514,
+            "min_longitude": 7.9526987
         },
         "iso_3166_2": "NE-4",
         "iso_a2": "NE",
         "iso_a3": "NER",
-        "name": "Maradi",
+        "name": "Agadez",
         "postal": "4",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "5": {
         "alt_names": [
-            "Tahoua"
+            "Agadez"
         ],
         "cca2": "NE",
         "cca3": "NER",
@@ -684,24 +684,24 @@
             "woe_name": "Tahoua"
         },
         "geo": {
-            "latitude": 14.883333,
-            "longitude": 5.266667,
-            "max_latitude": 14.9285551,
-            "max_longitude": 5.2966928,
-            "min_latitude": 14.8680217,
-            "min_longitude": 5.2416801
+            "latitude": 16.966667,
+            "longitude": 7.983333,
+            "max_latitude": 16.9894109,
+            "max_longitude": 8.0210101,
+            "min_latitude": 16.948514,
+            "min_longitude": 7.9526987
         },
         "iso_3166_2": "NE-5",
         "iso_a2": "NE",
         "iso_a3": "NER",
-        "name": "Tahoua",
+        "name": "Agadez",
         "postal": "5",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "6": {
         "alt_names": [
-            "Tillaberi"
+            "Agadez"
         ],
         "cca2": "NE",
         "cca3": "NER",
@@ -824,24 +824,24 @@
             "woe_name": "Tillaberi"
         },
         "geo": {
-            "latitude": 14.6489525,
-            "longitude": 2.1450245,
-            "max_latitude": 15.7044501,
-            "max_longitude": 4.254565,
-            "min_latitude": 11.9016119,
-            "min_longitude": 0.16625
+            "latitude": 16.966667,
+            "longitude": 7.983333,
+            "max_latitude": 16.9894109,
+            "max_longitude": 8.0210101,
+            "min_latitude": 16.948514,
+            "min_longitude": 7.9526987
         },
         "iso_3166_2": "NE-6",
         "iso_a2": "NE",
         "iso_a3": "NER",
-        "name": "Tillab\u00e9ri",
+        "name": "Agadez",
         "postal": "6",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "7": {
         "alt_names": [
-            "Zinder"
+            "Agadez"
         ],
         "cca2": "NE",
         "cca3": "NER",
@@ -964,24 +964,24 @@
             "woe_name": "Zinder"
         },
         "geo": {
-            "latitude": 13.805278,
-            "longitude": 8.988333,
-            "max_latitude": 13.8345383,
-            "max_longitude": 9.0148114,
-            "min_latitude": 13.7752561,
-            "min_longitude": 8.9602306
+            "latitude": 16.966667,
+            "longitude": 7.983333,
+            "max_latitude": 16.9894109,
+            "max_longitude": 8.0210101,
+            "min_latitude": 16.948514,
+            "min_longitude": 7.9526987
         },
         "iso_3166_2": "NE-7",
         "iso_a2": "NE",
         "iso_a3": "NER",
-        "name": "Zinder",
+        "name": "Agadez",
         "postal": "7",
         "type": "D\u00e9partement",
         "type_en": "Department"
     },
     "8": {
         "alt_names": [
-            "Niamey"
+            "Agadez"
         ],
         "cca2": "NE",
         "cca3": "NER",
@@ -1104,17 +1104,17 @@
             "woe_name": "Niamey"
         },
         "geo": {
-            "latitude": 13.521389,
-            "longitude": 2.105278,
-            "max_latitude": 13.5793394,
-            "max_longitude": 2.2061066,
-            "min_latitude": 13.4461983,
-            "min_longitude": 2.0319587
+            "latitude": 16.966667,
+            "longitude": 7.983333,
+            "max_latitude": 16.9894109,
+            "max_longitude": 8.0210101,
+            "min_latitude": 16.948514,
+            "min_longitude": 7.9526987
         },
         "iso_3166_2": "NE-8",
         "iso_a2": "NE",
         "iso_a3": "NER",
-        "name": "Niamey",
+        "name": "Agadez",
         "postal": "8",
         "type": "Communaut\u00e9 Urbaine",
         "type_en": "Capital District"

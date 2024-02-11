@@ -142,7 +142,8 @@
     },
     "02": {
         "alt_names": [
-            "Ha'apai"
+            "Middleburg Island",
+            "\u02bfEua"
         ],
         "cca2": "TO",
         "cca3": "TON",
@@ -265,24 +266,25 @@
             "woe_name": "Ha'apai"
         },
         "geo": {
-            "latitude": -19.7506337,
-            "longitude": -175.0545197,
-            "max_latitude": -19.5930023,
-            "max_longitude": -174.268463,
-            "min_latitude": -20.5583992,
-            "min_longitude": -175.417755
+            "latitude": -21.3631956,
+            "longitude": -174.9297206,
+            "max_latitude": -21.2833727,
+            "max_longitude": -174.9043558,
+            "min_latitude": -21.455057,
+            "min_longitude": -174.9722574
         },
         "iso_3166_2": "TO-02",
         "iso_a2": "TO",
         "iso_a3": "TON",
-        "name": "Ha'apai",
+        "name": "'Eua",
         "postal": "02",
         "type": "",
         "type_en": ""
     },
     "03": {
         "alt_names": [
-            "Niuas"
+            "Middleburg Island",
+            "\u02bfEua"
         ],
         "cca2": "TO",
         "cca3": "TON",
@@ -405,24 +407,25 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": -15.6097616,
-            "longitude": -175.6332093,
-            "max_latitude": -15.5663927,
-            "max_longitude": -173.7024841,
-            "min_latitude": -15.9637832,
-            "min_longitude": -175.6796157
+            "latitude": -21.3631956,
+            "longitude": -174.9297206,
+            "max_latitude": -21.2833727,
+            "max_longitude": -174.9043558,
+            "min_latitude": -21.455057,
+            "min_longitude": -174.9722574
         },
         "iso_3166_2": "TO-03",
         "iso_a2": "TO",
         "iso_a3": "TON",
-        "name": "Niuas",
+        "name": "'Eua",
         "postal": "03",
         "type": "",
         "type_en": ""
     },
     "04": {
         "alt_names": [
-            "Tongatapu"
+            "Middleburg Island",
+            "\u02bfEua"
         ],
         "cca2": "TO",
         "cca3": "TON",
@@ -545,24 +548,25 @@
             "woe_name": "Tongatapu"
         },
         "geo": {
-            "latitude": -21.1465968,
-            "longitude": -175.2515482,
-            "max_latitude": -21.061676,
-            "max_longitude": -175.0285149,
-            "min_latitude": -21.278193,
-            "min_longitude": -175.3613689
+            "latitude": -21.3631956,
+            "longitude": -174.9297206,
+            "max_latitude": -21.2833727,
+            "max_longitude": -174.9043558,
+            "min_latitude": -21.455057,
+            "min_longitude": -174.9722574
         },
         "iso_3166_2": "TO-04",
         "iso_a2": "TO",
         "iso_a3": "TON",
-        "name": "Tongatapu",
+        "name": "'Eua",
         "postal": "04",
         "type": "",
         "type_en": ""
     },
     "05": {
         "alt_names": [
-            "Vava'u"
+            "Middleburg Island",
+            "\u02bfEua"
         ],
         "cca2": "TO",
         "cca3": "TON",
@@ -685,17 +689,17 @@
             "woe_name": "Vava'eu"
         },
         "geo": {
-            "latitude": -18.5811962,
-            "longitude": -173.985008,
-            "max_latitude": -18.0082895,
-            "max_longitude": -173.907578,
-            "min_latitude": -19.180176,
-            "min_longitude": -174.8671875
+            "latitude": -21.3631956,
+            "longitude": -174.9297206,
+            "max_latitude": -21.2833727,
+            "max_longitude": -174.9043558,
+            "min_latitude": -21.455057,
+            "min_longitude": -174.9722574
         },
         "iso_3166_2": "TO-05",
         "iso_a2": "TO",
         "iso_a3": "TON",
-        "name": "Vava'u",
+        "name": "'Eua",
         "postal": "05",
         "type": "",
         "type_en": ""

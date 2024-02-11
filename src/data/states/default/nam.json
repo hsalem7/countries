@@ -141,7 +141,7 @@
     },
     "ER": {
         "alt_names": [
-            "Erongo"
+            "Zambezi"
         ],
         "cca2": "NA",
         "cca3": "NAM",
@@ -264,24 +264,24 @@
             "woe_name": "Erongo"
         },
         "geo": {
-            "latitude": -22.2565682,
-            "longitude": 15.4068079,
-            "max_latitude": -20.489704,
-            "max_longitude": 16.558625,
-            "min_latitude": -23.811575,
-            "min_longitude": 13.629421
+            "latitude": -17.8193419,
+            "longitude": 23.9536466,
+            "max_latitude": -17.476387,
+            "max_longitude": 25.256701,
+            "min_latitude": -18.5040471,
+            "min_longitude": 22.5141629
         },
         "iso_3166_2": "NA-ER",
         "iso_a2": "NA",
         "iso_a3": "NAM",
-        "name": "Erongo",
+        "name": "Zambezi",
         "postal": "ER",
         "type": "Region",
         "type_en": "Region"
     },
     "HA": {
         "alt_names": [
-            "Hardap"
+            "Zambezi"
         ],
         "cca2": "NA",
         "cca3": "NAM",
@@ -404,24 +404,24 @@
             "woe_name": "Hardap"
         },
         "geo": {
-            "latitude": -24.2310134,
-            "longitude": 17.668887,
-            "max_latitude": -23.165503,
-            "max_longitude": 20.000244,
-            "min_latitude": -25.870015,
-            "min_longitude": 14.4522353
+            "latitude": -17.8193419,
+            "longitude": 23.9536466,
+            "max_latitude": -17.476387,
+            "max_longitude": 25.256701,
+            "min_latitude": -18.5040471,
+            "min_longitude": 22.5141629
         },
         "iso_3166_2": "NA-HA",
         "iso_a2": "NA",
         "iso_a3": "NAM",
-        "name": "Hardap",
+        "name": "Zambezi",
         "postal": "HA",
         "type": "Region",
         "type_en": "Region"
     },
     "KA": {
         "alt_names": [
-            "Karas"
+            "Zambezi"
         ],
         "cca2": "NA",
         "cca3": "NAM",
@@ -544,24 +544,24 @@
             "woe_name": "Karas"
         },
         "geo": {
-            "latitude": -26.8429645,
-            "longitude": 17.2902839,
-            "max_latitude": -25.011831,
-            "max_longitude": 20,
-            "min_latitude": -28.9714299,
-            "min_longitude": 14.8018954
+            "latitude": -17.8193419,
+            "longitude": 23.9536466,
+            "max_latitude": -17.476387,
+            "max_longitude": 25.256701,
+            "min_latitude": -18.5040471,
+            "min_longitude": 22.5141629
         },
         "iso_3166_2": "NA-KA",
         "iso_a2": "NA",
         "iso_a3": "NAM",
-        "name": "Karas",
+        "name": "Zambezi",
         "postal": "KA",
         "type": "Region",
         "type_en": "Region"
     },
     "KH": {
         "alt_names": [
-            "Khomas"
+            "Zambezi"
         ],
         "cca2": "NA",
         "cca3": "NAM",
@@ -684,24 +684,24 @@
             "woe_name": "Khomas"
         },
         "geo": {
-            "latitude": -22.6377854,
-            "longitude": 17.1011931,
-            "max_latitude": -21.7083171,
-            "max_longitude": 18.4967611,
-            "min_latitude": -24.090521,
-            "min_longitude": 15.723871
+            "latitude": -17.8193419,
+            "longitude": 23.9536466,
+            "max_latitude": -17.476387,
+            "max_longitude": 25.256701,
+            "min_latitude": -18.5040471,
+            "min_longitude": 22.5141629
         },
         "iso_3166_2": "NA-KH",
         "iso_a2": "NA",
         "iso_a3": "NAM",
-        "name": "Khomas",
+        "name": "Zambezi",
         "postal": "KH",
         "type": "Region",
         "type_en": "Region"
     },
     "KU": {
         "alt_names": [
-            "Kunene"
+            "Zambezi"
         ],
         "cca2": "NA",
         "cca3": "NAM",
@@ -824,24 +824,24 @@
             "woe_name": "Kunene"
         },
         "geo": {
-            "latitude": -19.4086317,
-            "longitude": 13.914399,
-            "max_latitude": -16.959894,
-            "max_longitude": 16.72092,
-            "min_latitude": -21.1873635,
-            "min_longitude": 11.7242468
+            "latitude": -17.8193419,
+            "longitude": 23.9536466,
+            "max_latitude": -17.476387,
+            "max_longitude": 25.256701,
+            "min_latitude": -18.5040471,
+            "min_longitude": 22.5141629
         },
         "iso_3166_2": "NA-KU",
         "iso_a2": "NA",
         "iso_a3": "NAM",
-        "name": "Kunene",
+        "name": "Zambezi",
         "postal": "KU",
         "type": "Region",
         "type_en": "Region"
     },
     "OD": {
         "alt_names": [
-            "Otjozondjupa"
+            "Zambezi"
         ],
         "cca2": "NA",
         "cca3": "NAM",
@@ -964,24 +964,24 @@
             "woe_name": "Otjozondjupa"
         },
         "geo": {
-            "latitude": -20.5486916,
-            "longitude": 17.668887,
-            "max_latitude": -18.7453048,
-            "max_longitude": 20.997551,
-            "min_latitude": -22.3778689,
-            "min_longitude": 15.5702269
+            "latitude": -17.8193419,
+            "longitude": 23.9536466,
+            "max_latitude": -17.476387,
+            "max_longitude": 25.256701,
+            "min_latitude": -18.5040471,
+            "min_longitude": 22.5141629
         },
         "iso_3166_2": "NA-OD",
         "iso_a2": "NA",
         "iso_a3": "NAM",
-        "name": "Otjozondjupa",
+        "name": "Zambezi",
         "postal": "OD",
         "type": "Region",
         "type_en": "Region"
     },
     "OH": {
         "alt_names": [
-            "Omaheke"
+            "Zambezi"
         ],
         "cca2": "NA",
         "cca3": "NAM",
@@ -1104,24 +1104,24 @@
             "woe_name": "Omaheke"
         },
         "geo": {
-            "latitude": -21.8466651,
-            "longitude": 19.1880047,
-            "max_latitude": -20.2402009,
-            "max_longitude": 21.0017411,
-            "min_latitude": -23.877103,
-            "min_longitude": 17.9521831
+            "latitude": -17.8193419,
+            "longitude": 23.9536466,
+            "max_latitude": -17.476387,
+            "max_longitude": 25.256701,
+            "min_latitude": -18.5040471,
+            "min_longitude": 22.5141629
         },
         "iso_3166_2": "NA-OH",
         "iso_a2": "NA",
         "iso_a3": "NAM",
-        "name": "Omaheke",
+        "name": "Zambezi",
         "postal": "OH",
         "type": "Region",
         "type_en": "Region"
     },
     "OK": {
         "alt_names": [
-            ""
+            "Zambezi"
         ],
         "cca2": "NA",
         "cca3": "NAM",
@@ -1244,20 +1244,24 @@
             "woe_name": "Kavango"
         },
         "geo": {
-            "latitude": "-18.5224000000",
-            "longitude": "19.4968000000"
+            "latitude": -17.8193419,
+            "longitude": 23.9536466,
+            "max_latitude": -17.476387,
+            "max_longitude": 25.256701,
+            "min_latitude": -18.5040471,
+            "min_longitude": 22.5141629
         },
         "iso_3166_2": "NA-OK",
         "iso_a2": "NA",
         "iso_a3": "NAM",
-        "name": "Kavango",
+        "name": "Zambezi",
         "postal": "OK",
         "type": "Region",
         "type_en": "Region"
     },
     "ON": {
         "alt_names": [
-            "Oshana"
+            "Zambezi"
         ],
         "cca2": "NA",
         "cca3": "NAM",
@@ -1380,24 +1384,24 @@
             "woe_name": "Oshana"
         },
         "geo": {
-            "latitude": -18.4305064,
-            "longitude": 15.6881788,
-            "max_latitude": -17.675126,
-            "max_longitude": 16.0409669,
-            "min_latitude": -19.32805,
-            "min_longitude": 15.2764
+            "latitude": -17.8193419,
+            "longitude": 23.9536466,
+            "max_latitude": -17.476387,
+            "max_longitude": 25.256701,
+            "min_latitude": -18.5040471,
+            "min_longitude": 22.5141629
         },
         "iso_3166_2": "NA-ON",
         "iso_a2": "NA",
         "iso_a3": "NAM",
-        "name": "Oshana",
+        "name": "Zambezi",
         "postal": "ON",
         "type": "Region",
         "type_en": "Region"
     },
     "OS": {
         "alt_names": [
-            "Omusati"
+            "Zambezi"
         ],
         "cca2": "NA",
         "cca3": "NAM",
@@ -1520,24 +1524,24 @@
             "woe_name": "Omusati"
         },
         "geo": {
-            "latitude": -18.4070294,
-            "longitude": 14.8454619,
-            "max_latitude": -17.3843629,
-            "max_longitude": 15.6579149,
-            "min_latitude": -19.4149837,
-            "min_longitude": 14.1303229
+            "latitude": -17.8193419,
+            "longitude": 23.9536466,
+            "max_latitude": -17.476387,
+            "max_longitude": 25.256701,
+            "min_latitude": -18.5040471,
+            "min_longitude": 22.5141629
         },
         "iso_3166_2": "NA-OS",
         "iso_a2": "NA",
         "iso_a3": "NAM",
-        "name": "Omusati",
+        "name": "Zambezi",
         "postal": "OS",
         "type": "Region",
         "type_en": "Region"
     },
     "OT": {
         "alt_names": [
-            "Otjikoto"
+            "Zambezi"
         ],
         "cca2": "NA",
         "cca3": "NAM",
@@ -1660,24 +1664,24 @@
             "woe_name": "Oshikoto"
         },
         "geo": {
-            "latitude": -18.4152575,
-            "longitude": 16.912251,
-            "max_latitude": -17.6955739,
-            "max_longitude": 18.2046669,
-            "min_latitude": -19.520187,
-            "min_longitude": 15.8708732
+            "latitude": -17.8193419,
+            "longitude": 23.9536466,
+            "max_latitude": -17.476387,
+            "max_longitude": 25.256701,
+            "min_latitude": -18.5040471,
+            "min_longitude": 22.5141629
         },
         "iso_3166_2": "NA-OT",
         "iso_a2": "NA",
         "iso_a3": "NAM",
-        "name": "Oshikoto",
+        "name": "Zambezi",
         "postal": "OT",
         "type": "Region",
         "type_en": "Region"
     },
     "OW": {
         "alt_names": [
-            "Ohangwena"
+            "Zambezi"
         ],
         "cca2": "NA",
         "cca3": "NAM",
@@ -1800,17 +1804,17 @@
             "woe_name": "Ohangwena"
         },
         "geo": {
-            "latitude": -17.5979291,
-            "longitude": 16.8178377,
-            "max_latitude": -17.391181,
-            "max_longitude": 18.000832,
-            "min_latitude": -17.9292601,
-            "min_longitude": 15.5463691
+            "latitude": -17.8193419,
+            "longitude": 23.9536466,
+            "max_latitude": -17.476387,
+            "max_longitude": 25.256701,
+            "min_latitude": -18.5040471,
+            "min_longitude": 22.5141629
         },
         "iso_3166_2": "NA-OW",
         "iso_a2": "NA",
         "iso_a3": "NAM",
-        "name": "Ohangwena",
+        "name": "Zambezi",
         "postal": "OW",
         "type": "Region",
         "type_en": "Region"

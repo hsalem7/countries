@@ -1,7 +1,7 @@
 {
     "01": {
         "alt_names": [
-            ""
+            "Agadir*"
         ],
         "cca2": "MA",
         "cca3": "MAR",
@@ -124,20 +124,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "35.2884000000",
-            "longitude": "-5.3566400000"
+            "latitude": 30.4277547,
+            "longitude": -9.5981072,
+            "max_latitude": 30.4702104,
+            "max_longitude": -9.4871341,
+            "min_latitude": 30.3692836,
+            "min_longitude": -9.6682679
         },
         "iso_3166_2": "MA-01",
         "iso_a2": "MA",
         "iso_a3": "MAR",
-        "name": "Tanger - T\u00e9touan",
+        "name": "Agadir*",
         "postal": "01",
         "type": "Region",
         "type_en": "Region"
     },
     "02": {
         "alt_names": [
-            ""
+            "Agadir*"
         ],
         "cca2": "MA",
         "cca3": "MAR",
@@ -260,20 +264,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "34.5356000000",
-            "longitude": "-5.9502000000"
+            "latitude": 30.4277547,
+            "longitude": -9.5981072,
+            "max_latitude": 30.4702104,
+            "max_longitude": -9.4871341,
+            "min_latitude": 30.3692836,
+            "min_longitude": -9.6682679
         },
         "iso_3166_2": "MA-02",
         "iso_a2": "MA",
         "iso_a3": "MAR",
-        "name": "Gharb - Chrarda - B\u00e9ni Hssen",
+        "name": "Agadir*",
         "postal": "02",
         "type": "Region",
         "type_en": "Region"
     },
     "03": {
         "alt_names": [
-            ""
+            "Agadir*"
         ],
         "cca2": "MA",
         "cca3": "MAR",
@@ -396,20 +404,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "34.5526000000",
-            "longitude": "-4.2198900000"
+            "latitude": 30.4277547,
+            "longitude": -9.5981072,
+            "max_latitude": 30.4702104,
+            "max_longitude": -9.4871341,
+            "min_latitude": 30.3692836,
+            "min_longitude": -9.6682679
         },
         "iso_3166_2": "MA-03",
         "iso_a2": "MA",
         "iso_a3": "MAR",
-        "name": "Taza - Al Hoceima - Taounate",
+        "name": "Agadir*",
         "postal": "03",
         "type": "Region",
         "type_en": "Region"
     },
     "04": {
         "alt_names": [
-            ""
+            "Agadir*"
         ],
         "cca2": "MA",
         "cca3": "MAR",
@@ -532,20 +544,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "33.6161000000",
-            "longitude": "-2.5158000000"
+            "latitude": 30.4277547,
+            "longitude": -9.5981072,
+            "max_latitude": 30.4702104,
+            "max_longitude": -9.4871341,
+            "min_latitude": 30.3692836,
+            "min_longitude": -9.6682679
         },
         "iso_3166_2": "MA-04",
         "iso_a2": "MA",
         "iso_a3": "MAR",
-        "name": "Oriental",
+        "name": "Agadir*",
         "postal": "04",
         "type": "Region",
         "type_en": "Region"
     },
     "05": {
         "alt_names": [
-            ""
+            "Agadir*"
         ],
         "cca2": "MA",
         "cca3": "MAR",
@@ -668,20 +684,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "33.2343000000",
-            "longitude": "-4.1733200000"
+            "latitude": 30.4277547,
+            "longitude": -9.5981072,
+            "max_latitude": 30.4702104,
+            "max_longitude": -9.4871341,
+            "min_latitude": 30.3692836,
+            "min_longitude": -9.6682679
         },
         "iso_3166_2": "MA-05",
         "iso_a2": "MA",
         "iso_a3": "MAR",
-        "name": "F\u00e8s - Boulemane",
+        "name": "Agadir*",
         "postal": "05",
         "type": "Region",
         "type_en": "Region"
     },
     "06": {
         "alt_names": [
-            ""
+            "Agadir*"
         ],
         "cca2": "MA",
         "cca3": "MAR",
@@ -804,20 +824,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "31.7916000000",
-            "longitude": "-4.7860200000"
+            "latitude": 30.4277547,
+            "longitude": -9.5981072,
+            "max_latitude": 30.4702104,
+            "max_longitude": -9.4871341,
+            "min_latitude": 30.3692836,
+            "min_longitude": -9.6682679
         },
         "iso_3166_2": "MA-06",
         "iso_a2": "MA",
         "iso_a3": "MAR",
-        "name": "Mekn\u00e8s - Tafilalet",
+        "name": "Agadir*",
         "postal": "06",
         "type": "Region",
         "type_en": "Region"
     },
     "07": {
         "alt_names": [
-            ""
+            "Agadir*"
         ],
         "cca2": "MA",
         "cca3": "MAR",
@@ -940,20 +964,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "33.6986000000",
-            "longitude": "-6.4207900000"
+            "latitude": 30.4277547,
+            "longitude": -9.5981072,
+            "max_latitude": 30.4702104,
+            "max_longitude": -9.4871341,
+            "min_latitude": 30.3692836,
+            "min_longitude": -9.6682679
         },
         "iso_3166_2": "MA-07",
         "iso_a2": "MA",
         "iso_a3": "MAR",
-        "name": "Rabat - Sal\u00e9 - Zemmour - Zaer",
+        "name": "Agadir*",
         "postal": "07",
         "type": "Region",
         "type_en": "Region"
     },
     "08": {
         "alt_names": [
-            ""
+            "Agadir*"
         ],
         "cca2": "MA",
         "cca3": "MAR",
@@ -1076,20 +1104,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "33.5450000000",
-            "longitude": "-7.5559500000"
+            "latitude": 30.4277547,
+            "longitude": -9.5981072,
+            "max_latitude": 30.4702104,
+            "max_longitude": -9.4871341,
+            "min_latitude": 30.3692836,
+            "min_longitude": -9.6682679
         },
         "iso_3166_2": "MA-08",
         "iso_a2": "MA",
         "iso_a3": "MAR",
-        "name": "Grand Casablanca",
+        "name": "Agadir*",
         "postal": "08",
         "type": "Region",
         "type_en": "Region"
     },
     "09": {
         "alt_names": [
-            ""
+            "Agadir*"
         ],
         "cca2": "MA",
         "cca3": "MAR",
@@ -1212,20 +1244,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "33.0977000000",
-            "longitude": "-7.0775000000"
+            "latitude": 30.4277547,
+            "longitude": -9.5981072,
+            "max_latitude": 30.4702104,
+            "max_longitude": -9.4871341,
+            "min_latitude": 30.3692836,
+            "min_longitude": -9.6682679
         },
         "iso_3166_2": "MA-09",
         "iso_a2": "MA",
         "iso_a3": "MAR",
-        "name": "Chaouia - Ouardigha",
+        "name": "Agadir*",
         "postal": "09",
         "type": "Region",
         "type_en": "Region"
     },
     "10": {
         "alt_names": [
-            ""
+            "Agadir*"
         ],
         "cca2": "MA",
         "cca3": "MAR",
@@ -1348,20 +1384,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "32.4059000000",
-            "longitude": "-8.7136000000"
+            "latitude": 30.4277547,
+            "longitude": -9.5981072,
+            "max_latitude": 30.4702104,
+            "max_longitude": -9.4871341,
+            "min_latitude": 30.3692836,
+            "min_longitude": -9.6682679
         },
         "iso_3166_2": "MA-10",
         "iso_a2": "MA",
         "iso_a3": "MAR",
-        "name": "Doukkala - Abda",
+        "name": "Agadir*",
         "postal": "10",
         "type": "Region",
         "type_en": "Region"
     },
     "11": {
         "alt_names": [
-            ""
+            "Agadir*"
         ],
         "cca2": "MA",
         "cca3": "MAR",
@@ -1484,20 +1524,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "31.3472000000",
-            "longitude": "-8.4374900000"
+            "latitude": 30.4277547,
+            "longitude": -9.5981072,
+            "max_latitude": 30.4702104,
+            "max_longitude": -9.4871341,
+            "min_latitude": 30.3692836,
+            "min_longitude": -9.6682679
         },
         "iso_3166_2": "MA-11",
         "iso_a2": "MA",
         "iso_a3": "MAR",
-        "name": "Marrakech - Tensift - Al Haouz",
+        "name": "Agadir*",
         "postal": "11",
         "type": "Region",
         "type_en": "Region"
     },
     "12": {
         "alt_names": [
-            ""
+            "Agadir*"
         ],
         "cca2": "MA",
         "cca3": "MAR",
@@ -1620,20 +1664,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "32.1648000000",
-            "longitude": "-6.3608700000"
+            "latitude": 30.4277547,
+            "longitude": -9.5981072,
+            "max_latitude": 30.4702104,
+            "max_longitude": -9.4871341,
+            "min_latitude": 30.3692836,
+            "min_longitude": -9.6682679
         },
         "iso_3166_2": "MA-12",
         "iso_a2": "MA",
         "iso_a3": "MAR",
-        "name": "Tadla - Azilal",
+        "name": "Agadir*",
         "postal": "12",
         "type": "Region",
         "type_en": "Region"
     },
     "13": {
         "alt_names": [
-            ""
+            "Agadir*"
         ],
         "cca2": "MA",
         "cca3": "MAR",
@@ -1756,20 +1804,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "30.6732000000",
-            "longitude": "-7.7151700000"
+            "latitude": 30.4277547,
+            "longitude": -9.5981072,
+            "max_latitude": 30.4702104,
+            "max_longitude": -9.4871341,
+            "min_latitude": 30.3692836,
+            "min_longitude": -9.6682679
         },
         "iso_3166_2": "MA-13",
         "iso_a2": "MA",
         "iso_a3": "MAR",
-        "name": "Souss - Massa - Dra\u00e2",
+        "name": "Agadir*",
         "postal": "13",
         "type": "Region",
         "type_en": "Region"
     },
     "14": {
         "alt_names": [
-            ""
+            "Agadir*"
         ],
         "cca2": "MA",
         "cca3": "MAR",
@@ -1892,20 +1944,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "28.1581000000",
-            "longitude": "-10.0502000000"
+            "latitude": 30.4277547,
+            "longitude": -9.5981072,
+            "max_latitude": 30.4702104,
+            "max_longitude": -9.4871341,
+            "min_latitude": 30.3692836,
+            "min_longitude": -9.6682679
         },
         "iso_3166_2": "MA-14",
         "iso_a2": "MA",
         "iso_a3": "MAR",
-        "name": "Guelmim - Es-Semara",
+        "name": "Agadir*",
         "postal": "14",
         "type": "Region",
         "type_en": "Region"
     },
     "15": {
         "alt_names": [
-            ""
+            "Agadir*"
         ],
         "cca2": "MA",
         "cca3": "MAR",
@@ -2028,21 +2084,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "25.9492000000",
-            "longitude": "-13.2780000000"
+            "latitude": 30.4277547,
+            "longitude": -9.5981072,
+            "max_latitude": 30.4702104,
+            "max_longitude": -9.4871341,
+            "min_latitude": 30.3692836,
+            "min_longitude": -9.6682679
         },
         "iso_3166_2": "MA-15",
         "iso_a2": "MA",
         "iso_a3": "MAR",
-        "name": "La\u00e2youne - Boujdour - Sakia El Hamra",
+        "name": "Agadir*",
         "postal": "15",
         "type": "Region",
         "type_en": "Region"
     },
     "16": {
         "alt_names": [
-            "Ed Dakhla",
-            "Oued Eddahab"
+            "Agadir*"
         ],
         "cca2": "MA",
         "cca3": "MAR",
@@ -2165,13 +2224,17 @@
             "woe_name": "Oued el Dahab"
         },
         "geo": {
-            "latitude": "23.0116000000",
-            "longitude": "-14.9815000000"
+            "latitude": 30.4277547,
+            "longitude": -9.5981072,
+            "max_latitude": 30.4702104,
+            "max_longitude": -9.4871341,
+            "min_latitude": 30.3692836,
+            "min_longitude": -9.6682679
         },
         "iso_3166_2": "MA-16",
         "iso_a2": "MA",
         "iso_a3": "MAR",
-        "name": "Oued el Dahab",
+        "name": "Agadir*",
         "postal": "16",
         "type": "Region",
         "type_en": "Region"

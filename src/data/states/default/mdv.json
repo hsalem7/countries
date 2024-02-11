@@ -1,10 +1,11 @@
 {
     "00": {
         "alt_names": [
-            "Alif Atoll Uthuru",
-            "Alif Dh\u00e2l",
-            "Ari Atholhu Dhekunuburi",
-            "South Ari Atoll"
+            "Addu",
+            "Addu Atholhu",
+            "Addu Atoll",
+            "Seenu",
+            "S\u00een"
         ],
         "cca2": "MV",
         "cca3": "MDV",
@@ -127,17 +128,17 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 3.7575044,
-            "longitude": 72.9669099,
-            "max_latitude": 3.7578619,
-            "max_longitude": 72.9674658,
-            "min_latitude": 3.7570536,
-            "min_longitude": 72.9664519
+            "latitude": -0.6413,
+            "longitude": 73.158,
+            "max_latitude": -0.5765364,
+            "max_longitude": 73.2395624,
+            "min_latitude": -0.7036652,
+            "min_longitude": 73.0761462
         },
         "iso_3166_2": "MV-00",
         "iso_a2": "MV",
         "iso_a3": "MDV",
-        "name": "Alif Dhaal",
+        "name": "Seenu",
         "postal": "00",
         "type": "Atoll",
         "type_en": "Atoll"
@@ -288,9 +289,11 @@
     },
     "02": {
         "alt_names": [
-            "Alif Atoll Dhekunu",
-            "Ari Atholhu Uthuruburi",
-            "North Ari Atoll"
+            "Addu",
+            "Addu Atholhu",
+            "Addu Atoll",
+            "Seenu",
+            "S\u00een"
         ],
         "cca2": "MV",
         "cca3": "MDV",
@@ -413,26 +416,28 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 6.8974984,
-            "longitude": 73.2285119,
-            "max_latitude": 7.1063277,
-            "max_longitude": 73.2358932,
-            "min_latitude": 6.8074339,
-            "min_longitude": 72.8088748
+            "latitude": -0.6413,
+            "longitude": 73.158,
+            "max_latitude": -0.5765364,
+            "max_longitude": 73.2395624,
+            "min_latitude": -0.7036652,
+            "min_longitude": 73.0761462
         },
         "iso_3166_2": "MV-02",
         "iso_a2": "MV",
         "iso_a3": "MDV",
-        "name": "Alif",
+        "name": "Seenu",
         "postal": "02",
         "type": "Atoll",
         "type_en": "Atoll"
     },
     "03": {
         "alt_names": [
-            "Faadhippolhu",
-            "Fadiffolu",
-            "Laviyani"
+            "Addu",
+            "Addu Atholhu",
+            "Addu Atoll",
+            "Seenu",
+            "S\u00een"
         ],
         "cca2": "MV",
         "cca3": "MDV",
@@ -555,29 +560,28 @@
             "woe_name": "Lhaviyani"
         },
         "geo": {
-            "latitude": 5.4039702,
-            "longitude": 73.6444762,
-            "max_latitude": 5.5575245,
-            "max_longitude": 73.6577511,
-            "min_latitude": 5.2431393,
-            "min_longitude": 73.3307469
+            "latitude": -0.6413,
+            "longitude": 73.158,
+            "max_latitude": -0.5765364,
+            "max_longitude": 73.2395624,
+            "min_latitude": -0.7036652,
+            "min_longitude": 73.0761462
         },
         "iso_3166_2": "MV-03",
         "iso_a2": "MV",
         "iso_a3": "MDV",
-        "name": "Lhaviyani",
+        "name": "Seenu",
         "postal": "03",
         "type": "Atoll",
         "type_en": "Atoll"
     },
     "04": {
         "alt_names": [
-            "Felidhe Atholhu",
-            "Felidhu Atoll",
-            "Felidu",
-            "Vaafu",
-            "Vaavu",
-            "V\u00e2v"
+            "Addu",
+            "Addu Atholhu",
+            "Addu Atoll",
+            "Seenu",
+            "S\u00een"
         ],
         "cca2": "MV",
         "cca3": "MDV",
@@ -700,28 +704,28 @@
             "woe_name": "Vaavu"
         },
         "geo": {
-            "latitude": 3.6846389,
-            "longitude": 73.4002915,
-            "max_latitude": 3.6875834,
-            "max_longitude": 73.7596537,
-            "min_latitude": 3.3134959,
-            "min_longitude": 73.3639205
+            "latitude": -0.6413,
+            "longitude": 73.158,
+            "max_latitude": -0.5765364,
+            "max_longitude": 73.2395624,
+            "min_latitude": -0.7036652,
+            "min_longitude": 73.0761462
         },
         "iso_3166_2": "MV-04",
         "iso_a2": "MV",
         "iso_a3": "MDV",
-        "name": "Vaavu",
+        "name": "Seenu",
         "postal": "04",
         "type": "Atoll",
         "type_en": "Atoll"
     },
     "05": {
         "alt_names": [
-            "Haddumati",
-            "Hadhdhunmathi",
-            "Hadhunmathi",
-            "Laamu",
-            "L\u00e2m"
+            "Addu",
+            "Addu Atholhu",
+            "Addu Atoll",
+            "Seenu",
+            "S\u00een"
         ],
         "cca2": "MV",
         "cca3": "MDV",
@@ -844,28 +848,28 @@
             "woe_name": "Laamu"
         },
         "geo": {
-            "latitude": 1.9772276,
-            "longitude": 73.536101,
-            "max_latitude": 2.1331721,
-            "max_longitude": 73.5859623,
-            "min_latitude": 1.7791128,
-            "min_longitude": 73.2375483
+            "latitude": -0.6413,
+            "longitude": 73.158,
+            "max_latitude": -0.5765364,
+            "max_longitude": 73.2395624,
+            "min_latitude": -0.7036652,
+            "min_longitude": 73.0761462
         },
         "iso_3166_2": "MV-05",
         "iso_a2": "MV",
         "iso_a3": "MDV",
-        "name": "Laamu",
+        "name": "Seenu",
         "postal": "05",
         "type": "Atoll",
         "type_en": "Atoll"
     },
     "07": {
         "alt_names": [
-            "Haa Alifu",
-            "H\u00e2 Alif",
-            "North Thiladhunmathi",
-            "Thiladhunmathi Uthuruburi",
-            "Tiladummati-North"
+            "Addu",
+            "Addu Atholhu",
+            "Addu Atoll",
+            "Seenu",
+            "S\u00een"
         ],
         "cca2": "MV",
         "cca3": "MDV",
@@ -988,27 +992,28 @@
             "woe_name": "Haa Alifu"
         },
         "geo": {
-            "latitude": 6.8974984,
-            "longitude": 73.2285119,
-            "max_latitude": 7.1063277,
-            "max_longitude": 73.2358932,
-            "min_latitude": 6.8074339,
-            "min_longitude": 72.8088748
+            "latitude": -0.6413,
+            "longitude": 73.158,
+            "max_latitude": -0.5765364,
+            "max_longitude": 73.2395624,
+            "min_latitude": -0.7036652,
+            "min_longitude": 73.0761462
         },
         "iso_3166_2": "MV-07",
         "iso_a2": "MV",
         "iso_a3": "MDV",
-        "name": "Haa Alif",
+        "name": "Seenu",
         "postal": "07",
         "type": "Atoll",
         "type_en": "Atoll"
     },
     "08": {
         "alt_names": [
-            "Kolhumadhulu",
-            "Kolhumadulu",
-            "Kolumadulu",
-            "Th\u00e2"
+            "Addu",
+            "Addu Atholhu",
+            "Addu Atoll",
+            "Seenu",
+            "S\u00een"
         ],
         "cca2": "MV",
         "cca3": "MDV",
@@ -1131,29 +1136,28 @@
             "woe_name": "Thaa"
         },
         "geo": {
-            "latitude": 2.209209,
-            "longitude": 73.1494617,
-            "max_latitude": 2.5602977,
-            "max_longitude": 73.3696136,
-            "min_latitude": 2.1634586,
-            "min_longitude": 72.9074181
+            "latitude": -0.6413,
+            "longitude": 73.158,
+            "max_latitude": -0.5765364,
+            "max_longitude": 73.2395624,
+            "min_latitude": -0.7036652,
+            "min_longitude": 73.0761462
         },
         "iso_3166_2": "MV-08",
         "iso_a2": "MV",
         "iso_a3": "MDV",
-        "name": "Thaa",
+        "name": "Seenu",
         "postal": "08",
         "type": "Atoll",
         "type_en": "Atoll"
     },
     "12": {
         "alt_names": [
-            "Meemu",
-            "Mimu",
-            "Mulakatholhu",
-            "Mulaku",
-            "Mulaku Atholhu",
-            "M\u00eem"
+            "Addu",
+            "Addu Atholhu",
+            "Addu Atoll",
+            "Seenu",
+            "S\u00een"
         ],
         "cca2": "MV",
         "cca3": "MDV",
@@ -1276,27 +1280,28 @@
             "woe_name": "Maale"
         },
         "geo": {
-            "latitude": 2.7854064,
-            "longitude": 73.4262142,
-            "max_latitude": 3.0929022,
-            "max_longitude": 73.6417058,
-            "min_latitude": 2.7635105,
-            "min_longitude": 73.3577339
+            "latitude": -0.6413,
+            "longitude": 73.158,
+            "max_latitude": -0.5765364,
+            "max_longitude": 73.2395624,
+            "min_latitude": -0.7036652,
+            "min_longitude": 73.0761462
         },
         "iso_3166_2": "MV-12",
         "iso_a2": "MV",
         "iso_a3": "MDV",
-        "name": "Meemu",
+        "name": "Seenu",
         "postal": "12",
         "type": "Capital",
         "type_en": "Capital"
     },
     "13": {
         "alt_names": [
-            "Maalhosmadhulu Uthuruburi",
-            "Malosmadulu-North",
-            "North Maalhosmadhulu",
-            "R\u00e2"
+            "Addu",
+            "Addu Atholhu",
+            "Addu Atoll",
+            "Seenu",
+            "S\u00een"
         ],
         "cca2": "MV",
         "cca3": "MDV",
@@ -1419,30 +1424,28 @@
             "woe_name": "Raa"
         },
         "geo": {
-            "latitude": 5.4633655,
-            "longitude": 73.0347272,
-            "max_latitude": 5.9805431,
-            "max_longitude": 73.0479349,
-            "min_latitude": 5.3587017,
-            "min_longitude": 72.8025126
+            "latitude": -0.6413,
+            "longitude": 73.158,
+            "max_latitude": -0.5765364,
+            "max_longitude": 73.2395624,
+            "min_latitude": -0.7036652,
+            "min_longitude": 73.0761462
         },
         "iso_3166_2": "MV-13",
         "iso_a2": "MV",
         "iso_a3": "MDV",
-        "name": "Raa",
+        "name": "Seenu",
         "postal": "13",
         "type": "Atoll",
         "type_en": "Atoll"
     },
     "14": {
         "alt_names": [
-            "Faafu",
-            "Faafu Atoll",
-            "F\u00e2f",
-            "Nilandhe Atholhu Uthuruburi",
-            "Nilandu-North",
-            "North Nilandhe",
-            "North Nilandhe Atoll"
+            "Addu",
+            "Addu Atholhu",
+            "Addu Atoll",
+            "Seenu",
+            "S\u00een"
         ],
         "cca2": "MV",
         "cca3": "MDV",
@@ -1565,28 +1568,28 @@
             "woe_name": "Faafu"
         },
         "geo": {
-            "latitude": 3.0558963,
-            "longitude": 72.8889301,
-            "max_latitude": 3.3167972,
-            "max_longitude": 73.0419406,
-            "min_latitude": 3.0521718,
-            "min_longitude": 72.8165155
+            "latitude": -0.6413,
+            "longitude": 73.158,
+            "max_latitude": -0.5765364,
+            "max_longitude": 73.2395624,
+            "min_latitude": -0.7036652,
+            "min_longitude": 73.0761462
         },
         "iso_3166_2": "MV-14",
         "iso_a2": "MV",
         "iso_a3": "MDV",
-        "name": "Faafu",
+        "name": "Seenu",
         "postal": "14",
         "type": "Atoll",
         "type_en": "Atoll"
     },
     "17": {
         "alt_names": [
-            "Dhaalu",
-            "Dh\u00e2l",
-            "Nilandhe Atholhu Dhekunuburi",
-            "Nilandu-South",
-            "South Nilandhe Atoll"
+            "Addu",
+            "Addu Atholhu",
+            "Addu Atoll",
+            "Seenu",
+            "S\u00een"
         ],
         "cca2": "MV",
         "cca3": "MDV",
@@ -1709,27 +1712,28 @@
             "woe_name": "Dhaalu"
         },
         "geo": {
-            "latitude": 2.6965009,
-            "longitude": 72.8630855,
-            "max_latitude": 3.0002184,
-            "max_longitude": 73.0348726,
-            "min_latitude": 2.6672333,
-            "min_longitude": 72.8351612
+            "latitude": -0.6413,
+            "longitude": 73.158,
+            "max_latitude": -0.5765364,
+            "max_longitude": 73.2395624,
+            "min_latitude": -0.7036652,
+            "min_longitude": 73.0761462
         },
         "iso_3166_2": "MV-17",
         "iso_a2": "MV",
         "iso_a3": "MDV",
-        "name": "Dhaalu",
+        "name": "Seenu",
         "postal": "17",
         "type": "Atoll",
         "type_en": "Atoll"
     },
     "20": {
         "alt_names": [
-            "B\u00e2",
-            "Maalhosmadhulu Dhekunuburi",
-            "Malosmadulu-South",
-            "South Maalhosmadhulu"
+            "Addu",
+            "Addu Atholhu",
+            "Addu Atoll",
+            "Seenu",
+            "S\u00een"
         ],
         "cca2": "MV",
         "cca3": "MDV",
@@ -1852,28 +1856,28 @@
             "woe_name": "Baa"
         },
         "geo": {
-            "latitude": 4.8709599,
-            "longitude": 72.9998211,
-            "max_latitude": 5.3591829,
-            "max_longitude": 73.169557,
-            "min_latitude": 4.8613201,
-            "min_longitude": 72.8362762
+            "latitude": -0.6413,
+            "longitude": 73.158,
+            "max_latitude": -0.5765364,
+            "max_longitude": 73.2395624,
+            "min_latitude": -0.7036652,
+            "min_longitude": 73.0761462
         },
         "iso_3166_2": "MV-20",
         "iso_a2": "MV",
         "iso_a3": "MDV",
-        "name": "Baa",
+        "name": "Seenu",
         "postal": "20",
         "type": "Atoll",
         "type_en": "Atoll"
     },
     "23": {
         "alt_names": [
-            "Haa Dhaalu",
-            "H\u00e2 Dh\u00e2l",
-            "South Thiladhunmathi",
-            "Thiladhunmathi Dhekunuburi",
-            "Tiladummati-South"
+            "Addu",
+            "Addu Atholhu",
+            "Addu Atoll",
+            "Seenu",
+            "S\u00een"
         ],
         "cca2": "MV",
         "cca3": "MDV",
@@ -1996,26 +2000,28 @@
             "woe_name": "Haa Dhaalu"
         },
         "geo": {
-            "latitude": 6.7513737,
-            "longitude": 73.1660834,
-            "max_latitude": 6.7876622,
-            "max_longitude": 73.1847811,
-            "min_latitude": 6.3155278,
-            "min_longitude": 72.6385815
+            "latitude": -0.6413,
+            "longitude": 73.158,
+            "max_latitude": -0.5765364,
+            "max_longitude": 73.2395624,
+            "min_latitude": -0.7036652,
+            "min_longitude": 73.0761462
         },
         "iso_3166_2": "MV-23",
         "iso_a2": "MV",
         "iso_a3": "MDV",
-        "name": "Haa Dhaalu",
+        "name": "Seenu",
         "postal": "23",
         "type": "Atoll",
         "type_en": "Atoll"
     },
     "24": {
         "alt_names": [
-            "Miladhunmadhulu Uthuruburi",
-            "Miladummadulu-North",
-            "North Miladhunmadhulu"
+            "Addu",
+            "Addu Atholhu",
+            "Addu Atoll",
+            "Seenu",
+            "S\u00een"
         ],
         "cca2": "MV",
         "cca3": "MDV",
@@ -2138,29 +2144,28 @@
             "woe_name": "Shaviyani"
         },
         "geo": {
-            "latitude": 6.2869456,
-            "longitude": 73.2445073,
-            "max_latitude": 6.4525437,
-            "max_longitude": 73.3011246,
-            "min_latitude": 5.9667994,
-            "min_longitude": 72.9068712
+            "latitude": -0.6413,
+            "longitude": 73.158,
+            "max_latitude": -0.5765364,
+            "max_longitude": 73.2395624,
+            "min_latitude": -0.7036652,
+            "min_longitude": 73.0761462
         },
         "iso_3166_2": "MV-24",
         "iso_a2": "MV",
         "iso_a3": "MDV",
-        "name": "Shaviyani",
+        "name": "Seenu",
         "postal": "24",
         "type": "Atoll",
         "type_en": "Atoll"
     },
     "25": {
         "alt_names": [
-            "Miladhunmadhulu Dhekunuburi",
-            "Miladummadulu-South",
-            "Mulakatholhu",
-            "Noonu",
-            "N\u00fbn",
-            "South Miladhunmadhulu"
+            "Addu",
+            "Addu Atholhu",
+            "Addu Atoll",
+            "Seenu",
+            "S\u00een"
         ],
         "cca2": "MV",
         "cca3": "MDV",
@@ -2283,27 +2288,28 @@
             "woe_name": "Noonu"
         },
         "geo": {
-            "latitude": 5.9523854,
-            "longitude": 73.4151346,
-            "max_latitude": 6.0033134,
-            "max_longitude": 73.4822166,
-            "min_latitude": 5.6440025,
-            "min_longitude": 73.1310586
+            "latitude": -0.6413,
+            "longitude": 73.158,
+            "max_latitude": -0.5765364,
+            "max_longitude": 73.2395624,
+            "min_latitude": -0.7036652,
+            "min_longitude": 73.0761462
         },
         "iso_3166_2": "MV-25",
         "iso_a2": "MV",
         "iso_a3": "MDV",
-        "name": "Noonu",
+        "name": "Seenu",
         "postal": "25",
         "type": "Atoll",
         "type_en": "Atoll"
     },
     "26": {
         "alt_names": [
-            "Kaafu",
-            "K\u00e2f",
-            "Male\u02bf Atholhu",
-            "Mal\u00e9 Atoll"
+            "Addu",
+            "Addu Atholhu",
+            "Addu Atoll",
+            "Seenu",
+            "S\u00een"
         ],
         "cca2": "MV",
         "cca3": "MDV",
@@ -2426,28 +2432,28 @@
             "woe_name": "Kaafu"
         },
         "geo": {
-            "latitude": 4.9570016,
-            "longitude": 73.4595787,
-            "max_latitude": 4.9728929,
-            "max_longitude": 73.7192702,
-            "min_latitude": 3.8099492,
-            "min_longitude": 73.3509493
+            "latitude": -0.6413,
+            "longitude": 73.158,
+            "max_latitude": -0.5765364,
+            "max_longitude": 73.2395624,
+            "min_latitude": -0.7036652,
+            "min_longitude": 73.0761462
         },
         "iso_3166_2": "MV-26",
         "iso_a2": "MV",
         "iso_a3": "MDV",
-        "name": "Kaafu",
+        "name": "Seenu",
         "postal": "26",
         "type": "Atoll",
         "type_en": "Atoll"
     },
     "27": {
         "alt_names": [
-            "Gaafu Alifu",
-            "G\u00e2f Alif",
-            "Huvadhu Atholhu Uthuruburi",
-            "North Huvadhu Atoll",
-            "Suvadiva-Huvadu-North"
+            "Addu",
+            "Addu Atholhu",
+            "Addu Atoll",
+            "Seenu",
+            "S\u00een"
         ],
         "cca2": "MV",
         "cca3": "MDV",
@@ -2570,28 +2576,28 @@
             "woe_name": "Gaafu Alifu"
         },
         "geo": {
-            "latitude": 0.7593605,
-            "longitude": 73.4330865,
-            "max_latitude": 0.8975593,
-            "max_longitude": 73.5735378,
-            "min_latitude": 0.3470336,
-            "min_longitude": 73.092454
+            "latitude": -0.6413,
+            "longitude": 73.158,
+            "max_latitude": -0.5765364,
+            "max_longitude": 73.2395624,
+            "min_latitude": -0.7036652,
+            "min_longitude": 73.0761462
         },
         "iso_3166_2": "MV-27",
         "iso_a2": "MV",
         "iso_a3": "MDV",
-        "name": "Gaaf Alif",
+        "name": "Seenu",
         "postal": "27",
         "type": "Atoll",
         "type_en": "Atoll"
     },
     "28": {
         "alt_names": [
-            "Gaafu Dhaalu",
-            "G\u00e2f Dh\u00e2l",
-            "Huvadhu Atholhu Dhekunuburi",
-            "South Huvadhu",
-            "Suvadiva-Huvadu-South"
+            "Addu",
+            "Addu Atholhu",
+            "Addu Atoll",
+            "Seenu",
+            "S\u00een"
         ],
         "cca2": "MV",
         "cca3": "MDV",
@@ -2714,31 +2720,28 @@
             "woe_name": "Gaafu Dhaalu"
         },
         "geo": {
-            "latitude": 0.2751533,
-            "longitude": 73.435831,
-            "max_latitude": 0.5438473,
-            "max_longitude": 73.5213636,
-            "min_latitude": 0.1880678,
-            "min_longitude": 72.987068
+            "latitude": -0.6413,
+            "longitude": 73.158,
+            "max_latitude": -0.5765364,
+            "max_longitude": 73.2395624,
+            "min_latitude": -0.7036652,
+            "min_longitude": 73.0761462
         },
         "iso_3166_2": "MV-28",
         "iso_a2": "MV",
         "iso_a3": "MDV",
-        "name": "Gaafu Dhaalu",
+        "name": "Seenu",
         "postal": "28",
         "type": "Atoll",
         "type_en": "Atoll"
     },
     "29": {
         "alt_names": [
-            "Foah Mulah",
-            "Foahmulah",
-            "Foammulah",
-            "Foamulah",
-            "Fua Mulak",
-            "Fuamulaku",
-            "Fuvahmulah",
-            "Gnyaviani"
+            "Addu",
+            "Addu Atholhu",
+            "Addu Atoll",
+            "Seenu",
+            "S\u00een"
         ],
         "cca2": "MV",
         "cca3": "MDV",
@@ -2861,17 +2864,17 @@
             "woe_name": "Gnaviyani"
         },
         "geo": {
-            "latitude": -0.3006425,
-            "longitude": 73.4239143,
-            "max_latitude": -0.2771461,
-            "max_longitude": 73.4414148,
-            "min_latitude": -0.3118643,
-            "min_longitude": 73.4100436
+            "latitude": -0.6413,
+            "longitude": 73.158,
+            "max_latitude": -0.5765364,
+            "max_longitude": 73.2395624,
+            "min_latitude": -0.7036652,
+            "min_longitude": 73.0761462
         },
         "iso_3166_2": "MV-29",
         "iso_a2": "MV",
         "iso_a3": "MDV",
-        "name": "Gnaviyani",
+        "name": "Seenu",
         "postal": "29",
         "type": "Atoll",
         "type_en": "Atoll"

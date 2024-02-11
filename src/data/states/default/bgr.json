@@ -141,7 +141,7 @@
     },
     "02": {
         "alt_names": [
-            "Burgas"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -264,24 +264,24 @@
             "woe_name": "Burgas"
         },
         "geo": {
-            "latitude": 42.5047926,
-            "longitude": 27.4626361,
-            "max_latitude": 42.6139216,
-            "max_longitude": 27.5458556,
-            "min_latitude": 42.4391223,
-            "min_longitude": 27.3580762
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-02",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Burgas",
+        "name": "Blagoevgrad",
         "postal": "02",
         "type": "Oblast",
         "type_en": "Province"
     },
     "03": {
         "alt_names": [
-            "Varna"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -404,24 +404,24 @@
             "woe_name": "Varna"
         },
         "geo": {
-            "latitude": 43.2140504,
-            "longitude": 27.9147333,
-            "max_latitude": 43.3094528,
-            "max_longitude": 28.0559078,
-            "min_latitude": 43.1002294,
-            "min_longitude": 27.8299093
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-03",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Varna",
+        "name": "Blagoevgrad",
         "postal": "03",
         "type": "Oblast",
         "type_en": "Province"
     },
     "04": {
         "alt_names": [
-            "Veliko Tarnovo"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -544,24 +544,24 @@
             "woe_name": "Veliko Tarnovo"
         },
         "geo": {
-            "latitude": 43.0756739,
-            "longitude": 25.6171514,
-            "max_latitude": 43.1103064,
-            "max_longitude": 25.6943964,
-            "min_latitude": 43.0578391,
-            "min_longitude": 25.5718485
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-04",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Veliko Tarnovo",
+        "name": "Blagoevgrad",
         "postal": "04",
         "type": "Oblast",
         "type_en": "Province"
     },
     "05": {
         "alt_names": [
-            "Vidin"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -684,24 +684,24 @@
             "woe_name": "Vidin"
         },
         "geo": {
-            "latitude": 43.996159,
-            "longitude": 22.8679302,
-            "max_latitude": 44.0154499,
-            "max_longitude": 22.9156826,
-            "min_latitude": 43.9437989,
-            "min_longitude": 22.8390656
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-05",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Vidin",
+        "name": "Blagoevgrad",
         "postal": "05",
         "type": "Oblast",
         "type_en": "Province"
     },
     "06": {
         "alt_names": [
-            "Vratsa"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -824,24 +824,24 @@
             "woe_name": "Vratsa"
         },
         "geo": {
-            "latitude": 43.2102375,
-            "longitude": 23.5528803,
-            "max_latitude": 43.2297109,
-            "max_longitude": 23.5920197,
-            "min_latitude": 43.1850586,
-            "min_longitude": 23.5066083
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-06",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Vratsa",
+        "name": "Blagoevgrad",
         "postal": "06",
         "type": "Oblast",
         "type_en": "Province"
     },
     "07": {
         "alt_names": [
-            "Gabrovo"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -964,24 +964,24 @@
             "woe_name": "Gabrovo"
         },
         "geo": {
-            "latitude": 42.8742212,
-            "longitude": 25.3186837,
-            "max_latitude": 42.9150995,
-            "max_longitude": 25.3884394,
-            "min_latitude": 42.7827688,
-            "min_longitude": 25.262113
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-07",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Gabrovo",
+        "name": "Blagoevgrad",
         "postal": "07",
         "type": "Oblast",
         "type_en": "Province"
     },
     "08": {
         "alt_names": [
-            "Dobrich"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -1104,24 +1104,24 @@
             "woe_name": "Dobrich"
         },
         "geo": {
-            "latitude": 43.57259,
-            "longitude": 27.8272606,
-            "max_latitude": 43.608704,
-            "max_longitude": 27.8607443,
-            "min_latitude": 43.5418468,
-            "min_longitude": 27.763096
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-08",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Dobrich",
+        "name": "Blagoevgrad",
         "postal": "08",
         "type": "Oblast",
         "type_en": "Province"
     },
     "09": {
         "alt_names": [
-            "Kardzhali"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -1244,24 +1244,24 @@
             "woe_name": "Kardzhali"
         },
         "geo": {
-            "latitude": 41.6338439,
-            "longitude": 25.3777119,
-            "max_latitude": 41.6597227,
-            "max_longitude": 25.4243002,
-            "min_latitude": 41.5978213,
-            "min_longitude": 25.3410976
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-09",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Kardzhali",
+        "name": "Blagoevgrad",
         "postal": "09",
         "type": "Oblast",
         "type_en": "Province"
     },
     "10": {
         "alt_names": [
-            "Kjustendil"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -1384,24 +1384,24 @@
             "woe_name": "Kyustendil"
         },
         "geo": {
-            "latitude": 42.2868817,
-            "longitude": 22.6939308,
-            "max_latitude": 42.3022897,
-            "max_longitude": 22.7273332,
-            "min_latitude": 42.2711228,
-            "min_longitude": 22.6594581
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-10",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Kjustendil",
+        "name": "Blagoevgrad",
         "postal": "10",
         "type": "Oblast",
         "type_en": "Province"
     },
     "11": {
         "alt_names": [
-            "Lovech"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -1524,24 +1524,24 @@
             "woe_name": "Lovech"
         },
         "geo": {
-            "latitude": 43.1369534,
-            "longitude": 24.7141906,
-            "max_latitude": 43.1819797,
-            "max_longitude": 24.7467215,
-            "min_latitude": 43.1069685,
-            "min_longitude": 24.6753677
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-11",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Lovech",
+        "name": "Blagoevgrad",
         "postal": "11",
         "type": "Oblast",
         "type_en": "Province"
     },
     "12": {
         "alt_names": [
-            "Montana"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -1664,24 +1664,24 @@
             "woe_name": "Montana"
         },
         "geo": {
-            "latitude": 43.4085161,
-            "longitude": 23.2257292,
-            "max_latitude": 43.4519827,
-            "max_longitude": 23.2474243,
-            "min_latitude": 43.3764219,
-            "min_longitude": 23.2073812
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-12",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Montana",
+        "name": "Blagoevgrad",
         "postal": "12",
         "type": "Oblast",
         "type_en": "Province"
     },
     "13": {
         "alt_names": [
-            "Pazardzhik"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -1804,24 +1804,24 @@
             "woe_name": "Pazardzhik"
         },
         "geo": {
-            "latitude": 42.1927654,
-            "longitude": 24.3335662,
-            "max_latitude": 42.2142634,
-            "max_longitude": 24.3626333,
-            "min_latitude": 42.1632603,
-            "min_longitude": 24.2980485
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-13",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Pazardzhik",
+        "name": "Blagoevgrad",
         "postal": "13",
         "type": "Oblast",
         "type_en": "Province"
     },
     "14": {
         "alt_names": [
-            "Pernik"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -1944,24 +1944,24 @@
             "woe_name": "Pernik"
         },
         "geo": {
-            "latitude": 42.6051862,
-            "longitude": 23.0378368,
-            "max_latitude": 42.6243972,
-            "max_longitude": 23.1273676,
-            "min_latitude": 42.5681881,
-            "min_longitude": 22.9755276
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-14",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Pernik",
+        "name": "Blagoevgrad",
         "postal": "14",
         "type": "Oblast",
         "type_en": "Province"
     },
     "15": {
         "alt_names": [
-            "Pleven"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -2084,24 +2084,24 @@
             "woe_name": "Pleven"
         },
         "geo": {
-            "latitude": 43.4170423,
-            "longitude": 24.6066847,
-            "max_latitude": 43.4504952,
-            "max_longitude": 24.6600647,
-            "min_latitude": 43.3918598,
-            "min_longitude": 24.5690017
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-15",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Pleven",
+        "name": "Blagoevgrad",
         "postal": "15",
         "type": "Oblast",
         "type_en": "Province"
     },
     "16": {
         "alt_names": [
-            "Plovdiv"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -2224,24 +2224,24 @@
             "woe_name": "Plovdiv"
         },
         "geo": {
-            "latitude": 42.1354079,
-            "longitude": 24.7452904,
-            "max_latitude": 42.1982332,
-            "max_longitude": 24.8240283,
-            "min_latitude": 42.0900086,
-            "min_longitude": 24.6577202
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-16",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Plovdiv",
+        "name": "Blagoevgrad",
         "postal": "16",
         "type": "Oblast",
         "type_en": "Province"
     },
     "17": {
         "alt_names": [
-            "Razgrad"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -2364,24 +2364,24 @@
             "woe_name": "Razgrad"
         },
         "geo": {
-            "latitude": 43.5336719,
-            "longitude": 26.5411164,
-            "max_latitude": 43.5504861,
-            "max_longitude": 26.5636871,
-            "min_latitude": 43.5089142,
-            "min_longitude": 26.4945973
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-17",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Razgrad",
+        "name": "Blagoevgrad",
         "postal": "17",
         "type": "Oblast",
         "type_en": "Province"
     },
     "18": {
         "alt_names": [
-            "Ruse"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -2504,24 +2504,24 @@
             "woe_name": "Ruse"
         },
         "geo": {
-            "latitude": 43.8355713,
-            "longitude": 25.9656554,
-            "max_latitude": 43.8890011,
-            "max_longitude": 26.0490987,
-            "min_latitude": 43.7542331,
-            "min_longitude": 25.8704853
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-18",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Ruse",
+        "name": "Blagoevgrad",
         "postal": "18",
         "type": "Oblast",
         "type_en": "Province"
     },
     "19": {
         "alt_names": [
-            "Silistra"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -2644,24 +2644,24 @@
             "woe_name": "Silistra"
         },
         "geo": {
-            "latitude": 44.1147271,
-            "longitude": 27.2671901,
-            "max_latitude": 44.1248362,
-            "max_longitude": 27.2840753,
-            "min_latitude": 44.097587,
-            "min_longitude": 27.2254378
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-19",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Silistra",
+        "name": "Blagoevgrad",
         "postal": "19",
         "type": "Oblast",
         "type_en": "Province"
     },
     "20": {
         "alt_names": [
-            "Sliven"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -2784,24 +2784,24 @@
             "woe_name": "Sliven"
         },
         "geo": {
-            "latitude": 42.6816536,
-            "longitude": 26.3228685,
-            "max_latitude": 42.711123,
-            "max_longitude": 26.3902393,
-            "min_latitude": 42.6196377,
-            "min_longitude": 26.2598866
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-20",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Sliven",
+        "name": "Blagoevgrad",
         "postal": "20",
         "type": "Oblast",
         "type_en": "Province"
     },
     "21": {
         "alt_names": [
-            "Smolyan"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -2924,24 +2924,24 @@
             "woe_name": "Smolyan"
         },
         "geo": {
-            "latitude": 41.5774233,
-            "longitude": 24.7011138,
-            "max_latitude": 41.5938716,
-            "max_longitude": 24.8138621,
-            "min_latitude": 41.5643,
-            "min_longitude": 24.668448
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-21",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Smolyan",
+        "name": "Blagoevgrad",
         "postal": "21",
         "type": "Oblast",
         "type_en": "Province"
     },
     "22": {
         "alt_names": [
-            "Sofia-Grad"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -3064,24 +3064,24 @@
             "woe_name": "Grad Sofiya"
         },
         "geo": {
-            "latitude": 42.6977082,
-            "longitude": 23.3218675,
-            "max_latitude": 42.7877752,
-            "max_longitude": 23.4569049,
-            "min_latitude": 42.4900111,
-            "min_longitude": 23.1909885
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-22",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Sofia-Grad",
+        "name": "Blagoevgrad",
         "postal": "22",
         "type": "Oblast",
         "type_en": "Province"
     },
     "23": {
         "alt_names": [
-            "Sofia"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -3204,24 +3204,24 @@
             "woe_name": "Sofia"
         },
         "geo": {
-            "latitude": 42.6977082,
-            "longitude": 23.3218675,
-            "max_latitude": 42.7877752,
-            "max_longitude": 23.4569049,
-            "min_latitude": 42.4900111,
-            "min_longitude": 23.1909885
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-23",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Sofia",
+        "name": "Blagoevgrad",
         "postal": "23",
         "type": "Oblast",
         "type_en": "Province"
     },
     "24": {
         "alt_names": [
-            "Stara Zagora"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -3344,24 +3344,24 @@
             "woe_name": "Stara Zagora"
         },
         "geo": {
-            "latitude": 42.4257769,
-            "longitude": 25.6344644,
-            "max_latitude": 42.4457088,
-            "max_longitude": 25.6686784,
-            "min_latitude": 42.3928015,
-            "min_longitude": 25.5810451
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-24",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Stara Zagora",
+        "name": "Blagoevgrad",
         "postal": "24",
         "type": "Oblast",
         "type_en": "Province"
     },
     "25": {
         "alt_names": [
-            "Targovishte"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -3484,24 +3484,24 @@
             "woe_name": "Targovishte"
         },
         "geo": {
-            "latitude": 43.2493556,
-            "longitude": 26.5727357,
-            "max_latitude": 43.2856429,
-            "max_longitude": 26.6072562,
-            "min_latitude": 43.2275267,
-            "min_longitude": 26.5195091
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-25",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Targovishte",
+        "name": "Blagoevgrad",
         "postal": "25",
         "type": "Oblast",
         "type_en": "Province"
     },
     "26": {
         "alt_names": [
-            "Haskovo"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -3624,24 +3624,24 @@
             "woe_name": "Haskovo"
         },
         "geo": {
-            "latitude": 41.9344366,
-            "longitude": 25.5554462,
-            "max_latitude": 41.9541525,
-            "max_longitude": 25.6030698,
-            "min_latitude": 41.9114011,
-            "min_longitude": 25.4942471
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-26",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Haskovo",
+        "name": "Blagoevgrad",
         "postal": "26",
         "type": "Oblast",
         "type_en": "Province"
     },
     "27": {
         "alt_names": [
-            "\u0160umen"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -3764,24 +3764,24 @@
             "woe_name": "Shumen"
         },
         "geo": {
-            "latitude": 43.2712398,
-            "longitude": 26.9361286,
-            "max_latitude": 43.3144123,
-            "max_longitude": 27.0506347,
-            "min_latitude": 43.2250909,
-            "min_longitude": 26.8972271
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-27",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "\u0160umen",
+        "name": "Blagoevgrad",
         "postal": "27",
         "type": "Oblast",
         "type_en": "Province"
     },
     "28": {
         "alt_names": [
-            "Yambol"
+            "Blagoevgrad"
         ],
         "cca2": "BG",
         "cca3": "BGR",
@@ -3904,17 +3904,17 @@
             "woe_name": "Yambol"
         },
         "geo": {
-            "latitude": 42.4841999,
-            "longitude": 26.5035023,
-            "max_latitude": 42.5067417,
-            "max_longitude": 26.5412634,
-            "min_latitude": 42.4475374,
-            "min_longitude": 26.4646359
+            "latitude": 42.0208569,
+            "longitude": 23.0943385,
+            "max_latitude": 42.0296711,
+            "max_longitude": 23.1195894,
+            "min_latitude": 41.9978951,
+            "min_longitude": 23.0698939
         },
         "iso_3166_2": "BG-28",
         "iso_a2": "BG",
         "iso_a3": "BGR",
-        "name": "Yambol",
+        "name": "Blagoevgrad",
         "postal": "28",
         "type": "Oblast",
         "type_en": "Province"

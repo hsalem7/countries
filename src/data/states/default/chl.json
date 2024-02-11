@@ -142,7 +142,8 @@
     },
     "AN": {
         "alt_names": [
-            "Antofagasta"
+            "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
+            "Ays\u00e9n"
         ],
         "cca2": "CL",
         "cca3": "CHL",
@@ -265,24 +266,25 @@
             "woe_name": "Antofagasta"
         },
         "geo": {
-            "latitude": -23.65,
-            "longitude": -70.4,
-            "max_latitude": -23.0591235,
-            "max_longitude": -68.1182127,
-            "min_latitude": -25.40112,
-            "min_longitude": -70.6291161
+            "latitude": -46.378345,
+            "longitude": -72.3007623,
+            "max_latitude": -43.6399768,
+            "max_longitude": -71.0875012,
+            "min_latitude": -49.3439696,
+            "min_longitude": -75.6798181
         },
         "iso_3166_2": "CL-AN",
         "iso_a2": "CL",
         "iso_a3": "CHL",
-        "name": "Antofagasta",
+        "name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
         "postal": "AN",
         "type": "Regi\u00f3n",
         "type_en": "Region"
     },
     "AP": {
         "alt_names": [
-            "Arica y Parinacota"
+            "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
+            "Ays\u00e9n"
         ],
         "cca2": "CL",
         "cca3": "CHL",
@@ -405,24 +407,25 @@
             "woe_name": "Arica y Parinacota"
         },
         "geo": {
-            "latitude": -18.5940485,
-            "longitude": -69.4784541,
-            "max_latitude": -17.5008571,
-            "max_longitude": -68.9160989,
-            "min_latitude": -19.2302791,
-            "min_longitude": -70.3796331
+            "latitude": -46.378345,
+            "longitude": -72.3007623,
+            "max_latitude": -43.6399768,
+            "max_longitude": -71.0875012,
+            "min_latitude": -49.3439696,
+            "min_longitude": -75.6798181
         },
         "iso_3166_2": "CL-AP",
         "iso_a2": "CL",
         "iso_a3": "CHL",
-        "name": "Arica y Parinacota",
+        "name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
         "postal": "AP",
         "type": "Regi\u00f3n",
         "type_en": "Region"
     },
     "AR": {
         "alt_names": [
-            "La Araucan\u00eda"
+            "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
+            "Ays\u00e9n"
         ],
         "cca2": "CL",
         "cca3": "CHL",
@@ -545,24 +548,25 @@
             "woe_name": "La Araucan\u00eda"
         },
         "geo": {
-            "latitude": -38.948921,
-            "longitude": -72.331113,
-            "max_latitude": -37.5880498,
-            "max_longitude": -70.8301122,
-            "min_latitude": -39.6397245,
-            "min_longitude": -73.5228712
+            "latitude": -46.378345,
+            "longitude": -72.3007623,
+            "max_latitude": -43.6399768,
+            "max_longitude": -71.0875012,
+            "min_latitude": -49.3439696,
+            "min_longitude": -75.6798181
         },
         "iso_3166_2": "CL-AR",
         "iso_a2": "CL",
         "iso_a3": "CHL",
-        "name": "Araucan\u00eda",
+        "name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
         "postal": "AR",
         "type": "Regi\u00f3n",
         "type_en": "Region"
     },
     "AT": {
         "alt_names": [
-            "Atacama"
+            "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
+            "Ays\u00e9n"
         ],
         "cca2": "CL",
         "cca3": "CHL",
@@ -685,24 +689,25 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": -27.5660558,
-            "longitude": -70.050314,
-            "max_latitude": -25.2897006,
-            "max_longitude": -68.2668622,
-            "min_latitude": -29.5373752,
-            "min_longitude": -71.5936886
+            "latitude": -46.378345,
+            "longitude": -72.3007623,
+            "max_latitude": -43.6399768,
+            "max_longitude": -71.0875012,
+            "min_latitude": -49.3439696,
+            "min_longitude": -75.6798181
         },
         "iso_3166_2": "CL-AT",
         "iso_a2": "CL",
         "iso_a3": "CHL",
-        "name": "Atacama",
+        "name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
         "postal": "AT",
         "type": "Regi\u00f3n",
         "type_en": "Region"
     },
     "BI": {
         "alt_names": [
-            "B\u00edob\u00edo"
+            "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
+            "Ays\u00e9n"
         ],
         "cca2": "CL",
         "cca3": "CHL",
@@ -825,24 +830,25 @@
             "woe_name": "B\u00edo-B\u00edo"
         },
         "geo": {
-            "latitude": -36.9777206,
-            "longitude": -72.331113,
-            "max_latitude": -36.0083148,
-            "max_longitude": -70.9883192,
-            "min_latitude": -38.4918218,
-            "min_longitude": -73.9699354
+            "latitude": -46.378345,
+            "longitude": -72.3007623,
+            "max_latitude": -43.6399768,
+            "max_longitude": -71.0875012,
+            "min_latitude": -49.3439696,
+            "min_longitude": -75.6798181
         },
         "iso_3166_2": "CL-BI",
         "iso_a2": "CL",
         "iso_a3": "CHL",
-        "name": "B\u00edo-B\u00edo",
+        "name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
         "postal": "BI",
         "type": "Regi\u00f3n",
         "type_en": "Region"
     },
     "CO": {
         "alt_names": [
-            "Coquimbo"
+            "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
+            "Ays\u00e9n"
         ],
         "cca2": "CL",
         "cca3": "CHL",
@@ -965,26 +971,25 @@
             "woe_name": "Coquimbo"
         },
         "geo": {
-            "latitude": -29.9533,
-            "longitude": -71.3436,
-            "max_latitude": -29.9331593,
-            "max_longitude": -71.117463,
-            "min_latitude": -30.515066,
-            "min_longitude": -71.6768631
+            "latitude": -46.378345,
+            "longitude": -72.3007623,
+            "max_latitude": -43.6399768,
+            "max_longitude": -71.0875012,
+            "min_latitude": -49.3439696,
+            "min_longitude": -75.6798181
         },
         "iso_3166_2": "CL-CO",
         "iso_a2": "CL",
         "iso_a3": "CHL",
-        "name": "Coquimbo",
+        "name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
         "postal": "CO",
         "type": "Regi\u00f3n",
         "type_en": "Region"
     },
     "LI": {
         "alt_names": [
-            "General Bernardo O'Higgins",
-            "Libertador",
-            "Libertador O\u02bfHiggins"
+            "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
+            "Ays\u00e9n"
         ],
         "cca2": "CL",
         "cca3": "CHL",
@@ -1107,24 +1112,25 @@
             "woe_name": "Libertador General Bernardo O'Higgins"
         },
         "geo": {
-            "latitude": -34.5755374,
-            "longitude": -71.0022311,
-            "max_latitude": -33.8537682,
-            "max_longitude": -70.0121472,
-            "min_latitude": -35.0066722,
-            "min_longitude": -72.0717305
+            "latitude": -46.378345,
+            "longitude": -72.3007623,
+            "max_latitude": -43.6399768,
+            "max_longitude": -71.0875012,
+            "min_latitude": -49.3439696,
+            "min_longitude": -75.6798181
         },
         "iso_3166_2": "CL-LI",
         "iso_a2": "CL",
         "iso_a3": "CHL",
-        "name": "Libertador General Bernardo O'Higgins",
+        "name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
         "postal": "LI",
         "type": "Regi\u00f3n",
         "type_en": "Region"
     },
     "LL": {
         "alt_names": [
-            "Los Lagos"
+            "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
+            "Ays\u00e9n"
         ],
         "cca2": "CL",
         "cca3": "CHL",
@@ -1247,24 +1253,25 @@
             "woe_name": "Los Lagos"
         },
         "geo": {
-            "latitude": -41.9197779,
-            "longitude": -72.1416132,
-            "max_latitude": -40.2364882,
-            "max_longitude": -71.5841725,
-            "min_latitude": -44.0668098,
-            "min_longitude": -74.8511989
+            "latitude": -46.378345,
+            "longitude": -72.3007623,
+            "max_latitude": -43.6399768,
+            "max_longitude": -71.0875012,
+            "min_latitude": -49.3439696,
+            "min_longitude": -75.6798181
         },
         "iso_3166_2": "CL-LL",
         "iso_a2": "CL",
         "iso_a3": "CHL",
-        "name": "Los Lagos",
+        "name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
         "postal": "LL",
         "type": "Regi\u00f3n",
         "type_en": "Region"
     },
     "LR": {
         "alt_names": [
-            "Los R\u00edos"
+            "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
+            "Ays\u00e9n"
         ],
         "cca2": "CL",
         "cca3": "CHL",
@@ -1387,24 +1394,25 @@
             "woe_name": "Los R\u00edos"
         },
         "geo": {
-            "latitude": -40.2310217,
-            "longitude": -72.331113,
-            "max_latitude": -39.2871406,
-            "max_longitude": -71.5829256,
-            "min_latitude": -40.6819045,
-            "min_longitude": -73.7275484
+            "latitude": -46.378345,
+            "longitude": -72.3007623,
+            "max_latitude": -43.6399768,
+            "max_longitude": -71.0875012,
+            "min_latitude": -49.3439696,
+            "min_longitude": -75.6798181
         },
         "iso_3166_2": "CL-LR",
         "iso_a2": "CL",
         "iso_a3": "CHL",
-        "name": "Los R\u00edos",
+        "name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
         "postal": "LR",
         "type": "Regi\u00f3n",
         "type_en": "Region"
     },
     "MA": {
         "alt_names": [
-            "Magellantes y la Ant\u00e1rtica Chilena"
+            "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
+            "Ays\u00e9n"
         ],
         "cca2": "CL",
         "cca3": "CHL",
@@ -1527,24 +1535,25 @@
             "woe_name": "Magallanes y Ant\u00e1rtica Chilena"
         },
         "geo": {
-            "latitude": -52.2064316,
-            "longitude": -72.1685001,
-            "max_latitude": -48.5966006,
-            "max_longitude": -66.4181435,
-            "min_latitude": -55.9799665,
-            "min_longitude": -75.7296587
+            "latitude": -46.378345,
+            "longitude": -72.3007623,
+            "max_latitude": -43.6399768,
+            "max_longitude": -71.0875012,
+            "min_latitude": -49.3439696,
+            "min_longitude": -75.6798181
         },
         "iso_3166_2": "CL-MA",
         "iso_a2": "CL",
         "iso_a3": "CHL",
-        "name": "Magallanes",
+        "name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
         "postal": "MA",
         "type": "Regi\u00f3n",
         "type_en": "Region"
     },
     "ML": {
         "alt_names": [
-            "Maule"
+            "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
+            "Ays\u00e9n"
         ],
         "cca2": "CL",
         "cca3": "CHL",
@@ -1667,24 +1676,25 @@
             "woe_name": "Maule"
         },
         "geo": {
-            "latitude": -35.5163603,
-            "longitude": -71.5723953,
-            "max_latitude": -34.7119045,
-            "max_longitude": -70.3260118,
-            "min_latitude": -36.5456538,
-            "min_longitude": -72.789893
+            "latitude": -46.378345,
+            "longitude": -72.3007623,
+            "max_latitude": -43.6399768,
+            "max_longitude": -71.0875012,
+            "min_latitude": -49.3439696,
+            "min_longitude": -75.6798181
         },
         "iso_3166_2": "CL-ML",
         "iso_a2": "CL",
         "iso_a3": "CHL",
-        "name": "Maule",
+        "name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
         "postal": "ML",
         "type": "Regi\u00f3n",
         "type_en": "Region"
     },
     "NB": {
         "alt_names": [
-            ""
+            "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
+            "Ays\u00e9n"
         ],
         "cca2": "CL",
         "cca3": "CHL",
@@ -1807,20 +1817,25 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "-36.6193269480",
-            "longitude": "-72.0684313070"
+            "latitude": -46.378345,
+            "longitude": -72.3007623,
+            "max_latitude": -43.6399768,
+            "max_longitude": -71.0875012,
+            "min_latitude": -49.3439696,
+            "min_longitude": -75.6798181
         },
         "iso_3166_2": "CL-NB",
         "iso_a2": "CL",
         "iso_a3": "CHL",
-        "name": "\u00d1uble",
+        "name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
         "postal": "NB",
         "type": "Regi\u00f3n",
         "type_en": "Region"
     },
     "RM": {
         "alt_names": [
-            "Metropolitana de Santiago"
+            "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
+            "Ays\u00e9n"
         ],
         "cca2": "CL",
         "cca3": "CHL",
@@ -1943,24 +1958,25 @@
             "woe_name": "Regi\u00f3n Metropolitana de Santiago"
         },
         "geo": {
-            "latitude": -33.4843354,
-            "longitude": -70.6216794,
-            "max_latitude": -32.919451,
-            "max_longitude": -69.7689944,
-            "min_latitude": -34.2878805,
-            "min_longitude": -71.7186941
+            "latitude": -46.378345,
+            "longitude": -72.3007623,
+            "max_latitude": -43.6399768,
+            "max_longitude": -71.0875012,
+            "min_latitude": -49.3439696,
+            "min_longitude": -75.6798181
         },
         "iso_3166_2": "CL-RM",
         "iso_a2": "CL",
         "iso_a3": "CHL",
-        "name": "Regi\u00f3n Metropolitana de Santiago",
+        "name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
         "postal": "RM",
         "type": "Regi\u00f3n",
         "type_en": "Region"
     },
     "TA": {
         "alt_names": [
-            "Tarapac\u00e1"
+            "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
+            "Ays\u00e9n"
         ],
         "cca2": "CL",
         "cca3": "CHL",
@@ -2083,24 +2099,25 @@
             "woe_name": "Tarapac\u00e1"
         },
         "geo": {
-            "latitude": -20.2028799,
-            "longitude": -69.2877535,
-            "max_latitude": -18.9387142,
-            "max_longitude": -68.4068445,
-            "min_latitude": -21.6334004,
-            "min_longitude": -70.2885344
+            "latitude": -46.378345,
+            "longitude": -72.3007623,
+            "max_latitude": -43.6399768,
+            "max_longitude": -71.0875012,
+            "min_latitude": -49.3439696,
+            "min_longitude": -75.6798181
         },
         "iso_3166_2": "CL-TA",
         "iso_a2": "CL",
         "iso_a3": "CHL",
-        "name": "Tarapac\u00e1",
+        "name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
         "postal": "TA",
         "type": "Regi\u00f3n",
         "type_en": "Region"
     },
     "VS": {
         "alt_names": [
-            "Valpara\u00edso"
+            "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
+            "Ays\u00e9n"
         ],
         "cca2": "CL",
         "cca3": "CHL",
@@ -2223,17 +2240,17 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": -33.045646,
-            "longitude": -71.620361,
-            "max_latitude": -33.0178165,
-            "max_longitude": -71.3856111,
-            "min_latitude": -33.2149745,
-            "min_longitude": -71.7444525
+            "latitude": -46.378345,
+            "longitude": -72.3007623,
+            "max_latitude": -43.6399768,
+            "max_longitude": -71.0875012,
+            "min_latitude": -49.3439696,
+            "min_longitude": -75.6798181
         },
         "iso_3166_2": "CL-VS",
         "iso_a2": "CL",
         "iso_a3": "CHL",
-        "name": "Valpara\u00edso",
+        "name": "Ais\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
         "postal": "VS",
         "type": "Regi\u00f3n",
         "type_en": "Region"

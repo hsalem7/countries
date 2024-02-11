@@ -141,7 +141,7 @@
     },
     "02": {
         "alt_names": [
-            "Durr\u00ebs"
+            "Berat"
         ],
         "cca2": "AL",
         "cca3": "ALB",
@@ -264,24 +264,24 @@
             "woe_name": "Durr\u00ebs"
         },
         "geo": {
-            "latitude": 41.316667,
-            "longitude": 19.45,
-            "max_latitude": 41.3809305,
-            "max_longitude": 19.5148087,
-            "min_latitude": 41.2817411,
-            "min_longitude": 19.418378
+            "latitude": 40.7086377,
+            "longitude": 19.9437314,
+            "max_latitude": 40.7306085,
+            "max_longitude": 19.9808693,
+            "min_latitude": 40.6923532,
+            "min_longitude": 19.9287128
         },
         "iso_3166_2": "AL-02",
         "iso_a2": "AL",
         "iso_a3": "ALB",
-        "name": "Durr\u00ebs",
+        "name": "Berat",
         "postal": "02",
         "type": "Qark|Region",
         "type_en": "County"
     },
     "03": {
         "alt_names": [
-            "Elbasan"
+            "Berat"
         ],
         "cca2": "AL",
         "cca3": "ALB",
@@ -404,24 +404,24 @@
             "woe_name": "Elbasan"
         },
         "geo": {
-            "latitude": 41.11023,
-            "longitude": 20.0866554,
-            "max_latitude": 41.1308961,
-            "max_longitude": 20.1270677,
-            "min_latitude": 41.0875028,
-            "min_longitude": 20.0506784
+            "latitude": 40.7086377,
+            "longitude": 19.9437314,
+            "max_latitude": 40.7306085,
+            "max_longitude": 19.9808693,
+            "min_latitude": 40.6923532,
+            "min_longitude": 19.9287128
         },
         "iso_3166_2": "AL-03",
         "iso_a2": "AL",
         "iso_a3": "ALB",
-        "name": "Elbasan",
+        "name": "Berat",
         "postal": "03",
         "type": "Qark|Region",
         "type_en": "County"
     },
     "04": {
         "alt_names": [
-            "Fier"
+            "Berat"
         ],
         "cca2": "AL",
         "cca3": "ALB",
@@ -544,24 +544,24 @@
             "woe_name": "Fier"
         },
         "geo": {
-            "latitude": 40.9191392,
-            "longitude": 19.6639309,
-            "max_latitude": 41.064866,
-            "max_longitude": 19.92129,
-            "min_latitude": 40.4181381,
-            "min_longitude": 19.321621
+            "latitude": 40.7086377,
+            "longitude": 19.9437314,
+            "max_latitude": 40.7306085,
+            "max_longitude": 19.9808693,
+            "min_latitude": 40.6923532,
+            "min_longitude": 19.9287128
         },
         "iso_3166_2": "AL-04",
         "iso_a2": "AL",
         "iso_a3": "ALB",
-        "name": "Fier",
+        "name": "Berat",
         "postal": "04",
         "type": "Qark|Region",
         "type_en": "County"
     },
     "05": {
         "alt_names": [
-            "Gjirokast\u00ebr"
+            "Berat"
         ],
         "cca2": "AL",
         "cca3": "ALB",
@@ -684,24 +684,24 @@
             "woe_name": "Gjirokast\u00ebr"
         },
         "geo": {
-            "latitude": 40.0672874,
-            "longitude": 20.1045229,
-            "max_latitude": 40.1064699,
-            "max_longitude": 20.1654482,
-            "min_latitude": 40.0330693,
-            "min_longitude": 20.0553703
+            "latitude": 40.7086377,
+            "longitude": 19.9437314,
+            "max_latitude": 40.7306085,
+            "max_longitude": 19.9808693,
+            "min_latitude": 40.6923532,
+            "min_longitude": 19.9287128
         },
         "iso_3166_2": "AL-05",
         "iso_a2": "AL",
         "iso_a3": "ALB",
-        "name": "Gjirokast\u00ebr",
+        "name": "Berat",
         "postal": "05",
         "type": "Qark|Region",
         "type_en": "County"
     },
     "06": {
         "alt_names": [
-            "Kor\u00e7\u00eb"
+            "Berat"
         ],
         "cca2": "AL",
         "cca3": "ALB",
@@ -824,24 +824,24 @@
             "woe_name": "Kor\u00e7\u00eb"
         },
         "geo": {
-            "latitude": 40.6140785,
-            "longitude": 20.7778071,
-            "max_latitude": 40.6366389,
-            "max_longitude": 20.7976342,
-            "min_latitude": 40.5985741,
-            "min_longitude": 20.762229
+            "latitude": 40.7086377,
+            "longitude": 19.9437314,
+            "max_latitude": 40.7306085,
+            "max_longitude": 19.9808693,
+            "min_latitude": 40.6923532,
+            "min_longitude": 19.9287128
         },
         "iso_3166_2": "AL-06",
         "iso_a2": "AL",
         "iso_a3": "ALB",
-        "name": "Kor\u00e7\u00eb",
+        "name": "Berat",
         "postal": "06",
         "type": "Qark|Region",
         "type_en": "County"
     },
     "07": {
         "alt_names": [
-            "Kuk\u00ebs"
+            "Berat"
         ],
         "cca2": "AL",
         "cca3": "ALB",
@@ -964,24 +964,24 @@
             "woe_name": "Kuk\u00ebs"
         },
         "geo": {
-            "latitude": 42.076667,
-            "longitude": 20.421667,
-            "max_latitude": 42.1007892,
-            "max_longitude": 20.4430247,
-            "min_latitude": 42.0344725,
-            "min_longitude": 20.3917409
+            "latitude": 40.7086377,
+            "longitude": 19.9437314,
+            "max_latitude": 40.7306085,
+            "max_longitude": 19.9808693,
+            "min_latitude": 40.6923532,
+            "min_longitude": 19.9287128
         },
         "iso_3166_2": "AL-07",
         "iso_a2": "AL",
         "iso_a3": "ALB",
-        "name": "Kuk\u00ebs",
+        "name": "Berat",
         "postal": "07",
         "type": "Qark|Region",
         "type_en": "County"
     },
     "08": {
         "alt_names": [
-            "Lezh\u00eb"
+            "Berat"
         ],
         "cca2": "AL",
         "cca3": "ALB",
@@ -1104,24 +1104,24 @@
             "woe_name": "Lezh\u00eb"
         },
         "geo": {
-            "latitude": 41.786073,
-            "longitude": 19.6460758,
-            "max_latitude": 41.8086206,
-            "max_longitude": 19.6730233,
-            "min_latitude": 41.7682711,
-            "min_longitude": 19.6120548
+            "latitude": 40.7086377,
+            "longitude": 19.9437314,
+            "max_latitude": 40.7306085,
+            "max_longitude": 19.9808693,
+            "min_latitude": 40.6923532,
+            "min_longitude": 19.9287128
         },
         "iso_3166_2": "AL-08",
         "iso_a2": "AL",
         "iso_a3": "ALB",
-        "name": "Lezh\u00eb",
+        "name": "Berat",
         "postal": "08",
         "type": "Qark|Region",
         "type_en": "County"
     },
     "09": {
         "alt_names": [
-            "Dib\u00ebr"
+            "Berat"
         ],
         "cca2": "AL",
         "cca3": "ALB",
@@ -1244,24 +1244,24 @@
             "woe_name": "Dib\u00ebr"
         },
         "geo": {
-            "latitude": 41.5888163,
-            "longitude": 20.2355647,
-            "max_latitude": 41.899441,
-            "max_longitude": 20.583229,
-            "min_latitude": 41.26974,
-            "min_longitude": 19.778668
+            "latitude": 40.7086377,
+            "longitude": 19.9437314,
+            "max_latitude": 40.7306085,
+            "max_longitude": 19.9808693,
+            "min_latitude": 40.6923532,
+            "min_longitude": 19.9287128
         },
         "iso_3166_2": "AL-09",
         "iso_a2": "AL",
         "iso_a3": "ALB",
-        "name": "Dib\u00ebr",
+        "name": "Berat",
         "postal": "09",
         "type": "Qark|Region",
         "type_en": "County"
     },
     "10": {
         "alt_names": [
-            "Shkod\u00ebr"
+            "Berat"
         ],
         "cca2": "AL",
         "cca3": "ALB",
@@ -1384,26 +1384,24 @@
             "woe_name": "Shkod\u00ebr"
         },
         "geo": {
-            "latitude": 42.0692985,
-            "longitude": 19.5032559,
-            "max_latitude": 42.0965346,
-            "max_longitude": 19.537983,
-            "min_latitude": 42.0324324,
-            "min_longitude": 19.3796252
+            "latitude": 40.7086377,
+            "longitude": 19.9437314,
+            "max_latitude": 40.7306085,
+            "max_longitude": 19.9808693,
+            "min_latitude": 40.6923532,
+            "min_longitude": 19.9287128
         },
         "iso_3166_2": "AL-10",
         "iso_a2": "AL",
         "iso_a3": "ALB",
-        "name": "Shkod\u00ebr",
+        "name": "Berat",
         "postal": "10",
         "type": "Qark|Region",
         "type_en": "County"
     },
     "11": {
         "alt_names": [
-            "Tiran\u00eb",
-            "Tirana",
-            "Tirana"
+            "Berat"
         ],
         "cca2": "AL",
         "cca3": "ALB",
@@ -1526,24 +1524,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 41.3275459,
-            "longitude": 19.8186982,
-            "max_latitude": 41.3668411,
-            "max_longitude": 19.8820782,
-            "min_latitude": 41.2951233,
-            "min_longitude": 19.7535682
+            "latitude": 40.7086377,
+            "longitude": 19.9437314,
+            "max_latitude": 40.7306085,
+            "max_longitude": 19.9808693,
+            "min_latitude": 40.6923532,
+            "min_longitude": 19.9287128
         },
         "iso_3166_2": "AL-11",
         "iso_a2": "AL",
         "iso_a3": "ALB",
-        "name": "Tiran\u00eb",
+        "name": "Berat",
         "postal": "11",
         "type": "Qark|Region",
         "type_en": "County"
     },
     "12": {
         "alt_names": [
-            "Vlor\u00eb"
+            "Berat"
         ],
         "cca2": "AL",
         "cca3": "ALB",
@@ -1666,17 +1664,17 @@
             "woe_name": "Vlor\u00eb"
         },
         "geo": {
-            "latitude": 40.465,
-            "longitude": 19.485,
-            "max_latitude": 40.4912342,
-            "max_longitude": 19.5100021,
-            "min_latitude": 40.4103918,
-            "min_longitude": 19.4530106
+            "latitude": 40.7086377,
+            "longitude": 19.9437314,
+            "max_latitude": 40.7306085,
+            "max_longitude": 19.9808693,
+            "min_latitude": 40.6923532,
+            "min_longitude": 19.9287128
         },
         "iso_3166_2": "AL-12",
         "iso_a2": "AL",
         "iso_a3": "ALB",
-        "name": "Vlor\u00eb",
+        "name": "Berat",
         "postal": "12",
         "type": "Qark|Region",
         "type_en": "County"

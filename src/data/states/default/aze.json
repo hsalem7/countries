@@ -1,7 +1,7 @@
 {
     "ABS": {
         "alt_names": [
-            "Abseron"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -124,24 +124,24 @@
             "woe_name": "Ab\u015feron"
         },
         "geo": {
-            "latitude": 40.3629693,
-            "longitude": 49.2736815,
-            "max_latitude": 40.638273,
-            "max_longitude": 49.908777,
-            "min_latitude": 39.9478741,
-            "min_longitude": 48.843646
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-ABS",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Abseron",
+        "name": "\u00c4li Bayramli",
         "postal": "ABS",
         "type": "Rayon",
         "type_en": "District"
     },
     "AGA": {
         "alt_names": [
-            "Agstafa"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -264,24 +264,24 @@
             "woe_name": "A\u011fstafa"
         },
         "geo": {
-            "latitude": 41.118889,
-            "longitude": 45.453889,
-            "max_latitude": 41.1373284,
-            "max_longitude": 45.48357,
-            "min_latitude": 41.09837,
-            "min_longitude": 45.4031037
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-AGA",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Agstafa",
+        "name": "\u00c4li Bayramli",
         "postal": "AGA",
         "type": "Rayon",
         "type_en": "District"
     },
     "AGC": {
         "alt_names": [
-            "Agcab\u00e4di"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -404,24 +404,24 @@
             "woe_name": "Agcabadi"
         },
         "geo": {
-            "latitude": 40.0257239,
-            "longitude": 47.3290937,
-            "max_latitude": 40.248541,
-            "max_longitude": 47.735411,
-            "min_latitude": 39.702849,
-            "min_longitude": 47.0597249
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-AGC",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Agcab\u00e4di",
+        "name": "\u00c4li Bayramli",
         "postal": "AGC",
         "type": "Rayon",
         "type_en": "District"
     },
     "AGM": {
         "alt_names": [
-            "Agdam"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -544,24 +544,24 @@
             "woe_name": "A\u011fdam"
         },
         "geo": {
-            "latitude": 39.5554533,
-            "longitude": 46.9507608,
-            "max_latitude": 39.5579602,
-            "max_longitude": 46.9538499,
-            "min_latitude": 39.5526992,
-            "min_longitude": 46.9491719
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-AGM",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Agdam",
+        "name": "\u00c4li Bayramli",
         "postal": "AGM",
         "type": "Rayon",
         "type_en": "District"
     },
     "AGS": {
         "alt_names": [
-            "Agdas"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -684,24 +684,24 @@
             "woe_name": "Agdas"
         },
         "geo": {
-            "latitude": 40.6335427,
-            "longitude": 47.467431,
-            "max_latitude": 40.6659586,
-            "max_longitude": 47.5069858,
-            "min_latitude": 40.6229434,
-            "min_longitude": 47.4376344
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-AGS",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Agdas",
+        "name": "\u00c4li Bayramli",
         "postal": "AGS",
         "type": "Rayon",
         "type_en": "District"
     },
     "AGU": {
         "alt_names": [
-            "Agsu"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -824,24 +824,24 @@
             "woe_name": "Agsu"
         },
         "geo": {
-            "latitude": 40.569167,
-            "longitude": 48.400833,
-            "max_latitude": 40.587429,
-            "max_longitude": 48.4195375,
-            "min_latitude": 40.553135,
-            "min_longitude": 48.3700133
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-AGU",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Agsu",
+        "name": "\u00c4li Bayramli",
         "postal": "AGU",
         "type": "Rayon",
         "type_en": "District"
     },
     "AST": {
         "alt_names": [
-            "Astara"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -964,24 +964,24 @@
             "woe_name": "Astara"
         },
         "geo": {
-            "latitude": 38.456111,
-            "longitude": 48.878611,
-            "max_latitude": 38.4936713,
-            "max_longitude": 48.8811778,
-            "min_latitude": 38.4422285,
-            "min_longitude": 48.8535404
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-AST",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Astara",
+        "name": "\u00c4li Bayramli",
         "postal": "AST",
         "type": "Rayon",
         "type_en": "District"
     },
     "BA": {
         "alt_names": [
-            "Baki"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -1104,24 +1104,24 @@
             "woe_name": "Bak\u0131"
         },
         "geo": {
-            "latitude": 40.4092617,
-            "longitude": 49.8670924,
-            "max_latitude": 40.486602,
-            "max_longitude": 50.0561143,
-            "min_latitude": 40.3039993,
-            "min_longitude": 49.6538049
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-BA",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Baki",
+        "name": "\u00c4li Bayramli",
         "postal": "BA",
         "type": "Sahar",
         "type_en": "Municipality"
     },
     "BAB": {
         "alt_names": [
-            "Bab\u00e4k"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -1244,24 +1244,24 @@
             "woe_name": "Babek"
         },
         "geo": {
-            "latitude": 39.1507613,
-            "longitude": 45.4485368,
-            "max_latitude": 39.1675349,
-            "max_longitude": 45.4682923,
-            "min_latitude": 39.1335888,
-            "min_longitude": 45.4309559
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-BAB",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Bab\u00e4k",
+        "name": "\u00c4li Bayramli",
         "postal": "BAB",
         "type": "Rayon",
         "type_en": "District"
     },
     "BAL": {
         "alt_names": [
-            "Balak\u00e4n"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -1384,24 +1384,24 @@
             "woe_name": "Balak\u0259n"
         },
         "geo": {
-            "latitude": 41.725833,
-            "longitude": 46.408333,
-            "max_latitude": 41.7560107,
-            "max_longitude": 46.4600659,
-            "min_latitude": 41.6622043,
-            "min_longitude": 46.3497733
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-BAL",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Balak\u00e4n",
+        "name": "\u00c4li Bayramli",
         "postal": "BAL",
         "type": "Rayon",
         "type_en": "District"
     },
     "BAR": {
         "alt_names": [
-            "B\u00e4rd\u00e4"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -1524,24 +1524,24 @@
             "woe_name": "B\u0259rd\u0259"
         },
         "geo": {
-            "latitude": 40.3667,
-            "longitude": 47.1167,
-            "max_latitude": 40.405915,
-            "max_longitude": 47.1718597,
-            "min_latitude": 40.3447124,
-            "min_longitude": 47.0922088
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-BAR",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "B\u00e4rd\u00e4",
+        "name": "\u00c4li Bayramli",
         "postal": "BAR",
         "type": "Rayon",
         "type_en": "District"
     },
     "BEY": {
         "alt_names": [
-            "Beyl\u00e4qan"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -1664,24 +1664,24 @@
             "woe_name": "Beylaqan"
         },
         "geo": {
-            "latitude": 39.766667,
-            "longitude": 47.616667,
-            "max_latitude": 39.7852244,
-            "max_longitude": 47.6407099,
-            "min_latitude": 39.7545479,
-            "min_longitude": 47.5836325
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-BEY",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Beyl\u00e4qan",
+        "name": "\u00c4li Bayramli",
         "postal": "BEY",
         "type": "Rayon",
         "type_en": "District"
     },
     "BIL": {
         "alt_names": [
-            "Bil\u00e4suvar"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -1804,24 +1804,24 @@
             "woe_name": "Bil\u0259suvar"
         },
         "geo": {
-            "latitude": 39.45,
-            "longitude": 48.533333,
-            "max_latitude": 39.4795993,
-            "max_longitude": 48.5670376,
-            "min_latitude": 39.4349998,
-            "min_longitude": 48.5262895
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-BIL",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Bil\u00e4suvar",
+        "name": "\u00c4li Bayramli",
         "postal": "BIL",
         "type": "Rayon",
         "type_en": "District"
     },
     "CAB": {
         "alt_names": [
-            "C\u00e4brayil"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -1944,24 +1944,24 @@
             "woe_name": "Cabrayil"
         },
         "geo": {
-            "latitude": 39.2645544,
-            "longitude": 46.9621561,
-            "max_latitude": 39.478561,
-            "max_longitude": 47.2765541,
-            "min_latitude": 39.132511,
-            "min_longitude": 46.692907
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-CAB",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "C\u00e4brayil",
+        "name": "\u00c4li Bayramli",
         "postal": "CAB",
         "type": "Rayon",
         "type_en": "District"
     },
     "CAL": {
         "alt_names": [
-            "C\u00e4lilabab"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -2084,24 +2084,24 @@
             "woe_name": "Calilabad"
         },
         "geo": {
-            "latitude": 39.218442,
-            "longitude": 48.4295146,
-            "max_latitude": 39.408813,
-            "max_longitude": 48.754075,
-            "min_latitude": 38.98947,
-            "min_longitude": 48.1295969
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-CAL",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "C\u00e4lilabab",
+        "name": "\u00c4li Bayramli",
         "postal": "CAL",
         "type": "Rayon",
         "type_en": "District"
     },
     "CUL": {
         "alt_names": [
-            "Culfa"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -2224,24 +2224,24 @@
             "woe_name": "Culfa"
         },
         "geo": {
-            "latitude": 38.955833,
-            "longitude": 45.630833,
-            "max_latitude": 38.9734231,
-            "max_longitude": 45.6617546,
-            "min_latitude": 38.9447447,
-            "min_longitude": 45.605641
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-CUL",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Culfa",
+        "name": "\u00c4li Bayramli",
         "postal": "CUL",
         "type": "Rayon",
         "type_en": "District"
     },
     "DAS": {
         "alt_names": [
-            "Dask\u00e4s\u00e4n"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -2364,24 +2364,24 @@
             "woe_name": "Daskasan"
         },
         "geo": {
-            "latitude": 40.5202257,
-            "longitude": 46.0779304,
-            "max_latitude": 40.5287404,
-            "max_longitude": 46.0910797,
-            "min_latitude": 40.5079263,
-            "min_longitude": 46.0622406
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-DAS",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Dask\u00e4s\u00e4n",
+        "name": "\u00c4li Bayramli",
         "postal": "DAS",
         "type": "Rayon",
         "type_en": "District"
     },
     "FUZ": {
         "alt_names": [
-            "F\u00fczuli"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -2504,24 +2504,24 @@
             "woe_name": "Fuzuli"
         },
         "geo": {
-            "latitude": 39.6003,
-            "longitude": 47.1431,
-            "max_latitude": 39.6252594,
-            "max_longitude": 47.1828459,
-            "min_latitude": 39.5692419,
-            "min_longitude": 47.1216489
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-FUZ",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "F\u00fczuli",
+        "name": "\u00c4li Bayramli",
         "postal": "FUZ",
         "type": "Rayon",
         "type_en": "District"
     },
     "GA": {
         "alt_names": [
-            "G\u00e4nc\u00e4"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -2644,24 +2644,24 @@
             "woe_name": "G\u0259nc\u0259"
         },
         "geo": {
-            "latitude": 40.682778,
-            "longitude": 46.360556,
-            "max_latitude": 40.7553196,
-            "max_longitude": 46.4393805,
-            "min_latitude": 40.6333659,
-            "min_longitude": 46.2979746
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-GA",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "G\u00e4nc\u00e4",
+        "name": "\u00c4li Bayramli",
         "postal": "GA",
         "type": "Sahar",
         "type_en": "Municipality"
     },
     "GAD": {
         "alt_names": [
-            "G\u00e4d\u00e4b\u00e4y"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -2784,24 +2784,24 @@
             "woe_name": "Gadabay"
         },
         "geo": {
-            "latitude": 40.5087904,
-            "longitude": 45.6728851,
-            "max_latitude": 40.821649,
-            "max_longitude": 45.915231,
-            "min_latitude": 40.319229,
-            "min_longitude": 45.3550831
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-GAD",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "G\u00e4d\u00e4b\u00e4y",
+        "name": "\u00c4li Bayramli",
         "postal": "GAD",
         "type": "Rayon",
         "type_en": "District"
     },
     "GOR": {
         "alt_names": [
-            "Goranboy"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -2924,24 +2924,24 @@
             "woe_name": "Goranboy"
         },
         "geo": {
-            "latitude": 40.610278,
-            "longitude": 46.789722,
-            "max_latitude": 40.6267217,
-            "max_longitude": 46.8130016,
-            "min_latitude": 40.5915353,
-            "min_longitude": 46.7551517
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-GOR",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Goranboy",
+        "name": "\u00c4li Bayramli",
         "postal": "GOR",
         "type": "Rayon",
         "type_en": "District"
     },
     "GOY": {
         "alt_names": [
-            "G\u00f6y\u00e7ay"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -3064,24 +3064,24 @@
             "woe_name": "G\u00f6y\u00e7ay"
         },
         "geo": {
-            "latitude": 40.6531,
-            "longitude": 47.7406,
-            "max_latitude": 40.6723061,
-            "max_longitude": 47.7857208,
-            "min_latitude": 40.5915353,
-            "min_longitude": 47.6744841
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-GOY",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "G\u00f6y\u00e7ay",
+        "name": "\u00c4li Bayramli",
         "postal": "GOY",
         "type": "Rayon",
         "type_en": "District"
     },
     "GYG": {
         "alt_names": [
-            "Xanlar"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -3204,24 +3204,24 @@
             "woe_name": "Xanlar"
         },
         "geo": {
-            "latitude": 40.5008523,
-            "longitude": 46.3454855,
-            "max_latitude": 40.841456,
-            "max_longitude": 46.51906,
-            "min_latitude": 40.274401,
-            "min_longitude": 46.0786468
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-GYG",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Xanlar",
+        "name": "\u00c4li Bayramli",
         "postal": "GYG",
         "type": "Rayon",
         "type_en": "District"
     },
     "HAC": {
         "alt_names": [
-            "Haciqabul"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -3344,24 +3344,24 @@
             "woe_name": "\u018fli Bayraml\u0131"
         },
         "geo": {
-            "latitude": 40.043333,
-            "longitude": 48.935556,
-            "max_latitude": 40.0635722,
-            "max_longitude": 48.959273,
-            "min_latitude": 40.006555,
-            "min_longitude": 48.8856411
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-HAC",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Haciqabul",
+        "name": "\u00c4li Bayramli",
         "postal": "HAC",
         "type": "Rayon",
         "type_en": "District"
     },
     "IMI": {
         "alt_names": [
-            "Imisli"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -3484,24 +3484,24 @@
             "woe_name": "Imisli"
         },
         "geo": {
-            "latitude": 39.8692,
-            "longitude": 48.06,
-            "max_latitude": 39.8917536,
-            "max_longitude": 48.1096519,
-            "min_latitude": 39.8378046,
-            "min_longitude": 48.0193521
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-IMI",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Imisli",
+        "name": "\u00c4li Bayramli",
         "postal": "IMI",
         "type": "Rayon",
         "type_en": "District"
     },
     "ISM": {
         "alt_names": [
-            "Ismayilli"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -3624,24 +3624,24 @@
             "woe_name": "\u0130smay\u0131ll\u0131"
         },
         "geo": {
-            "latitude": 40.79,
-            "longitude": 48.151944,
-            "max_latitude": 40.8119253,
-            "max_longitude": 48.2034588,
-            "min_latitude": 40.7646814,
-            "min_longitude": 48.1300735
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-ISM",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Ismayilli",
+        "name": "\u00c4li Bayramli",
         "postal": "ISM",
         "type": "Rayon",
         "type_en": "District"
     },
     "KAL": {
         "alt_names": [
-            "K\u00e4lb\u00e4c\u00e4r"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -3764,24 +3764,24 @@
             "woe_name": "K\u0259lb\u0259c\u0259r"
         },
         "geo": {
-            "latitude": 40.1315615,
-            "longitude": 46.1674645,
-            "max_latitude": 40.314337,
-            "max_longitude": 46.759549,
-            "min_latitude": 39.81311,
-            "min_longitude": 45.6090569
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-KAL",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "K\u00e4lb\u00e4c\u00e4r",
+        "name": "\u00c4li Bayramli",
         "postal": "KAL",
         "type": "Rayon",
         "type_en": "District"
     },
     "KAN": {
         "alt_names": [
-            ""
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -3904,20 +3904,24 @@
             "woe_name": "Sarur"
         },
         "geo": {
-            "latitude": "39.4039000000",
-            "longitude": "45.1447000000"
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-KAN",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Kangarli",
+        "name": "\u00c4li Bayramli",
         "postal": "KAN",
         "type": "Rayon",
         "type_en": "District"
     },
     "KUR": {
         "alt_names": [
-            "K\u00fcrd\u00e4mir"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -4040,24 +4044,24 @@
             "woe_name": "K\u00fcrd\u0259mir"
         },
         "geo": {
-            "latitude": 40.34,
-            "longitude": 48.16,
-            "max_latitude": 40.3976794,
-            "max_longitude": 48.2148742,
-            "min_latitude": 40.3172317,
-            "min_longitude": 48.120718
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-KUR",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "K\u00fcrd\u00e4mir",
+        "name": "\u00c4li Bayramli",
         "postal": "KUR",
         "type": "Rayon",
         "type_en": "District"
     },
     "LA": {
         "alt_names": [
-            "L\u00e4nk\u00e4ran City"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -4180,24 +4184,24 @@
             "woe_name": "Astara"
         },
         "geo": {
-            "latitude": 38.753611,
-            "longitude": 48.851111,
-            "max_latitude": 38.7975439,
-            "max_longitude": 48.8669301,
-            "min_latitude": 38.7321757,
-            "min_longitude": 48.8232207
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-LA",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "L\u00e4nk\u00e4ran City",
+        "name": "\u00c4li Bayramli",
         "postal": "LA",
         "type": "Sahari",
         "type_en": "Municipality"
     },
     "LAN": {
         "alt_names": [
-            "L\u00e4nk\u00e4ran"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -4320,24 +4324,24 @@
             "woe_name": "Lankaran"
         },
         "geo": {
-            "latitude": 38.753611,
-            "longitude": 48.851111,
-            "max_latitude": 38.7975439,
-            "max_longitude": 48.8669301,
-            "min_latitude": 38.7321757,
-            "min_longitude": 48.8232207
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-LAN",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "L\u00e4nk\u00e4ran",
+        "name": "\u00c4li Bayramli",
         "postal": "LAN",
         "type": "Rayon",
         "type_en": "District"
     },
     "LER": {
         "alt_names": [
-            "Lerik"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -4460,24 +4464,24 @@
             "woe_name": "Lerik"
         },
         "geo": {
-            "latitude": 38.7736192,
-            "longitude": 48.4151483,
-            "max_latitude": 38.786539,
-            "max_longitude": 48.4290648,
-            "min_latitude": 38.7643235,
-            "min_longitude": 48.3984231
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-LER",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Lerik",
+        "name": "\u00c4li Bayramli",
         "postal": "LER",
         "type": "Rayon",
         "type_en": "District"
     },
     "MAS": {
         "alt_names": [
-            "Masalli"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -4600,24 +4604,24 @@
             "woe_name": "Masall\u0131"
         },
         "geo": {
-            "latitude": 39.033333,
-            "longitude": 48.65,
-            "max_latitude": 39.0481191,
-            "max_longitude": 48.6902905,
-            "min_latitude": 39.0163495,
-            "min_longitude": 48.6470318
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-MAS",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Masalli",
+        "name": "\u00c4li Bayramli",
         "postal": "MAS",
         "type": "Rayon",
         "type_en": "District"
     },
     "MI": {
         "alt_names": [
-            "Ming\u00e4\u00e7evir"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -4740,24 +4744,24 @@
             "woe_name": "Ming\u0259\u00e7evir"
         },
         "geo": {
-            "latitude": 40.7702563,
-            "longitude": 47.0496015,
-            "max_latitude": 40.7958107,
-            "max_longitude": 47.1156406,
-            "min_latitude": 40.7309336,
-            "min_longitude": 46.9520472
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-MI",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Ming\u00e4\u00e7evir",
+        "name": "\u00c4li Bayramli",
         "postal": "MI",
         "type": "Sahar",
         "type_en": "Municipality"
     },
     "NA": {
         "alt_names": [
-            "Naftalan"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -4880,24 +4884,24 @@
             "woe_name": "Goranboy"
         },
         "geo": {
-            "latitude": 40.506667,
-            "longitude": 46.825,
-            "max_latitude": 40.5216943,
-            "max_longitude": 46.8460464,
-            "min_latitude": 40.4947426,
-            "min_longitude": 46.8092251
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-NA",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Naftalan",
+        "name": "\u00c4li Bayramli",
         "postal": "NA",
         "type": "Sahari",
         "type_en": "Municipality"
     },
     "NEF": {
         "alt_names": [
-            "Neft\u00e7ala"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -5020,24 +5024,24 @@
             "woe_name": "Neftcala"
         },
         "geo": {
-            "latitude": 39.358611,
-            "longitude": 49.246944,
-            "max_latitude": 39.4222045,
-            "max_longitude": 49.2725657,
-            "min_latitude": 39.3435909,
-            "min_longitude": 49.2190934
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-NEF",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Neft\u00e7ala",
+        "name": "\u00c4li Bayramli",
         "postal": "NEF",
         "type": "Rayon",
         "type_en": "District"
     },
     "NX": {
         "alt_names": [
-            "Nax\u00e7ivan"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -5160,24 +5164,24 @@
             "woe_name": "Naxcivan"
         },
         "geo": {
-            "latitude": 39.208889,
-            "longitude": 45.412222,
-            "max_latitude": 39.228264,
-            "max_longitude": 45.4377366,
-            "min_latitude": 39.1708288,
-            "min_longitude": 45.3697586
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-NX",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Nax\u00e7ivan",
+        "name": "\u00c4li Bayramli",
         "postal": "NX",
         "type": "Sahar",
         "type_en": "Municipality"
     },
     "OGU": {
         "alt_names": [
-            "Oguz"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -5300,24 +5304,24 @@
             "woe_name": "O\u011fuz"
         },
         "geo": {
-            "latitude": 41.070833,
-            "longitude": 47.458333,
-            "max_latitude": 41.0923544,
-            "max_longitude": 47.4782753,
-            "min_latitude": 41.0595502,
-            "min_longitude": 47.4506378
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-OGU",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Oguz",
+        "name": "\u00c4li Bayramli",
         "postal": "OGU",
         "type": "Rayon",
         "type_en": "District"
     },
     "ORD": {
         "alt_names": [
-            "Ordubad"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -5440,24 +5444,24 @@
             "woe_name": "Ordubad"
         },
         "geo": {
-            "latitude": 38.9,
-            "longitude": 46.033333,
-            "max_latitude": 38.9190856,
-            "max_longitude": 46.0360623,
-            "min_latitude": 38.8915673,
-            "min_longitude": 46.0086823
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-ORD",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Ordubad",
+        "name": "\u00c4li Bayramli",
         "postal": "ORD",
         "type": "Rayon",
         "type_en": "District"
     },
     "QAB": {
         "alt_names": [
-            "Q\u00e4b\u00e4l\u00e4"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -5580,24 +5584,24 @@
             "woe_name": "Q\u0259b\u0259l\u0259"
         },
         "geo": {
-            "latitude": 40.9981633,
-            "longitude": 47.8699826,
-            "max_latitude": 41.0042653,
-            "max_longitude": 47.8774202,
-            "min_latitude": 40.9477997,
-            "min_longitude": 47.8214693
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-QAB",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Q\u00e4b\u00e4l\u00e4",
+        "name": "\u00c4li Bayramli",
         "postal": "QAB",
         "type": "Rayon",
         "type_en": "District"
     },
     "QAX": {
         "alt_names": [
-            "Qax"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -5720,24 +5724,24 @@
             "woe_name": "Qax"
         },
         "geo": {
-            "latitude": 41.4225,
-            "longitude": 46.924167,
-            "max_latitude": 41.4429194,
-            "max_longitude": 46.9906713,
-            "min_latitude": 41.4077159,
-            "min_longitude": 46.8908501
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-QAX",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Qax",
+        "name": "\u00c4li Bayramli",
         "postal": "QAX",
         "type": "Rayon",
         "type_en": "District"
     },
     "QAZ": {
         "alt_names": [
-            "Qazax"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -5860,24 +5864,24 @@
             "woe_name": "Qazax"
         },
         "geo": {
-            "latitude": 41.093333,
-            "longitude": 45.366111,
-            "max_latitude": 41.1163487,
-            "max_longitude": 45.3892851,
-            "min_latitude": 41.0805481,
-            "min_longitude": 45.3229809
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-QAZ",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Qazax",
+        "name": "\u00c4li Bayramli",
         "postal": "QAZ",
         "type": "Rayon",
         "type_en": "District"
     },
     "QBA": {
         "alt_names": [
-            "Quba"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -6000,24 +6004,24 @@
             "woe_name": "Quba"
         },
         "geo": {
-            "latitude": 41.359722,
-            "longitude": 48.5125,
-            "max_latitude": 41.3764865,
-            "max_longitude": 48.557725,
-            "min_latitude": 41.3494949,
-            "min_longitude": 48.4612941
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-QBA",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Quba",
+        "name": "\u00c4li Bayramli",
         "postal": "QBA",
         "type": "Rayon",
         "type_en": "District"
     },
     "QBI": {
         "alt_names": [
-            "Qubadli"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -6140,24 +6144,24 @@
             "woe_name": "Qubadli"
         },
         "geo": {
-            "latitude": 39.2713996,
-            "longitude": 46.6354312,
-            "max_latitude": 39.489675,
-            "max_longitude": 46.829667,
-            "min_latitude": 39.120843,
-            "min_longitude": 46.3865889
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-QBI",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Qubadli",
+        "name": "\u00c4li Bayramli",
         "postal": "QBI",
         "type": "Rayon",
         "type_en": "District"
     },
     "QOB": {
         "alt_names": [
-            "Qobustan"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -6280,24 +6284,24 @@
             "woe_name": "Qobustan"
         },
         "geo": {
-            "latitude": 40.0877962,
-            "longitude": 49.4030219,
-            "max_latitude": 40.1079896,
-            "max_longitude": 49.433756,
-            "min_latitude": 40.0337922,
-            "min_longitude": 49.3876975
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-QOB",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Qobustan",
+        "name": "\u00c4li Bayramli",
         "postal": "QOB",
         "type": "Rayon",
         "type_en": "District"
     },
     "QUS": {
         "alt_names": [
-            "Qusar"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -6420,24 +6424,24 @@
             "woe_name": "Qusar"
         },
         "geo": {
-            "latitude": 41.426389,
-            "longitude": 48.435556,
-            "max_latitude": 41.4406353,
-            "max_longitude": 48.4615945,
-            "min_latitude": 41.4036923,
-            "min_longitude": 48.3841753
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-QUS",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Qusar",
+        "name": "\u00c4li Bayramli",
         "postal": "QUS",
         "type": "Rayon",
         "type_en": "District"
     },
     "SA": {
         "alt_names": [
-            "S\u00e4ki City"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -6560,24 +6564,24 @@
             "woe_name": "\u015e\u0259ki"
         },
         "geo": {
-            "latitude": 34.0489281,
-            "longitude": -111.0937311,
-            "max_latitude": 37.0042599,
-            "max_longitude": -109.0452231,
-            "min_latitude": 31.3321771,
-            "min_longitude": -114.8165909
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-SA",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "S\u00e4ki City",
+        "name": "\u00c4li Bayramli",
         "postal": "SA",
         "type": "Sahari",
         "type_en": "Municipality"
     },
     "SAB": {
         "alt_names": [
-            "Sabirabad"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -6700,24 +6704,24 @@
             "woe_name": "Sabirabad"
         },
         "geo": {
-            "latitude": 40.012778,
-            "longitude": 48.478889,
-            "max_latitude": 40.0227507,
-            "max_longitude": 48.5010339,
-            "min_latitude": 39.9682403,
-            "min_longitude": 48.4441281
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-SAB",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Sabirabad",
+        "name": "\u00c4li Bayramli",
         "postal": "SAB",
         "type": "Rayon",
         "type_en": "District"
     },
     "SAD": {
         "alt_names": [
-            "S\u00e4d\u00e4r\u00e4k"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -6840,24 +6844,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 39.7175,
-            "longitude": 44.876389,
-            "max_latitude": 39.7285114,
-            "max_longitude": 44.9173451,
-            "min_latitude": 39.6878368,
-            "min_longitude": 44.8534013
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-SAD",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "S\u00e4d\u00e4r\u00e4k",
+        "name": "\u00c4li Bayramli",
         "postal": "SAD",
         "type": "Rayon",
         "type_en": "District"
     },
     "SAH": {
         "alt_names": [
-            "Sahbuz"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -6980,24 +6984,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 39.407222,
-            "longitude": 45.573889,
-            "max_latitude": 39.4185908,
-            "max_longitude": 45.597639,
-            "min_latitude": 39.3931576,
-            "min_longitude": 45.5522345
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-SAH",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Sahbuz",
+        "name": "\u00c4li Bayramli",
         "postal": "SAH",
         "type": "Rayon",
         "type_en": "District"
     },
     "SAL": {
         "alt_names": [
-            "Salyan"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -7120,24 +7124,24 @@
             "woe_name": "Salyan"
         },
         "geo": {
-            "latitude": 39.595,
-            "longitude": 48.979167,
-            "max_latitude": 39.6451555,
-            "max_longitude": 49.0261459,
-            "min_latitude": 39.5387341,
-            "min_longitude": 48.9103604
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-SAL",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Salyan",
+        "name": "\u00c4li Bayramli",
         "postal": "SAL",
         "type": "Rayon",
         "type_en": "District"
     },
     "SAR": {
         "alt_names": [
-            "S\u00e4rur"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -7260,24 +7264,24 @@
             "woe_name": "Sarur"
         },
         "geo": {
-            "latitude": 39.5687523,
-            "longitude": 45.0823321,
-            "max_latitude": 39.785526,
-            "max_longitude": 45.2860981,
-            "min_latitude": 39.3825,
-            "min_longitude": 44.82024
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-SAR",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "S\u00e4rur",
+        "name": "\u00c4li Bayramli",
         "postal": "SAR",
         "type": "Rayon",
         "type_en": "District"
     },
     "SAT": {
         "alt_names": [
-            "Saatli"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -7400,24 +7404,24 @@
             "woe_name": "Saatli"
         },
         "geo": {
-            "latitude": 39.930833,
-            "longitude": 48.369444,
-            "max_latitude": 39.9668589,
-            "max_longitude": 48.4565735,
-            "min_latitude": 39.8768098,
-            "min_longitude": 48.2874871
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-SAT",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Saatli",
+        "name": "\u00c4li Bayramli",
         "postal": "SAT",
         "type": "Rayon",
         "type_en": "District"
     },
     "SBN": {
         "alt_names": [
-            "Davachi"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -7540,20 +7544,24 @@
             "woe_name": "D\u0259v\u0259\u00e7i"
         },
         "geo": {
-            "latitude": "41.1969000000",
-            "longitude": "48.9074000000"
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-SBN",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "D\u0259v\u0259\u00e7i",
+        "name": "\u00c4li Bayramli",
         "postal": "SBN",
         "type": "Rayon",
         "type_en": "District"
     },
     "SIY": {
         "alt_names": [
-            "Siy\u00e4z\u00e4n"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -7676,24 +7684,24 @@
             "woe_name": "Siy\u0259z\u0259n"
         },
         "geo": {
-            "latitude": 41.0783833,
-            "longitude": 49.1118478,
-            "max_latitude": 41.0988227,
-            "max_longitude": 49.1377259,
-            "min_latitude": 41.0619124,
-            "min_longitude": 49.0923215
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-SIY",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Siy\u00e4z\u00e4n",
+        "name": "\u00c4li Bayramli",
         "postal": "SIY",
         "type": "Rayon",
         "type_en": "District"
     },
     "SKR": {
         "alt_names": [
-            "S\u00e4mkir"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -7816,24 +7824,24 @@
             "woe_name": "\u015e\u0259mkir"
         },
         "geo": {
-            "latitude": 40.8812397,
-            "longitude": 46.0179009,
-            "max_latitude": 41.129959,
-            "max_longitude": 46.323192,
-            "min_latitude": 40.570687,
-            "min_longitude": 45.713568
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-SKR",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "S\u00e4mkir",
+        "name": "\u00c4li Bayramli",
         "postal": "SKR",
         "type": "Rayon",
         "type_en": "District"
     },
     "SM": {
         "alt_names": [
-            "Sumqayit"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -7956,24 +7964,24 @@
             "woe_name": "Sumqay\u0131t"
         },
         "geo": {
-            "latitude": 40.5854765,
-            "longitude": 49.6317411,
-            "max_latitude": 40.6572359,
-            "max_longitude": 49.7410298,
-            "min_latitude": 40.5001047,
-            "min_longitude": 49.5211315
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-SM",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Sumqayit",
+        "name": "\u00c4li Bayramli",
         "postal": "SM",
         "type": "Sahar",
         "type_en": "Municipality"
     },
     "SMI": {
         "alt_names": [
-            "Samaxi"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -8096,24 +8104,24 @@
             "woe_name": "\u015eamax\u0131"
         },
         "geo": {
-            "latitude": 40.6318731,
-            "longitude": 48.6363801,
-            "max_latitude": 40.6541736,
-            "max_longitude": 48.6714078,
-            "min_latitude": 40.6056446,
-            "min_longitude": 48.6082792
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-SMI",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Samaxi",
+        "name": "\u00c4li Bayramli",
         "postal": "SMI",
         "type": "Rayon",
         "type_en": "District"
     },
     "SMX": {
         "alt_names": [
-            "Samux"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -8236,24 +8244,24 @@
             "woe_name": "Samux"
         },
         "geo": {
-            "latitude": 40.765833,
-            "longitude": 46.408889,
-            "max_latitude": 40.7820362,
-            "max_longitude": 46.4237594,
-            "min_latitude": 40.747452,
-            "min_longitude": 46.3920022
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-SMX",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Samux",
+        "name": "\u00c4li Bayramli",
         "postal": "SMX",
         "type": "Rayon",
         "type_en": "District"
     },
     "SR": {
         "alt_names": [
-            ""
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -8376,20 +8384,24 @@
             "woe_name": "Sabirabad"
         },
         "geo": {
-            "latitude": "39.9474000000",
-            "longitude": "48.9257000000"
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-SR",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Shirvan",
+        "name": "\u00c4li Bayramli",
         "postal": "SR",
         "type": "Sahari",
         "type_en": "Municipality"
     },
     "SUS": {
         "alt_names": [
-            "Susa"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -8512,24 +8524,24 @@
             "woe_name": "\u015eu\u015fa"
         },
         "geo": {
-            "latitude": 39.7537438,
-            "longitude": 46.7464755,
-            "max_latitude": 39.7725926,
-            "max_longitude": 46.765623,
-            "min_latitude": 39.7456061,
-            "min_longitude": 46.7307758
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-SUS",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Susa",
+        "name": "\u00c4li Bayramli",
         "postal": "SUS",
         "type": "Rayon",
         "type_en": "District"
     },
     "TAR": {
         "alt_names": [
-            "T\u00e4rt\u00e4r"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -8652,24 +8664,24 @@
             "woe_name": "T\u0259rt\u0259r"
         },
         "geo": {
-            "latitude": 40.333333,
-            "longitude": 46.916667,
-            "max_latitude": 40.3576638,
-            "max_longitude": 46.968012,
-            "min_latitude": 40.3265895,
-            "min_longitude": 46.9110202
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-TAR",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "T\u00e4rt\u00e4r",
+        "name": "\u00c4li Bayramli",
         "postal": "TAR",
         "type": "Rayon",
         "type_en": "District"
     },
     "TOV": {
         "alt_names": [
-            "Tovuz"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -8792,24 +8804,24 @@
             "woe_name": "Tovuz"
         },
         "geo": {
-            "latitude": 40.9922,
-            "longitude": 45.6289,
-            "max_latitude": 41.0084997,
-            "max_longitude": 45.6436444,
-            "min_latitude": 40.9754255,
-            "min_longitude": 45.5907513
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-TOV",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Tovuz",
+        "name": "\u00c4li Bayramli",
         "postal": "TOV",
         "type": "Rayon",
         "type_en": "District"
     },
     "UCA": {
         "alt_names": [
-            "Ucar"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -8932,24 +8944,24 @@
             "woe_name": "Ucar"
         },
         "geo": {
-            "latitude": 40.518333,
-            "longitude": 47.654167,
-            "max_latitude": 40.5296863,
-            "max_longitude": 47.6742697,
-            "min_latitude": 40.4896513,
-            "min_longitude": 47.6283074
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-UCA",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Ucar",
+        "name": "\u00c4li Bayramli",
         "postal": "UCA",
         "type": "Rayon",
         "type_en": "District"
     },
     "X01~": {
         "alt_names": [
-            ""
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -9072,20 +9084,24 @@
             "woe_name": "\u015eu\u015fa"
         },
         "geo": {
-            "latitude": "39.7618000000",
-            "longitude": "46.7523000000"
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-X01~",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "\u015eu\u015fa",
+        "name": "\u00c4li Bayramli",
         "postal": "X01~",
         "type": "Sahari",
         "type_en": "Municipality"
     },
     "XA": {
         "alt_names": [
-            "Xank\u00e4ndi"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -9208,24 +9224,24 @@
             "woe_name": "Xankandi"
         },
         "geo": {
-            "latitude": 39.8196258,
-            "longitude": 46.7594431,
-            "max_latitude": 39.8520223,
-            "max_longitude": 46.7890549,
-            "min_latitude": 39.7995519,
-            "min_longitude": 46.7298317
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-XA",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Xank\u00e4ndi",
+        "name": "\u00c4li Bayramli",
         "postal": "XA",
         "type": "Rayon",
         "type_en": "District"
     },
     "XAC": {
         "alt_names": [
-            "Xa\u00e7maz"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -9348,24 +9364,24 @@
             "woe_name": "Xa\u00e7maz"
         },
         "geo": {
-            "latitude": 41.470833,
-            "longitude": 48.809722,
-            "max_latitude": 41.4863344,
-            "max_longitude": 48.8417817,
-            "min_latitude": 41.4395092,
-            "min_longitude": 48.774619
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-XAC",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Xa\u00e7maz",
+        "name": "\u00c4li Bayramli",
         "postal": "XAC",
         "type": "Rayon",
         "type_en": "District"
     },
     "XCI": {
         "alt_names": [
-            "Xocali"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -9488,24 +9504,24 @@
             "woe_name": "Xocal\u0131"
         },
         "geo": {
-            "latitude": 39.9132553,
-            "longitude": 46.794305,
-            "max_latitude": 39.9206634,
-            "max_longitude": 46.8147892,
-            "min_latitude": 39.9040514,
-            "min_longitude": 46.770262
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-XCI",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Xocali",
+        "name": "\u00c4li Bayramli",
         "postal": "XCI",
         "type": "Rayon",
         "type_en": "District"
     },
     "XIZ": {
         "alt_names": [
-            "Xizi"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -9628,24 +9644,24 @@
             "woe_name": "Xiz\u0131"
         },
         "geo": {
-            "latitude": 40.9,
-            "longitude": 49.066667,
-            "max_latitude": 40.9251219,
-            "max_longitude": 49.0894889,
-            "min_latitude": 40.8974897,
-            "min_longitude": 49.0516375
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-XIZ",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Xizi",
+        "name": "\u00c4li Bayramli",
         "postal": "XIZ",
         "type": "Rayon",
         "type_en": "District"
     },
     "XVD": {
         "alt_names": [
-            "Xocav\u00e4nd"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -9768,24 +9784,24 @@
             "woe_name": "Xocav\u0259nd"
         },
         "geo": {
-            "latitude": 39.7060287,
-            "longitude": 47.064533,
-            "max_latitude": 39.883672,
-            "max_longitude": 47.345414,
-            "min_latitude": 39.3751951,
-            "min_longitude": 46.6320609
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-XVD",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Xocav\u00e4nd",
+        "name": "\u00c4li Bayramli",
         "postal": "XVD",
         "type": "Rayon",
         "type_en": "District"
     },
     "YAR": {
         "alt_names": [
-            "Yardimli"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -9908,24 +9924,24 @@
             "woe_name": "Yardimli"
         },
         "geo": {
-            "latitude": 38.9058917,
-            "longitude": 48.2496127,
-            "max_latitude": 38.9156798,
-            "max_longitude": 48.2865858,
-            "min_latitude": 38.886824,
-            "min_longitude": 48.2148314
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-YAR",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Yardimli",
+        "name": "\u00c4li Bayramli",
         "postal": "YAR",
         "type": "Rayon",
         "type_en": "District"
     },
     "YEV": {
         "alt_names": [
-            "Yevlax"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -10048,24 +10064,24 @@
             "woe_name": "Yevlax"
         },
         "geo": {
-            "latitude": 40.617222,
-            "longitude": 47.15,
-            "max_latitude": 40.6331705,
-            "max_longitude": 47.1835326,
-            "min_latitude": 40.5830618,
-            "min_longitude": 47.1098042
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-YEV",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Yevlax",
+        "name": "\u00c4li Bayramli",
         "postal": "YEV",
         "type": "Sahari",
         "type_en": "Municipality"
     },
     "ZAN": {
         "alt_names": [
-            "Z\u00e4ngilan"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -10188,24 +10204,24 @@
             "woe_name": "Zangilan"
         },
         "geo": {
-            "latitude": 39.0318935,
-            "longitude": 46.6265379,
-            "max_latitude": 39.224588,
-            "max_longitude": 46.8760261,
-            "min_latitude": 38.872734,
-            "min_longitude": 46.438339
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-ZAN",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Z\u00e4ngilan",
+        "name": "\u00c4li Bayramli",
         "postal": "ZAN",
         "type": "Rayon",
         "type_en": "District"
     },
     "ZAQ": {
         "alt_names": [
-            "Zaqatala"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -10328,24 +10344,24 @@
             "woe_name": "Zaqatala"
         },
         "geo": {
-            "latitude": 41.633611,
-            "longitude": 46.643333,
-            "max_latitude": 41.6469735,
-            "max_longitude": 46.6757584,
-            "min_latitude": 41.5850192,
-            "min_longitude": 46.6077804
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-ZAQ",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Zaqatala",
+        "name": "\u00c4li Bayramli",
         "postal": "ZAQ",
         "type": "Rayon",
         "type_en": "District"
     },
     "ZAR": {
         "alt_names": [
-            "Z\u00e4rdab"
+            "\u00c4li Bayramli"
         ],
         "cca2": "AZ",
         "cca3": "AZE",
@@ -10468,17 +10484,17 @@
             "woe_name": "Zardab"
         },
         "geo": {
-            "latitude": 40.218333,
-            "longitude": 47.708333,
-            "max_latitude": 40.2448614,
-            "max_longitude": 47.7312183,
-            "min_latitude": 40.2012645,
-            "min_longitude": 47.6942681
+            "latitude": 39.931944,
+            "longitude": 48.920278,
+            "max_latitude": 39.983434,
+            "max_longitude": 48.9807415,
+            "min_latitude": 39.8688393,
+            "min_longitude": 48.867445
         },
         "iso_3166_2": "AZ-ZAR",
         "iso_a2": "AZ",
         "iso_a3": "AZE",
-        "name": "Z\u00e4rdab",
+        "name": "\u00c4li Bayramli",
         "postal": "ZAR",
         "type": "Rayon",
         "type_en": "District"

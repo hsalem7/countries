@@ -1,7 +1,7 @@
 {
     "AK": {
         "alt_names": [
-            ""
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -124,20 +124,24 @@
             "woe_name": "Acklins"
         },
         "geo": {
-            "latitude": "22.3745000000",
-            "longitude": "-74.0024000000"
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-AK",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "Acklins",
+        "name": "Acklins and Crooked Islands",
         "postal": "AK",
         "type": "Third Schedule District",
         "type_en": "District"
     },
     "BI": {
         "alt_names": [
-            "Bimini Islands"
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -260,24 +264,24 @@
             "woe_name": "Bimini"
         },
         "geo": {
-            "latitude": 25.7335838,
-            "longitude": -79.2730734,
-            "max_latitude": 25.7793547,
-            "max_longitude": -79.2407364,
-            "min_latitude": 23.5008488,
-            "min_longitude": -79.6230087
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-BI",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "Bimini",
+        "name": "Acklins and Crooked Islands",
         "postal": "BI",
         "type": "Third Schedule District",
         "type_en": "District"
     },
     "BP": {
         "alt_names": [
-            ""
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -400,20 +404,24 @@
             "woe_name": "Black Point"
         },
         "geo": {
-            "latitude": "24.0720000000",
-            "longitude": "-76.3623000000"
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-BP",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "Black Point",
+        "name": "Acklins and Crooked Islands",
         "postal": "BP",
         "type": "Third Schedule District",
         "type_en": "District"
     },
     "BY": {
         "alt_names": [
-            ""
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -536,20 +544,24 @@
             "woe_name": "Berry Islands"
         },
         "geo": {
-            "latitude": "25.7591000000",
-            "longitude": "-77.8527000000"
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-BY",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "Berry Islands",
+        "name": "Acklins and Crooked Islands",
         "postal": "BY",
         "type": "Third Schedule District",
         "type_en": "District"
     },
     "CE": {
         "alt_names": [
-            ""
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -672,20 +684,24 @@
             "woe_name": "Central Eleuthera"
         },
         "geo": {
-            "latitude": "25.1588000000",
-            "longitude": "-76.1760000000"
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-CE",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "Central Eleuthera",
+        "name": "Acklins and Crooked Islands",
         "postal": "CE",
         "type": "Second Schedule District",
         "type_en": "District"
     },
     "CI": {
         "alt_names": [
-            "Cat Island"
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -808,24 +824,24 @@
             "woe_name": "Cat Island"
         },
         "geo": {
-            "latitude": 24.213309,
-            "longitude": -75.3645369,
-            "max_latitude": 24.6962691,
-            "max_longitude": -75.2946861,
-            "min_latitude": 24.1143709,
-            "min_longitude": -75.972464
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-CI",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "Cat Island",
+        "name": "Acklins and Crooked Islands",
         "postal": "CI",
         "type": "Second Schedule District",
         "type_en": "District"
     },
     "CK": {
         "alt_names": [
-            ""
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -948,20 +964,24 @@
             "woe_name": "Crooked Island"
         },
         "geo": {
-            "latitude": "22.7472000000",
-            "longitude": "-74.2405000000"
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-CK",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "Crooked Island and Long Cay",
+        "name": "Acklins and Crooked Islands",
         "postal": "CK",
         "type": "Third Schedule District",
         "type_en": "District"
     },
     "CO": {
         "alt_names": [
-            ""
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -1084,20 +1104,24 @@
             "woe_name": "Central Abaco"
         },
         "geo": {
-            "latitude": "26.4215000000",
-            "longitude": "-77.1179000000"
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-CO",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "Central Abaco",
+        "name": "Acklins and Crooked Islands",
         "postal": "CO",
         "type": "Second Schedule District",
         "type_en": "District"
     },
     "CS": {
         "alt_names": [
-            ""
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -1220,20 +1244,24 @@
             "woe_name": "Central Andros"
         },
         "geo": {
-            "latitude": "24.4757000000",
-            "longitude": "-77.9355000000"
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-CS",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "Central Andros",
+        "name": "Acklins and Crooked Islands",
         "postal": "CS",
         "type": "Second Schedule District",
         "type_en": "District"
     },
     "EG": {
         "alt_names": [
-            ""
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -1356,20 +1384,24 @@
             "woe_name": "East Grand Bahama"
         },
         "geo": {
-            "latitude": "26.6596000000",
-            "longitude": "-78.2150000000"
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-EG",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "East Grand Bahama",
+        "name": "Acklins and Crooked Islands",
         "postal": "EG",
         "type": "Second Schedule District",
         "type_en": "District"
     },
     "EX": {
         "alt_names": [
-            "Exuma"
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -1492,24 +1524,24 @@
             "woe_name": "Exuma"
         },
         "geo": {
-            "latitude": 23.5333333,
-            "longitude": -75.8333333,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-EX",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "Exuma",
+        "name": "Acklins and Crooked Islands",
         "postal": "EX",
         "type": "Second Schedule District",
         "type_en": "District"
     },
     "FP": {
         "alt_names": [
-            "Freeport"
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -1632,24 +1664,24 @@
             "woe_name": "City of Freeport"
         },
         "geo": {
-            "latitude": 26.528472,
-            "longitude": -78.696583,
-            "max_latitude": 26.5800838,
-            "max_longitude": -78.5565997,
-            "min_latitude": 26.490017,
-            "min_longitude": -78.7320184
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-FP",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "Freeport",
+        "name": "Acklins and Crooked Islands",
         "postal": "FP",
         "type": "Third Schedule District",
         "type_en": "District"
     },
     "HI": {
         "alt_names": [
-            "Harbour Island"
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -1772,24 +1804,24 @@
             "woe_name": "Harbour Island"
         },
         "geo": {
-            "latitude": 25.5282318,
-            "longitude": -76.6358562,
-            "max_latitude": 25.5310964,
-            "max_longitude": -76.6342567,
-            "min_latitude": 25.5254889,
-            "min_longitude": -76.6370288
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-HI",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "Harbour Island",
+        "name": "Acklins and Crooked Islands",
         "postal": "HI",
         "type": "Third Schedule District",
         "type_en": "District"
     },
     "IN": {
         "alt_names": [
-            "Inagua"
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -1912,24 +1944,24 @@
             "woe_name": "Inagua"
         },
         "geo": {
-            "latitude": 21.0656066,
-            "longitude": -73.323708,
-            "max_latitude": 21.7022436,
-            "max_longitude": -72.913495,
-            "min_latitude": 20.9121311,
-            "min_longitude": -73.855476
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-IN",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "Inagua",
+        "name": "Acklins and Crooked Islands",
         "postal": "IN",
         "type": "Third Schedule District",
         "type_en": "District"
     },
     "LI": {
         "alt_names": [
-            "Long Island"
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -2052,24 +2084,24 @@
             "woe_name": "Long Island"
         },
         "geo": {
-            "latitude": 23.1764239,
-            "longitude": -75.0961549,
-            "max_latitude": 23.6859532,
-            "max_longitude": -74.8284346,
-            "min_latitude": 22.851203,
-            "min_longitude": -75.3465299
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-LI",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "Long Island",
+        "name": "Acklins and Crooked Islands",
         "postal": "LI",
         "type": "Second Schedule District",
         "type_en": "District"
     },
     "MC": {
         "alt_names": [
-            ""
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -2192,20 +2224,24 @@
             "woe_name": "Mangrove Cay"
         },
         "geo": {
-            "latitude": "24.0806000000",
-            "longitude": "-77.8018000000"
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-MC",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "Mangrove Cay",
+        "name": "Acklins and Crooked Islands",
         "postal": "MC",
         "type": "Third Schedule District",
         "type_en": "District"
     },
     "MG": {
         "alt_names": [
-            "Mayaguana"
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -2328,24 +2364,24 @@
             "woe_name": "Mayaguana"
         },
         "geo": {
-            "latitude": 22.4017714,
-            "longitude": -73.0641396,
-            "max_latitude": 22.456406,
-            "max_longitude": -72.712273,
-            "min_latitude": 22.28255,
-            "min_longitude": -73.1706329
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-MG",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "Mayaguana",
+        "name": "Acklins and Crooked Islands",
         "postal": "MG",
         "type": "Third Schedule District",
         "type_en": "District"
     },
     "MI": {
         "alt_names": [
-            ""
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -2468,20 +2504,24 @@
             "woe_name": "Moore's Island"
         },
         "geo": {
-            "latitude": "26.2973000000",
-            "longitude": "-77.5526000000"
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-MI",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "Moore's Island",
+        "name": "Acklins and Crooked Islands",
         "postal": "MI",
         "type": "Third Schedule District",
         "type_en": "District"
     },
     "NE": {
         "alt_names": [
-            ""
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -2604,20 +2644,24 @@
             "woe_name": "North Eleuthera"
         },
         "geo": {
-            "latitude": "25.4383000000",
-            "longitude": "-76.5900000000"
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-NE",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "North Eleuthera",
+        "name": "Acklins and Crooked Islands",
         "postal": "NE",
         "type": "Third Schedule District",
         "type_en": "District"
     },
     "NO": {
         "alt_names": [
-            ""
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -2740,20 +2784,24 @@
             "woe_name": "North Abaco"
         },
         "geo": {
-            "latitude": "26.8873000000",
-            "longitude": "-77.6354000000"
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-NO",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "North Abaco",
+        "name": "Acklins and Crooked Islands",
         "postal": "NO",
         "type": "Second Schedule District",
         "type_en": "District"
     },
     "NS": {
         "alt_names": [
-            ""
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -2876,20 +2924,24 @@
             "woe_name": "North Andros"
         },
         "geo": {
-            "latitude": "24.8276000000",
-            "longitude": "-77.9976000000"
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-NS",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "North Andros",
+        "name": "Acklins and Crooked Islands",
         "postal": "NS",
         "type": "Second Schedule District",
         "type_en": "District"
     },
     "RC": {
         "alt_names": [
-            ""
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -3012,20 +3064,24 @@
             "woe_name": "Rum Cay"
         },
         "geo": {
-            "latitude": "23.6787000000",
-            "longitude": "-74.8408000000"
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-RC",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "Rum Cay",
+        "name": "Acklins and Crooked Islands",
         "postal": "RC",
         "type": "Third Schedule District",
         "type_en": "District"
     },
     "RI": {
         "alt_names": [
-            "Ragged Island"
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -3148,24 +3204,24 @@
             "woe_name": "Ragged Island"
         },
         "geo": {
-            "latitude": 22.1908067,
-            "longitude": -75.7342416,
-            "max_latitude": 22.2313761,
-            "max_longitude": -75.7100789,
-            "min_latitude": 22.169658,
-            "min_longitude": -75.7536111
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-RI",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "Ragged Island",
+        "name": "Acklins and Crooked Islands",
         "postal": "RI",
         "type": "Third Schedule District",
         "type_en": "District"
     },
     "SA": {
         "alt_names": [
-            ""
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -3288,20 +3344,24 @@
             "woe_name": "South Andros"
         },
         "geo": {
-            "latitude": "23.7822000000",
-            "longitude": "-77.6043000000"
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-SA",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "South Andros",
+        "name": "Acklins and Crooked Islands",
         "postal": "SA",
         "type": "Second Schedule District",
         "type_en": "District"
     },
     "SE": {
         "alt_names": [
-            ""
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -3424,20 +3484,24 @@
             "woe_name": "South Eleuthera"
         },
         "geo": {
-            "latitude": "24.7344000000",
-            "longitude": "-76.1967000000"
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-SE",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "South Eleuthera",
+        "name": "Acklins and Crooked Islands",
         "postal": "SE",
         "type": "Second Schedule District",
         "type_en": "District"
     },
     "SO": {
         "alt_names": [
-            ""
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -3560,20 +3624,24 @@
             "woe_name": "South Abaco"
         },
         "geo": {
-            "latitude": "26.0179000000",
-            "longitude": "-77.2421000000"
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-SO",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "South Abaco",
+        "name": "Acklins and Crooked Islands",
         "postal": "SO",
         "type": "Second Schedule District",
         "type_en": "District"
     },
     "SS": {
         "alt_names": [
-            ""
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -3696,20 +3764,24 @@
             "woe_name": "San Salvador"
         },
         "geo": {
-            "latitude": "24.0513000000",
-            "longitude": "-74.4785000000"
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-SS",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "San Salvador",
+        "name": "Acklins and Crooked Islands",
         "postal": "SS",
         "type": "Third Schedule District",
         "type_en": "District"
     },
     "SW": {
         "alt_names": [
-            ""
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -3832,20 +3904,24 @@
             "woe_name": "Spanish Wells"
         },
         "geo": {
-            "latitude": "25.5237000000",
-            "longitude": "-76.8334000000"
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-SW",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "Spanish Wells",
+        "name": "Acklins and Crooked Islands",
         "postal": "SW",
         "type": "Third Schedule District",
         "type_en": "District"
     },
     "WG": {
         "alt_names": [
-            ""
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -3968,20 +4044,24 @@
             "woe_name": "West Grand Bahama"
         },
         "geo": {
-            "latitude": "26.6389000000",
-            "longitude": "-78.9085000000"
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-WG",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "West Grand Bahama",
+        "name": "Acklins and Crooked Islands",
         "postal": "WG",
         "type": "Second Schedule District",
         "type_en": "District"
     },
     "X01~": {
         "alt_names": [
-            "New Providence"
+            "Acklins and Crooked Islands"
         ],
         "cca2": "BS",
         "cca3": "BHS",
@@ -4104,17 +4184,17 @@
             "woe_name": "New Providence"
         },
         "geo": {
-            "latitude": 25.0479835,
-            "longitude": -77.355413,
-            "max_latitude": 25.1255011,
-            "max_longitude": -77.0867225,
-            "min_latitude": 24.9789675,
-            "min_longitude": -77.5558709
+            "latitude": 22.6390982,
+            "longitude": -74.006509,
+            "max_latitude": 22.8505193,
+            "max_longitude": -73.8329314,
+            "min_latitude": 22.1641645,
+            "min_longitude": -74.3925476
         },
         "iso_3166_2": "BS-X01~",
         "iso_a2": "BS",
         "iso_a3": "BHS",
-        "name": "New Providence",
+        "name": "Acklins and Crooked Islands",
         "postal": "X01~",
         "type": "First Schedule District",
         "type_en": "Capital"

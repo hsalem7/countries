@@ -1,7 +1,7 @@
 {
     "BQ1": {
         "alt_names": [
-            ""
+            "Drenthe"
         ],
         "cca2": "NL",
         "cca3": "NLD",
@@ -124,20 +124,24 @@
             "woe_name": "Bonaire"
         },
         "geo": {
-            "latitude": "12.2314000000",
-            "longitude": "-68.3029000000"
+            "latitude": 52.9476012,
+            "longitude": 6.6230586,
+            "max_latitude": 53.2037415,
+            "max_longitude": 7.0929356,
+            "min_latitude": 52.6121857,
+            "min_longitude": 6.1198503
         },
         "iso_3166_2": "NL-BQ1",
         "iso_a2": "NL",
         "iso_a3": "NLD",
-        "name": "Bonaire",
+        "name": "Drenthe",
         "postal": "BQ1",
         "type": "Bijzondere Gemeenten",
         "type_en": "Special Municipality"
     },
     "BQ2": {
         "alt_names": [
-            ""
+            "Drenthe"
         ],
         "cca2": "NL",
         "cca3": "NLD",
@@ -260,20 +264,24 @@
             "woe_name": "Saba"
         },
         "geo": {
-            "latitude": "17.6325000000",
-            "longitude": "-63.2371000000"
+            "latitude": 52.9476012,
+            "longitude": 6.6230586,
+            "max_latitude": 53.2037415,
+            "max_longitude": 7.0929356,
+            "min_latitude": 52.6121857,
+            "min_longitude": 6.1198503
         },
         "iso_3166_2": "NL-BQ2",
         "iso_a2": "NL",
         "iso_a3": "NLD",
-        "name": "Saba",
+        "name": "Drenthe",
         "postal": "BQ2",
         "type": "Bijzondere Gemeenten",
         "type_en": "Special Municipality"
     },
     "BQ3": {
         "alt_names": [
-            ""
+            "Drenthe"
         ],
         "cca2": "NL",
         "cca3": "NLD",
@@ -396,13 +404,17 @@
             "woe_name": "St. Eustatius"
         },
         "geo": {
-            "latitude": "17.4852000000",
-            "longitude": "-62.9719000000"
+            "latitude": 52.9476012,
+            "longitude": 6.6230586,
+            "max_latitude": 53.2037415,
+            "max_longitude": 7.0929356,
+            "min_latitude": 52.6121857,
+            "min_longitude": 6.1198503
         },
         "iso_3166_2": "NL-BQ3",
         "iso_a2": "NL",
         "iso_a3": "NLD",
-        "name": "St. Eustatius",
+        "name": "Drenthe",
         "postal": "BQ3",
         "type": "Bijzondere Gemeenten",
         "type_en": "Special Municipality"
@@ -549,7 +561,7 @@
     },
     "FL": {
         "alt_names": [
-            "Flevoland"
+            "Drenthe"
         ],
         "cca2": "NL",
         "cca3": "NLD",
@@ -672,24 +684,24 @@
             "woe_name": "Flevoland"
         },
         "geo": {
-            "latitude": 52.5279781,
-            "longitude": 5.5953508,
-            "max_latitude": 52.8440468,
-            "max_longitude": 6.0116671,
-            "min_latitude": 52.2526254,
-            "min_longitude": 5.1221244
+            "latitude": 52.9476012,
+            "longitude": 6.6230586,
+            "max_latitude": 53.2037415,
+            "max_longitude": 7.0929356,
+            "min_latitude": 52.6121857,
+            "min_longitude": 6.1198503
         },
         "iso_3166_2": "NL-FL",
         "iso_a2": "NL",
         "iso_a3": "NLD",
-        "name": "Flevoland",
+        "name": "Drenthe",
         "postal": "FL",
         "type": "Provincie",
         "type_en": "Province"
     },
     "FR": {
         "alt_names": [
-            "Friesland"
+            "Drenthe"
         ],
         "cca2": "NL",
         "cca3": "NLD",
@@ -812,24 +824,24 @@
             "woe_name": "Friesland"
         },
         "geo": {
-            "latitude": 53.1641642,
-            "longitude": 5.7817542,
-            "max_latitude": 53.5145975,
-            "max_longitude": 6.4274762,
-            "min_latitude": 52.8006928,
-            "min_longitude": 4.8455655
+            "latitude": 52.9476012,
+            "longitude": 6.6230586,
+            "max_latitude": 53.2037415,
+            "max_longitude": 7.0929356,
+            "min_latitude": 52.6121857,
+            "min_longitude": 6.1198503
         },
         "iso_3166_2": "NL-FR",
         "iso_a2": "NL",
         "iso_a3": "NLD",
-        "name": "Friesland",
+        "name": "Drenthe",
         "postal": "FR",
         "type": "Provincie",
         "type_en": "Province"
     },
     "GE": {
         "alt_names": [
-            "Gueldre"
+            "Drenthe"
         ],
         "cca2": "NL",
         "cca3": "NLD",
@@ -952,25 +964,24 @@
             "woe_name": "Gelderland"
         },
         "geo": {
-            "latitude": 52.045155,
-            "longitude": 5.8718234,
-            "max_latitude": 52.5220087,
-            "max_longitude": 6.8330418,
-            "min_latitude": 51.7336076,
-            "min_longitude": 4.9938809
+            "latitude": 52.9476012,
+            "longitude": 6.6230586,
+            "max_latitude": 53.2037415,
+            "max_longitude": 7.0929356,
+            "min_latitude": 52.6121857,
+            "min_longitude": 6.1198503
         },
         "iso_3166_2": "NL-GE",
         "iso_a2": "NL",
         "iso_a3": "NLD",
-        "name": "Gelderland",
+        "name": "Drenthe",
         "postal": "GE",
         "type": "Provincie",
         "type_en": "Province"
     },
     "GR": {
         "alt_names": [
-            "Groningue",
-            "Groninga"
+            "Drenthe"
         ],
         "cca2": "NL",
         "cca3": "NLD",
@@ -1093,24 +1104,24 @@
             "woe_name": "Groningen"
         },
         "geo": {
-            "latitude": 53.2193835,
-            "longitude": 6.5665018,
-            "max_latitude": 53.2647259,
-            "max_longitude": 6.6669044,
-            "min_latitude": 53.1786842,
-            "min_longitude": 6.4625995
+            "latitude": 52.9476012,
+            "longitude": 6.6230586,
+            "max_latitude": 53.2037415,
+            "max_longitude": 7.0929356,
+            "min_latitude": 52.6121857,
+            "min_longitude": 6.1198503
         },
         "iso_3166_2": "NL-GR",
         "iso_a2": "NL",
         "iso_a3": "NLD",
-        "name": "Groningen",
+        "name": "Drenthe",
         "postal": "GR",
         "type": "Provincie",
         "type_en": "Province"
     },
     "LI": {
         "alt_names": [
-            "Limburg"
+            "Drenthe"
         ],
         "cca2": "NL",
         "cca3": "NLD",
@@ -1233,24 +1244,24 @@
             "woe_name": "Limburg"
         },
         "geo": {
-            "latitude": 51.4427238,
-            "longitude": 6.0608726,
-            "max_latitude": 51.778577,
-            "max_longitude": 6.2268014,
-            "min_latitude": 50.7503838,
-            "min_longitude": 5.5660666
+            "latitude": 52.9476012,
+            "longitude": 6.6230586,
+            "max_latitude": 53.2037415,
+            "max_longitude": 7.0929356,
+            "min_latitude": 52.6121857,
+            "min_longitude": 6.1198503
         },
         "iso_3166_2": "NL-LI",
         "iso_a2": "NL",
         "iso_a3": "NLD",
-        "name": "Limburg",
+        "name": "Drenthe",
         "postal": "LI",
         "type": "Provincie",
         "type_en": "Province"
     },
     "NB": {
         "alt_names": [
-            "Noord-Brabant"
+            "Drenthe"
         ],
         "cca2": "NL",
         "cca3": "NLD",
@@ -1373,24 +1384,24 @@
             "woe_name": "Noord-Brabant"
         },
         "geo": {
-            "latitude": 51.4826537,
-            "longitude": 5.2321687,
-            "max_latitude": 51.8307142,
-            "max_longitude": 6.047724,
-            "min_latitude": 51.2209373,
-            "min_longitude": 4.190081
+            "latitude": 52.9476012,
+            "longitude": 6.6230586,
+            "max_latitude": 53.2037415,
+            "max_longitude": 7.0929356,
+            "min_latitude": 52.6121857,
+            "min_longitude": 6.1198503
         },
         "iso_3166_2": "NL-NB",
         "iso_a2": "NL",
         "iso_a3": "NLD",
-        "name": "Noord-Brabant",
+        "name": "Drenthe",
         "postal": "NB",
         "type": "Provincie",
         "type_en": "Province"
     },
     "NH": {
         "alt_names": [
-            "Noord-Holland"
+            "Drenthe"
         ],
         "cca2": "NL",
         "cca3": "NLD",
@@ -1513,24 +1524,24 @@
             "woe_name": "Noord-Holland"
         },
         "geo": {
-            "latitude": 52.5205869,
-            "longitude": 4.788474,
-            "max_latitude": 53.1833322,
-            "max_longitude": 5.32828,
-            "min_latitude": 52.1657716,
-            "min_longitude": 4.4937415
+            "latitude": 52.9476012,
+            "longitude": 6.6230586,
+            "max_latitude": 53.2037415,
+            "max_longitude": 7.0929356,
+            "min_latitude": 52.6121857,
+            "min_longitude": 6.1198503
         },
         "iso_3166_2": "NL-NH",
         "iso_a2": "NL",
         "iso_a3": "NLD",
-        "name": "Noord-Holland",
+        "name": "Drenthe",
         "postal": "NH",
         "type": "Provincie",
         "type_en": "Province"
     },
     "OV": {
         "alt_names": [
-            "Overijssel"
+            "Drenthe"
         ],
         "cca2": "NL",
         "cca3": "NLD",
@@ -1653,24 +1664,24 @@
             "woe_name": "Overijssel"
         },
         "geo": {
-            "latitude": 52.4387814,
-            "longitude": 6.5016411,
-            "max_latitude": 52.8542349,
-            "max_longitude": 7.0727632,
-            "min_latitude": 52.118023,
-            "min_longitude": 5.7778252
+            "latitude": 52.9476012,
+            "longitude": 6.6230586,
+            "max_latitude": 53.2037415,
+            "max_longitude": 7.0929356,
+            "min_latitude": 52.6121857,
+            "min_longitude": 6.1198503
         },
         "iso_3166_2": "NL-OV",
         "iso_a2": "NL",
         "iso_a3": "NLD",
-        "name": "Overijssel",
+        "name": "Drenthe",
         "postal": "OV",
         "type": "Provincie",
         "type_en": "Province"
     },
     "UT": {
         "alt_names": [
-            "Utrecht"
+            "Drenthe"
         ],
         "cca2": "NL",
         "cca3": "NLD",
@@ -1793,24 +1804,24 @@
             "woe_name": "Utrecht"
         },
         "geo": {
-            "latitude": 52.0907374,
-            "longitude": 5.1214201,
-            "max_latitude": 52.1422624,
-            "max_longitude": 5.1952072,
-            "min_latitude": 52.0261111,
-            "min_longitude": 4.9697758
+            "latitude": 52.9476012,
+            "longitude": 6.6230586,
+            "max_latitude": 53.2037415,
+            "max_longitude": 7.0929356,
+            "min_latitude": 52.6121857,
+            "min_longitude": 6.1198503
         },
         "iso_3166_2": "NL-UT",
         "iso_a2": "NL",
         "iso_a3": "NLD",
-        "name": "Utrecht",
+        "name": "Drenthe",
         "postal": "UT",
         "type": "Provincie",
         "type_en": "Province"
     },
     "ZE": {
         "alt_names": [
-            "Zeeland"
+            "Drenthe"
         ],
         "cca2": "NL",
         "cca3": "NLD",
@@ -1933,24 +1944,24 @@
             "woe_name": "Zeeland"
         },
         "geo": {
-            "latitude": 51.4940309,
-            "longitude": 3.8496815,
-            "max_latitude": 51.758421,
-            "max_longitude": 4.279691,
-            "min_latitude": 51.2003318,
-            "min_longitude": 3.357962
+            "latitude": 52.9476012,
+            "longitude": 6.6230586,
+            "max_latitude": 53.2037415,
+            "max_longitude": 7.0929356,
+            "min_latitude": 52.6121857,
+            "min_longitude": 6.1198503
         },
         "iso_3166_2": "NL-ZE",
         "iso_a2": "NL",
         "iso_a3": "NLD",
-        "name": "Zeeland",
+        "name": "Drenthe",
         "postal": "ZE",
         "type": "Provincie",
         "type_en": "Province"
     },
     "ZH": {
         "alt_names": [
-            "Zuid-Holland"
+            "Drenthe"
         ],
         "cca2": "NL",
         "cca3": "NLD",
@@ -2073,17 +2084,17 @@
             "woe_name": "Zuid-Holland"
         },
         "geo": {
-            "latitude": 52.0207975,
-            "longitude": 4.4937836,
-            "max_latitude": 52.3282742,
-            "max_longitude": 5.1492625,
-            "min_latitude": 51.656067,
-            "min_longitude": 3.8393205
+            "latitude": 52.9476012,
+            "longitude": 6.6230586,
+            "max_latitude": 53.2037415,
+            "max_longitude": 7.0929356,
+            "min_latitude": 52.6121857,
+            "min_longitude": 6.1198503
         },
         "iso_3166_2": "NL-ZH",
         "iso_a2": "NL",
         "iso_a3": "NLD",
-        "name": "Zuid-Holland",
+        "name": "Drenthe",
         "postal": "ZH",
         "type": "Provincie",
         "type_en": "Province"

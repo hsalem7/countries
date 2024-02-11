@@ -141,7 +141,7 @@
     },
     "03": {
         "alt_names": [
-            "Encamp"
+            "Canillo"
         ],
         "cca2": "AD",
         "cca3": "AND",
@@ -264,24 +264,24 @@
             "woe_name": "Encamp"
         },
         "geo": {
-            "latitude": 42.5362652,
-            "longitude": 1.5830224,
-            "max_latitude": 42.5395096,
-            "max_longitude": 1.5901645,
-            "min_latitude": 42.5292109,
-            "min_longitude": 1.5711714
+            "latitude": 42.5666535,
+            "longitude": 1.5994581,
+            "max_latitude": 42.5679867,
+            "max_longitude": 1.6037142,
+            "min_latitude": 42.5650681,
+            "min_longitude": 1.596212
         },
         "iso_3166_2": "AD-03",
         "iso_a2": "AD",
         "iso_a3": "AND",
-        "name": "Encamp",
+        "name": "Canillo",
         "postal": "03",
         "type": "",
         "type_en": ""
     },
     "04": {
         "alt_names": [
-            "La Massana"
+            "Canillo"
         ],
         "cca2": "AD",
         "cca3": "AND",
@@ -404,24 +404,24 @@
             "woe_name": "Massana"
         },
         "geo": {
-            "latitude": 42.545625,
-            "longitude": 1.5147392,
-            "max_latitude": 42.5501711,
-            "max_longitude": 1.5204314,
-            "min_latitude": 42.5366981,
-            "min_longitude": 1.5084028
+            "latitude": 42.5666535,
+            "longitude": 1.5994581,
+            "max_latitude": 42.5679867,
+            "max_longitude": 1.6037142,
+            "min_latitude": 42.5650681,
+            "min_longitude": 1.596212
         },
         "iso_3166_2": "AD-04",
         "iso_a2": "AD",
         "iso_a3": "AND",
-        "name": "La Massana",
+        "name": "Canillo",
         "postal": "04",
         "type": "",
         "type_en": ""
     },
     "05": {
         "alt_names": [
-            "Ordino"
+            "Canillo"
         ],
         "cca2": "AD",
         "cca3": "AND",
@@ -544,24 +544,24 @@
             "woe_name": "Ordino"
         },
         "geo": {
-            "latitude": 42.5556547,
-            "longitude": 1.5330732,
-            "max_latitude": 42.5596833,
-            "max_longitude": 1.5374774,
-            "min_latitude": 42.552393,
-            "min_longitude": 1.531403
+            "latitude": 42.5666535,
+            "longitude": 1.5994581,
+            "max_latitude": 42.5679867,
+            "max_longitude": 1.6037142,
+            "min_latitude": 42.5650681,
+            "min_longitude": 1.596212
         },
         "iso_3166_2": "AD-05",
         "iso_a2": "AD",
         "iso_a3": "AND",
-        "name": "Ordino",
+        "name": "Canillo",
         "postal": "05",
         "type": "",
         "type_en": ""
     },
     "06": {
         "alt_names": [
-            "Saint Julia de Loria"
+            "Canillo"
         ],
         "cca2": "AD",
         "cca3": "AND",
@@ -684,25 +684,24 @@
             "woe_name": "Sant Juli\u00c3\u00a0 de L\u00c3\u00b2ria"
         },
         "geo": {
-            "latitude": 42.4657861,
-            "longitude": 1.4921277,
-            "max_latitude": 42.4727386,
-            "max_longitude": 1.4963642,
-            "min_latitude": 42.4613938,
-            "min_longitude": 1.4893715
+            "latitude": 42.5666535,
+            "longitude": 1.5994581,
+            "max_latitude": 42.5679867,
+            "max_longitude": 1.6037142,
+            "min_latitude": 42.5650681,
+            "min_longitude": 1.596212
         },
         "iso_3166_2": "AD-06",
         "iso_a2": "AD",
         "iso_a3": "AND",
-        "name": "Sant Juli\u00e0 de L\u00f2ria",
+        "name": "Canillo",
         "postal": "06",
         "type": "",
         "type_en": ""
     },
     "07": {
         "alt_names": [
-            "Andorra la Vieja",
-            "Andorre-la-Vieille"
+            "Canillo"
         ],
         "cca2": "AD",
         "cca3": "AND",
@@ -825,24 +824,24 @@
             "woe_name": "Andorra la Vella"
         },
         "geo": {
-            "latitude": 42.5063174,
-            "longitude": 1.5218355,
-            "max_latitude": 42.513564,
-            "max_longitude": 1.5353385,
-            "min_latitude": 42.4966062,
-            "min_longitude": 1.5053926
+            "latitude": 42.5666535,
+            "longitude": 1.5994581,
+            "max_latitude": 42.5679867,
+            "max_longitude": 1.6037142,
+            "min_latitude": 42.5650681,
+            "min_longitude": 1.596212
         },
         "iso_3166_2": "AD-07",
         "iso_a2": "AD",
         "iso_a3": "AND",
-        "name": "Andorra la Vella",
+        "name": "Canillo",
         "postal": "07",
         "type": "",
         "type_en": ""
     },
     "08": {
         "alt_names": [
-            "Les Escaldes"
+            "Canillo"
         ],
         "cca2": "AD",
         "cca3": "AND",
@@ -965,17 +964,17 @@
             "woe_name": "Escaldes-Engordany"
         },
         "geo": {
-            "latitude": 42.5100804,
-            "longitude": 1.5387862,
-            "max_latitude": 42.5168669,
-            "max_longitude": 1.5532685,
-            "min_latitude": 42.5067774,
-            "min_longitude": 1.5285531
+            "latitude": 42.5666535,
+            "longitude": 1.5994581,
+            "max_latitude": 42.5679867,
+            "max_longitude": 1.6037142,
+            "min_latitude": 42.5650681,
+            "min_longitude": 1.596212
         },
         "iso_3166_2": "AD-08",
         "iso_a2": "AD",
         "iso_a3": "AND",
-        "name": "Escaldes-Engordany",
+        "name": "Canillo",
         "postal": "08",
         "type": "",
         "type_en": ""

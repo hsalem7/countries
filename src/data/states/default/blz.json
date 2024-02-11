@@ -141,7 +141,7 @@
     },
     "CY": {
         "alt_names": [
-            "Cayo"
+            "Belize"
         ],
         "cca2": "BZ",
         "cca3": "BLZ",
@@ -264,24 +264,24 @@
             "woe_name": "Cayo"
         },
         "geo": {
-            "latitude": 17.0984445,
-            "longitude": -88.9413865,
-            "max_latitude": 17.5050549,
-            "max_longitude": -88.5508179,
-            "min_latitude": 16.4052541,
-            "min_longitude": -89.189365
+            "latitude": 17.5045661,
+            "longitude": -88.1962133,
+            "max_latitude": 17.5353682,
+            "max_longitude": -88.1807739,
+            "min_latitude": 17.4757965,
+            "min_longitude": -88.2457925
         },
         "iso_3166_2": "BZ-CY",
         "iso_a2": "BZ",
         "iso_a3": "BLZ",
-        "name": "Cayo",
+        "name": "Belize",
         "postal": "CY",
         "type": "District",
         "type_en": "District"
     },
     "CZL": {
         "alt_names": [
-            "Corozal"
+            "Belize"
         ],
         "cca2": "BZ",
         "cca3": "BLZ",
@@ -404,24 +404,24 @@
             "woe_name": "Corozal"
         },
         "geo": {
-            "latitude": 18.1349238,
-            "longitude": -88.2461183,
-            "max_latitude": 18.496557,
-            "max_longitude": -87.849937,
-            "min_latitude": 17.8932279,
-            "min_longitude": -88.5999529
+            "latitude": 17.5045661,
+            "longitude": -88.1962133,
+            "max_latitude": 17.5353682,
+            "max_longitude": -88.1807739,
+            "min_latitude": 17.4757965,
+            "min_longitude": -88.2457925
         },
         "iso_3166_2": "BZ-CZL",
         "iso_a2": "BZ",
         "iso_a3": "BLZ",
-        "name": "Corozal",
+        "name": "Belize",
         "postal": "CZL",
         "type": "District",
         "type_en": "District"
     },
     "OW": {
         "alt_names": [
-            "Orange Walk"
+            "Belize"
         ],
         "cca2": "BZ",
         "cca3": "BLZ",
@@ -544,24 +544,24 @@
             "woe_name": "Orange Walk"
         },
         "geo": {
-            "latitude": 17.760353,
-            "longitude": -88.864698,
-            "max_latitude": 18.2496241,
-            "max_longitude": -88.284456,
-            "min_latitude": 17.3420751,
-            "min_longitude": -89.146957
+            "latitude": 17.5045661,
+            "longitude": -88.1962133,
+            "max_latitude": 17.5353682,
+            "max_longitude": -88.1807739,
+            "min_latitude": 17.4757965,
+            "min_longitude": -88.2457925
         },
         "iso_3166_2": "BZ-OW",
         "iso_a2": "BZ",
         "iso_a3": "BLZ",
-        "name": "Orange Walk",
+        "name": "Belize",
         "postal": "OW",
         "type": "District",
         "type_en": "District"
     },
     "SC": {
         "alt_names": [
-            "Stann Creek"
+            "Belize"
         ],
         "cca2": "BZ",
         "cca3": "BLZ",
@@ -684,24 +684,24 @@
             "woe_name": "Stann Creek"
         },
         "geo": {
-            "latitude": 16.8116631,
-            "longitude": -88.4016041,
-            "max_latitude": 17.1271911,
-            "max_longitude": -88.0971759,
-            "min_latitude": 16.5113349,
-            "min_longitude": -88.774852
+            "latitude": 17.5045661,
+            "longitude": -88.1962133,
+            "max_latitude": 17.5353682,
+            "max_longitude": -88.1807739,
+            "min_latitude": 17.4757965,
+            "min_longitude": -88.2457925
         },
         "iso_3166_2": "BZ-SC",
         "iso_a2": "BZ",
         "iso_a3": "BLZ",
-        "name": "Stann Creek",
+        "name": "Belize",
         "postal": "SC",
         "type": "District",
         "type_en": "District"
     },
     "TOL": {
         "alt_names": [
-            "Toledo"
+            "Belize"
         ],
         "cca2": "BZ",
         "cca3": "BLZ",
@@ -824,17 +824,17 @@
             "woe_name": "Toledo"
         },
         "geo": {
-            "latitude": 16.2491923,
-            "longitude": -88.864698,
-            "max_latitude": 16.7002059,
-            "max_longitude": -88.1448751,
-            "min_latitude": 15.889429,
-            "min_longitude": -89.2248151
+            "latitude": 17.5045661,
+            "longitude": -88.1962133,
+            "max_latitude": 17.5353682,
+            "max_longitude": -88.1807739,
+            "min_latitude": 17.4757965,
+            "min_longitude": -88.2457925
         },
         "iso_3166_2": "BZ-TOL",
         "iso_a2": "BZ",
         "iso_a3": "BLZ",
-        "name": "Toledo",
+        "name": "Belize",
         "postal": "TOL",
         "type": "District",
         "type_en": "District"

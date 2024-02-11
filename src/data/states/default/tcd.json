@@ -141,7 +141,7 @@
     },
     "BG": {
         "alt_names": [
-            ""
+            "Batha"
         ],
         "cca2": "TD",
         "cca3": "TCD",
@@ -264,20 +264,24 @@
             "woe_name": "Kanem"
         },
         "geo": {
-            "latitude": "14.5304000000",
-            "longitude": "16.9496000000"
+            "latitude": 13.9371775,
+            "longitude": 18.4276047,
+            "max_latitude": 16.076306,
+            "max_longitude": 20.3562929,
+            "min_latitude": 12.1039549,
+            "min_longitude": 16.9447559
         },
         "iso_3166_2": "TD-BG",
         "iso_a2": "TD",
         "iso_a3": "TCD",
-        "name": "Barh El Gazel",
+        "name": "Batha",
         "postal": "BG",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "BO": {
         "alt_names": [
-            ""
+            "Batha"
         ],
         "cca2": "TD",
         "cca3": "TCD",
@@ -400,20 +404,24 @@
             "woe_name": "Bet"
         },
         "geo": {
-            "latitude": "18.8249000000",
-            "longitude": "19.4819000000"
+            "latitude": 13.9371775,
+            "longitude": 18.4276047,
+            "max_latitude": 16.076306,
+            "max_longitude": 20.3562929,
+            "min_latitude": 12.1039549,
+            "min_longitude": 16.9447559
         },
         "iso_3166_2": "TD-BO",
         "iso_a2": "TD",
         "iso_a3": "TCD",
-        "name": "Borkou",
+        "name": "Batha",
         "postal": "BO",
         "type": "Pr\u00e9fecture",
         "type_en": "Pr\u00e9fecture"
     },
     "CB": {
         "alt_names": [
-            "Chari-Baguirmi"
+            "Batha"
         ],
         "cca2": "TD",
         "cca3": "TCD",
@@ -536,24 +544,24 @@
             "woe_name": "Hadjer-Lamis"
         },
         "geo": {
-            "latitude": 11.2564207,
-            "longitude": 16.1580937,
-            "max_latitude": 12.379939,
-            "max_longitude": 17.506004,
-            "min_latitude": 9.802192,
-            "min_longitude": 14.8912919
+            "latitude": 13.9371775,
+            "longitude": 18.4276047,
+            "max_latitude": 16.076306,
+            "max_longitude": 20.3562929,
+            "min_latitude": 12.1039549,
+            "min_longitude": 16.9447559
         },
         "iso_3166_2": "TD-CB",
         "iso_a2": "TD",
         "iso_a3": "TCD",
-        "name": "Chari-Baguirmi",
+        "name": "Batha",
         "postal": "CB",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "GR": {
         "alt_names": [
-            "Gu\u00e9ra"
+            "Batha"
         ],
         "cca2": "TD",
         "cca3": "TCD",
@@ -676,24 +684,24 @@
             "woe_name": "Gu\u00e9ra"
         },
         "geo": {
-            "latitude": 11.1219015,
+            "latitude": 13.9371775,
             "longitude": 18.4276047,
-            "max_latitude": 12.990278,
-            "max_longitude": 20.192167,
-            "min_latitude": 9.8482861,
-            "min_longitude": 17.2903469
+            "max_latitude": 16.076306,
+            "max_longitude": 20.3562929,
+            "min_latitude": 12.1039549,
+            "min_longitude": 16.9447559
         },
         "iso_3166_2": "TD-GR",
         "iso_a2": "TD",
         "iso_a3": "TCD",
-        "name": "Gu\u00e9ra",
+        "name": "Batha",
         "postal": "GR",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "HL": {
         "alt_names": [
-            "Hadjer Lamis"
+            "Batha"
         ],
         "cca2": "TD",
         "cca3": "TCD",
@@ -816,24 +824,24 @@
             "woe_name": "Hadjer-Lamis"
         },
         "geo": {
-            "latitude": 12.4577273,
-            "longitude": 16.7234639,
-            "max_latitude": 13.3501059,
-            "max_longitude": 17.6553859,
-            "min_latitude": 11.4313499,
-            "min_longitude": 14.550512
+            "latitude": 13.9371775,
+            "longitude": 18.4276047,
+            "max_latitude": 16.076306,
+            "max_longitude": 20.3562929,
+            "min_latitude": 12.1039549,
+            "min_longitude": 16.9447559
         },
         "iso_3166_2": "TD-HL",
         "iso_a2": "TD",
         "iso_a3": "TCD",
-        "name": "Hadjer Lamis",
+        "name": "Batha",
         "postal": "HL",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "KA": {
         "alt_names": [
-            "Kanem"
+            "Batha"
         ],
         "cca2": "TD",
         "cca3": "TCD",
@@ -956,24 +964,24 @@
             "woe_name": "Kanem"
         },
         "geo": {
-            "latitude": 14.8781262,
-            "longitude": 15.4068079,
-            "max_latitude": 16.8978711,
-            "max_longitude": 16.7248479,
-            "min_latitude": 13.117372,
-            "min_longitude": 13.633162
+            "latitude": 13.9371775,
+            "longitude": 18.4276047,
+            "max_latitude": 16.076306,
+            "max_longitude": 20.3562929,
+            "min_latitude": 12.1039549,
+            "min_longitude": 16.9447559
         },
         "iso_3166_2": "TD-KA",
         "iso_a2": "TD",
         "iso_a3": "TCD",
-        "name": "Kanem",
+        "name": "Batha",
         "postal": "KA",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "LC": {
         "alt_names": [
-            "Lac"
+            "Batha"
         ],
         "cca2": "TD",
         "cca3": "TCD",
@@ -1096,24 +1104,24 @@
             "woe_name": "Lac"
         },
         "geo": {
-            "latitude": 13.6915377,
-            "longitude": 14.1001326,
-            "max_latitude": 14.5104809,
-            "max_longitude": 15.5492499,
-            "min_latitude": 12.9456311,
-            "min_longitude": 13.4734749
+            "latitude": 13.9371775,
+            "longitude": 18.4276047,
+            "max_latitude": 16.076306,
+            "max_longitude": 20.3562929,
+            "min_latitude": 12.1039549,
+            "min_longitude": 16.9447559
         },
         "iso_3166_2": "TD-LC",
         "iso_a2": "TD",
         "iso_a3": "TCD",
-        "name": "Lac",
+        "name": "Batha",
         "postal": "LC",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "LO": {
         "alt_names": [
-            "Logone-Occidental"
+            "Batha"
         ],
         "cca2": "TD",
         "cca3": "TCD",
@@ -1236,24 +1244,24 @@
             "woe_name": "Logone Occidental"
         },
         "geo": {
-            "latitude": 8.759676,
-            "longitude": 15.876004,
-            "max_latitude": 9.208982,
-            "max_longitude": 16.5759211,
-            "min_latitude": 8.244755,
-            "min_longitude": 15.2746969
+            "latitude": 13.9371775,
+            "longitude": 18.4276047,
+            "max_latitude": 16.076306,
+            "max_longitude": 20.3562929,
+            "min_latitude": 12.1039549,
+            "min_longitude": 16.9447559
         },
         "iso_3166_2": "TD-LO",
         "iso_a2": "TD",
         "iso_a3": "TCD",
-        "name": "Logone-Occidental",
+        "name": "Batha",
         "postal": "LO",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "LR": {
         "alt_names": [
-            "Logone-Oriental"
+            "Batha"
         ],
         "cca2": "TD",
         "cca3": "TCD",
@@ -1376,24 +1384,24 @@
             "woe_name": "Logone Oriental"
         },
         "geo": {
-            "latitude": 8.3149949,
-            "longitude": 16.3463791,
-            "max_latitude": 9.115038,
-            "max_longitude": 17.2695311,
-            "min_latitude": 7.4410681,
-            "min_longitude": 15.230739
+            "latitude": 13.9371775,
+            "longitude": 18.4276047,
+            "max_latitude": 16.076306,
+            "max_longitude": 20.3562929,
+            "min_latitude": 12.1039549,
+            "min_longitude": 16.9447559
         },
         "iso_3166_2": "TD-LR",
         "iso_a2": "TD",
         "iso_a3": "TCD",
-        "name": "Logone-Oriental",
+        "name": "Batha",
         "postal": "LR",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "MA": {
         "alt_names": [
-            "Mandoul"
+            "Batha"
         ],
         "cca2": "TD",
         "cca3": "TCD",
@@ -1516,24 +1524,24 @@
             "woe_name": "Mandoul"
         },
         "geo": {
-            "latitude": 8.603091,
-            "longitude": 17.4795173,
-            "max_latitude": 9.598262,
-            "max_longitude": 18.164068,
-            "min_latitude": 7.785258,
-            "min_longitude": 17.0344641
+            "latitude": 13.9371775,
+            "longitude": 18.4276047,
+            "max_latitude": 16.076306,
+            "max_longitude": 20.3562929,
+            "min_latitude": 12.1039549,
+            "min_longitude": 16.9447559
         },
         "iso_3166_2": "TD-MA",
         "iso_a2": "TD",
         "iso_a3": "TCD",
-        "name": "Mandoul",
+        "name": "Batha",
         "postal": "MA",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "MC": {
         "alt_names": [
-            "Moyen-Chari"
+            "Batha"
         ],
         "cca2": "TD",
         "cca3": "TCD",
@@ -1656,24 +1664,24 @@
             "woe_name": "Mandoul"
         },
         "geo": {
-            "latitude": 9.0639998,
+            "latitude": 13.9371775,
             "longitude": 18.4276047,
-            "max_latitude": 10.5414589,
-            "max_longitude": 19.927143,
-            "min_latitude": 8.0147168,
-            "min_longitude": 17.3586501
+            "max_latitude": 16.076306,
+            "max_longitude": 20.3562929,
+            "min_latitude": 12.1039549,
+            "min_longitude": 16.9447559
         },
         "iso_3166_2": "TD-MC",
         "iso_a2": "TD",
         "iso_a3": "TCD",
-        "name": "Moyen-Chari",
+        "name": "Batha",
         "postal": "MC",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "ME": {
         "alt_names": [
-            "Mayo-K\u00e9bbi-Est"
+            "Batha"
         ],
         "cca2": "TD",
         "cca3": "TCD",
@@ -1796,24 +1804,24 @@
             "woe_name": "Mayo-Kebbi Est"
         },
         "geo": {
-            "latitude": 9.4046039,
-            "longitude": 14.8454619,
-            "max_latitude": 10.0102089,
-            "max_longitude": 15.44772,
-            "min_latitude": 8.5243641,
-            "min_longitude": 14.0194639
+            "latitude": 13.9371775,
+            "longitude": 18.4276047,
+            "max_latitude": 16.076306,
+            "max_longitude": 20.3562929,
+            "min_latitude": 12.1039549,
+            "min_longitude": 16.9447559
         },
         "iso_3166_2": "TD-ME",
         "iso_a2": "TD",
         "iso_a3": "TCD",
-        "name": "Mayo-K\u00e9bbi-Est",
+        "name": "Batha",
         "postal": "ME",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "MO": {
         "alt_names": [
-            "Mayo-K\u00e9bbi-Ouest"
+            "Batha"
         ],
         "cca2": "TD",
         "cca3": "TCD",
@@ -1936,24 +1944,24 @@
             "woe_name": "Mayo-Kebbi Ouest"
         },
         "geo": {
-            "latitude": 10.4113014,
-            "longitude": 15.5943388,
-            "max_latitude": 11.181067,
-            "max_longitude": 16.2150691,
-            "min_latitude": 9.188032,
-            "min_longitude": 14.949498
+            "latitude": 13.9371775,
+            "longitude": 18.4276047,
+            "max_latitude": 16.076306,
+            "max_longitude": 20.3562929,
+            "min_latitude": 12.1039549,
+            "min_longitude": 16.9447559
         },
         "iso_3166_2": "TD-MO",
         "iso_a2": "TD",
         "iso_a3": "TCD",
-        "name": "Mayo-K\u00e9bbi-Ouest",
+        "name": "Batha",
         "postal": "MO",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "ND": {
         "alt_names": [
-            "Ndjamena"
+            "Batha"
         ],
         "cca2": "TD",
         "cca3": "TCD",
@@ -2076,24 +2084,24 @@
             "woe_name": "Ville de N'Djamena"
         },
         "geo": {
-            "latitude": 12.113056,
-            "longitude": 15.049167,
-            "max_latitude": 12.1801019,
-            "max_longitude": 15.1484305,
-            "min_latitude": 12.0603346,
-            "min_longitude": 14.9664874
+            "latitude": 13.9371775,
+            "longitude": 18.4276047,
+            "max_latitude": 16.076306,
+            "max_longitude": 20.3562929,
+            "min_latitude": 12.1039549,
+            "min_longitude": 16.9447559
         },
         "iso_3166_2": "TD-ND",
         "iso_a2": "TD",
         "iso_a3": "TCD",
-        "name": "Ndjamena",
+        "name": "Batha",
         "postal": "ND",
         "type": "Pr\u00e9fecture",
         "type_en": "Capital"
     },
     "OD": {
         "alt_names": [
-            "Ouadda\u00ef"
+            "Batha"
         ],
         "cca2": "TD",
         "cca3": "TCD",
@@ -2216,24 +2224,24 @@
             "woe_name": "Ouadda\u00ef"
         },
         "geo": {
-            "latitude": 13.748476,
-            "longitude": 20.7122465,
-            "max_latitude": 14.3643509,
-            "max_longitude": 22.284214,
-            "min_latitude": 12.636083,
-            "min_longitude": 20.0267009
+            "latitude": 13.9371775,
+            "longitude": 18.4276047,
+            "max_latitude": 16.076306,
+            "max_longitude": 20.3562929,
+            "min_latitude": 12.1039549,
+            "min_longitude": 16.9447559
         },
         "iso_3166_2": "TD-OD",
         "iso_a2": "TD",
         "iso_a3": "TCD",
-        "name": "Ouadda\u00ef",
+        "name": "Batha",
         "postal": "OD",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "SA": {
         "alt_names": [
-            "Salamat"
+            "Batha"
         ],
         "cca2": "TD",
         "cca3": "TCD",
@@ -2356,24 +2364,24 @@
             "woe_name": "Salamat"
         },
         "geo": {
-            "latitude": 10.9691601,
-            "longitude": 20.7122465,
-            "max_latitude": 12.088373,
-            "max_longitude": 22.362142,
-            "min_latitude": 9.060796,
-            "min_longitude": 18.8384811
+            "latitude": 13.9371775,
+            "longitude": 18.4276047,
+            "max_latitude": 16.076306,
+            "max_longitude": 20.3562929,
+            "min_latitude": 12.1039549,
+            "min_longitude": 16.9447559
         },
         "iso_3166_2": "TD-SA",
         "iso_a2": "TD",
         "iso_a3": "TCD",
-        "name": "Salamat",
+        "name": "Batha",
         "postal": "SA",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "SI": {
         "alt_names": [
-            ""
+            "Batha"
         ],
         "cca2": "TD",
         "cca3": "TCD",
@@ -2496,20 +2504,24 @@
             "woe_name": "Ouadda\u00ef"
         },
         "geo": {
-            "latitude": "12.2336000000",
-            "longitude": "21.1347000000"
+            "latitude": 13.9371775,
+            "longitude": 18.4276047,
+            "max_latitude": 16.076306,
+            "max_longitude": 20.3562929,
+            "min_latitude": 12.1039549,
+            "min_longitude": 16.9447559
         },
         "iso_3166_2": "TD-SI",
         "iso_a2": "TD",
         "iso_a3": "TCD",
-        "name": "Sila",
+        "name": "Batha",
         "postal": "SI",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "TA": {
         "alt_names": [
-            "Tandjil\u00e9"
+            "Batha"
         ],
         "cca2": "TD",
         "cca3": "TCD",
@@ -2632,24 +2644,24 @@
             "woe_name": "Tandjile"
         },
         "geo": {
-            "latitude": 9.6625729,
-            "longitude": 16.7234639,
-            "max_latitude": 10.222793,
-            "max_longitude": 17.552968,
-            "min_latitude": 9.006821,
-            "min_longitude": 15.438418
+            "latitude": 13.9371775,
+            "longitude": 18.4276047,
+            "max_latitude": 16.076306,
+            "max_longitude": 20.3562929,
+            "min_latitude": 12.1039549,
+            "min_longitude": 16.9447559
         },
         "iso_3166_2": "TD-TA",
         "iso_a2": "TD",
         "iso_a3": "TCD",
-        "name": "Tandjil\u00e9",
+        "name": "Batha",
         "postal": "TA",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "TI": {
         "alt_names": [
-            ""
+            "Batha"
         ],
         "cca2": "TD",
         "cca3": "TCD",
@@ -2772,20 +2784,24 @@
             "woe_name": "Bet"
         },
         "geo": {
-            "latitude": "21.4716000000",
-            "longitude": "16.6178000000"
+            "latitude": 13.9371775,
+            "longitude": 18.4276047,
+            "max_latitude": 16.076306,
+            "max_longitude": 20.3562929,
+            "min_latitude": 12.1039549,
+            "min_longitude": 16.9447559
         },
         "iso_3166_2": "TD-TI",
         "iso_a2": "TD",
         "iso_a3": "TCD",
-        "name": "Tibesti",
+        "name": "Batha",
         "postal": "TI",
         "type": "Pr\u00e9fecture",
         "type_en": "Pr\u00e9fecture"
     },
     "WF": {
         "alt_names": [
-            "Wadi Fira"
+            "Batha"
         ],
         "cca2": "TD",
         "cca3": "TCD",
@@ -2908,24 +2924,24 @@
             "woe_name": "Wadi Fira"
         },
         "geo": {
-            "latitude": 15.0892416,
-            "longitude": 21.4752851,
-            "max_latitude": 15.9035701,
-            "max_longitude": 23.0038449,
-            "min_latitude": 13.85626,
-            "min_longitude": 20.035872
+            "latitude": 13.9371775,
+            "longitude": 18.4276047,
+            "max_latitude": 16.076306,
+            "max_longitude": 20.3562929,
+            "min_latitude": 12.1039549,
+            "min_longitude": 16.9447559
         },
         "iso_3166_2": "TD-WF",
         "iso_a2": "TD",
         "iso_a3": "TCD",
-        "name": "Wadi Fira",
+        "name": "Batha",
         "postal": "WF",
         "type": "Pr\u00e9fecture",
         "type_en": "Prefecture"
     },
     "X01~": {
         "alt_names": [
-            ""
+            "Batha"
         ],
         "cca2": "TD",
         "cca3": "TCD",
@@ -3048,13 +3064,17 @@
             "woe_name": "Bet"
         },
         "geo": {
-            "latitude": "18.1286000000",
-            "longitude": "22.1045000000"
+            "latitude": 13.9371775,
+            "longitude": 18.4276047,
+            "max_latitude": 16.076306,
+            "max_longitude": 20.3562929,
+            "min_latitude": 12.1039549,
+            "min_longitude": 16.9447559
         },
         "iso_3166_2": "TD-X01~",
         "iso_a2": "TD",
         "iso_a3": "TCD",
-        "name": "Ennedi",
+        "name": "Batha",
         "postal": "X01~",
         "type": "Pr\u00e9fecture",
         "type_en": "Pr\u00e9fecture"

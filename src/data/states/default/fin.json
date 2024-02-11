@@ -1,8 +1,7 @@
 {
     "02": {
         "alt_names": [
-            "Etel\u00e4-Karjala",
-            "S\u00f6dra Karelen"
+            "\u00c5land"
         ],
         "cca2": "FI",
         "cca3": "FIN",
@@ -125,21 +124,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "61.2148000000",
-            "longitude": "28.5567000000"
+            "latitude": 60.177002,
+            "longitude": 19.915002,
+            "max_latitude": 60.6547739,
+            "max_longitude": 21.1111317,
+            "min_latitude": 59.9686438,
+            "min_longitude": 19.4613939
         },
         "iso_3166_2": "FI-02",
         "iso_a2": "FI",
         "iso_a3": "FIN",
-        "name": "South Karelia",
+        "name": "Ahvenanmaan l\u00e4\u00e4ni",
         "postal": "02",
         "type": "L\u00e4\u00e4ni",
         "type_en": "Province"
     },
     "03": {
         "alt_names": [
-            "Etel\u00e4-Pohjanmaa",
-            "S\u00f6dra \u00d6sterbotten"
+            "\u00c5land"
         ],
         "cca2": "FI",
         "cca3": "FIN",
@@ -262,21 +264,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "62.7521000000",
-            "longitude": "23.1486000000"
+            "latitude": 60.177002,
+            "longitude": 19.915002,
+            "max_latitude": 60.6547739,
+            "max_longitude": 21.1111317,
+            "min_latitude": 59.9686438,
+            "min_longitude": 19.4613939
         },
         "iso_3166_2": "FI-03",
         "iso_a2": "FI",
         "iso_a3": "FIN",
-        "name": "Southern Ostrobothnia",
+        "name": "Ahvenanmaan l\u00e4\u00e4ni",
         "postal": "03",
         "type": "L\u00e4\u00e4ni",
         "type_en": "Province"
     },
     "04": {
         "alt_names": [
-            "Etel\u00e4-Savo",
-            "S\u00f6dra Savolax"
+            "\u00c5land"
         ],
         "cca2": "FI",
         "cca3": "FIN",
@@ -399,21 +404,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "61.8152000000",
-            "longitude": "27.9693000000"
+            "latitude": 60.177002,
+            "longitude": 19.915002,
+            "max_latitude": 60.6547739,
+            "max_longitude": 21.1111317,
+            "min_latitude": 59.9686438,
+            "min_longitude": 19.4613939
         },
         "iso_3166_2": "FI-04",
         "iso_a2": "FI",
         "iso_a3": "FIN",
-        "name": "Southern Savonia",
+        "name": "Ahvenanmaan l\u00e4\u00e4ni",
         "postal": "04",
         "type": "L\u00e4\u00e4ni",
         "type_en": "Province"
     },
     "05": {
         "alt_names": [
-            "Kainuu",
-            "Kajanaland"
+            "\u00c5land"
         ],
         "cca2": "FI",
         "cca3": "FIN",
@@ -536,21 +544,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "64.5496000000",
-            "longitude": "28.4410000000"
+            "latitude": 60.177002,
+            "longitude": 19.915002,
+            "max_latitude": 60.6547739,
+            "max_longitude": 21.1111317,
+            "min_latitude": 59.9686438,
+            "min_longitude": 19.4613939
         },
         "iso_3166_2": "FI-05",
         "iso_a2": "FI",
         "iso_a3": "FIN",
-        "name": "Kainuu",
+        "name": "Ahvenanmaan l\u00e4\u00e4ni",
         "postal": "05",
         "type": "L\u00e4\u00e4ni",
         "type_en": "Province"
     },
     "06": {
         "alt_names": [
-            "Kanta-H\u00e4me",
-            "Egentliga Tavastland"
+            "\u00c5land"
         ],
         "cca2": "FI",
         "cca3": "FIN",
@@ -673,21 +684,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "60.9239000000",
-            "longitude": "24.4224000000"
+            "latitude": 60.177002,
+            "longitude": 19.915002,
+            "max_latitude": 60.6547739,
+            "max_longitude": 21.1111317,
+            "min_latitude": 59.9686438,
+            "min_longitude": 19.4613939
         },
         "iso_3166_2": "FI-06",
         "iso_a2": "FI",
         "iso_a3": "FIN",
-        "name": "Tavastia Proper",
+        "name": "Ahvenanmaan l\u00e4\u00e4ni",
         "postal": "06",
         "type": "",
         "type_en": "Region"
     },
     "07": {
         "alt_names": [
-            "Keski-Pohjanmaa",
-            "Mellersta \u00d6sterbotten"
+            "\u00c5land"
         ],
         "cca2": "FI",
         "cca3": "FIN",
@@ -810,21 +824,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "63.6751000000",
-            "longitude": "24.0097000000"
+            "latitude": 60.177002,
+            "longitude": 19.915002,
+            "max_latitude": 60.6547739,
+            "max_longitude": 21.1111317,
+            "min_latitude": 59.9686438,
+            "min_longitude": 19.4613939
         },
         "iso_3166_2": "FI-07",
         "iso_a2": "FI",
         "iso_a3": "FIN",
-        "name": "Central Ostrobothnia",
+        "name": "Ahvenanmaan l\u00e4\u00e4ni",
         "postal": "07",
         "type": "L\u00e4\u00e4ni",
         "type_en": "Province"
     },
     "08": {
         "alt_names": [
-            "Keski-Suomi",
-            "Mellersta Finland"
+            "\u00c5land"
         ],
         "cca2": "FI",
         "cca3": "FIN",
@@ -947,20 +964,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "62.5246000000",
-            "longitude": "25.3934000000"
+            "latitude": 60.177002,
+            "longitude": 19.915002,
+            "max_latitude": 60.6547739,
+            "max_longitude": 21.1111317,
+            "min_latitude": 59.9686438,
+            "min_longitude": 19.4613939
         },
         "iso_3166_2": "FI-08",
         "iso_a2": "FI",
         "iso_a3": "FIN",
-        "name": "Central Finland",
+        "name": "Ahvenanmaan l\u00e4\u00e4ni",
         "postal": "08",
         "type": "L\u00e4\u00e4ni",
         "type_en": "Province"
     },
     "09": {
         "alt_names": [
-            "Kymmenedalen"
+            "\u00c5land"
         ],
         "cca2": "FI",
         "cca3": "FIN",
@@ -1083,23 +1104,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "60.4164000000",
-            "longitude": "26.5799000000"
+            "latitude": 60.177002,
+            "longitude": 19.915002,
+            "max_latitude": 60.6547739,
+            "max_longitude": 21.1111317,
+            "min_latitude": 59.9686438,
+            "min_longitude": 19.4613939
         },
         "iso_3166_2": "FI-09",
         "iso_a2": "FI",
         "iso_a3": "FIN",
-        "name": "Kymenlaakso",
+        "name": "Ahvenanmaan l\u00e4\u00e4ni",
         "postal": "09",
         "type": "L\u00e4\u00e4ni",
         "type_en": "Province"
     },
     "10": {
         "alt_names": [
-            "Lappland",
-            "Lappi",
-            "Lappland",
-            "Laponie"
+            "\u00c5land"
         ],
         "cca2": "FI",
         "cca3": "FIN",
@@ -1222,25 +1244,24 @@
             "woe_name": "Lapland"
         },
         "geo": {
-            "latitude": 67.9222304,
-            "longitude": 26.5046438,
-            "max_latitude": 70.092444,
-            "max_longitude": 30.016886,
-            "min_latitude": 65.497126,
-            "min_longitude": 20.5489762
+            "latitude": 60.177002,
+            "longitude": 19.915002,
+            "max_latitude": 60.6547739,
+            "max_longitude": 21.1111317,
+            "min_latitude": 59.9686438,
+            "min_longitude": 19.4613939
         },
         "iso_3166_2": "FI-10",
         "iso_a2": "FI",
         "iso_a3": "FIN",
-        "name": "Lapin l\u00e4\u00e4ni",
+        "name": "Ahvenanmaan l\u00e4\u00e4ni",
         "postal": "10",
         "type": "L\u00e4\u00e4ni",
         "type_en": "Province"
     },
     "11": {
         "alt_names": [
-            "Pirkanmaa",
-            "Birkaland"
+            "\u00c5land"
         ],
         "cca2": "FI",
         "cca3": "FIN",
@@ -1363,21 +1384,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "61.6936000000",
-            "longitude": "23.7573000000"
+            "latitude": 60.177002,
+            "longitude": 19.915002,
+            "max_latitude": 60.6547739,
+            "max_longitude": 21.1111317,
+            "min_latitude": 59.9686438,
+            "min_longitude": 19.4613939
         },
         "iso_3166_2": "FI-11",
         "iso_a2": "FI",
         "iso_a3": "FIN",
-        "name": "Pirkanmaa",
+        "name": "Ahvenanmaan l\u00e4\u00e4ni",
         "postal": "11",
         "type": "L\u00e4\u00e4ni",
         "type_en": "Region"
     },
     "12": {
         "alt_names": [
-            "Pohjanmaa",
-            "\u00d6sterbotten"
+            "\u00c5land"
         ],
         "cca2": "FI",
         "cca3": "FIN",
@@ -1500,21 +1524,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "63.0354000000",
-            "longitude": "22.1482000000"
+            "latitude": 60.177002,
+            "longitude": 19.915002,
+            "max_latitude": 60.6547739,
+            "max_longitude": 21.1111317,
+            "min_latitude": 59.9686438,
+            "min_longitude": 19.4613939
         },
         "iso_3166_2": "FI-12",
         "iso_a2": "FI",
         "iso_a3": "FIN",
-        "name": "Ostrobothnia",
+        "name": "Ahvenanmaan l\u00e4\u00e4ni",
         "postal": "12",
         "type": "L\u00e4\u00e4ni",
         "type_en": "Province"
     },
     "13": {
         "alt_names": [
-            "Pohjois-Karjala",
-            "Norra Karelen"
+            "\u00c5land"
         ],
         "cca2": "FI",
         "cca3": "FIN",
@@ -1637,21 +1664,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "62.7879000000",
-            "longitude": "29.9637000000"
+            "latitude": 60.177002,
+            "longitude": 19.915002,
+            "max_latitude": 60.6547739,
+            "max_longitude": 21.1111317,
+            "min_latitude": 59.9686438,
+            "min_longitude": 19.4613939
         },
         "iso_3166_2": "FI-13",
         "iso_a2": "FI",
         "iso_a3": "FIN",
-        "name": "North Karelia",
+        "name": "Ahvenanmaan l\u00e4\u00e4ni",
         "postal": "13",
         "type": "L\u00e4\u00e4ni",
         "type_en": "Province"
     },
     "14": {
         "alt_names": [
-            "Pohjois-Pohjanmaa",
-            "Norra \u00d6sterbotten"
+            "\u00c5land"
         ],
         "cca2": "FI",
         "cca3": "FIN",
@@ -1774,21 +1804,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "65.1599000000",
-            "longitude": "26.2356000000"
+            "latitude": 60.177002,
+            "longitude": 19.915002,
+            "max_latitude": 60.6547739,
+            "max_longitude": 21.1111317,
+            "min_latitude": 59.9686438,
+            "min_longitude": 19.4613939
         },
         "iso_3166_2": "FI-14",
         "iso_a2": "FI",
         "iso_a3": "FIN",
-        "name": "Northern Ostrobothnia",
+        "name": "Ahvenanmaan l\u00e4\u00e4ni",
         "postal": "14",
         "type": "Maakunta|landskap",
         "type_en": "Province"
     },
     "15": {
         "alt_names": [
-            "Pohjois-Savo",
-            "Norra Savolax"
+            "\u00c5land"
         ],
         "cca2": "FI",
         "cca3": "FIN",
@@ -1911,20 +1944,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "63.1933000000",
-            "longitude": "27.5702000000"
+            "latitude": 60.177002,
+            "longitude": 19.915002,
+            "max_latitude": 60.6547739,
+            "max_longitude": 21.1111317,
+            "min_latitude": 59.9686438,
+            "min_longitude": 19.4613939
         },
         "iso_3166_2": "FI-15",
         "iso_a2": "FI",
         "iso_a3": "FIN",
-        "name": "Northern Savonia",
+        "name": "Ahvenanmaan l\u00e4\u00e4ni",
         "postal": "15",
         "type": "L\u00e4\u00e4ni",
         "type_en": "Province"
     },
     "16": {
         "alt_names": [
-            "P\u00e4ij\u00e4nne Tavastland"
+            "\u00c5land"
         ],
         "cca2": "FI",
         "cca3": "FIN",
@@ -2047,21 +2084,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "61.2034000000",
-            "longitude": "25.6876000000"
+            "latitude": 60.177002,
+            "longitude": 19.915002,
+            "max_latitude": 60.6547739,
+            "max_longitude": 21.1111317,
+            "min_latitude": 59.9686438,
+            "min_longitude": 19.4613939
         },
         "iso_3166_2": "FI-16",
         "iso_a2": "FI",
         "iso_a3": "FIN",
-        "name": "P\u00e4ij\u00e4t-H\u00e4me",
+        "name": "Ahvenanmaan l\u00e4\u00e4ni",
         "postal": "16",
         "type": "L\u00e4\u00e4ni",
         "type_en": "Province"
     },
     "17": {
         "alt_names": [
-            "Satakunta",
-            "Satakunda"
+            "\u00c5land"
         ],
         "cca2": "FI",
         "cca3": "FIN",
@@ -2184,20 +2224,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "61.4773000000",
-            "longitude": "22.1012000000"
+            "latitude": 60.177002,
+            "longitude": 19.915002,
+            "max_latitude": 60.6547739,
+            "max_longitude": 21.1111317,
+            "min_latitude": 59.9686438,
+            "min_longitude": 19.4613939
         },
         "iso_3166_2": "FI-17",
         "iso_a2": "FI",
         "iso_a3": "FIN",
-        "name": "Satakunta",
+        "name": "Ahvenanmaan l\u00e4\u00e4ni",
         "postal": "17",
         "type": "Maakunta|landskap",
         "type_en": "Region"
     },
     "18": {
         "alt_names": [
-            "Nyland"
+            "\u00c5land"
         ],
         "cca2": "FI",
         "cca3": "FIN",
@@ -2320,21 +2364,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "60.4179000000",
-            "longitude": "24.8475000000"
+            "latitude": 60.177002,
+            "longitude": 19.915002,
+            "max_latitude": 60.6547739,
+            "max_longitude": 21.1111317,
+            "min_latitude": 59.9686438,
+            "min_longitude": 19.4613939
         },
         "iso_3166_2": "FI-18",
         "iso_a2": "FI",
         "iso_a3": "FIN",
-        "name": "Uusimaa",
+        "name": "Ahvenanmaan l\u00e4\u00e4ni",
         "postal": "18",
         "type": "L\u00e4\u00e4ni",
         "type_en": "Province"
     },
     "19": {
         "alt_names": [
-            "Varsinais-Suomi",
-            "Egentliga Finland"
+            "\u00c5land"
         ],
         "cca2": "FI",
         "cca3": "FIN",
@@ -2457,13 +2504,17 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "60.6134000000",
-            "longitude": "22.7128000000"
+            "latitude": 60.177002,
+            "longitude": 19.915002,
+            "max_latitude": 60.6547739,
+            "max_longitude": 21.1111317,
+            "min_latitude": 59.9686438,
+            "min_longitude": 19.4613939
         },
         "iso_3166_2": "FI-19",
         "iso_a2": "FI",
         "iso_a3": "FIN",
-        "name": "Finland Proper",
+        "name": "Ahvenanmaan l\u00e4\u00e4ni",
         "postal": "19",
         "type": "Maakunta|landskap",
         "type_en": "Region"

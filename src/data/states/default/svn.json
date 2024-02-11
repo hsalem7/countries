@@ -141,7 +141,7 @@
     },
     "002": {
         "alt_names": [
-            "Beltinci"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -264,24 +264,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.6079153,
-            "longitude": 16.2365127,
-            "max_latitude": 46.6263849,
-            "max_longitude": 16.2670594,
-            "min_latitude": 46.5791012,
-            "min_longitude": 16.2038046
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-002",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Beltinci",
+        "name": "Ajdov\u0161cina",
         "postal": "002",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "003": {
         "alt_names": [
-            "Bled"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -404,24 +404,24 @@
             "woe_name": "Bled"
         },
         "geo": {
-            "latitude": 46.3683266,
-            "longitude": 14.1145798,
-            "max_latitude": 46.3861596,
-            "max_longitude": 14.1353007,
-            "min_latitude": 46.3446751,
-            "min_longitude": 14.0565934
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-003",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Bled",
+        "name": "Ajdov\u0161cina",
         "postal": "003",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "004": {
         "alt_names": [
-            "Bohinj"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -544,24 +544,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.3005652,
-            "longitude": 13.9427195,
-            "max_latitude": 46.378352,
-            "max_longitude": 14.1815722,
-            "min_latitude": 46.225743,
-            "min_longitude": 13.7243757
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-004",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Bohinj",
+        "name": "Ajdov\u0161cina",
         "postal": "004",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "05": {
         "alt_names": [
-            "Borovnica"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -684,24 +684,24 @@
             "woe_name": "Zasavska"
         },
         "geo": {
-            "latitude": 45.9193034,
-            "longitude": 14.3640682,
-            "max_latitude": 45.9358871,
-            "max_longitude": 14.3847739,
-            "min_latitude": 45.9012234,
-            "min_longitude": 14.345481
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-05",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Borovnica",
+        "name": "Ajdov\u0161cina",
         "postal": "05",
         "type": "Statisticna Regije",
         "type_en": "Statistical Region"
     },
     "005": {
         "alt_names": [
-            "Borovnica"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -824,24 +824,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.9193034,
-            "longitude": 14.3640682,
-            "max_latitude": 45.9358871,
-            "max_longitude": 14.3847739,
-            "min_latitude": 45.9012234,
-            "min_longitude": 14.345481
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-005",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Borovnica",
+        "name": "Ajdov\u0161cina",
         "postal": "005",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "006": {
         "alt_names": [
-            "Bovec"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -964,24 +964,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.3376387,
-            "longitude": 13.551683,
-            "max_latitude": 46.3704078,
-            "max_longitude": 13.5923068,
-            "min_latitude": 46.3150629,
-            "min_longitude": 13.490824
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-006",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Bovec",
+        "name": "Ajdov\u0161cina",
         "postal": "006",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "007": {
         "alt_names": [
-            "Brda"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -1104,24 +1104,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.4716586,
-            "longitude": 15.1439794,
-            "max_latitude": 46.4788807,
-            "max_longitude": 15.1765445,
-            "min_latitude": 46.4569051,
-            "min_longitude": 15.1337258
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-007",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Brda",
+        "name": "Ajdov\u0161cina",
         "postal": "007",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "008": {
         "alt_names": [
-            "Brezovica"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -1244,24 +1244,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.872713,
-            "longitude": 15.2412372,
-            "max_latitude": 45.8892442,
-            "max_longitude": 15.2499418,
-            "min_latitude": 45.8690201,
-            "min_longitude": 15.2181643
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-008",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Brezovica",
+        "name": "Ajdov\u0161cina",
         "postal": "008",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "009": {
         "alt_names": [
-            "Bre\u017eice"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -1384,24 +1384,24 @@
             "woe_name": "Bre\u017eice"
         },
         "geo": {
-            "latitude": 45.9088102,
-            "longitude": 15.5964652,
-            "max_latitude": 45.9408957,
-            "max_longitude": 15.6281685,
-            "min_latitude": 45.8930075,
-            "min_longitude": 15.5797608
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-009",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Bre\u017eice",
+        "name": "Ajdov\u0161cina",
         "postal": "009",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "011": {
         "alt_names": [
-            "Celje"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -1524,24 +1524,24 @@
             "woe_name": "Celje"
         },
         "geo": {
-            "latitude": 46.2397495,
-            "longitude": 15.2677063,
-            "max_latitude": 46.2649277,
-            "max_longitude": 15.2977829,
-            "min_latitude": 46.2067368,
-            "min_longitude": 15.2114242
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-011",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Celje",
+        "name": "Ajdov\u0161cina",
         "postal": "011",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "012": {
         "alt_names": [
-            "Cerklje na Gorenjskem"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -1664,24 +1664,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.2531292,
-            "longitude": 14.4868829,
-            "max_latitude": 46.2625842,
-            "max_longitude": 14.4934701,
-            "min_latitude": 46.2452394,
-            "min_longitude": 14.4646636
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-012",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Cerklje na Gorenjskem",
+        "name": "Ajdov\u0161cina",
         "postal": "012",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "013": {
         "alt_names": [
-            "Cerknica"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -1804,24 +1804,24 @@
             "woe_name": "Cerknica"
         },
         "geo": {
-            "latitude": 45.7955099,
-            "longitude": 14.3621843,
-            "max_latitude": 45.8239503,
-            "max_longitude": 14.4148252,
-            "min_latitude": 45.7732728,
-            "min_longitude": 14.3233742
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-013",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Cerknica",
+        "name": "Ajdov\u0161cina",
         "postal": "013",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "014": {
         "alt_names": [
-            "Cerkno"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -1944,24 +1944,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.128954,
-            "longitude": 13.9891931,
-            "max_latitude": 46.1402911,
-            "max_longitude": 14.0049282,
-            "min_latitude": 46.1034782,
-            "min_longitude": 13.9494446
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-014",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Cerkno",
+        "name": "Ajdov\u0161cina",
         "postal": "014",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "015": {
         "alt_names": [
-            "Cren\u0161ovci"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -2084,24 +2084,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.5720029,
-            "longitude": 16.2877346,
-            "max_latitude": 46.5852017,
-            "max_longitude": 16.3453289,
-            "min_latitude": 46.5272102,
-            "min_longitude": 16.2666812
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-015",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Cren\u0161ovci",
+        "name": "Ajdov\u0161cina",
         "postal": "015",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "016": {
         "alt_names": [
-            "Crna na Koro\u0161kem"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -2224,24 +2224,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.4703983,
-            "longitude": 14.8498787,
-            "max_latitude": 46.4825972,
-            "max_longitude": 14.8836197,
-            "min_latitude": 46.4495989,
-            "min_longitude": 14.8165776
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-016",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Crna na Koro\u0161kem",
+        "name": "Ajdov\u0161cina",
         "postal": "016",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "017": {
         "alt_names": [
-            "Crnomelj"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -2364,24 +2364,24 @@
             "woe_name": "Crnomelj"
         },
         "geo": {
-            "latitude": 45.5714837,
-            "longitude": 15.1930773,
-            "max_latitude": 45.59965,
-            "max_longitude": 15.2236525,
-            "min_latitude": 45.5460565,
-            "min_longitude": 15.165933
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-017",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Crnomelj",
+        "name": "Ajdov\u0161cina",
         "postal": "017",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "018": {
         "alt_names": [
-            "Destrnik"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -2504,24 +2504,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.4922368,
-            "longitude": 15.8777956,
-            "max_latitude": 46.4972951,
-            "max_longitude": 15.8860775,
-            "min_latitude": 46.4853092,
-            "min_longitude": 15.8745583
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-018",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Destrnik",
+        "name": "Ajdov\u0161cina",
         "postal": "018",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "019": {
         "alt_names": [
-            "Divaca"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -2644,24 +2644,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.6829132,
-            "longitude": 13.9697218,
-            "max_latitude": 45.7069151,
-            "max_longitude": 14.0009139,
-            "min_latitude": 45.6697414,
-            "min_longitude": 13.9333018
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-019",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Divaca",
+        "name": "Ajdov\u0161cina",
         "postal": "019",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "020": {
         "alt_names": [
-            "Dobrepolje"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -2784,24 +2784,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.8524951,
-            "longitude": 14.7083109,
-            "max_latitude": 45.8934452,
-            "max_longitude": 14.8421099,
-            "min_latitude": 45.7265798,
-            "min_longitude": 14.6339332
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-020",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Dobrepolje",
+        "name": "Ajdov\u0161cina",
         "postal": "020",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "021": {
         "alt_names": [
-            "Dobrova-Polhov Gradec"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -2924,24 +2924,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.0678183,
-            "longitude": 14.2439619,
-            "max_latitude": 46.107928,
-            "max_longitude": 14.4427003,
-            "min_latitude": 46.0113318,
-            "min_longitude": 14.1883156
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-021",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Dobrova-Polhov Gradec",
+        "name": "Ajdov\u0161cina",
         "postal": "021",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "022": {
         "alt_names": [
-            "Dol pri Ljubljani"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -3064,24 +3064,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.0884386,
-            "longitude": 14.6424792,
-            "max_latitude": 46.0914789,
-            "max_longitude": 14.650608,
-            "min_latitude": 46.0849755,
-            "min_longitude": 14.6384198
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-022",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Dol pri Ljubljani",
+        "name": "Ajdov\u0161cina",
         "postal": "022",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "023": {
         "alt_names": [
-            "Dom\u017eale"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -3204,24 +3204,24 @@
             "woe_name": "Dom\u017eale"
         },
         "geo": {
-            "latitude": 46.1419417,
-            "longitude": 14.5944171,
-            "max_latitude": 46.1514012,
-            "max_longitude": 14.6112884,
-            "min_latitude": 46.112468,
-            "min_longitude": 14.5766171
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-023",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Dom\u017eale",
+        "name": "Ajdov\u0161cina",
         "postal": "023",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "024": {
         "alt_names": [
-            "Dornava"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -3344,24 +3344,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.4356499,
-            "longitude": 15.952954,
-            "max_latitude": 46.453094,
-            "max_longitude": 15.9683311,
-            "min_latitude": 46.4194043,
-            "min_longitude": 15.9352057
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-024",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Dornava",
+        "name": "Ajdov\u0161cina",
         "postal": "024",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "025": {
         "alt_names": [
-            "Dravograd"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -3484,24 +3484,24 @@
             "woe_name": "Dravograd"
         },
         "geo": {
-            "latitude": 46.589219,
-            "longitude": 15.0246021,
-            "max_latitude": 46.5990855,
-            "max_longitude": 15.0373244,
-            "min_latitude": 46.5792596,
-            "min_longitude": 15.0069603
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-025",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Dravograd",
+        "name": "Ajdov\u0161cina",
         "postal": "025",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "026": {
         "alt_names": [
-            "Duplek"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -3624,24 +3624,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.5185203,
-            "longitude": 15.7791896,
-            "max_latitude": 46.5500747,
-            "max_longitude": 15.8177803,
-            "min_latitude": 46.468525,
-            "min_longitude": 15.7124262
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-026",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Duplek",
+        "name": "Ajdov\u0161cina",
         "postal": "026",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "027": {
         "alt_names": [
-            "Gorenja vas-Poljane"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -3764,24 +3764,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.1230068,
-            "longitude": 14.1151746,
-            "max_latitude": 46.1809494,
-            "max_longitude": 14.2279654,
-            "min_latitude": 46.0369455,
-            "min_longitude": 14.0178293
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-027",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Gorenja vas-Poljane",
+        "name": "Ajdov\u0161cina",
         "postal": "027",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "028": {
         "alt_names": [
-            "Gori\u0161nica"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -3904,24 +3904,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.4120271,
-            "longitude": 16.0133089,
-            "max_latitude": 46.4225317,
-            "max_longitude": 16.0357271,
-            "min_latitude": 46.4012183,
-            "min_longitude": 15.9939354
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-028",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Gori\u0161nica",
+        "name": "Ajdov\u0161cina",
         "postal": "028",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "029": {
         "alt_names": [
-            "Gornja Radgona"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -4044,24 +4044,24 @@
             "woe_name": "Gornja Radgona"
         },
         "geo": {
-            "latitude": 46.6767099,
-            "longitude": 15.9910846,
-            "max_latitude": 46.6846593,
-            "max_longitude": 16.0169898,
-            "min_latitude": 46.6586933,
-            "min_longitude": 15.9758497
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-029",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Gornja Radgona",
+        "name": "Ajdov\u0161cina",
         "postal": "029",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "030": {
         "alt_names": [
-            "Gornji Grad"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -4184,24 +4184,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.2961712,
-            "longitude": 14.8062347,
-            "max_latitude": 46.3124327,
-            "max_longitude": 14.834534,
-            "min_latitude": 46.2533725,
-            "min_longitude": 14.7926643
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-030",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Gornji Grad",
+        "name": "Ajdov\u0161cina",
         "postal": "030",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "031": {
         "alt_names": [
-            "Gornji Petrovci"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -4324,24 +4324,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.8047535,
-            "longitude": 16.2180722,
-            "max_latitude": 46.8182835,
-            "max_longitude": 16.2325301,
-            "min_latitude": 46.7921829,
-            "min_longitude": 16.1923273
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-031",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Gornji Petrovci",
+        "name": "Ajdov\u0161cina",
         "postal": "031",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "032": {
         "alt_names": [
-            "Grosuplje"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -4464,24 +4464,24 @@
             "woe_name": "Grosuplje"
         },
         "geo": {
-            "latitude": 45.9557645,
-            "longitude": 14.658899,
-            "max_latitude": 45.9878805,
-            "max_longitude": 14.6758637,
-            "min_latitude": 45.9430472,
-            "min_longitude": 14.6435568
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-032",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Grosuplje",
+        "name": "Ajdov\u0161cina",
         "postal": "032",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "033": {
         "alt_names": [
-            "\u0160alovci"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -4604,24 +4604,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.8235919,
-            "longitude": 16.2881649,
-            "max_latitude": 46.8480024,
-            "max_longitude": 16.3113042,
-            "min_latitude": 46.8010138,
-            "min_longitude": 16.2538269
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-033",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "\u0160alovci",
+        "name": "Ajdov\u0161cina",
         "postal": "033",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "034": {
         "alt_names": [
-            "Hrastnik"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -4744,24 +4744,24 @@
             "woe_name": "Hrastnik"
         },
         "geo": {
-            "latitude": 46.1417288,
-            "longitude": 15.0844894,
-            "max_latitude": 46.1557132,
-            "max_longitude": 15.1043942,
-            "min_latitude": 46.1138134,
-            "min_longitude": 15.0682763
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-034",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Hrastnik",
+        "name": "Ajdov\u0161cina",
         "postal": "034",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "035": {
         "alt_names": [
-            "Hrpelje-Kozina"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -4884,24 +4884,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.5945539,
-            "longitude": 14.0056771,
-            "max_latitude": 45.6444312,
-            "max_longitude": 14.1316015,
-            "min_latitude": 45.4808687,
-            "min_longitude": 13.8687912
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-035",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Hrpelje-Kozina",
+        "name": "Ajdov\u0161cina",
         "postal": "035",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "036": {
         "alt_names": [
-            "Idrija"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -5024,24 +5024,24 @@
             "woe_name": "Idrija"
         },
         "geo": {
-            "latitude": 46.0029454,
-            "longitude": 14.0278459,
-            "max_latitude": 46.0273159,
-            "max_longitude": 14.057244,
-            "min_latitude": 45.9806064,
-            "min_longitude": 13.9910771
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-036",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Idrija",
+        "name": "Ajdov\u0161cina",
         "postal": "036",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "037": {
         "alt_names": [
-            "Ig"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -5164,24 +5164,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.9588213,
-            "longitude": 14.5282718,
-            "max_latitude": 45.9905165,
-            "max_longitude": 14.5590687,
-            "min_latitude": 45.9171235,
-            "min_longitude": 14.5129422
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-037",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Ig",
+        "name": "Ajdov\u0161cina",
         "postal": "037",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "038": {
         "alt_names": [
-            "Ilirska Bistrica"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -5304,24 +5304,24 @@
             "woe_name": "Ilirska Bistrica"
         },
         "geo": {
-            "latitude": 45.570099,
-            "longitude": 14.2418616,
-            "max_latitude": 45.5976891,
-            "max_longitude": 14.3981604,
-            "min_latitude": 45.5553652,
-            "min_longitude": 14.2257751
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-038",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Ilirska Bistrica",
+        "name": "Ajdov\u0161cina",
         "postal": "038",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "039": {
         "alt_names": [
-            "Ivancna Gorica"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -5444,24 +5444,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.9395841,
-            "longitude": 14.8047626,
-            "max_latitude": 45.9464556,
-            "max_longitude": 14.8189485,
-            "min_latitude": 45.9342078,
-            "min_longitude": 14.7943209
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-039",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Ivancna Gorica",
+        "name": "Ajdov\u0161cina",
         "postal": "039",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "040": {
         "alt_names": [
-            "Izola\/Isola"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -5584,24 +5584,24 @@
             "woe_name": "Izola"
         },
         "geo": {
-            "latitude": 45.5374048,
-            "longitude": 13.6600802,
-            "max_latitude": 45.5481856,
-            "max_longitude": 13.6940814,
-            "min_latitude": 45.5142565,
-            "min_longitude": 13.6463316
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-040",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Izola\/Isola",
+        "name": "Ajdov\u0161cina",
         "postal": "040",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "041": {
         "alt_names": [
-            "Jesenice"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -5724,24 +5724,24 @@
             "woe_name": "Jesenice"
         },
         "geo": {
-            "latitude": 46.4367047,
-            "longitude": 14.0526057,
-            "max_latitude": 46.4501715,
-            "max_longitude": 14.0812469,
-            "min_latitude": 46.4210423,
-            "min_longitude": 14.0084605
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-041",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Jesenice",
+        "name": "Ajdov\u0161cina",
         "postal": "041",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "042": {
         "alt_names": [
-            "Jur\u0161inci"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -5864,24 +5864,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.4850899,
-            "longitude": 15.9714564,
-            "max_latitude": 46.5012097,
-            "max_longitude": 15.9925779,
-            "min_latitude": 46.4791653,
-            "min_longitude": 15.9625412
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-042",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Jur\u0161inci",
+        "name": "Ajdov\u0161cina",
         "postal": "042",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "043": {
         "alt_names": [
-            "Kamnik"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -6004,24 +6004,24 @@
             "woe_name": "Kamnik"
         },
         "geo": {
-            "latitude": 46.2221964,
-            "longitude": 14.6072968,
-            "max_latitude": 46.245163,
-            "max_longitude": 14.6428399,
-            "min_latitude": 46.1980487,
-            "min_longitude": 14.5902802
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-043",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Kamnik",
+        "name": "Ajdov\u0161cina",
         "postal": "043",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "044": {
         "alt_names": [
-            "Kanal"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -6144,24 +6144,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.0853803,
-            "longitude": 13.634308,
-            "max_latitude": 46.096127,
-            "max_longitude": 13.6614195,
-            "min_latitude": 46.0728802,
-            "min_longitude": 13.6281754
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-044",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Kanal",
+        "name": "Ajdov\u0161cina",
         "postal": "044",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "045": {
         "alt_names": [
-            "Kidricevo"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -6284,24 +6284,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.4050135,
-            "longitude": 15.7947234,
-            "max_latitude": 46.4248816,
-            "max_longitude": 15.8052251,
-            "min_latitude": 46.3808671,
-            "min_longitude": 15.7747304
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-045",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Kidricevo",
+        "name": "Ajdov\u0161cina",
         "postal": "045",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "046": {
         "alt_names": [
-            "Kobarid"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -6424,24 +6424,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.2476549,
-            "longitude": 13.5791749,
-            "max_latitude": 46.2606825,
-            "max_longitude": 13.5921482,
-            "min_latitude": 46.2271445,
-            "min_longitude": 13.5482611
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-046",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Kobarid",
+        "name": "Ajdov\u0161cina",
         "postal": "046",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "047": {
         "alt_names": [
-            "Kobilje"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -6564,24 +6564,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.68518,
-            "longitude": 16.3936719,
-            "max_latitude": 46.7042549,
-            "max_longitude": 16.4286219,
-            "min_latitude": 46.658474,
-            "min_longitude": 16.3528199
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-047",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Kobilje",
+        "name": "Ajdov\u0161cina",
         "postal": "047",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "048": {
         "alt_names": [
-            "Kocevje"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -6704,24 +6704,24 @@
             "woe_name": "Kocevje"
         },
         "geo": {
-            "latitude": 45.6409009,
-            "longitude": 14.8633128,
-            "max_latitude": 45.6612108,
-            "max_longitude": 14.8861107,
-            "min_latitude": 45.6119211,
-            "min_longitude": 14.8144785
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-048",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Kocevje",
+        "name": "Ajdov\u0161cina",
         "postal": "048",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "049": {
         "alt_names": [
-            "Komen"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -6844,24 +6844,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.8175235,
-            "longitude": 13.7482711,
-            "max_latitude": 45.8425255,
-            "max_longitude": 13.7716317,
-            "min_latitude": 45.8028622,
-            "min_longitude": 13.7290246
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-049",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Komen",
+        "name": "Ajdov\u0161cina",
         "postal": "049",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "050": {
         "alt_names": [
-            "Koper\/Capodistria"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -6984,24 +6984,24 @@
             "woe_name": "Koper"
         },
         "geo": {
-            "latitude": 45.548059,
-            "longitude": 13.7301877,
-            "max_latitude": 45.5576907,
-            "max_longitude": 13.7607302,
-            "min_latitude": 45.5234682,
-            "min_longitude": 13.6895796
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-050",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Koper\/Capodistria",
+        "name": "Ajdov\u0161cina",
         "postal": "050",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "051": {
         "alt_names": [
-            "Kozje"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -7124,24 +7124,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.0733211,
-            "longitude": 15.5596719,
-            "max_latitude": 46.0887294,
-            "max_longitude": 15.5803351,
-            "min_latitude": 46.0549994,
-            "min_longitude": 15.5249249
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-051",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Kozje",
+        "name": "Ajdov\u0161cina",
         "postal": "051",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "052": {
         "alt_names": [
-            "Kranj"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -7264,24 +7264,24 @@
             "woe_name": "Kranj"
         },
         "geo": {
-            "latitude": 46.2428344,
-            "longitude": 14.3555417,
-            "max_latitude": 46.2704589,
-            "max_longitude": 14.3992928,
-            "min_latitude": 46.198773,
-            "min_longitude": 14.3060005
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-052",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Kranj",
+        "name": "Ajdov\u0161cina",
         "postal": "052",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "053": {
         "alt_names": [
-            "Kranjska Gora"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -7404,24 +7404,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.4845293,
-            "longitude": 13.7857145,
-            "max_latitude": 46.5110281,
-            "max_longitude": 13.8151357,
-            "min_latitude": 46.4098216,
-            "min_longitude": 13.7264278
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-053",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Kranjska Gora",
+        "name": "Ajdov\u0161cina",
         "postal": "053",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "054": {
         "alt_names": [
-            "Kr\u0161ko"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -7544,24 +7544,24 @@
             "woe_name": "Krsko"
         },
         "geo": {
-            "latitude": 45.9592256,
-            "longitude": 15.4950212,
-            "max_latitude": 45.9853468,
-            "max_longitude": 15.5130312,
-            "min_latitude": 45.9360264,
-            "min_longitude": 15.4666032
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-054",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Kr\u0161ko",
+        "name": "Ajdov\u0161cina",
         "postal": "054",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "055": {
         "alt_names": [
-            "Kungota"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -7684,24 +7684,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.6418793,
-            "longitude": 15.6036288,
-            "max_latitude": 46.6903706,
-            "max_longitude": 15.6624836,
-            "min_latitude": 46.59235,
-            "min_longitude": 15.5424122
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-055",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Kungota",
+        "name": "Ajdov\u0161cina",
         "postal": "055",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "056": {
         "alt_names": [
-            "Kuzma"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -7824,24 +7824,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.8351038,
-            "longitude": 16.08071,
-            "max_latitude": 46.8532224,
-            "max_longitude": 16.0919423,
-            "min_latitude": 46.8209718,
-            "min_longitude": 16.0643504
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-056",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Kuzma",
+        "name": "Ajdov\u0161cina",
         "postal": "056",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "057": {
         "alt_names": [
-            "La\u0161ko"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -7964,24 +7964,24 @@
             "woe_name": "La\u0161ko"
         },
         "geo": {
-            "latitude": 46.1542793,
-            "longitude": 15.2359978,
-            "max_latitude": 46.1771218,
-            "max_longitude": 15.2548406,
-            "min_latitude": 46.1451113,
-            "min_longitude": 15.2226445
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-057",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "La\u0161ko",
+        "name": "Ajdov\u0161cina",
         "postal": "057",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "058": {
         "alt_names": [
-            "Lenart"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -8104,24 +8104,24 @@
             "woe_name": "Lenart"
         },
         "geo": {
-            "latitude": 46.5954161,
-            "longitude": 15.8637359,
-            "max_latitude": 46.7012008,
-            "max_longitude": 15.9811767,
-            "min_latitude": 46.494476,
-            "min_longitude": 15.7503131
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-058",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Lenart",
+        "name": "Ajdov\u0161cina",
         "postal": "058",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "059": {
         "alt_names": [
-            "Lendava\/Lendva"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -8244,24 +8244,24 @@
             "woe_name": "Lendava"
         },
         "geo": {
-            "latitude": 46.5644783,
-            "longitude": 16.453063,
-            "max_latitude": 46.5751146,
-            "max_longitude": 16.4729848,
-            "min_latitude": 46.5476736,
-            "min_longitude": 16.4138543
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-059",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Lendava\/Lendva",
+        "name": "Ajdov\u0161cina",
         "postal": "059",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "060": {
         "alt_names": [
-            "Litija"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -8384,24 +8384,24 @@
             "woe_name": "Litija"
         },
         "geo": {
-            "latitude": 46.0592305,
-            "longitude": 14.8266015,
-            "max_latitude": 46.073628,
-            "max_longitude": 14.8490818,
-            "min_latitude": 46.0477392,
-            "min_longitude": 14.8034047
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-060",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Litija",
+        "name": "Ajdov\u0161cina",
         "postal": "060",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "061": {
         "alt_names": [
-            "Ljubljana"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -8524,24 +8524,24 @@
             "woe_name": "Ljubljana"
         },
         "geo": {
-            "latitude": 46.0569465,
-            "longitude": 14.5057515,
-            "max_latitude": 46.1422017,
-            "max_longitude": 14.6446963,
-            "min_latitude": 45.990033,
-            "min_longitude": 14.4195019
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-061",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Ljubljana",
+        "name": "Ajdov\u0161cina",
         "postal": "061",
         "type": "Statisticna Regije",
         "type_en": "Statistical Region"
     },
     "062": {
         "alt_names": [
-            "Ljubno"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -8664,24 +8664,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.3135835,
-            "longitude": 14.2458583,
-            "max_latitude": 46.3223771,
-            "max_longitude": 14.2670191,
-            "min_latitude": 46.2969027,
-            "min_longitude": 14.2379746
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-062",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Ljubno",
+        "name": "Ajdov\u0161cina",
         "postal": "062",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "063": {
         "alt_names": [
-            "Ljutomer"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -8804,24 +8804,24 @@
             "woe_name": "Ljutomer"
         },
         "geo": {
-            "latitude": 46.5193583,
-            "longitude": 16.197814,
-            "max_latitude": 46.5448579,
-            "max_longitude": 16.2174697,
-            "min_latitude": 46.5052073,
-            "min_longitude": 16.167963
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-063",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Ljutomer",
+        "name": "Ajdov\u0161cina",
         "postal": "063",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "064": {
         "alt_names": [
-            "Logatec"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -8944,24 +8944,24 @@
             "woe_name": "Logatec"
         },
         "geo": {
-            "latitude": 45.9170819,
-            "longitude": 14.2285582,
-            "max_latitude": 45.9531231,
-            "max_longitude": 14.2955564,
-            "min_latitude": 45.8844378,
-            "min_longitude": 14.1717294
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-064",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Logatec",
+        "name": "Ajdov\u0161cina",
         "postal": "064",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "065": {
         "alt_names": [
-            "Lo\u0161ka dolina"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -9084,24 +9084,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.6477908,
-            "longitude": 14.4973147,
-            "max_latitude": 45.7490038,
-            "max_longitude": 14.5701394,
-            "min_latitude": 45.5796949,
-            "min_longitude": 14.3794264
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-065",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Lo\u0161ka dolina",
+        "name": "Ajdov\u0161cina",
         "postal": "065",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "066": {
         "alt_names": [
-            "Lo\u0161ki Potok"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -9224,24 +9224,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.664967,
-            "longitude": 14.6622265,
-            "max_latitude": 45.7436929,
-            "max_longitude": 14.7350609,
-            "min_latitude": 45.5813591,
-            "min_longitude": 14.5375037
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-066",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Lo\u0161ki Potok",
+        "name": "Ajdov\u0161cina",
         "postal": "066",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "067": {
         "alt_names": [
-            "Luce"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -9364,24 +9364,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.3548721,
-            "longitude": 14.7458015,
-            "max_latitude": 46.3590009,
-            "max_longitude": 14.7482263,
-            "min_latitude": 46.3527647,
-            "min_longitude": 14.7346965
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-067",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Luce",
+        "name": "Ajdov\u0161cina",
         "postal": "067",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "068": {
         "alt_names": [
-            "Lukovica"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -9504,24 +9504,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.1696293,
-            "longitude": 14.6907259,
-            "max_latitude": 46.1794056,
-            "max_longitude": 14.7040913,
-            "min_latitude": 46.1629481,
-            "min_longitude": 14.6788945
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-068",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Lukovica",
+        "name": "Ajdov\u0161cina",
         "postal": "068",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "069": {
         "alt_names": [
-            "Maj\u0161perk"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -9644,24 +9644,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.3503019,
-            "longitude": 15.7340595,
-            "max_latitude": 46.3584699,
-            "max_longitude": 15.7457981,
-            "min_latitude": 46.3405229,
-            "min_longitude": 15.7208665
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-069",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Maj\u0161perk",
+        "name": "Ajdov\u0161cina",
         "postal": "069",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "070": {
         "alt_names": [
-            "Maribor"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -9784,24 +9784,24 @@
             "woe_name": "Maribor"
         },
         "geo": {
-            "latitude": 46.5546503,
-            "longitude": 15.6458812,
-            "max_latitude": 46.5953649,
-            "max_longitude": 15.700245,
-            "min_latitude": 46.5117149,
-            "min_longitude": 15.5888547
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-070",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Maribor",
+        "name": "Ajdov\u0161cina",
         "postal": "070",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "071": {
         "alt_names": [
-            "Medvode"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -9924,24 +9924,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.1413926,
-            "longitude": 14.411347,
-            "max_latitude": 46.1553266,
-            "max_longitude": 14.4318997,
-            "min_latitude": 46.1226836,
-            "min_longitude": 14.3930648
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-071",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Medvode",
+        "name": "Ajdov\u0161cina",
         "postal": "071",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "072": {
         "alt_names": [
-            "Menge\u0161"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -10064,24 +10064,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.1659122,
-            "longitude": 14.5719694,
-            "max_latitude": 46.1957794,
-            "max_longitude": 14.5928141,
-            "min_latitude": 46.1406997,
-            "min_longitude": 14.5137529
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-072",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Menge\u0161",
+        "name": "Ajdov\u0161cina",
         "postal": "072",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "073": {
         "alt_names": [
-            "Metlika"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -10204,24 +10204,24 @@
             "woe_name": "Metlika"
         },
         "geo": {
-            "latitude": 45.6473994,
-            "longitude": 15.3176752,
-            "max_latitude": 45.6678447,
-            "max_longitude": 15.3524822,
-            "min_latitude": 45.6331496,
-            "min_longitude": 15.2820696
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-073",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Metlika",
+        "name": "Ajdov\u0161cina",
         "postal": "073",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "074": {
         "alt_names": [
-            "Me\u017eica"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -10344,24 +10344,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.5214145,
-            "longitude": 14.8523952,
-            "max_latitude": 46.5276309,
-            "max_longitude": 14.867506,
-            "min_latitude": 46.5095402,
-            "min_longitude": 14.8422086
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-074",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Me\u017eica",
+        "name": "Ajdov\u0161cina",
         "postal": "074",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "075": {
         "alt_names": [
-            "Miren-Kostanjevica"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -10484,24 +10484,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.8436029,
-            "longitude": 13.6276647,
-            "max_latitude": 45.9038824,
-            "max_longitude": 13.71941,
-            "min_latitude": 45.8158667,
-            "min_longitude": 13.5744186
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-075",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Miren-Kostanjevica",
+        "name": "Ajdov\u0161cina",
         "postal": "075",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "076": {
         "alt_names": [
-            "Mislinja"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -10624,24 +10624,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.4439734,
-            "longitude": 15.1985947,
-            "max_latitude": 46.4963761,
-            "max_longitude": 15.3282435,
-            "min_latitude": 46.4278601,
-            "min_longitude": 15.1504946
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-076",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Mislinja",
+        "name": "Ajdov\u0161cina",
         "postal": "076",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "077": {
         "alt_names": [
-            "Moravce"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -10764,24 +10764,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.1357218,
-            "longitude": 14.7444352,
-            "max_latitude": 46.1442446,
-            "max_longitude": 14.7557551,
-            "min_latitude": 46.1250171,
-            "min_longitude": 14.7283915
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-077",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Moravce",
+        "name": "Ajdov\u0161cina",
         "postal": "077",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "078": {
         "alt_names": [
-            "Moravske Toplice"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -10904,24 +10904,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.6856932,
-            "longitude": 16.2224582,
-            "max_latitude": 46.7265446,
-            "max_longitude": 16.2623714,
-            "min_latitude": 46.6780051,
-            "min_longitude": 16.2059497
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-078",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Moravske Toplice",
+        "name": "Ajdov\u0161cina",
         "postal": "078",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "079": {
         "alt_names": [
-            "Mozirje"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -11044,24 +11044,24 @@
             "woe_name": "Mozirje"
         },
         "geo": {
-            "latitude": 46.3392772,
-            "longitude": 14.9599807,
-            "max_latitude": 46.3516621,
-            "max_longitude": 14.9753351,
-            "min_latitude": 46.3253918,
-            "min_longitude": 14.9433924
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-079",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Mozirje",
+        "name": "Ajdov\u0161cina",
         "postal": "079",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "080": {
         "alt_names": [
-            "Murska Sobota"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -11184,24 +11184,24 @@
             "woe_name": "Murska Sobota"
         },
         "geo": {
-            "latitude": 46.6581381,
-            "longitude": 16.1610293,
-            "max_latitude": 46.6840267,
-            "max_longitude": 16.2032004,
-            "min_latitude": 46.6226685,
-            "min_longitude": 16.1393097
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-080",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Murska Sobota",
+        "name": "Ajdov\u0161cina",
         "postal": "080",
         "type": "Statisticna Regije",
         "type_en": "Statistical Region"
     },
     "081": {
         "alt_names": [
-            "Muta"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -11324,24 +11324,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.6097366,
-            "longitude": 15.1629994,
-            "max_latitude": 46.6192274,
-            "max_longitude": 15.1772468,
-            "min_latitude": 46.5915292,
-            "min_longitude": 15.1346814
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-081",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Muta",
+        "name": "Ajdov\u0161cina",
         "postal": "081",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "082": {
         "alt_names": [
-            "Naklo"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -11464,24 +11464,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.2718663,
-            "longitude": 14.3156932,
-            "max_latitude": 46.2859105,
-            "max_longitude": 14.3292088,
-            "min_latitude": 46.2609036,
-            "min_longitude": 14.2762726
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-082",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Naklo",
+        "name": "Ajdov\u0161cina",
         "postal": "082",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "083": {
         "alt_names": [
-            "Nazarje"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -11604,24 +11604,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.3179494,
-            "longitude": 14.9470385,
-            "max_latitude": 46.3264519,
-            "max_longitude": 14.9579734,
-            "min_latitude": 46.3150209,
-            "min_longitude": 14.9376884
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-083",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Nazarje",
+        "name": "Ajdov\u0161cina",
         "postal": "083",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "084": {
         "alt_names": [
-            "Nova Gorica"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -11744,24 +11744,24 @@
             "woe_name": "Nova Gorica"
         },
         "geo": {
-            "latitude": 45.9549755,
-            "longitude": 13.6493044,
-            "max_latitude": 45.9668771,
-            "max_longitude": 13.6625232,
-            "min_latitude": 45.9457426,
-            "min_longitude": 13.6335026
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-084",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Nova Gorica",
+        "name": "Ajdov\u0161cina",
         "postal": "084",
         "type": "Statisticna Regije",
         "type_en": "Statistical Region"
     },
     "085": {
         "alt_names": [
-            "Novo mesto"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -11884,24 +11884,24 @@
             "woe_name": "Novo Mesto"
         },
         "geo": {
-            "latitude": 45.8010824,
-            "longitude": 15.1710089,
-            "max_latitude": 45.8389841,
-            "max_longitude": 15.2119462,
-            "min_latitude": 45.7681929,
-            "min_longitude": 15.127425
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-085",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Novo mesto",
+        "name": "Ajdov\u0161cina",
         "postal": "085",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "086": {
         "alt_names": [
-            "Odranci"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -12024,24 +12024,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.5847279,
-            "longitude": 16.2762351,
-            "max_latitude": 46.6016558,
-            "max_longitude": 16.2985609,
-            "min_latitude": 46.5687786,
-            "min_longitude": 16.2506427
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-086",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Odranci",
+        "name": "Ajdov\u0161cina",
         "postal": "086",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "087": {
         "alt_names": [
-            "Ormo\u017e"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -12164,24 +12164,24 @@
             "woe_name": "Ormo\u017e"
         },
         "geo": {
-            "latitude": 46.4086282,
-            "longitude": 16.1508154,
-            "max_latitude": 46.4156206,
-            "max_longitude": 16.1776242,
-            "min_latitude": 46.3940475,
-            "min_longitude": 16.128301
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-087",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Ormo\u017e",
+        "name": "Ajdov\u0161cina",
         "postal": "087",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "089": {
         "alt_names": [
-            "Pesnica"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -12304,24 +12304,24 @@
             "woe_name": "Pesnica"
         },
         "geo": {
-            "latitude": 46.6373877,
-            "longitude": 15.5543464,
-            "max_latitude": 46.6487427,
-            "max_longitude": 15.5811768,
-            "min_latitude": 46.6278036,
-            "min_longitude": 15.5424122
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-089",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Pesnica",
+        "name": "Ajdov\u0161cina",
         "postal": "089",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "090": {
         "alt_names": [
-            "Piran\/Pirano"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -12444,24 +12444,24 @@
             "woe_name": "Piran"
         },
         "geo": {
-            "latitude": 45.528319,
-            "longitude": 13.5682895,
-            "max_latitude": 45.5306107,
-            "max_longitude": 13.5752889,
-            "min_latitude": 45.5174117,
-            "min_longitude": 13.5628854
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-090",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Piran\/Pirano",
+        "name": "Ajdov\u0161cina",
         "postal": "090",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "091": {
         "alt_names": [
-            "Pivka"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -12584,24 +12584,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.6825301,
-            "longitude": 14.1960582,
-            "max_latitude": 45.6911654,
-            "max_longitude": 14.2213455,
-            "min_latitude": 45.6622463,
-            "min_longitude": 14.1734865
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-091",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Pivka",
+        "name": "Ajdov\u0161cina",
         "postal": "091",
         "type": "Statisticna Regije",
         "type_en": "Statistical Region"
     },
     "092": {
         "alt_names": [
-            "Podcetrtek"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -12724,24 +12724,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.1559752,
-            "longitude": 15.5975783,
-            "max_latitude": 46.1729841,
-            "max_longitude": 15.6142634,
-            "min_latitude": 46.1449628,
-            "min_longitude": 15.5724693
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-092",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Podcetrtek",
+        "name": "Ajdov\u0161cina",
         "postal": "092",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "093": {
         "alt_names": [
-            "Podvelka"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -12864,24 +12864,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.5903517,
-            "longitude": 15.3310343,
-            "max_latitude": 46.5930529,
-            "max_longitude": 15.3532612,
-            "min_latitude": 46.562105,
-            "min_longitude": 15.3199505
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-093",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Podvelka",
+        "name": "Ajdov\u0161cina",
         "postal": "093",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "094": {
         "alt_names": [
-            "Postojna"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -13004,24 +13004,24 @@
             "woe_name": "Postojna"
         },
         "geo": {
-            "latitude": 45.7749704,
-            "longitude": 14.2133245,
-            "max_latitude": 45.8089095,
-            "max_longitude": 14.326014,
-            "min_latitude": 45.7388591,
-            "min_longitude": 14.1801071
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-094",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Postojna",
+        "name": "Ajdov\u0161cina",
         "postal": "094",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "095": {
         "alt_names": [
-            "Preddvor"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -13144,24 +13144,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.3017155,
-            "longitude": 14.4216753,
-            "max_latitude": 46.3094882,
-            "max_longitude": 14.4268728,
-            "min_latitude": 46.2947993,
-            "min_longitude": 14.4063767
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-095",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Preddvor",
+        "name": "Ajdov\u0161cina",
         "postal": "095",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "096": {
         "alt_names": [
-            "Ptuj"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -13284,24 +13284,24 @@
             "woe_name": "Ptuj"
         },
         "geo": {
-            "latitude": 46.4199535,
-            "longitude": 15.8696884,
-            "max_latitude": 46.4587718,
-            "max_longitude": 15.9180402,
-            "min_latitude": 46.3856254,
-            "min_longitude": 15.8237933
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-096",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Ptuj",
+        "name": "Ajdov\u0161cina",
         "postal": "096",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "097": {
         "alt_names": [
-            "Puconci"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -13424,24 +13424,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.7046395,
-            "longitude": 16.1572755,
-            "max_latitude": 46.7195726,
-            "max_longitude": 16.1766865,
-            "min_latitude": 46.684222,
-            "min_longitude": 16.1457567
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-097",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Puconci",
+        "name": "Ajdov\u0161cina",
         "postal": "097",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "098": {
         "alt_names": [
-            "Race-Fram"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -13564,24 +13564,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.4552612,
-            "longitude": 15.6389275,
-            "max_latitude": 46.4661091,
-            "max_longitude": 15.6586513,
-            "min_latitude": 46.4427643,
-            "min_longitude": 15.6198414
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-098",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Race-Fram",
+        "name": "Ajdov\u0161cina",
         "postal": "098",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "099": {
         "alt_names": [
-            "Radece"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -13704,24 +13704,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.0655001,
-            "longitude": 15.1821191,
-            "max_latitude": 46.0804612,
-            "max_longitude": 15.1952936,
-            "min_latitude": 46.0587423,
-            "min_longitude": 15.1550379
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-099",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Radece",
+        "name": "Ajdov\u0161cina",
         "postal": "099",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "100": {
         "alt_names": [
-            "Radenci"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -13844,24 +13844,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.6439196,
-            "longitude": 16.0402676,
-            "max_latitude": 46.6494227,
-            "max_longitude": 16.0574762,
-            "min_latitude": 46.6255604,
-            "min_longitude": 16.0276807
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-100",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Radenci",
+        "name": "Ajdov\u0161cina",
         "postal": "100",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "101": {
         "alt_names": [
-            "Radlje ob Dravi"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -13984,24 +13984,24 @@
             "woe_name": "Radlje ob Dravi"
         },
         "geo": {
-            "latitude": 46.614358,
-            "longitude": 15.2255472,
-            "max_latitude": 46.6191192,
-            "max_longitude": 15.2356657,
-            "min_latitude": 46.6070295,
-            "min_longitude": 15.2033572
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-101",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Radlje ob Dravi",
+        "name": "Ajdov\u0161cina",
         "postal": "101",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "102": {
         "alt_names": [
-            "Radovljica"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -14124,24 +14124,24 @@
             "woe_name": "Radovljica"
         },
         "geo": {
-            "latitude": 46.3437361,
-            "longitude": 14.1740042,
-            "max_latitude": 46.3553924,
-            "max_longitude": 14.1977016,
-            "min_latitude": 46.3284814,
-            "min_longitude": 14.1554444
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-102",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Radovljica",
+        "name": "Ajdov\u0161cina",
         "postal": "102",
         "type": "Statisticna Regije",
         "type_en": "Statistical Region"
     },
     "103": {
         "alt_names": [
-            "Ravne na Koro\u0161kem"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -14264,24 +14264,24 @@
             "woe_name": "Ravne na Koro\u0161kem"
         },
         "geo": {
-            "latitude": 46.5448323,
-            "longitude": 14.9660445,
-            "max_latitude": 46.5489776,
-            "max_longitude": 14.9775721,
-            "min_latitude": 46.5341932,
-            "min_longitude": 14.9472544
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-103",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Ravne na Koro\u0161kem",
+        "name": "Ajdov\u0161cina",
         "postal": "103",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "104": {
         "alt_names": [
-            "Ribnica"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -14404,24 +14404,24 @@
             "woe_name": "Ribnica"
         },
         "geo": {
-            "latitude": 45.7400303,
-            "longitude": 14.7265782,
-            "max_latitude": 45.7731152,
-            "max_longitude": 14.7646492,
-            "min_latitude": 45.7043966,
-            "min_longitude": 14.6829771
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-104",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Ribnica",
+        "name": "Ajdov\u0161cina",
         "postal": "104",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "105": {
         "alt_names": [
-            "Roga\u0161ovci"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -14544,24 +14544,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.8055785,
-            "longitude": 16.0345237,
-            "max_latitude": 46.8129722,
-            "max_longitude": 16.0586442,
-            "min_latitude": 46.7966818,
-            "min_longitude": 16.0035833
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-105",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Roga\u0161ovci",
+        "name": "Ajdov\u0161cina",
         "postal": "105",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "106": {
         "alt_names": [
-            "Roga\u0161ka Slatina"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -14684,24 +14684,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.2331941,
-            "longitude": 15.6378802,
-            "max_latitude": 46.2490379,
-            "max_longitude": 15.6545818,
-            "min_latitude": 46.215743,
-            "min_longitude": 15.6180735
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-106",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Roga\u0161ka Slatina",
+        "name": "Ajdov\u0161cina",
         "postal": "106",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "107": {
         "alt_names": [
-            "Rogatec"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -14824,24 +14824,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.2258891,
-            "longitude": 15.7000313,
-            "max_latitude": 46.240435,
-            "max_longitude": 15.7396848,
-            "min_latitude": 46.2198708,
-            "min_longitude": 15.6835002
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-107",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Rogatec",
+        "name": "Ajdov\u0161cina",
         "postal": "107",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "108": {
         "alt_names": [
-            "Ru\u0161e"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -14964,24 +14964,24 @@
             "woe_name": "Ru\u0161e"
         },
         "geo": {
-            "latitude": 46.5399962,
-            "longitude": 15.5073987,
-            "max_latitude": 46.5540659,
-            "max_longitude": 15.5300521,
-            "min_latitude": 46.5305317,
-            "min_longitude": 15.4850029
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-108",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Ru\u0161e",
+        "name": "Ajdov\u0161cina",
         "postal": "108",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "109": {
         "alt_names": [
-            "Semic"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -15104,24 +15104,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.6520534,
-            "longitude": 15.1820701,
-            "max_latitude": 45.668519,
-            "max_longitude": 15.2062962,
-            "min_latitude": 45.62552,
-            "min_longitude": 15.1472437
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-109",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Semic",
+        "name": "Ajdov\u0161cina",
         "postal": "109",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "110": {
         "alt_names": [
-            "Sevnica"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -15244,24 +15244,24 @@
             "woe_name": "Sevnica"
         },
         "geo": {
-            "latitude": 46.0129508,
-            "longitude": 15.2979868,
-            "max_latitude": 46.0263166,
-            "max_longitude": 15.3319916,
-            "min_latitude": 46.0033516,
-            "min_longitude": 15.2884441
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-110",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Sevnica",
+        "name": "Ajdov\u0161cina",
         "postal": "110",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "111": {
         "alt_names": [
-            "Se\u017eana"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -15384,24 +15384,24 @@
             "woe_name": "Se\u017eana"
         },
         "geo": {
-            "latitude": 45.7093519,
-            "longitude": 13.8738185,
-            "max_latitude": 45.7290231,
-            "max_longitude": 13.8946603,
-            "min_latitude": 45.6805328,
-            "min_longitude": 13.8292526
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-111",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Se\u017eana",
+        "name": "Ajdov\u0161cina",
         "postal": "111",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "112": {
         "alt_names": [
-            "Slovenj Gradec"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -15524,24 +15524,24 @@
             "woe_name": "Slovenj Gradec"
         },
         "geo": {
-            "latitude": 46.5075851,
-            "longitude": 15.0768162,
-            "max_latitude": 46.5183186,
-            "max_longitude": 15.1006887,
-            "min_latitude": 46.4874225,
-            "min_longitude": 15.056726
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-112",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Slovenj Gradec",
+        "name": "Ajdov\u0161cina",
         "postal": "112",
         "type": "Statisticna Regije",
         "type_en": "Statistical Region"
     },
     "113": {
         "alt_names": [
-            "Slovenska Bistrica"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -15664,24 +15664,24 @@
             "woe_name": "Slovenska Bistrica"
         },
         "geo": {
-            "latitude": 46.3919813,
-            "longitude": 15.5727868,
-            "max_latitude": 46.4034978,
-            "max_longitude": 15.5960519,
-            "min_latitude": 46.3749754,
-            "min_longitude": 15.5426134
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-113",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Slovenska Bistrica",
+        "name": "Ajdov\u0161cina",
         "postal": "113",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "114": {
         "alt_names": [
-            "Slovenske Konjice"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -15804,24 +15804,24 @@
             "woe_name": "Slovenske Konjice"
         },
         "geo": {
-            "latitude": 46.3369191,
-            "longitude": 15.4214708,
-            "max_latitude": 46.3451701,
-            "max_longitude": 15.4486172,
-            "min_latitude": 46.3302031,
-            "min_longitude": 15.4101433
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-114",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Slovenske Konjice",
+        "name": "Ajdov\u0161cina",
         "postal": "114",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "115": {
         "alt_names": [
-            "Star\u0161e"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -15944,24 +15944,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.4674331,
-            "longitude": 15.7640547,
-            "max_latitude": 46.4813213,
-            "max_longitude": 15.7884309,
-            "min_latitude": 46.4546657,
-            "min_longitude": 15.7470676
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-115",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Star\u0161e",
+        "name": "Ajdov\u0161cina",
         "postal": "115",
         "type": "Statisticna Regije",
         "type_en": "Statistical Region"
     },
     "116": {
         "alt_names": [
-            "Sveti Jurij"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -16084,24 +16084,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.8016061,
-            "longitude": 16.0368654,
-            "max_latitude": 46.8055527,
-            "max_longitude": 16.0584371,
-            "min_latitude": 46.7860315,
-            "min_longitude": 16.0083605
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-116",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Sveti Jurij",
+        "name": "Ajdov\u0161cina",
         "postal": "116",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "117": {
         "alt_names": [
-            "\u0160encur"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -16224,24 +16224,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.2433699,
-            "longitude": 14.4192223,
-            "max_latitude": 46.2542542,
-            "max_longitude": 14.4447634,
-            "min_latitude": 46.2210118,
-            "min_longitude": 14.396405
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-117",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "\u0160encur",
+        "name": "Ajdov\u0161cina",
         "postal": "117",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "118": {
         "alt_names": [
-            "\u0160entilj"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -16364,24 +16364,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.6862839,
-            "longitude": 15.7103566,
-            "max_latitude": 46.7074672,
-            "max_longitude": 15.8059742,
-            "min_latitude": 46.6317092,
-            "min_longitude": 15.6207647
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-118",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "\u0160entilj",
+        "name": "Ajdov\u0161cina",
         "postal": "118",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "119": {
         "alt_names": [
-            "\u0160entjernej"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -16504,24 +16504,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.843413,
-            "longitude": 15.3378312,
-            "max_latitude": 45.8503768,
-            "max_longitude": 15.3516799,
-            "min_latitude": 45.8343709,
-            "min_longitude": 15.3294207
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-119",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "\u0160entjernej",
+        "name": "Ajdov\u0161cina",
         "postal": "119",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "120": {
         "alt_names": [
-            "\u0160entjur pri Celju"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -16644,24 +16644,24 @@
             "woe_name": "\u0160entjur pri Celju"
         },
         "geo": {
-            "latitude": 46.1425286,
-            "longitude": 15.4473443,
-            "max_latitude": 46.3118567,
-            "max_longitude": 15.5358711,
-            "min_latitude": 46.0655551,
-            "min_longitude": 15.3301529
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-120",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "\u0160entjur pri Celju",
+        "name": "Ajdov\u0161cina",
         "postal": "120",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "121": {
         "alt_names": [
-            "\u0160kocjan"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -16784,24 +16784,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.9072257,
-            "longitude": 15.292258,
-            "max_latitude": 45.9128124,
-            "max_longitude": 15.2965868,
-            "min_latitude": 45.8978091,
-            "min_longitude": 15.2679185
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-121",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "\u0160kocjan",
+        "name": "Ajdov\u0161cina",
         "postal": "121",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "122": {
         "alt_names": [
-            "\u0160kofja Loka"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -16924,24 +16924,24 @@
             "woe_name": "\u0160kofja Loka"
         },
         "geo": {
-            "latitude": 46.1671294,
-            "longitude": 14.3058337,
-            "max_latitude": 46.1796641,
-            "max_longitude": 14.3454528,
-            "min_latitude": 46.1543495,
-            "min_longitude": 14.2863019
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-122",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "\u0160kofja Loka",
+        "name": "Ajdov\u0161cina",
         "postal": "122",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "123": {
         "alt_names": [
-            "\u0160kofljica"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -17064,24 +17064,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.9859651,
-            "longitude": 14.5721903,
-            "max_latitude": 45.9968959,
-            "max_longitude": 14.5893571,
-            "min_latitude": 45.9709285,
-            "min_longitude": 14.5509336
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-123",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "\u0160kofljica",
+        "name": "Ajdov\u0161cina",
         "postal": "123",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "124": {
         "alt_names": [
-            "\u0160marje pri Jel\u0161ah"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -17204,24 +17204,24 @@
             "woe_name": "\u0160marje pri Jel\u0161ah"
         },
         "geo": {
-            "latitude": 46.2287025,
-            "longitude": 15.5190353,
-            "max_latitude": 46.2359701,
-            "max_longitude": 15.5324245,
-            "min_latitude": 46.2236306,
-            "min_longitude": 15.5001446
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-124",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "\u0160marje pri Jel\u0161ah",
+        "name": "Ajdov\u0161cina",
         "postal": "124",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "125": {
         "alt_names": [
-            "\u0160martno ob Paki"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -17344,24 +17344,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.3290372,
-            "longitude": 15.0333937,
-            "max_latitude": 46.3375545,
-            "max_longitude": 15.0429404,
-            "min_latitude": 46.3243351,
-            "min_longitude": 15.0239169
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-125",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "\u0160martno ob Paki",
+        "name": "Ajdov\u0161cina",
         "postal": "125",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "126": {
         "alt_names": [
-            "\u0160o\u0161tanj"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -17484,24 +17484,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.3782836,
-            "longitude": 15.0461378,
-            "max_latitude": 46.390128,
-            "max_longitude": 15.0592616,
-            "min_latitude": 46.3678584,
-            "min_longitude": 15.0245747
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-126",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "\u0160o\u0161tanj",
+        "name": "Ajdov\u0161cina",
         "postal": "126",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "127": {
         "alt_names": [
-            "\u0160tore"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -17624,24 +17624,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.2205619,
-            "longitude": 15.3154297,
-            "max_latitude": 46.2332033,
-            "max_longitude": 15.332858,
-            "min_latitude": 46.2155242,
-            "min_longitude": 15.3019398
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-127",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "\u0160tore",
+        "name": "Ajdov\u0161cina",
         "postal": "127",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "128": {
         "alt_names": [
-            "Tolmin"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -17764,24 +17764,24 @@
             "woe_name": "Tolmin"
         },
         "geo": {
-            "latitude": 46.1857188,
-            "longitude": 13.7319838,
-            "max_latitude": 46.192658,
-            "max_longitude": 13.7411589,
-            "min_latitude": 46.1730367,
-            "min_longitude": 13.7133538
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-128",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Tolmin",
+        "name": "Ajdov\u0161cina",
         "postal": "128",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "129": {
         "alt_names": [
-            "Trbovlje"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -17904,24 +17904,24 @@
             "woe_name": "Trbovlje"
         },
         "geo": {
-            "latitude": 46.1503563,
-            "longitude": 15.0453138,
-            "max_latitude": 46.1716084,
-            "max_longitude": 15.0648983,
-            "min_latitude": 46.1139747,
-            "min_longitude": 15.0132381
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-129",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Trbovlje",
+        "name": "Ajdov\u0161cina",
         "postal": "129",
         "type": "Statisticna Regije",
         "type_en": "Statistical Region"
     },
     "130": {
         "alt_names": [
-            "Trebnje"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -18044,24 +18044,24 @@
             "woe_name": "Trebnje"
         },
         "geo": {
-            "latitude": 45.9081708,
-            "longitude": 15.0125985,
-            "max_latitude": 45.9228233,
-            "max_longitude": 15.0344809,
-            "min_latitude": 45.8970172,
-            "min_longitude": 14.9921395
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-130",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Trebnje",
+        "name": "Ajdov\u0161cina",
         "postal": "130",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "131": {
         "alt_names": [
-            "Tr\u017eic"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -18184,24 +18184,24 @@
             "woe_name": "Tr\u017ei\u010d"
         },
         "geo": {
-            "latitude": 46.3621517,
-            "longitude": 14.3083372,
-            "max_latitude": 46.382076,
-            "max_longitude": 14.3356295,
-            "min_latitude": 46.3507707,
-            "min_longitude": 14.2912574
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-131",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Tr\u017eic",
+        "name": "Ajdov\u0161cina",
         "postal": "131",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "132": {
         "alt_names": [
-            "Turni\u0161ce"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -18324,24 +18324,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.625456,
-            "longitude": 16.3144961,
-            "max_latitude": 46.6432698,
-            "max_longitude": 16.3358325,
-            "min_latitude": 46.6098349,
-            "min_longitude": 16.2645197
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-132",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Turni\u0161ce",
+        "name": "Ajdov\u0161cina",
         "postal": "132",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "133": {
         "alt_names": [
-            "Velenje"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -18464,24 +18464,24 @@
             "woe_name": "Velenje"
         },
         "geo": {
-            "latitude": 46.3622743,
-            "longitude": 15.1106582,
-            "max_latitude": 46.3809067,
-            "max_longitude": 15.1443209,
-            "min_latitude": 46.346456,
-            "min_longitude": 15.0634323
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-133",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Velenje",
+        "name": "Ajdov\u0161cina",
         "postal": "133",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "134": {
         "alt_names": [
-            "Velike La\u0161ce"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -18604,24 +18604,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.8336591,
-            "longitude": 14.6362363,
-            "max_latitude": 45.850463,
-            "max_longitude": 14.6703333,
-            "min_latitude": 45.8210074,
-            "min_longitude": 14.6151067
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-134",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Velike La\u0161ce",
+        "name": "Ajdov\u0161cina",
         "postal": "134",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "135": {
         "alt_names": [
-            "Videm"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -18744,24 +18744,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.8490426,
-            "longitude": 14.6947037,
-            "max_latitude": 45.856063,
-            "max_longitude": 14.7065854,
-            "min_latitude": 45.8407962,
-            "min_longitude": 14.6668756
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-135",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Videm",
+        "name": "Ajdov\u0161cina",
         "postal": "135",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "136": {
         "alt_names": [
-            "Vipava"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -18884,24 +18884,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.8455744,
-            "longitude": 13.9625431,
-            "max_latitude": 45.8606021,
-            "max_longitude": 13.9871222,
-            "min_latitude": 45.8185959,
-            "min_longitude": 13.9441306
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-136",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Vipava",
+        "name": "Ajdov\u0161cina",
         "postal": "136",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "137": {
         "alt_names": [
-            "Vitanje"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -19024,24 +19024,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.3815074,
-            "longitude": 15.2950333,
-            "max_latitude": 46.3899328,
-            "max_longitude": 15.3071957,
-            "min_latitude": 46.369059,
-            "min_longitude": 15.2761003
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-137",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Vitanje",
+        "name": "Ajdov\u0161cina",
         "postal": "137",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "138": {
         "alt_names": [
-            "Vodice"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -19164,24 +19164,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.1896643,
-            "longitude": 14.493854,
-            "max_latitude": 46.2058137,
-            "max_longitude": 14.5083227,
-            "min_latitude": 46.1795832,
-            "min_longitude": 14.459533
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-138",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Vodice",
+        "name": "Ajdov\u0161cina",
         "postal": "138",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "139": {
         "alt_names": [
-            "Vojnik"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -19304,24 +19304,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.2920581,
-            "longitude": 15.302058,
-            "max_latitude": 46.3003366,
-            "max_longitude": 15.3221094,
-            "min_latitude": 46.2726675,
-            "min_longitude": 15.284065
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-139",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Vojnik",
+        "name": "Ajdov\u0161cina",
         "postal": "139",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "140": {
         "alt_names": [
-            "Vrhnika"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -19444,24 +19444,24 @@
             "woe_name": "Vrhnika"
         },
         "geo": {
-            "latitude": 45.966583,
-            "longitude": 14.2973873,
-            "max_latitude": 45.9783576,
-            "max_longitude": 14.3161392,
-            "min_latitude": 45.9045486,
-            "min_longitude": 14.2396743
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-140",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Vrhnika",
+        "name": "Ajdov\u0161cina",
         "postal": "140",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "141": {
         "alt_names": [
-            "Vuzenica"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -19584,24 +19584,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.5980836,
-            "longitude": 15.1657237,
-            "max_latitude": 46.6124685,
-            "max_longitude": 15.1829375,
-            "min_latitude": 46.5769963,
-            "min_longitude": 15.1412488
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-141",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Vuzenica",
+        "name": "Ajdov\u0161cina",
         "postal": "141",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "143": {
         "alt_names": [
-            "Zavrc"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -19724,24 +19724,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.3856393,
-            "longitude": 16.0470768,
-            "max_latitude": 46.392795,
-            "max_longitude": 16.0559568,
-            "min_latitude": 46.3813522,
-            "min_longitude": 16.0254542
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-143",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Zavrc",
+        "name": "Ajdov\u0161cina",
         "postal": "143",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "144": {
         "alt_names": [
-            "Zrece"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -19864,24 +19864,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.3696591,
-            "longitude": 15.3918526,
-            "max_latitude": 46.3891589,
-            "max_longitude": 15.4118749,
-            "min_latitude": 46.3623322,
-            "min_longitude": 15.3599061
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-144",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Zrece",
+        "name": "Ajdov\u0161cina",
         "postal": "144",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "146": {
         "alt_names": [
-            "\u017delezniki"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -20004,24 +20004,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.22544,
-            "longitude": 14.1692478,
-            "max_latitude": 46.2399012,
-            "max_longitude": 14.1769495,
-            "min_latitude": 46.1989371,
-            "min_longitude": 14.0979763
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-146",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "\u017delezniki",
+        "name": "Ajdov\u0161cina",
         "postal": "146",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "147": {
         "alt_names": [
-            "\u017diri"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -20144,24 +20144,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.0513094,
-            "longitude": 14.111887,
-            "max_latitude": 46.0671155,
-            "max_longitude": 14.1330883,
-            "min_latitude": 46.0305451,
-            "min_longitude": 14.0769395
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-147",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "\u017diri",
+        "name": "Ajdov\u0161cina",
         "postal": "147",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "148": {
         "alt_names": [
-            "Benedikt"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -20284,24 +20284,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.6075732,
-            "longitude": 15.8896942,
-            "max_latitude": 46.6257351,
-            "max_longitude": 15.9011585,
-            "min_latitude": 46.5930314,
-            "min_longitude": 15.8639755
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-148",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Benedikt",
+        "name": "Ajdov\u0161cina",
         "postal": "148",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "149": {
         "alt_names": [
-            "Bistrica ob Sotli"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -20424,24 +20424,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.0565579,
-            "longitude": 15.6625947,
-            "max_latitude": 46.0672027,
-            "max_longitude": 15.684388,
-            "min_latitude": 46.0455998,
-            "min_longitude": 15.6559366
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-149",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Bistrica ob Sotli",
+        "name": "Ajdov\u0161cina",
         "postal": "149",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "150": {
         "alt_names": [
-            "Bloke"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -20564,24 +20564,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.791555,
-            "longitude": 14.5067013,
-            "max_latitude": 45.8439663,
-            "max_longitude": 14.5787575,
-            "min_latitude": 45.7301958,
-            "min_longitude": 14.4371763
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-150",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Bloke",
+        "name": "Ajdov\u0161cina",
         "postal": "150",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "151": {
         "alt_names": [
-            "Braslovce"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -20704,24 +20704,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.2880914,
-            "longitude": 15.0397466,
-            "max_latitude": 46.2958925,
-            "max_longitude": 15.0487472,
-            "min_latitude": 46.2829951,
-            "min_longitude": 15.0227904
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-151",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Braslovce",
+        "name": "Ajdov\u0161cina",
         "postal": "151",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "152": {
         "alt_names": [
-            "Cankova"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -20844,24 +20844,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.718237,
-            "longitude": 16.0197222,
-            "max_latitude": 46.7318479,
-            "max_longitude": 16.0392574,
-            "min_latitude": 46.7108072,
-            "min_longitude": 16.0054689
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-152",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Cankova",
+        "name": "Ajdov\u0161cina",
         "postal": "152",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "153": {
         "alt_names": [
-            "Cerkvenjak"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -20984,24 +20984,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.5670711,
-            "longitude": 15.9429753,
-            "max_latitude": 46.5695352,
-            "max_longitude": 15.9554071,
-            "min_latitude": 46.5602132,
-            "min_longitude": 15.9381732
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-153",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Cerkvenjak",
+        "name": "Ajdov\u0161cina",
         "postal": "153",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "154": {
         "alt_names": [
-            "Dobje"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -21124,24 +21124,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.134898,
-            "longitude": 15.3963025,
-            "max_latitude": 46.1601974,
-            "max_longitude": 15.4371281,
-            "min_latitude": 46.1093636,
-            "min_longitude": 15.3630527
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-154",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Dobje",
+        "name": "Ajdov\u0161cina",
         "postal": "154",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "155": {
         "alt_names": [
-            "Dobrna"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -21264,24 +21264,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.3356141,
-            "longitude": 15.2259732,
-            "max_latitude": 46.3493703,
-            "max_longitude": 15.2373527,
-            "min_latitude": 46.3319907,
-            "min_longitude": 15.2055934
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-155",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Dobrna",
+        "name": "Ajdov\u0161cina",
         "postal": "155",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "156": {
         "alt_names": [
-            "Dobrovnik\/Dobronak"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -21404,24 +21404,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.6516758,
-            "longitude": 16.3429113,
-            "max_latitude": 46.6754685,
-            "max_longitude": 16.3748429,
-            "min_latitude": 46.6121896,
-            "min_longitude": 16.3092205
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-156",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Dobrovnik\/Dobronak",
+        "name": "Ajdov\u0161cina",
         "postal": "156",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "157": {
         "alt_names": [
-            "Dolenjske Toplice"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -21544,24 +21544,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.7558584,
-            "longitude": 15.0592333,
-            "max_latitude": 45.7667726,
-            "max_longitude": 15.0779699,
-            "min_latitude": 45.7422996,
-            "min_longitude": 15.0491719
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-157",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Dolenjske Toplice",
+        "name": "Ajdov\u0161cina",
         "postal": "157",
         "type": "Statisticna Regije",
         "type_en": "Statistical Region"
     },
     "158": {
         "alt_names": [
-            "Grad"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -21684,24 +21684,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.801689,
-            "longitude": 16.0924382,
-            "max_latitude": 46.8309741,
-            "max_longitude": 16.1148534,
-            "min_latitude": 46.7819677,
-            "min_longitude": 16.070861
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-158",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Grad",
+        "name": "Ajdov\u0161cina",
         "postal": "158",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "159": {
         "alt_names": [
-            "Hajdina"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -21824,24 +21824,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.4185014,
-            "longitude": 15.8244722,
-            "max_latitude": 46.4570904,
-            "max_longitude": 15.8682326,
-            "min_latitude": 46.3827696,
-            "min_longitude": 15.7916534
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-159",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Hajdina",
+        "name": "Ajdov\u0161cina",
         "postal": "159",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "160": {
         "alt_names": [
-            "Hoce-Slivnica"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -21964,24 +21964,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.477858,
-            "longitude": 15.6476005,
-            "max_latitude": 46.5216497,
-            "max_longitude": 15.7108982,
-            "min_latitude": 46.4586495,
-            "min_longitude": 15.5359515
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-160",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Hoce-Slivnica",
+        "name": "Ajdov\u0161cina",
         "postal": "160",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "161": {
         "alt_names": [
-            "Hodo\u0161\/Hodos"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -22104,24 +22104,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.8314134,
-            "longitude": 16.321068,
-            "max_latitude": 46.8664431,
-            "max_longitude": 16.3508332,
-            "min_latitude": 46.8128415,
-            "min_longitude": 16.2907565
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-161",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Hodo\u0161\/Hodos",
+        "name": "Ajdov\u0161cina",
         "postal": "161",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "162": {
         "alt_names": [
-            "Horjul"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -22244,24 +22244,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.0225378,
-            "longitude": 14.2986269,
-            "max_latitude": 46.0321054,
-            "max_longitude": 14.3166555,
-            "min_latitude": 46.0030247,
-            "min_longitude": 14.2826504
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-162",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Horjul",
+        "name": "Ajdov\u0161cina",
         "postal": "162",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "163": {
         "alt_names": [
-            "Jezersko"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -22384,24 +22384,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.3914249,
-            "longitude": 14.4623209,
-            "max_latitude": 46.4271851,
-            "max_longitude": 14.5652288,
-            "min_latitude": 46.3455882,
-            "min_longitude": 14.4013998
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-163",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Jezersko",
+        "name": "Ajdov\u0161cina",
         "postal": "163",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "164": {
         "alt_names": [
-            "Komenda"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -22524,24 +22524,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.2052815,
-            "longitude": 14.5391653,
-            "max_latitude": 46.2117197,
-            "max_longitude": 14.5473957,
-            "min_latitude": 46.1945788,
-            "min_longitude": 14.5138101
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-164",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Komenda",
+        "name": "Ajdov\u0161cina",
         "postal": "164",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "165": {
         "alt_names": [
-            "Kostel"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -22664,24 +22664,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.5083472,
-            "longitude": 14.9087946,
-            "max_latitude": 45.5130323,
-            "max_longitude": 14.9142067,
-            "min_latitude": 45.5047512,
-            "min_longitude": 14.900478
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-165",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Kostel",
+        "name": "Ajdov\u0161cina",
         "postal": "165",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "166": {
         "alt_names": [
-            "Kri\u017eevci"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -22804,24 +22804,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.7923997,
-            "longitude": 16.2348194,
-            "max_latitude": 46.8043105,
-            "max_longitude": 16.2714041,
-            "min_latitude": 46.7675639,
-            "min_longitude": 16.2002046
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-166",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Kri\u017eevci",
+        "name": "Ajdov\u0161cina",
         "postal": "166",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "167": {
         "alt_names": [
-            "Lovrenc na Pohorju"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -22944,24 +22944,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.5402775,
-            "longitude": 15.3884817,
-            "max_latitude": 46.5523297,
-            "max_longitude": 15.412745,
-            "min_latitude": 46.528119,
-            "min_longitude": 15.3720041
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-167",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Lovrenc na Pohorju",
+        "name": "Ajdov\u0161cina",
         "postal": "167",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "168": {
         "alt_names": [
-            "Markovci"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -23084,24 +23084,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.8428456,
-            "longitude": 16.2349557,
-            "max_latitude": 46.8644145,
-            "max_longitude": 16.2596196,
-            "min_latitude": 46.8235579,
-            "min_longitude": 16.2204124
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-168",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Markovci",
+        "name": "Ajdov\u0161cina",
         "postal": "168",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "169": {
         "alt_names": [
-            "Miklav\u017e na Dravskem polju"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -23224,24 +23224,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.5082628,
-            "longitude": 15.6952065,
-            "max_latitude": 46.5171316,
-            "max_longitude": 15.730069,
-            "min_latitude": 46.4875418,
-            "min_longitude": 15.6817881
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-169",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Miklav\u017e na Dravskem polju",
+        "name": "Ajdov\u0161cina",
         "postal": "169",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "170": {
         "alt_names": [
-            "Mirna Pec"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -23364,24 +23364,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.8594478,
-            "longitude": 15.0830457,
-            "max_latitude": 45.8708266,
-            "max_longitude": 15.1094655,
-            "min_latitude": 45.8396018,
-            "min_longitude": 15.0532856
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-170",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Mirna Pec",
+        "name": "Ajdov\u0161cina",
         "postal": "170",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "171": {
         "alt_names": [
-            "Oplotnica"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -23504,24 +23504,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.387163,
-            "longitude": 15.4458131,
-            "max_latitude": 46.3960908,
-            "max_longitude": 15.4692903,
-            "min_latitude": 46.3707474,
-            "min_longitude": 15.4334869
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-171",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Oplotnica",
+        "name": "Ajdov\u0161cina",
         "postal": "171",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "172": {
         "alt_names": [
-            "Podlehnik"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -23644,24 +23644,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.3358974,
-            "longitude": 15.8787245,
-            "max_latitude": 46.3526277,
-            "max_longitude": 15.9010752,
-            "min_latitude": 46.328792,
-            "min_longitude": 15.8628032
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-172",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Podlehnik",
+        "name": "Ajdov\u0161cina",
         "postal": "172",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "173": {
         "alt_names": [
-            "Polzela"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -23784,24 +23784,24 @@
             "woe_name": "Polzela"
         },
         "geo": {
-            "latitude": 46.280897,
-            "longitude": 15.0737321,
-            "max_latitude": 46.3021933,
-            "max_longitude": 15.0857564,
-            "min_latitude": 46.2686365,
-            "min_longitude": 15.0597401
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-173",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Polzela",
+        "name": "Ajdov\u0161cina",
         "postal": "173",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "174": {
         "alt_names": [
-            "Prebold"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -23924,24 +23924,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.2365972,
-            "longitude": 15.091648,
-            "max_latitude": 46.2393412,
-            "max_longitude": 15.1033384,
-            "min_latitude": 46.2244723,
-            "min_longitude": 15.0761371
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-174",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Prebold",
+        "name": "Ajdov\u0161cina",
         "postal": "174",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "175": {
         "alt_names": [
-            "Prevalje"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -24064,24 +24064,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.5468788,
-            "longitude": 14.9197479,
-            "max_latitude": 46.5543747,
-            "max_longitude": 14.9388744,
-            "min_latitude": 46.5355214,
-            "min_longitude": 14.8907918
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-175",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Prevalje",
+        "name": "Ajdov\u0161cina",
         "postal": "175",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "176": {
         "alt_names": [
-            "Razkri\u017eje"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -24204,24 +24204,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.5246331,
-            "longitude": 16.27627,
-            "max_latitude": 46.538927,
-            "max_longitude": 16.2829085,
-            "min_latitude": 46.5141574,
-            "min_longitude": 16.2642234
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-176",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Razkri\u017eje",
+        "name": "Ajdov\u0161cina",
         "postal": "176",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "177": {
         "alt_names": [
-            "Ribnica na Pohorju"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -24344,24 +24344,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.5356403,
-            "longitude": 15.2675136,
-            "max_latitude": 46.5496806,
-            "max_longitude": 15.3026023,
-            "min_latitude": 46.5203434,
-            "min_longitude": 15.2533515
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-177",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Ribnica na Pohorju",
+        "name": "Ajdov\u0161cina",
         "postal": "177",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "178": {
         "alt_names": [
-            "Selnica ob Dravi"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -24484,24 +24484,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.5513918,
-            "longitude": 15.492941,
-            "max_latitude": 46.5612926,
-            "max_longitude": 15.510273,
-            "min_latitude": 46.5408197,
-            "min_longitude": 15.4809647
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-178",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Selnica ob Dravi",
+        "name": "Ajdov\u0161cina",
         "postal": "178",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "179": {
         "alt_names": [
-            "Sodra\u017eica"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -24624,24 +24624,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.762125,
-            "longitude": 14.6362158,
-            "max_latitude": 45.7848226,
-            "max_longitude": 14.6461315,
-            "min_latitude": 45.7284568,
-            "min_longitude": 14.6105465
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-179",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Sodra\u017eica",
+        "name": "Ajdov\u0161cina",
         "postal": "179",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "180": {
         "alt_names": [
-            "Solcava"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -24764,24 +24764,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.4200935,
-            "longitude": 14.6917325,
-            "max_latitude": 46.4311116,
-            "max_longitude": 14.7285787,
-            "min_latitude": 46.3982247,
-            "min_longitude": 14.6357179
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-180",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Solcava",
+        "name": "Ajdov\u0161cina",
         "postal": "180",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "181": {
         "alt_names": [
-            "Sveta Ana"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -24904,24 +24904,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.65,
-            "longitude": 15.845278,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-181",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Sveta Ana",
+        "name": "Ajdov\u0161cina",
         "postal": "181",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "182": {
         "alt_names": [
-            "Sveti Andra\u017e v Slovenskih goricah"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -25044,24 +25044,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.5189747,
-            "longitude": 15.9498262,
-            "max_latitude": 46.5463902,
-            "max_longitude": 16.0019974,
-            "min_latitude": 46.490061,
-            "min_longitude": 15.920033
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-182",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Sveti Andra\u017e v Slovenskih goricah",
+        "name": "Ajdov\u0161cina",
         "postal": "182",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "183": {
         "alt_names": [
-            "\u0160empeter-Vrtojba"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -25184,24 +25184,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.9143357,
-            "longitude": 13.6427256,
-            "max_latitude": 45.9394434,
-            "max_longitude": 13.6862827,
-            "min_latitude": 45.8961874,
-            "min_longitude": 13.6113664
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-183",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "\u0160empeter-Vrtojba",
+        "name": "Ajdov\u0161cina",
         "postal": "183",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "184": {
         "alt_names": [
-            "Tabor"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -25324,24 +25324,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.2346683,
-            "longitude": 15.0167331,
-            "max_latitude": 46.2422044,
-            "max_longitude": 15.0280818,
-            "min_latitude": 46.2247663,
-            "min_longitude": 15.0014522
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-184",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Tabor",
+        "name": "Ajdov\u0161cina",
         "postal": "184",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "185": {
         "alt_names": [
-            "Trnovska vas"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -25464,24 +25464,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.5201168,
-            "longitude": 15.8866431,
-            "max_latitude": 46.5376071,
-            "max_longitude": 15.9255082,
-            "min_latitude": 46.5070018,
-            "min_longitude": 15.8799778
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-185",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Trnovska vas",
+        "name": "Ajdov\u0161cina",
         "postal": "185",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "186": {
         "alt_names": [
-            "Trzin"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -25604,24 +25604,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.1363399,
-            "longitude": 14.5616878,
-            "max_latitude": 46.145734,
-            "max_longitude": 14.5830211,
-            "min_latitude": 46.1095535,
-            "min_longitude": 14.520235
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-186",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Trzin",
+        "name": "Ajdov\u0161cina",
         "postal": "186",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "187": {
         "alt_names": [
-            "Velika Polana"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -25744,24 +25744,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.5731715,
-            "longitude": 16.3444126,
-            "max_latitude": 46.5874722,
-            "max_longitude": 16.3761691,
-            "min_latitude": 46.5534023,
-            "min_longitude": 16.3215055
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-187",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Velika Polana",
+        "name": "Ajdov\u0161cina",
         "postal": "187",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "188": {
         "alt_names": [
-            "Ver\u017eej"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -25884,24 +25884,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.5832778,
-            "longitude": 16.1640173,
-            "max_latitude": 46.5977089,
-            "max_longitude": 16.2007696,
-            "min_latitude": 46.5649081,
-            "min_longitude": 16.1504664
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-188",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Ver\u017eej",
+        "name": "Ajdov\u0161cina",
         "postal": "188",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "189": {
         "alt_names": [
-            "Vransko"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -26024,24 +26024,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.2444682,
-            "longitude": 14.9511982,
-            "max_latitude": 46.2541176,
-            "max_longitude": 14.9643893,
-            "min_latitude": 46.2306325,
-            "min_longitude": 14.9328115
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-189",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Vransko",
+        "name": "Ajdov\u0161cina",
         "postal": "189",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "190": {
         "alt_names": [
-            "\u017dalec"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -26164,24 +26164,24 @@
             "woe_name": "Zalec"
         },
         "geo": {
-            "latitude": 46.251984,
-            "longitude": 15.1650282,
-            "max_latitude": 46.2575649,
-            "max_longitude": 15.1804589,
-            "min_latitude": 46.2355865,
-            "min_longitude": 15.1406234
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-190",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "\u017dalec",
+        "name": "Ajdov\u0161cina",
         "postal": "190",
         "type": "Statisticna Regije",
         "type_en": "Statistical Region"
     },
     "191": {
         "alt_names": [
-            "\u017detale"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -26304,24 +26304,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.2784002,
-            "longitude": 15.8122225,
-            "max_latitude": 46.290547,
-            "max_longitude": 15.8683349,
-            "min_latitude": 46.2592789,
-            "min_longitude": 15.7860413
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-191",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "\u017detale",
+        "name": "Ajdov\u0161cina",
         "postal": "191",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "192": {
         "alt_names": [
-            "\u017dirovnica"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -26444,24 +26444,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 46.4044239,
-            "longitude": 14.1375549,
-            "max_latitude": 46.4083746,
-            "max_longitude": 14.141806,
-            "min_latitude": 46.3947787,
-            "min_longitude": 14.1331969
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-192",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "\u017dirovnica",
+        "name": "Ajdov\u0161cina",
         "postal": "192",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "193": {
         "alt_names": [
-            "\u017du\u017eemberk"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -26584,24 +26584,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": 45.830669,
-            "longitude": 14.9298228,
-            "max_latitude": 45.8477587,
-            "max_longitude": 14.9495254,
-            "min_latitude": 45.8019543,
-            "min_longitude": 14.9077541
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-193",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "\u017du\u017eemberk",
+        "name": "Ajdov\u0161cina",
         "postal": "193",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "194": {
         "alt_names": [
-            "\u0160martno pri Litiji"
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -26724,24 +26724,24 @@
             "woe_name": "Litija"
         },
         "geo": {
-            "latitude": 46.0457437,
-            "longitude": 14.8410058,
-            "max_latitude": 46.0538612,
-            "max_longitude": 14.8583307,
-            "min_latitude": 46.0301017,
-            "min_longitude": 14.8248383
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-194",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "\u0160martno pri Litiji",
+        "name": "Ajdov\u0161cina",
         "postal": "194",
         "type": "Opcine",
         "type_en": "Commune|Municipality"
     },
     "195": {
         "alt_names": [
-            ""
+            "Ajdov\u0161cina"
         ],
         "cca2": "SI",
         "cca3": "SVN",
@@ -26864,13 +26864,17 @@
             "woe_name": "Gornja Radgona"
         },
         "geo": {
-            "latitude": "46.6914000000",
-            "longitude": "15.8873000000"
+            "latitude": 45.8869025,
+            "longitude": 13.909914,
+            "max_latitude": 45.9068796,
+            "max_longitude": 13.9250956,
+            "min_latitude": 45.8652066,
+            "min_longitude": 13.8808621
         },
         "iso_3166_2": "SI-195",
         "iso_a2": "SI",
         "iso_a3": "SVN",
-        "name": "Apace",
+        "name": "Ajdov\u0161cina",
         "postal": "195",
         "type": "Opcine",
         "type_en": "Commune|Municipality"

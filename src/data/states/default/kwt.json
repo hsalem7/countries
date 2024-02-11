@@ -141,7 +141,7 @@
     },
     "FA": {
         "alt_names": [
-            "Farwaniyah"
+            "Ahmadi"
         ],
         "cca2": "KW",
         "cca3": "KWT",
@@ -264,24 +264,24 @@
             "woe_name": "Al Farwaniyah"
         },
         "geo": {
-            "latitude": 29.2428445,
-            "longitude": 47.9416114,
-            "max_latitude": 29.305629,
-            "max_longitude": 48.0104,
-            "min_latitude": 29.180285,
-            "min_longitude": 47.8128219
+            "latitude": 29.083333,
+            "longitude": 48.083333,
+            "max_latitude": 29.1115398,
+            "max_longitude": 48.0997057,
+            "min_latitude": 29.0593959,
+            "min_longitude": 48.0440711
         },
         "iso_3166_2": "KW-FA",
         "iso_a2": "KW",
         "iso_a3": "KWT",
-        "name": "Al Farwaniyah",
+        "name": "Al Ahmadi",
         "postal": "FA",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "HA": {
         "alt_names": [
-            "Hawalli"
+            "Ahmadi"
         ],
         "cca2": "KW",
         "cca3": "KWT",
@@ -404,28 +404,24 @@
             "woe_name": "Hawalli"
         },
         "geo": {
-            "latitude": 29.333,
-            "longitude": 48.029,
-            "max_latitude": 29.3497051,
-            "max_longitude": 48.0381103,
-            "min_latitude": 29.3230583,
-            "min_longitude": 48.0009217
+            "latitude": 29.083333,
+            "longitude": 48.083333,
+            "max_latitude": 29.1115398,
+            "max_longitude": 48.0997057,
+            "min_latitude": 29.0593959,
+            "min_longitude": 48.0440711
         },
         "iso_3166_2": "KW-HA",
         "iso_a2": "KW",
         "iso_a3": "KWT",
-        "name": "Hawalli",
+        "name": "Al Ahmadi",
         "postal": "HA",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "JA": {
         "alt_names": [
-            "Al Jahra",
-            "Jahra",
-            "Jahrah",
-            "al-Jahra",
-            "al-Jahra\u02bf"
+            "Ahmadi"
         ],
         "cca2": "KW",
         "cca3": "KWT",
@@ -548,28 +544,24 @@
             "woe_name": "Al Jahrah"
         },
         "geo": {
-            "latitude": 29.3365728,
-            "longitude": 47.6755291,
-            "max_latitude": 29.3745747,
-            "max_longitude": 47.7926787,
-            "min_latitude": 29.2811337,
-            "min_longitude": 47.6289382
+            "latitude": 29.083333,
+            "longitude": 48.083333,
+            "max_latitude": 29.1115398,
+            "max_longitude": 48.0997057,
+            "min_latitude": 29.0593959,
+            "min_longitude": 48.0440711
         },
         "iso_3166_2": "KW-JA",
         "iso_a2": "KW",
         "iso_a3": "KWT",
-        "name": "Al Jahrah",
+        "name": "Al Ahmadi",
         "postal": "JA",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "KU": {
         "alt_names": [
-            "Capital",
-            "Koweit",
-            "Kuwait",
-            "Kuwayt",
-            "al-Kuwayt"
+            "Ahmadi"
         ],
         "cca2": "KW",
         "cca3": "KWT",
@@ -692,24 +684,24 @@
             "woe_name": "Al Asimah"
         },
         "geo": {
-            "latitude": 29.375859,
-            "longitude": 47.9774052,
-            "max_latitude": 29.3933479,
-            "max_longitude": 48.0058081,
-            "min_latitude": 29.3587818,
-            "min_longitude": 47.9579626
+            "latitude": 29.083333,
+            "longitude": 48.083333,
+            "max_latitude": 29.1115398,
+            "max_longitude": 48.0997057,
+            "min_latitude": 29.0593959,
+            "min_longitude": 48.0440711
         },
         "iso_3166_2": "KW-KU",
         "iso_a2": "KW",
         "iso_a3": "KWT",
-        "name": "Al Kuwayt",
+        "name": "Al Ahmadi",
         "postal": "KU",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "MU": {
         "alt_names": [
-            "Mubarak al-Kabir"
+            "Ahmadi"
         ],
         "cca2": "KW",
         "cca3": "KWT",
@@ -832,17 +824,17 @@
             "woe_name": "Mubarak Al-Kabeer"
         },
         "geo": {
-            "latitude": 29.21224,
-            "longitude": 48.0605108,
-            "max_latitude": 29.2734889,
-            "max_longitude": 48.1176184,
-            "min_latitude": 29.172518,
-            "min_longitude": 47.983255
+            "latitude": 29.083333,
+            "longitude": 48.083333,
+            "max_latitude": 29.1115398,
+            "max_longitude": 48.0997057,
+            "min_latitude": 29.0593959,
+            "min_longitude": 48.0440711
         },
         "iso_3166_2": "KW-MU",
         "iso_a2": "KW",
         "iso_a3": "KWT",
-        "name": "Mubarak al-Kabir",
+        "name": "Al Ahmadi",
         "postal": "MU",
         "type": "Muhafazah",
         "type_en": "Province"

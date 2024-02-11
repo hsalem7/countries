@@ -145,10 +145,11 @@
     },
     "2": {
         "alt_names": [
-            "Batd\u00e2mb\u00e2ng",
-            "Battambang",
-            "bb",
-            "b.b"
+            "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+            "banteay meanchey",
+            "b.chey",
+            "bm",
+            "b.m"
         ],
         "cca2": "KH",
         "cca3": "KHM",
@@ -271,29 +272,28 @@
             "woe_name": "Batd\u00e2mb\u00e2ng"
         },
         "geo": {
-            "latitude": null,
-            "longitude": null,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 13.6672596,
+            "longitude": 102.8975098,
+            "max_latitude": 14.24883,
+            "max_longitude": 103.44429,
+            "min_latitude": 13.343196,
+            "min_longitude": 102.3400039
         },
         "iso_3166_2": "KH-2",
         "iso_a2": "KH",
         "iso_a3": "KHM",
-        "name": "Baat Dambang [Batd\u00e2mb\u00e2ng]",
+        "name": "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
         "postal": "2",
         "type": "Kh\u00eat",
         "type_en": "Province"
     },
     "3": {
         "alt_names": [
-            "Kompong Cham",
-            "Kompong Chaam",
-            "Kampong Cham",
-            "k.cham",
-            "kc",
-            "k.c"
+            "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+            "banteay meanchey",
+            "b.chey",
+            "bm",
+            "b.m"
         ],
         "cca2": "KH",
         "cca3": "KHM",
@@ -416,27 +416,28 @@
             "woe_name": "K\u00e2mp\u00f3ng Cham"
         },
         "geo": {
-            "latitude": 11.9924294,
-            "longitude": 105.4645408,
-            "max_latitude": 12.0178724,
-            "max_longitude": 105.4737067,
-            "min_latitude": 11.9600879,
-            "min_longitude": 105.4002787
+            "latitude": 13.6672596,
+            "longitude": 102.8975098,
+            "max_latitude": 14.24883,
+            "max_longitude": 103.44429,
+            "min_latitude": 13.343196,
+            "min_longitude": 102.3400039
         },
         "iso_3166_2": "KH-3",
         "iso_a2": "KH",
         "iso_a3": "KHM",
-        "name": "Kampong Chaam [K\u00e2mp\u00f3ng Cham]",
+        "name": "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
         "postal": "3",
         "type": "Kh\u00eat",
         "type_en": "Province"
     },
     "4": {
         "alt_names": [
-            "Kompong Chhnang",
-            "k.chhnang",
-            "kn",
-            "k.n"
+            "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+            "banteay meanchey",
+            "b.chey",
+            "bm",
+            "b.m"
         ],
         "cca2": "KH",
         "cca3": "KHM",
@@ -559,30 +560,28 @@
             "woe_name": "K\u00e2mp\u00f3ng Chhnang"
         },
         "geo": {
-            "latitude": 12.25,
-            "longitude": 104.666667,
-            "max_latitude": 12.3243638,
-            "max_longitude": 104.7148133,
-            "min_latitude": 12.2167587,
-            "min_longitude": 104.6459342
+            "latitude": 13.6672596,
+            "longitude": 102.8975098,
+            "max_latitude": 14.24883,
+            "max_longitude": 103.44429,
+            "min_latitude": 13.343196,
+            "min_longitude": 102.3400039
         },
         "iso_3166_2": "KH-4",
         "iso_a2": "KH",
         "iso_a3": "KHM",
-        "name": "Kampong Chhnang [K\u00e2mp\u00f3ng Chhnang]",
+        "name": "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
         "postal": "4",
         "type": "Kh\u00eat",
         "type_en": "Province"
     },
     "5": {
         "alt_names": [
-            "Kompong Speu",
-            "Kompong Spoe",
-            "Kampong Speu",
-            "Kampong Spoe",
-            "k.speu",
-            "ks",
-            "k.s"
+            "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+            "banteay meanchey",
+            "b.chey",
+            "bm",
+            "b.m"
         ],
         "cca2": "KH",
         "cca3": "KHM",
@@ -705,30 +704,28 @@
             "woe_name": "K\u00e2mp\u00f3ng Sp\u0153"
         },
         "geo": {
-            "latitude": 11.45311,
-            "longitude": 104.5202599,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 13.6672596,
+            "longitude": 102.8975098,
+            "max_latitude": 14.24883,
+            "max_longitude": 103.44429,
+            "min_latitude": 13.343196,
+            "min_longitude": 102.3400039
         },
         "iso_3166_2": "KH-5",
         "iso_a2": "KH",
         "iso_a3": "KHM",
-        "name": "Kampong Spueu [K\u00e2mp\u00f3ng Sp\u0153]",
+        "name": "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
         "postal": "5",
         "type": "Kh\u00eat",
         "type_en": "Province"
     },
     "6": {
         "alt_names": [
-            "Kompong Thom",
-            "Kompong Thum",
-            "Kampong Thom",
-            "Kampong Thum",
-            "k.thom",
-            "kt",
-            "k.t"
+            "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+            "banteay meanchey",
+            "b.chey",
+            "bm",
+            "b.m"
         ],
         "cca2": "KH",
         "cca3": "KHM",
@@ -851,27 +848,28 @@
             "woe_name": "K\u00e2mp\u00f3ng Thum"
         },
         "geo": {
-            "latitude": 12.71197,
-            "longitude": 104.888603,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 13.6672596,
+            "longitude": 102.8975098,
+            "max_latitude": 14.24883,
+            "max_longitude": 103.44429,
+            "min_latitude": 13.343196,
+            "min_longitude": 102.3400039
         },
         "iso_3166_2": "KH-6",
         "iso_a2": "KH",
         "iso_a3": "KHM",
-        "name": "Kampong Thum [K\u00e2mp\u00f3ng Thum]",
+        "name": "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
         "postal": "6",
         "type": "Kh\u00eat",
         "type_en": "Province"
     },
     "7": {
         "alt_names": [
-            "Kampot [K\u00e2mp\u00f4t]",
-            "k.pot",
-            "kp",
-            "k.p"
+            "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+            "banteay meanchey",
+            "b.chey",
+            "bm",
+            "b.m"
         ],
         "cca2": "KH",
         "cca3": "KHM",
@@ -994,28 +992,28 @@
             "woe_name": "K\u00e2mp\u00f4t"
         },
         "geo": {
-            "latitude": 10.7412089,
-            "longitude": 104.1930918,
-            "max_latitude": 11.1730128,
-            "max_longitude": 104.7244262,
-            "min_latitude": 9.9039915,
-            "min_longitude": 103.8328105
+            "latitude": 13.6672596,
+            "longitude": 102.8975098,
+            "max_latitude": 14.24883,
+            "max_longitude": 103.44429,
+            "min_latitude": 13.343196,
+            "min_longitude": 102.3400039
         },
         "iso_3166_2": "KH-7",
         "iso_a2": "KH",
         "iso_a3": "KHM",
-        "name": "Kampot [K\u00e2mp\u00f4t]",
+        "name": "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
         "postal": "7",
         "type": "Kh\u00eat",
         "type_en": "Province"
     },
     "8": {
         "alt_names": [
-            "Kandaal [K\u00e2ndal]",
-            "Kandal",
-            "Kondal",
-            "kd",
-            "k.d"
+            "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+            "banteay meanchey",
+            "b.chey",
+            "bm",
+            "b.m"
         ],
         "cca2": "KH",
         "cca3": "KHM",
@@ -1138,26 +1136,28 @@
             "woe_name": "K\u00e2ndal"
         },
         "geo": {
-            "latitude": 11.4573319,
-            "longitude": 104.693403,
-            "max_latitude": 11.4589902,
-            "max_longitude": 104.6949489,
-            "min_latitude": 11.4568189,
-            "min_longitude": 104.6909094
+            "latitude": 13.6672596,
+            "longitude": 102.8975098,
+            "max_latitude": 14.24883,
+            "max_longitude": 103.44429,
+            "min_latitude": 13.343196,
+            "min_longitude": 102.3400039
         },
         "iso_3166_2": "KH-8",
         "iso_a2": "KH",
         "iso_a3": "KHM",
-        "name": "Kandaal [K\u00e2ndal]",
+        "name": "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
         "postal": "8",
         "type": "Kh\u00eat",
         "type_en": "Province"
     },
     "9": {
         "alt_names": [
-            "Koh Kong",
-            "kk",
-            "k.k"
+            "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+            "banteay meanchey",
+            "b.chey",
+            "bm",
+            "b.m"
         ],
         "cca2": "KH",
         "cca3": "KHM",
@@ -1280,28 +1280,28 @@
             "woe_name": "Ka\u00f4h Kong"
         },
         "geo": {
-            "latitude": 11.5762804,
-            "longitude": 103.3587288,
-            "max_latitude": 12.1494559,
-            "max_longitude": 104.146877,
-            "min_latitude": 9.2878403,
-            "min_longitude": 102.7800221
+            "latitude": 13.6672596,
+            "longitude": 102.8975098,
+            "max_latitude": 14.24883,
+            "max_longitude": 103.44429,
+            "min_latitude": 13.343196,
+            "min_longitude": 102.3400039
         },
         "iso_3166_2": "KH-9",
         "iso_a2": "KH",
         "iso_a3": "KHM",
-        "name": "Kaoh Kong [Ka\u00f4h Kong]",
+        "name": "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
         "postal": "9",
         "type": "Kh\u00eat",
         "type_en": "Province"
     },
     "10": {
         "alt_names": [
-            "Krati\u00e9",
-            "Kratie",
-            "kr.ch",
-            "kr",
-            "k.r"
+            "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+            "banteay meanchey",
+            "b.chey",
+            "bm",
+            "b.m"
         ],
         "cca2": "KH",
         "cca3": "KHM",
@@ -1424,28 +1424,28 @@
             "woe_name": "Kr\u00e2ch\u00e9h"
         },
         "geo": {
-            "latitude": 12.5759862,
-            "longitude": 106.2522143,
-            "max_latitude": 12.7869431,
-            "max_longitude": 106.409197,
-            "min_latitude": 12.332707,
-            "min_longitude": 105.9990121
+            "latitude": 13.6672596,
+            "longitude": 102.8975098,
+            "max_latitude": 14.24883,
+            "max_longitude": 103.44429,
+            "min_latitude": 13.343196,
+            "min_longitude": 102.3400039
         },
         "iso_3166_2": "KH-10",
         "iso_a2": "KH",
         "iso_a3": "KHM",
-        "name": "Kracheh [Kr\u00e2ch\u00e9h]",
+        "name": "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
         "postal": "10",
         "type": "Kh\u00eat",
         "type_en": "Province"
     },
     "11": {
         "alt_names": [
-            "Mondolkiri",
-            "Mondulkiri",
-            "m.ri",
-            "mk",
-            "m.k"
+            "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+            "banteay meanchey",
+            "b.chey",
+            "bm",
+            "b.m"
         ],
         "cca2": "KH",
         "cca3": "KHM",
@@ -1568,26 +1568,28 @@
             "woe_name": "M\u00f4nd\u00f3l Kiri"
         },
         "geo": {
-            "latitude": 12.7879427,
-            "longitude": 107.1011931,
-            "max_latitude": 13.423394,
-            "max_longitude": 107.606102,
-            "min_latitude": 12.059729,
-            "min_longitude": 106.3519529
+            "latitude": 13.6672596,
+            "longitude": 102.8975098,
+            "max_latitude": 14.24883,
+            "max_longitude": 103.44429,
+            "min_latitude": 13.343196,
+            "min_longitude": 102.3400039
         },
         "iso_3166_2": "KH-11",
         "iso_a2": "KH",
         "iso_a3": "KHM",
-        "name": "Mondol Kiri [M\u00f4nd\u00f3l Kiri]",
+        "name": "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
         "postal": "11",
         "type": "Kh\u00eat",
         "type_en": "Province"
     },
     "12": {
         "alt_names": [
-            "Phnom Penh",
-            "pp",
-            "p.p"
+            "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+            "banteay meanchey",
+            "b.chey",
+            "bm",
+            "b.m"
         ],
         "cca2": "KH",
         "cca3": "KHM",
@@ -1710,27 +1712,28 @@
             "woe_name": "Phnom Penh"
         },
         "geo": {
-            "latitude": 11.5448729,
-            "longitude": 104.8921668,
-            "max_latitude": 11.682486,
-            "max_longitude": 104.968803,
-            "min_latitude": 11.428726,
-            "min_longitude": 104.779653
+            "latitude": 13.6672596,
+            "longitude": 102.8975098,
+            "max_latitude": 14.24883,
+            "max_longitude": 103.44429,
+            "min_latitude": 13.343196,
+            "min_longitude": 102.3400039
         },
         "iso_3166_2": "KH-12",
         "iso_a2": "KH",
         "iso_a3": "KHM",
-        "name": "Phnom Penh [Phnum P\u00e9nh]",
+        "name": "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
         "postal": "12",
         "type": "Municipality",
         "type_en": "Municipality"
     },
     "13": {
         "alt_names": [
-            "Preah Vihear [Preah Vih\u00e9ar]",
-            "pr.h",
-            "ph",
-            "p.h"
+            "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+            "banteay meanchey",
+            "b.chey",
+            "bm",
+            "b.m"
         ],
         "cca2": "KH",
         "cca3": "KHM",
@@ -1853,28 +1856,28 @@
             "woe_name": "Preah Vih\u00e9ar"
         },
         "geo": {
-            "latitude": 14.0085797,
-            "longitude": 104.8454619,
-            "max_latitude": 14.434327,
-            "max_longitude": 105.8868709,
-            "min_latitude": 13.099064,
-            "min_longitude": 104.3539239
+            "latitude": 13.6672596,
+            "longitude": 102.8975098,
+            "max_latitude": 14.24883,
+            "max_longitude": 103.44429,
+            "min_latitude": 13.343196,
+            "min_longitude": 102.3400039
         },
         "iso_3166_2": "KH-13",
         "iso_a2": "KH",
         "iso_a3": "KHM",
-        "name": "Preah Vihear [Preah Vih\u00e9ar]",
+        "name": "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
         "postal": "13",
         "type": "Kh\u00eat",
         "type_en": "Province"
     },
     "14": {
         "alt_names": [
-            "Prey V\u00eang",
-            "Prey Veng",
-            "pr.v",
-            "pv",
-            "p.v"
+            "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+            "banteay meanchey",
+            "b.chey",
+            "bm",
+            "b.m"
         ],
         "cca2": "KH",
         "cca3": "KHM",
@@ -1997,27 +2000,28 @@
             "woe_name": "Prey V\u00eang"
         },
         "geo": {
-            "latitude": 11.485114,
-            "longitude": 105.328098,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 13.6672596,
+            "longitude": 102.8975098,
+            "max_latitude": 14.24883,
+            "max_longitude": 103.44429,
+            "min_latitude": 13.343196,
+            "min_longitude": 102.3400039
         },
         "iso_3166_2": "KH-14",
         "iso_a2": "KH",
         "iso_a3": "KHM",
-        "name": "Prey Veaeng [Prey V\u00eang]",
+        "name": "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
         "postal": "14",
         "type": "Kh\u00eat",
         "type_en": "Province"
     },
     "15": {
         "alt_names": [
-            "Po\u016dth\u012ds\u0103t",
-            "Pursat",
-            "p.s",
-            "ps"
+            "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+            "banteay meanchey",
+            "b.chey",
+            "bm",
+            "b.m"
         ],
         "cca2": "KH",
         "cca3": "KHM",
@@ -2140,30 +2144,28 @@
             "woe_name": "Pouthisat"
         },
         "geo": {
-            "latitude": 12.533333,
-            "longitude": 103.916667,
-            "max_latitude": 12.5827952,
-            "max_longitude": 104.0180611,
-            "min_latitude": 12.3524528,
-            "min_longitude": 103.7871553
+            "latitude": 13.6672596,
+            "longitude": 102.8975098,
+            "max_latitude": 14.24883,
+            "max_longitude": 103.44429,
+            "min_latitude": 13.343196,
+            "min_longitude": 102.3400039
         },
         "iso_3166_2": "KH-15",
         "iso_a2": "KH",
         "iso_a3": "KHM",
-        "name": "Pousaat [Pouthisat]",
+        "name": "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
         "postal": "15",
         "type": "Kh\u00eat",
         "type_en": "Province"
     },
     "16": {
         "alt_names": [
-            "Ratanakiri",
-            "Rotanokiri",
-            "R\u00f4tanah Kiri",
-            "r.r",
-            "rr",
-            "rk",
-            "r.k"
+            "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+            "banteay meanchey",
+            "b.chey",
+            "bm",
+            "b.m"
         ],
         "cca2": "KH",
         "cca3": "KHM",
@@ -2286,27 +2288,28 @@
             "woe_name": "R\u00f4t\u00e2n\u00f4kiri"
         },
         "geo": {
-            "latitude": 13.8576607,
-            "longitude": 107.1011931,
-            "max_latitude": 14.6864041,
-            "max_longitude": 107.6277161,
-            "min_latitude": 13.1666069,
-            "min_longitude": 106.5465848
+            "latitude": 13.6672596,
+            "longitude": 102.8975098,
+            "max_latitude": 14.24883,
+            "max_longitude": 103.44429,
+            "min_latitude": 13.343196,
+            "min_longitude": 102.3400039
         },
         "iso_3166_2": "KH-16",
         "iso_a2": "KH",
         "iso_a3": "KHM",
-        "name": "Rotanak Kiri [R\u00f4t\u00e2n\u00f4kiri]",
+        "name": "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
         "postal": "16",
         "type": "Kh\u00eat",
         "type_en": "Province"
     },
     "17": {
         "alt_names": [
-            "Siem Reap",
-            "Siemr\u00e9ab",
-            "s.r",
-            "sr"
+            "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+            "banteay meanchey",
+            "b.chey",
+            "bm",
+            "b.m"
         ],
         "cca2": "KH",
         "cca3": "KHM",
@@ -2429,32 +2432,28 @@
             "woe_name": "Siemr\u00e9ab"
         },
         "geo": {
-            "latitude": 13.3529103,
-            "longitude": 103.8594171,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 13.6672596,
+            "longitude": 102.8975098,
+            "max_latitude": 14.24883,
+            "max_longitude": 103.44429,
+            "min_latitude": 13.343196,
+            "min_longitude": 102.3400039
         },
         "iso_3166_2": "KH-17",
         "iso_a2": "KH",
         "iso_a3": "KHM",
-        "name": "Siem Reab [Siemr\u00e9ab]",
+        "name": "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
         "postal": "17",
         "type": "Kh\u00eat",
         "type_en": "Province"
     },
     "18": {
         "alt_names": [
-            "Preah Seih\u00e2nu",
-            "Sihanoukville",
-            "Kompong Som",
-            "Kampong Som",
-            "Kompong Saom",
-            "Kampong Saom",
-            "k.som",
-            "k.saom",
-            "s.v"
+            "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+            "banteay meanchey",
+            "b.chey",
+            "bm",
+            "b.m"
         ],
         "cca2": "KH",
         "cca3": "KHM",
@@ -2577,27 +2576,28 @@
             "woe_name": "Krong Preah Sihanouk"
         },
         "geo": {
-            "latitude": 10.6253016,
-            "longitude": 103.5233963,
-            "max_latitude": 10.7803603,
-            "max_longitude": 103.5925877,
-            "min_latitude": 10.5427244,
-            "min_longitude": 103.1816841
+            "latitude": 13.6672596,
+            "longitude": 102.8975098,
+            "max_latitude": 14.24883,
+            "max_longitude": 103.44429,
+            "min_latitude": 13.343196,
+            "min_longitude": 102.3400039
         },
         "iso_3166_2": "KH-18",
         "iso_a2": "KH",
         "iso_a3": "KHM",
-        "name": "Krong Preah Sihanouk [Krong Preah Sihanouk]",
+        "name": "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
         "postal": "18",
         "type": "Krong",
         "type_en": "Municipality"
     },
     "19": {
         "alt_names": [
-            "Stoeng Tr\u00eang",
-            "Stung Treng",
-            "s.t",
-            "st"
+            "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+            "banteay meanchey",
+            "b.chey",
+            "bm",
+            "b.m"
         ],
         "cca2": "KH",
         "cca3": "KHM",
@@ -2720,27 +2720,28 @@
             "woe_name": "St\u0153ng Tr\u00eang"
         },
         "geo": {
-            "latitude": 13.576473,
-            "longitude": 105.9699878,
-            "max_latitude": 14.587619,
-            "max_longitude": 106.6629029,
-            "min_latitude": 13.108477,
-            "min_longitude": 105.521177
+            "latitude": 13.6672596,
+            "longitude": 102.8975098,
+            "max_latitude": 14.24883,
+            "max_longitude": 103.44429,
+            "min_latitude": 13.343196,
+            "min_longitude": 102.3400039
         },
         "iso_3166_2": "KH-19",
         "iso_a2": "KH",
         "iso_a3": "KHM",
-        "name": "Stueng Traeng [St\u0153?ng Tr\u00eang]",
+        "name": "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
         "postal": "19",
         "type": "Kh\u00eat",
         "type_en": "Province"
     },
     "20": {
         "alt_names": [
-            "Svaay Rieng [Svay Rieng]",
-            "svay rieng",
-            "sv.r",
-            "svr"
+            "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+            "banteay meanchey",
+            "b.chey",
+            "bm",
+            "b.m"
         ],
         "cca2": "KH",
         "cca3": "KHM",
@@ -2863,27 +2864,28 @@
             "woe_name": "Svay Rieng"
         },
         "geo": {
-            "latitude": 11.0877866,
-            "longitude": 105.800951,
-            "max_latitude": 11.1564031,
-            "max_longitude": 105.8909941,
-            "min_latitude": 11.024966,
-            "min_longitude": 105.7366598
+            "latitude": 13.6672596,
+            "longitude": 102.8975098,
+            "max_latitude": 14.24883,
+            "max_longitude": 103.44429,
+            "min_latitude": 13.343196,
+            "min_longitude": 102.3400039
         },
         "iso_3166_2": "KH-20",
         "iso_a2": "KH",
         "iso_a3": "KHM",
-        "name": "Svaay Rieng [Svay Rieng]",
+        "name": "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
         "postal": "20",
         "type": "Kh\u00eat",
         "type_en": "Province"
     },
     "21": {
         "alt_names": [
-            "Takeo",
-            "Tak\u00eav",
-            "tk",
-            "t.k"
+            "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+            "banteay meanchey",
+            "b.chey",
+            "bm",
+            "b.m"
         ],
         "cca2": "KH",
         "cca3": "KHM",
@@ -3006,28 +3008,28 @@
             "woe_name": "Tak\u00eav"
         },
         "geo": {
-            "latitude": 10.9321519,
-            "longitude": 104.798771,
-            "max_latitude": 11.3528621,
-            "max_longitude": 105.0994111,
-            "min_latitude": 10.5201891,
-            "min_longitude": 104.4379809
+            "latitude": 13.6672596,
+            "longitude": 102.8975098,
+            "max_latitude": 14.24883,
+            "max_longitude": 103.44429,
+            "min_latitude": 13.343196,
+            "min_longitude": 102.3400039
         },
         "iso_3166_2": "KH-21",
         "iso_a2": "KH",
         "iso_a3": "KHM",
-        "name": "Taakaev [Tak\u00eav]",
+        "name": "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
         "postal": "21",
         "type": "Kh\u00eat",
         "type_en": "Province"
     },
     "22": {
         "alt_names": [
-            "Otdar Mean Chey [Otd\u00e2r M\u00e9anchey] ",
-            "Oddar Meanchey",
-            "o.chey",
-            "om",
-            "o.m"
+            "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+            "banteay meanchey",
+            "b.chey",
+            "bm",
+            "b.m"
         ],
         "cca2": "KH",
         "cca3": "KHM",
@@ -3150,25 +3152,28 @@
             "woe_name": "Otdar Mean Chey"
         },
         "geo": {
-            "latitude": 14.1717195,
-            "longitude": 103.6362715,
-            "max_latitude": 14.4395071,
-            "max_longitude": 104.4748511,
-            "min_latitude": 13.909678,
-            "min_longitude": 103.0405579
+            "latitude": 13.6672596,
+            "longitude": 102.8975098,
+            "max_latitude": 14.24883,
+            "max_longitude": 103.44429,
+            "min_latitude": 13.343196,
+            "min_longitude": 102.3400039
         },
         "iso_3166_2": "KH-22",
         "iso_a2": "KH",
         "iso_a3": "KHM",
-        "name": "Otdar Mean Chey [Otd\u00e2r M\u00e9anchey] ",
+        "name": "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
         "postal": "22",
         "type": "Kh\u00eat",
         "type_en": "Province"
     },
     "23": {
         "alt_names": [
-            "Krong Kep [Krong K\u00eab]",
-            "Kep"
+            "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+            "banteay meanchey",
+            "b.chey",
+            "bm",
+            "b.m"
         ],
         "cca2": "KH",
         "cca3": "KHM",
@@ -3291,27 +3296,28 @@
             "woe_name": "Kep"
         },
         "geo": {
-            "latitude": 10.543246,
-            "longitude": 104.319142,
-            "max_latitude": 10.5781139,
-            "max_longitude": 104.3620275,
-            "min_latitude": 10.3438702,
-            "min_longitude": 104.2153591
+            "latitude": 13.6672596,
+            "longitude": 102.8975098,
+            "max_latitude": 14.24883,
+            "max_longitude": 103.44429,
+            "min_latitude": 13.343196,
+            "min_longitude": 102.3400039
         },
         "iso_3166_2": "KH-23",
         "iso_a2": "KH",
         "iso_a3": "KHM",
-        "name": "Krong Kep [Krong K\u00eab]",
+        "name": "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
         "postal": "23",
         "type": "Kh\u00eat",
         "type_en": "Province"
     },
     "24": {
         "alt_names": [
-            "Krong Pailin [Krong Pailin]",
-            "Pailin",
-            "pl",
-            "p.l"
+            "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
+            "banteay meanchey",
+            "b.chey",
+            "bm",
+            "b.m"
         ],
         "cca2": "KH",
         "cca3": "KHM",
@@ -3434,17 +3440,17 @@
             "woe_name": "Krong Pailin"
         },
         "geo": {
-            "latitude": 12.8539496,
-            "longitude": 102.6083506,
-            "max_latitude": 12.8922183,
-            "max_longitude": 102.7534103,
-            "min_latitude": 12.6638293,
-            "min_longitude": 102.4972057
+            "latitude": 13.6672596,
+            "longitude": 102.8975098,
+            "max_latitude": 14.24883,
+            "max_longitude": 103.44429,
+            "min_latitude": 13.343196,
+            "min_longitude": 102.3400039
         },
         "iso_3166_2": "KH-24",
         "iso_a2": "KH",
         "iso_a3": "KHM",
-        "name": "Krong Pailin [Krong Pailin]",
+        "name": "Banteay Mean Chey [B\u00e2nt\u00e9ay M\u00e9anchey]",
         "postal": "24",
         "type": "Municipality",
         "type_en": "Municipality"

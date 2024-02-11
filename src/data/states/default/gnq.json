@@ -141,7 +141,7 @@
     },
     "BN": {
         "alt_names": [
-            "Bioko Norte"
+            "Annob\u00f3n"
         ],
         "cca2": "GQ",
         "cca3": "GNQ",
@@ -264,24 +264,24 @@
             "woe_name": "Bioko Norte"
         },
         "geo": {
-            "latitude": 3.6595072,
-            "longitude": 8.7921836,
-            "max_latitude": 3.7858361,
-            "max_longitude": 8.9379816,
-            "min_latitude": 3.511882,
-            "min_longitude": 8.6119104
+            "latitude": -1.4221087,
+            "longitude": 5.6195112,
+            "max_latitude": -1.4041375,
+            "max_longitude": 5.635208,
+            "min_latitude": -1.457793,
+            "min_longitude": 5.6119729
         },
         "iso_3166_2": "GQ-BN",
         "iso_a2": "GQ",
         "iso_a3": "GNQ",
-        "name": "Bioko Norte",
+        "name": "Annob\u00f3n",
         "postal": "BN",
         "type": "Provincia",
         "type_en": "Province"
     },
     "BS": {
         "alt_names": [
-            "Bioko Sur"
+            "Annob\u00f3n"
         ],
         "cca2": "GQ",
         "cca3": "GNQ",
@@ -404,24 +404,24 @@
             "woe_name": "Bioko Sur"
         },
         "geo": {
-            "latitude": 3.4209785,
-            "longitude": 8.6160674,
-            "max_latitude": 3.6476928,
-            "max_longitude": 8.8506139,
-            "min_latitude": 3.2099564,
-            "min_longitude": 8.4231139
+            "latitude": -1.4221087,
+            "longitude": 5.6195112,
+            "max_latitude": -1.4041375,
+            "max_longitude": 5.635208,
+            "min_latitude": -1.457793,
+            "min_longitude": 5.6119729
         },
         "iso_3166_2": "GQ-BS",
         "iso_a2": "GQ",
         "iso_a3": "GNQ",
-        "name": "Bioko Sur",
+        "name": "Annob\u00f3n",
         "postal": "BS",
         "type": "Provincia",
         "type_en": "Province"
     },
     "CS": {
         "alt_names": [
-            "Centro Sur"
+            "Annob\u00f3n"
         ],
         "cca2": "GQ",
         "cca3": "GNQ",
@@ -544,24 +544,24 @@
             "woe_name": "Centro Sur"
         },
         "geo": {
-            "latitude": 1.3436084,
-            "longitude": 10.439656,
-            "max_latitude": 2.1742861,
-            "max_longitude": 10.98445,
-            "min_latitude": 0.996669,
-            "min_longitude": 9.9033
+            "latitude": -1.4221087,
+            "longitude": 5.6195112,
+            "max_latitude": -1.4041375,
+            "max_longitude": 5.635208,
+            "min_latitude": -1.457793,
+            "min_longitude": 5.6119729
         },
         "iso_3166_2": "GQ-CS",
         "iso_a2": "GQ",
         "iso_a3": "GNQ",
-        "name": "Centro Sur",
+        "name": "Annob\u00f3n",
         "postal": "CS",
         "type": "Provincia",
         "type_en": "Province"
     },
     "KN": {
         "alt_names": [
-            "Kie-Ntem"
+            "Annob\u00f3n"
         ],
         "cca2": "GQ",
         "cca3": "GNQ",
@@ -684,24 +684,24 @@
             "woe_name": "Kie-Ntem"
         },
         "geo": {
-            "latitude": 2.028093,
-            "longitude": 11.0711758,
-            "max_latitude": 2.187128,
-            "max_longitude": 11.3356839,
-            "min_latitude": 1.7260761,
-            "min_longitude": 10.401541
+            "latitude": -1.4221087,
+            "longitude": 5.6195112,
+            "max_latitude": -1.4041375,
+            "max_longitude": 5.635208,
+            "min_latitude": -1.457793,
+            "min_longitude": 5.6119729
         },
         "iso_3166_2": "GQ-KN",
         "iso_a2": "GQ",
         "iso_a3": "GNQ",
-        "name": "Kie-Ntem",
+        "name": "Annob\u00f3n",
         "postal": "KN",
         "type": "Provincia",
         "type_en": "Province"
     },
     "LI": {
         "alt_names": [
-            "Litoral"
+            "Annob\u00f3n"
         ],
         "cca2": "GQ",
         "cca3": "GNQ",
@@ -824,24 +824,24 @@
             "woe_name": "Litoral"
         },
         "geo": {
-            "latitude": 1.5750244,
-            "longitude": 9.8124935,
-            "max_latitude": 2.346989,
-            "max_longitude": 10.263524,
-            "min_latitude": 0.8891347,
-            "min_longitude": 9.302264
+            "latitude": -1.4221087,
+            "longitude": 5.6195112,
+            "max_latitude": -1.4041375,
+            "max_longitude": 5.635208,
+            "min_latitude": -1.457793,
+            "min_longitude": 5.6119729
         },
         "iso_3166_2": "GQ-LI",
         "iso_a2": "GQ",
         "iso_a3": "GNQ",
-        "name": "Litoral",
+        "name": "Annob\u00f3n",
         "postal": "LI",
         "type": "Provincia",
         "type_en": "Province"
     },
     "WN": {
         "alt_names": [
-            "Wele-Nz\u00e1s"
+            "Annob\u00f3n"
         ],
         "cca2": "GQ",
         "cca3": "GNQ",
@@ -964,17 +964,17 @@
             "woe_name": "Wele-Nzas"
         },
         "geo": {
-            "latitude": 1.4166162,
-            "longitude": 11.0711758,
-            "max_latitude": 1.994745,
-            "max_longitude": 11.3357239,
-            "min_latitude": 0.996211,
-            "min_longitude": 10.5228439
+            "latitude": -1.4221087,
+            "longitude": 5.6195112,
+            "max_latitude": -1.4041375,
+            "max_longitude": 5.635208,
+            "min_latitude": -1.457793,
+            "min_longitude": 5.6119729
         },
         "iso_3166_2": "GQ-WN",
         "iso_a2": "GQ",
         "iso_a3": "GNQ",
-        "name": "Wele-Nz\u00e1s",
+        "name": "Annob\u00f3n",
         "postal": "WN",
         "type": "Provincia",
         "type_en": "Province"

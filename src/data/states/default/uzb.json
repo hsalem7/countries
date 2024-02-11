@@ -143,12 +143,9 @@
     },
     "BU": {
         "alt_names": [
-            "Boukhara",
-            "Buchara",
-            "Buhara",
-            "Buhoro",
-            "Bukhara",
-            "Bukhoro"
+            "Andijon",
+            "Andizhan",
+            "Andi\u017ean"
         ],
         "cca2": "UZ",
         "cca3": "UZB",
@@ -271,27 +268,26 @@
             "woe_name": "Bukhoro"
         },
         "geo": {
-            "latitude": 39.7680827,
-            "longitude": 64.4555769,
-            "max_latitude": 39.8241068,
-            "max_longitude": 64.5017624,
-            "min_latitude": 39.7309658,
-            "min_longitude": 64.3438338
+            "latitude": 40.8153561,
+            "longitude": 72.28375,
+            "max_latitude": 40.8773096,
+            "max_longitude": 72.4216927,
+            "min_latitude": 40.6814191,
+            "min_longitude": 72.2175981
         },
         "iso_3166_2": "UZ-BU",
         "iso_a2": "UZ",
         "iso_a3": "UZB",
-        "name": "Buxoro",
+        "name": "Andijon",
         "postal": "BU",
         "type": "Wiloyat",
         "type_en": "Region"
     },
     "FA": {
         "alt_names": [
-            "Farghona",
-            "Fergana",
-            "Ferghana",
-            "Ferghona"
+            "Andijon",
+            "Andizhan",
+            "Andi\u017ean"
         ],
         "cca2": "UZ",
         "cca3": "UZB",
@@ -414,29 +410,26 @@
             "woe_name": "Ferghana"
         },
         "geo": {
-            "latitude": 40.386389,
-            "longitude": 71.786389,
-            "max_latitude": 40.4268914,
-            "max_longitude": 71.8614006,
-            "min_latitude": 40.3326582,
-            "min_longitude": 71.7195224
+            "latitude": 40.8153561,
+            "longitude": 72.28375,
+            "max_latitude": 40.8773096,
+            "max_longitude": 72.4216927,
+            "min_latitude": 40.6814191,
+            "min_longitude": 72.2175981
         },
         "iso_3166_2": "UZ-FA",
         "iso_a2": "UZ",
         "iso_a3": "UZB",
-        "name": "Farg\u2018ona",
+        "name": "Andijon",
         "postal": "FA",
         "type": "Wiloyat",
         "type_en": "Region"
     },
     "JI": {
         "alt_names": [
-            "Cizah",
-            "Cizak",
-            "Djizak",
-            "Dzhizak",
-            "D\u017eizak",
-            "Jizzakh"
+            "Andijon",
+            "Andizhan",
+            "Andi\u017ean"
         ],
         "cca2": "UZ",
         "cca3": "UZB",
@@ -559,25 +552,26 @@
             "woe_name": "Jizzakh"
         },
         "geo": {
-            "latitude": 40.115833,
-            "longitude": 67.842222,
-            "max_latitude": 40.1917254,
-            "max_longitude": 67.9324151,
-            "min_latitude": 40.0458832,
-            "min_longitude": 67.7763748
+            "latitude": 40.8153561,
+            "longitude": 72.28375,
+            "max_latitude": 40.8773096,
+            "max_longitude": 72.4216927,
+            "min_latitude": 40.6814191,
+            "min_longitude": 72.2175981
         },
         "iso_3166_2": "UZ-JI",
         "iso_a2": "UZ",
         "iso_a3": "UZB",
-        "name": "Jizzax",
+        "name": "Andijon",
         "postal": "JI",
         "type": "Wiloyat",
         "type_en": "Region"
     },
     "NG": {
         "alt_names": [
-            "Namangan",
-            "Nama\u0146gan"
+            "Andijon",
+            "Andizhan",
+            "Andi\u017ean"
         ],
         "cca2": "UZ",
         "cca3": "UZB",
@@ -700,26 +694,26 @@
             "woe_name": "Namangan"
         },
         "geo": {
-            "latitude": 41.001111,
-            "longitude": 71.668333,
-            "max_latitude": 41.0572407,
-            "max_longitude": 71.7551683,
-            "min_latitude": 40.8836945,
-            "min_longitude": 71.5340768
+            "latitude": 40.8153561,
+            "longitude": 72.28375,
+            "max_latitude": 40.8773096,
+            "max_longitude": 72.4216927,
+            "min_latitude": 40.6814191,
+            "min_longitude": 72.2175981
         },
         "iso_3166_2": "UZ-NG",
         "iso_a2": "UZ",
         "iso_a3": "UZB",
-        "name": "Namangan",
+        "name": "Andijon",
         "postal": "NG",
         "type": "Wiloyat",
         "type_en": "Region"
     },
     "NW": {
         "alt_names": [
-            "Navoi",
-            "Navoj",
-            "Navoy"
+            "Andijon",
+            "Andizhan",
+            "Andi\u017ean"
         ],
         "cca2": "UZ",
         "cca3": "UZB",
@@ -842,31 +836,26 @@
             "woe_name": "Navoi"
         },
         "geo": {
-            "latitude": 40.084444,
-            "longitude": 65.379167,
-            "max_latitude": 40.130427,
-            "max_longitude": 65.4370594,
-            "min_latitude": 40.0655921,
-            "min_longitude": 65.3061677
+            "latitude": 40.8153561,
+            "longitude": 72.28375,
+            "max_latitude": 40.8773096,
+            "max_longitude": 72.4216927,
+            "min_latitude": 40.6814191,
+            "min_longitude": 72.2175981
         },
         "iso_3166_2": "UZ-NW",
         "iso_a2": "UZ",
         "iso_a3": "UZB",
-        "name": "Navoiy",
+        "name": "Andijon",
         "postal": "NW",
         "type": "Wiloyat",
         "type_en": "Region"
     },
     "QA": {
         "alt_names": [
-            "Kashkadar",
-            "Kashkadaria",
-            "Kashkadarya",
-            "Kaskadar",
-            "Qashqadar",
-            "Qasqadar",
-            "Qa\u015fqadar",
-            "\u0136a\u015f\u0137adar"
+            "Andijon",
+            "Andizhan",
+            "Andi\u017ean"
         ],
         "cca2": "UZ",
         "cca3": "UZB",
@@ -989,26 +978,26 @@
             "woe_name": "Kashkadarya"
         },
         "geo": {
-            "latitude": 38.8986231,
-            "longitude": 66.0463534,
-            "max_latitude": 39.5323751,
-            "max_longitude": 67.683914,
-            "min_latitude": 38.0266721,
-            "min_longitude": 64.331024
+            "latitude": 40.8153561,
+            "longitude": 72.28375,
+            "max_latitude": 40.8773096,
+            "max_longitude": 72.4216927,
+            "min_latitude": 40.6814191,
+            "min_longitude": 72.2175981
         },
         "iso_3166_2": "UZ-QA",
         "iso_a2": "UZ",
         "iso_a3": "UZB",
-        "name": "Qashqadaryo",
+        "name": "Andijon",
         "postal": "QA",
         "type": "Wiloyat",
         "type_en": "Region"
     },
     "QR": {
         "alt_names": [
-            "Karakalpakistan",
-            "Qoraqalpoghiston",
-            "Qoraqalpogiston"
+            "Andijon",
+            "Andizhan",
+            "Andi\u017ean"
         ],
         "cca2": "UZ",
         "cca3": "UZB",
@@ -1131,27 +1120,26 @@
             "woe_name": "Karakalpakstan"
         },
         "geo": {
-            "latitude": 43.8041334,
-            "longitude": 59.4457988,
-            "max_latitude": 45.60519,
-            "max_longitude": 62.3715939,
-            "min_latitude": 40.993829,
-            "min_longitude": 55.996635
+            "latitude": 40.8153561,
+            "longitude": 72.28375,
+            "max_latitude": 40.8773096,
+            "max_longitude": 72.4216927,
+            "min_latitude": 40.6814191,
+            "min_longitude": 72.2175981
         },
         "iso_3166_2": "UZ-QR",
         "iso_a2": "UZ",
         "iso_a3": "UZB",
-        "name": "Qoraqalpog\u2018iston Respublikasi",
+        "name": "Andijon",
         "postal": "QR",
         "type": "Repuplikasi",
         "type_en": "Automonous Region"
     },
     "SA": {
         "alt_names": [
-            "Samarqand",
-            "Samar\u0137and",
-            "Samarkand",
-            "Samarkand"
+            "Andijon",
+            "Andizhan",
+            "Andi\u017ean"
         ],
         "cca2": "UZ",
         "cca3": "UZB",
@@ -1274,26 +1262,26 @@
             "woe_name": "Samarkand"
         },
         "geo": {
-            "latitude": 39.6542,
-            "longitude": 66.9597,
-            "max_latitude": 39.7405258,
-            "max_longitude": 67.1334059,
-            "min_latitude": 39.5408509,
-            "min_longitude": 66.8023682
+            "latitude": 40.8153561,
+            "longitude": 72.28375,
+            "max_latitude": 40.8773096,
+            "max_longitude": 72.4216927,
+            "min_latitude": 40.6814191,
+            "min_longitude": 72.2175981
         },
         "iso_3166_2": "UZ-SA",
         "iso_a2": "UZ",
         "iso_a3": "UZB",
-        "name": "Samarqand",
+        "name": "Andijon",
         "postal": "SA",
         "type": "Wiloyat",
         "type_en": "Region"
     },
     "SI": {
         "alt_names": [
-            "Sirdare",
-            "Syrdarja",
-            "Syrdarya"
+            "Andijon",
+            "Andizhan",
+            "Andi\u017ean"
         ],
         "cca2": "UZ",
         "cca3": "UZB",
@@ -1416,24 +1404,26 @@
             "woe_name": "Sirdaryo"
         },
         "geo": {
-            "latitude": 40.85,
-            "longitude": 68.666667,
-            "max_latitude": 40.8751355,
-            "max_longitude": 68.6985825,
-            "min_latitude": 40.8027001,
-            "min_longitude": 68.642063
+            "latitude": 40.8153561,
+            "longitude": 72.28375,
+            "max_latitude": 40.8773096,
+            "max_longitude": 72.4216927,
+            "min_latitude": 40.6814191,
+            "min_longitude": 72.2175981
         },
         "iso_3166_2": "UZ-SI",
         "iso_a2": "UZ",
         "iso_a3": "UZB",
-        "name": "Sirdaryo",
+        "name": "Andijon",
         "postal": "SI",
         "type": "Wiloyat",
         "type_en": "Region"
     },
     "SU": {
         "alt_names": [
-            "Surkhondar"
+            "Andijon",
+            "Andizhan",
+            "Andi\u017ean"
         ],
         "cca2": "UZ",
         "cca3": "UZB",
@@ -1556,24 +1546,26 @@
             "woe_name": "Surkhandarya"
         },
         "geo": {
-            "latitude": 37.9409005,
-            "longitude": 67.5708536,
-            "max_latitude": 39.078876,
-            "max_longitude": 68.402641,
-            "min_latitude": 37.1843299,
-            "min_longitude": 66.5177761
+            "latitude": 40.8153561,
+            "longitude": 72.28375,
+            "max_latitude": 40.8773096,
+            "max_longitude": 72.4216927,
+            "min_latitude": 40.6814191,
+            "min_longitude": 72.2175981
         },
         "iso_3166_2": "UZ-SU",
         "iso_a2": "UZ",
         "iso_a3": "UZB",
-        "name": "Surxondaryo",
+        "name": "Andijon",
         "postal": "SU",
         "type": "Wiloyat",
         "type_en": "Region"
     },
     "TK": {
         "alt_names": [
-            "Toshkent City"
+            "Andijon",
+            "Andizhan",
+            "Andi\u017ean"
         ],
         "cca2": "UZ",
         "cca3": "UZB",
@@ -1696,29 +1688,26 @@
             "woe_name": "Tashkent"
         },
         "geo": {
-            "latitude": 41.266667,
-            "longitude": 69.216667,
-            "max_latitude": 41.3985579,
-            "max_longitude": 69.4122219,
-            "min_latitude": 41.166637,
-            "min_longitude": 69.1465116
+            "latitude": 40.8153561,
+            "longitude": 72.28375,
+            "max_latitude": 40.8773096,
+            "max_longitude": 72.4216927,
+            "min_latitude": 40.6814191,
+            "min_longitude": 72.2175981
         },
         "iso_3166_2": "UZ-TK",
         "iso_a2": "UZ",
         "iso_a3": "UZB",
-        "name": "Toshkent City",
+        "name": "Andijon",
         "postal": "TK",
         "type": "Wiloyat",
         "type_en": "Region"
     },
     "TO": {
         "alt_names": [
-            "Ta\u0161kent",
-            "Toshkent",
-            "To\u015fkent",
-            "Toshkent",
-            "Taschkent",
-            "Tachkent"
+            "Andijon",
+            "Andizhan",
+            "Andi\u017ean"
         ],
         "cca2": "UZ",
         "cca3": "UZB",
@@ -1841,24 +1830,26 @@
             "woe_name": "Tashkent"
         },
         "geo": {
-            "latitude": 41.266667,
-            "longitude": 69.216667,
-            "max_latitude": 41.3985579,
-            "max_longitude": 69.4122219,
-            "min_latitude": 41.166637,
-            "min_longitude": 69.1465116
+            "latitude": 40.8153561,
+            "longitude": 72.28375,
+            "max_latitude": 40.8773096,
+            "max_longitude": 72.4216927,
+            "min_latitude": 40.6814191,
+            "min_longitude": 72.2175981
         },
         "iso_3166_2": "UZ-TO",
         "iso_a2": "UZ",
         "iso_a3": "UZB",
-        "name": "Toshkent",
+        "name": "Andijon",
         "postal": "TO",
         "type": "Wiloyat",
         "type_en": "Region"
     },
     "XO": {
         "alt_names": [
-            "Khorazm"
+            "Andijon",
+            "Andizhan",
+            "Andi\u017ean"
         ],
         "cca2": "UZ",
         "cca3": "UZB",
@@ -1981,17 +1972,17 @@
             "woe_name": "Khorezm"
         },
         "geo": {
-            "latitude": 41.3565336,
-            "longitude": 60.8566686,
-            "max_latitude": 42.004252,
-            "max_longitude": 62.359824,
-            "min_latitude": 40.564991,
-            "min_longitude": 60.0601959
+            "latitude": 40.8153561,
+            "longitude": 72.28375,
+            "max_latitude": 40.8773096,
+            "max_longitude": 72.4216927,
+            "min_latitude": 40.6814191,
+            "min_longitude": 72.2175981
         },
         "iso_3166_2": "UZ-XO",
         "iso_a2": "UZ",
         "iso_a3": "UZB",
-        "name": "Xorazm",
+        "name": "Andijon",
         "postal": "XO",
         "type": "Wiloyat",
         "type_en": "Region"

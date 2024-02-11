@@ -141,7 +141,7 @@
     },
     "AL": {
         "alt_names": [
-            "Aiga-i-le-Tai"
+            "A'ana"
         ],
         "cca2": "WS",
         "cca3": "WSM",
@@ -264,24 +264,24 @@
             "woe_name": "Aiga-i-le-Tai"
         },
         "geo": {
-            "latitude": -13.8513791,
-            "longitude": -172.0325401,
-            "max_latitude": -13.8370255,
-            "max_longitude": -172.00878,
-            "min_latitude": -13.8878389,
-            "min_longitude": -172.046524
+            "latitude": -13.898418,
+            "longitude": -171.9752995,
+            "max_latitude": -13.8038838,
+            "max_longitude": -171.887704,
+            "min_latitude": -13.9828759,
+            "min_longitude": -172.053955
         },
         "iso_3166_2": "WS-AL",
         "iso_a2": "WS",
         "iso_a3": "WSM",
-        "name": "Aiga-i-le-Tai",
+        "name": "A'ana",
         "postal": "AL",
         "type": "",
         "type_en": ""
     },
     "AT": {
         "alt_names": [
-            "Atua"
+            "A'ana"
         ],
         "cca2": "WS",
         "cca3": "WSM",
@@ -404,24 +404,24 @@
             "woe_name": "Atua"
         },
         "geo": {
-            "latitude": -13.9787053,
-            "longitude": -171.6254283,
-            "max_latitude": -13.8610281,
-            "max_longitude": -171.4177249,
-            "min_latitude": -14.0407277,
-            "min_longitude": -171.727493
+            "latitude": -13.898418,
+            "longitude": -171.9752995,
+            "max_latitude": -13.8038838,
+            "max_longitude": -171.887704,
+            "min_latitude": -13.9828759,
+            "min_longitude": -172.053955
         },
         "iso_3166_2": "WS-AT",
         "iso_a2": "WS",
         "iso_a3": "WSM",
-        "name": "Atua",
+        "name": "A'ana",
         "postal": "AT",
         "type": "",
         "type_en": ""
     },
     "FA": {
         "alt_names": [
-            "Fa'asaleleaga"
+            "A'ana"
         ],
         "cca2": "WS",
         "cca3": "WSM",
@@ -544,24 +544,24 @@
             "woe_name": "Fa`asaleleaga"
         },
         "geo": {
-            "latitude": -13.6307638,
-            "longitude": -172.2365981,
-            "max_latitude": -13.5512859,
-            "max_longitude": -172.1738909,
-            "min_latitude": -13.797492,
-            "min_longitude": -172.336349
+            "latitude": -13.898418,
+            "longitude": -171.9752995,
+            "max_latitude": -13.8038838,
+            "max_longitude": -171.887704,
+            "min_latitude": -13.9828759,
+            "min_longitude": -172.053955
         },
         "iso_3166_2": "WS-FA",
         "iso_a2": "WS",
         "iso_a3": "WSM",
-        "name": "Fa'asaleleaga",
+        "name": "A'ana",
         "postal": "FA",
         "type": "",
         "type_en": ""
     },
     "GE": {
         "alt_names": [
-            "Gaga'emauga"
+            "A'ana"
         ],
         "cca2": "WS",
         "cca3": "WSM",
@@ -684,24 +684,24 @@
             "woe_name": "Gaga`emauga"
         },
         "geo": {
-            "latitude": -13.5428666,
-            "longitude": -172.366887,
-            "max_latitude": -13.4400333,
-            "max_longitude": -171.87703,
-            "min_latitude": -14.00063,
-            "min_longitude": -172.419285
+            "latitude": -13.898418,
+            "longitude": -171.9752995,
+            "max_latitude": -13.8038838,
+            "max_longitude": -171.887704,
+            "min_latitude": -13.9828759,
+            "min_longitude": -172.053955
         },
         "iso_3166_2": "WS-GE",
         "iso_a2": "WS",
         "iso_a3": "WSM",
-        "name": "Gaga'emauga",
+        "name": "A'ana",
         "postal": "GE",
         "type": "",
         "type_en": ""
     },
     "GI": {
         "alt_names": [
-            "Gagaifomauga"
+            "A'ana"
         ],
         "cca2": "WS",
         "cca3": "WSM",
@@ -824,24 +824,24 @@
             "woe_name": "Gagaifomauga"
         },
         "geo": {
-            "latitude": -13.5468007,
-            "longitude": -172.4969331,
-            "max_latitude": -13.4459932,
-            "max_longitude": -172.3743356,
-            "min_latitude": -13.623739,
-            "min_longitude": -172.614889
+            "latitude": -13.898418,
+            "longitude": -171.9752995,
+            "max_latitude": -13.8038838,
+            "max_longitude": -171.887704,
+            "min_latitude": -13.9828759,
+            "min_longitude": -172.053955
         },
         "iso_3166_2": "WS-GI",
         "iso_a2": "WS",
         "iso_a3": "WSM",
-        "name": "Gagaifomauga",
+        "name": "A'ana",
         "postal": "GI",
         "type": "",
         "type_en": ""
     },
     "PA": {
         "alt_names": [
-            "Palauli"
+            "A'ana"
         ],
         "cca2": "WS",
         "cca3": "WSM",
@@ -964,24 +964,24 @@
             "woe_name": "Palauli"
         },
         "geo": {
-            "latitude": -13.7294579,
-            "longitude": -172.4536115,
-            "max_latitude": -13.61528,
-            "max_longitude": -172.2228389,
-            "min_latitude": -13.8020479,
-            "min_longitude": -172.616592
+            "latitude": -13.898418,
+            "longitude": -171.9752995,
+            "max_latitude": -13.8038838,
+            "max_longitude": -171.887704,
+            "min_latitude": -13.9828759,
+            "min_longitude": -172.053955
         },
         "iso_3166_2": "WS-PA",
         "iso_a2": "WS",
         "iso_a3": "WSM",
-        "name": "Palauli",
+        "name": "A'ana",
         "postal": "PA",
         "type": "",
         "type_en": ""
     },
     "SA": {
         "alt_names": [
-            "Satupa'itea"
+            "A'ana"
         ],
         "cca2": "WS",
         "cca3": "WSM",
@@ -1104,24 +1104,24 @@
             "woe_name": "Satupa`itea"
         },
         "geo": {
-            "latitude": -13.7731169,
-            "longitude": -172.3302677,
-            "max_latitude": -13.7511529,
-            "max_longitude": -172.3194839,
-            "min_latitude": -13.7761505,
-            "min_longitude": -172.3329163
+            "latitude": -13.898418,
+            "longitude": -171.9752995,
+            "max_latitude": -13.8038838,
+            "max_longitude": -171.887704,
+            "min_latitude": -13.9828759,
+            "min_longitude": -172.053955
         },
         "iso_3166_2": "WS-SA",
         "iso_a2": "WS",
         "iso_a3": "WSM",
-        "name": "Satupa'itea",
+        "name": "A'ana",
         "postal": "SA",
         "type": "",
         "type_en": ""
     },
     "TU": {
         "alt_names": [
-            "Tuamasaga"
+            "A'ana"
         ],
         "cca2": "WS",
         "cca3": "WSM",
@@ -1244,24 +1244,24 @@
             "woe_name": "Tuamasaga"
         },
         "geo": {
-            "latitude": -13.9163592,
-            "longitude": -171.8224362,
-            "max_latitude": -13.7929299,
-            "max_longitude": -171.6964743,
-            "min_latitude": -14.0409279,
-            "min_longitude": -171.9204024
+            "latitude": -13.898418,
+            "longitude": -171.9752995,
+            "max_latitude": -13.8038838,
+            "max_longitude": -171.887704,
+            "min_latitude": -13.9828759,
+            "min_longitude": -172.053955
         },
         "iso_3166_2": "WS-TU",
         "iso_a2": "WS",
         "iso_a3": "WSM",
-        "name": "Tuamasaga",
+        "name": "A'ana",
         "postal": "TU",
         "type": "",
         "type_en": ""
     },
     "VF": {
         "alt_names": [
-            "Va'a-o-Fonoti"
+            "A'ana"
         ],
         "cca2": "WS",
         "cca3": "WSM",
@@ -1384,24 +1384,24 @@
             "woe_name": "Va`a-o-Fonoti"
         },
         "geo": {
-            "latitude": -13.9470903,
-            "longitude": -171.5431872,
-            "max_latitude": -13.8730601,
-            "max_longitude": -171.4819119,
-            "min_latitude": -13.9789719,
-            "min_longitude": -171.6066749
+            "latitude": -13.898418,
+            "longitude": -171.9752995,
+            "max_latitude": -13.8038838,
+            "max_longitude": -171.887704,
+            "min_latitude": -13.9828759,
+            "min_longitude": -172.053955
         },
         "iso_3166_2": "WS-VF",
         "iso_a2": "WS",
         "iso_a3": "WSM",
-        "name": "Va'a-o-Fonoti",
+        "name": "A'ana",
         "postal": "VF",
         "type": "",
         "type_en": ""
     },
     "VS": {
         "alt_names": [
-            "Vaisigano"
+            "A'ana"
         ],
         "cca2": "WS",
         "cca3": "WSM",
@@ -1524,17 +1524,17 @@
             "woe_name": "Vaisigano"
         },
         "geo": {
-            "latitude": -13.5413827,
-            "longitude": -172.7023383,
-            "max_latitude": -13.4902919,
-            "max_longitude": -172.6121398,
-            "min_latitude": -13.6072749,
-            "min_longitude": -172.7985991
+            "latitude": -13.898418,
+            "longitude": -171.9752995,
+            "max_latitude": -13.8038838,
+            "max_longitude": -171.887704,
+            "min_latitude": -13.9828759,
+            "min_longitude": -172.053955
         },
         "iso_3166_2": "WS-VS",
         "iso_a2": "WS",
         "iso_a3": "WSM",
-        "name": "Vaisigano",
+        "name": "A'ana",
         "postal": "VS",
         "type": "",
         "type_en": ""

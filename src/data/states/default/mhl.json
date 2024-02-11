@@ -1,7 +1,7 @@
 {
     "L": {
         "alt_names": [
-            "Sunset Islands"
+            "Ailuk"
         ],
         "cca2": "MH",
         "cca3": "MHL",
@@ -124,20 +124,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "7.5955600000",
-            "longitude": "168.9590000000"
+            "latitude": 10.304809,
+            "longitude": 169.9416549,
+            "max_latitude": 10.4770933,
+            "max_longitude": 169.9918842,
+            "min_latitude": 10.2110366,
+            "min_longitude": 169.8527981
         },
         "iso_3166_2": "MH-L",
         "iso_a2": "MH",
         "iso_a3": "MHL",
-        "name": "Railik Chain",
+        "name": "Ailuk",
         "postal": "L",
         "type": "",
         "type_en": ""
     },
     "T": {
         "alt_names": [
-            "Sunrise Islands"
+            "Ailuk"
         ],
         "cca2": "MH",
         "cca3": "MHL",
@@ -260,13 +264,17 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "9.4591500000",
-            "longitude": "170.2430000000"
+            "latitude": 10.304809,
+            "longitude": 169.9416549,
+            "max_latitude": 10.4770933,
+            "max_longitude": 169.9918842,
+            "min_latitude": 10.2110366,
+            "min_longitude": 169.8527981
         },
         "iso_3166_2": "MH-T",
         "iso_a2": "MH",
         "iso_a3": "MHL",
-        "name": "Ratak Chain",
+        "name": "Ailuk",
         "postal": "T",
         "type": "",
         "type_en": ""

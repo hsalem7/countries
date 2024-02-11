@@ -146,11 +146,12 @@
     },
     "PAM": {
         "alt_names": [
-            "Ambae-Maewo",
-            "Aoba-Maewo",
-            "Omba-Aurora",
-            "Omba-Maewo",
-            "Pentecost"
+            "Ambrim",
+            "Ambrym",
+            "Malakula",
+            "Malekula",
+            "Mallicollo",
+            "Paama"
         ],
         "cca2": "VU",
         "cca3": "VUT",
@@ -273,24 +274,29 @@
             "woe_name": "Penama"
         },
         "geo": {
-            "latitude": -15.3795758,
-            "longitude": 167.9053182,
-            "max_latitude": -14.89196,
-            "max_longitude": 168.276847,
-            "min_latitude": -16.0129131,
-            "min_longitude": 167.6715374
+            "latitude": -16.4011405,
+            "longitude": 167.6077865,
+            "max_latitude": -15.8821222,
+            "max_longitude": 168.368011,
+            "min_latitude": -16.5913427,
+            "min_longitude": 167.163246
         },
         "iso_3166_2": "VU-PAM",
         "iso_a2": "VU",
         "iso_a3": "VUT",
-        "name": "P\u00e9nama",
+        "name": "Malampa",
         "postal": "PAM",
         "type": "Province",
         "type_en": "Province"
     },
     "SAM": {
         "alt_names": [
-            "Santo-Malo"
+            "Ambrim",
+            "Ambrym",
+            "Malakula",
+            "Malekula",
+            "Mallicollo",
+            "Paama"
         ],
         "cca2": "VU",
         "cca3": "VUT",
@@ -413,26 +419,29 @@
             "woe_name": "Sanma"
         },
         "geo": {
-            "latitude": -15.4840017,
-            "longitude": 166.9182097,
-            "max_latitude": -14.643453,
-            "max_longitude": 167.2973799,
-            "min_latitude": -15.7510071,
-            "min_longitude": 166.5417588
+            "latitude": -16.4011405,
+            "longitude": 167.6077865,
+            "max_latitude": -15.8821222,
+            "max_longitude": 168.368011,
+            "min_latitude": -16.5913427,
+            "min_longitude": 167.163246
         },
         "iso_3166_2": "VU-SAM",
         "iso_a2": "VU",
         "iso_a3": "VUT",
-        "name": "Sanma",
+        "name": "Malampa",
         "postal": "SAM",
         "type": "Province",
         "type_en": "Province"
     },
     "SEE": {
         "alt_names": [
-            "Sandwich Island",
-            "Vat\u00e9",
-            "\u00c9fat\u00e9"
+            "Ambrim",
+            "Ambrym",
+            "Malakula",
+            "Malekula",
+            "Mallicollo",
+            "Paama"
         ],
         "cca2": "VU",
         "cca3": "VUT",
@@ -555,24 +564,29 @@
             "woe_name": "Shefa"
         },
         "geo": {
-            "latitude": -17.6523412,
-            "longitude": 168.3387066,
-            "max_latitude": -16.567901,
-            "max_longitude": 168.6487059,
-            "min_latitude": -17.8242832,
-            "min_longitude": 168.1203521
+            "latitude": -16.4011405,
+            "longitude": 167.6077865,
+            "max_latitude": -15.8821222,
+            "max_longitude": 168.368011,
+            "min_latitude": -16.5913427,
+            "min_longitude": 167.163246
         },
         "iso_3166_2": "VU-SEE",
         "iso_a2": "VU",
         "iso_a3": "VUT",
-        "name": "Sh\u00e9fa",
+        "name": "Malampa",
         "postal": "SEE",
         "type": "Province",
         "type_en": "Province"
     },
     "TAE": {
         "alt_names": [
-            "Taf\u00e9a"
+            "Ambrim",
+            "Ambrym",
+            "Malakula",
+            "Malekula",
+            "Mallicollo",
+            "Paama"
         ],
         "cca2": "VU",
         "cca3": "VUT",
@@ -695,24 +709,29 @@
             "woe_name": "Tafea"
         },
         "geo": {
-            "latitude": -18.7237827,
-            "longitude": 169.0645056,
-            "max_latitude": -18.6213293,
-            "max_longitude": 170.237299,
-            "min_latitude": -20.2504909,
-            "min_longitude": 168.9860777
+            "latitude": -16.4011405,
+            "longitude": 167.6077865,
+            "max_latitude": -15.8821222,
+            "max_longitude": 168.368011,
+            "min_latitude": -16.5913427,
+            "min_longitude": 167.163246
         },
         "iso_3166_2": "VU-TAE",
         "iso_a2": "VU",
         "iso_a3": "VUT",
-        "name": "Taf\u00e9a",
+        "name": "Malampa",
         "postal": "TAE",
         "type": "Province",
         "type_en": "Province"
     },
     "TOB": {
         "alt_names": [
-            "Banks-Torres"
+            "Ambrim",
+            "Ambrym",
+            "Malakula",
+            "Malekula",
+            "Mallicollo",
+            "Paama"
         ],
         "cca2": "VU",
         "cca3": "VUT",
@@ -835,17 +854,17 @@
             "woe_name": "Torba"
         },
         "geo": {
-            "latitude": -14.28096,
-            "longitude": 167.5160788,
-            "max_latitude": -13.0724554,
-            "max_longitude": 168.0674347,
-            "min_latitude": -14.465699,
-            "min_longitude": 166.5435819
+            "latitude": -16.4011405,
+            "longitude": 167.6077865,
+            "max_latitude": -15.8821222,
+            "max_longitude": 168.368011,
+            "min_latitude": -16.5913427,
+            "min_longitude": 167.163246
         },
         "iso_3166_2": "VU-TOB",
         "iso_a2": "VU",
         "iso_a3": "VUT",
-        "name": "Torba",
+        "name": "Malampa",
         "postal": "TOB",
         "type": "Province",
         "type_en": "Province"

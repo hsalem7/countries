@@ -144,11 +144,10 @@
     },
     "DR": {
         "alt_names": [
-            "Dara",
-            "Dar\u0101",
-            "Dar\u02bfa",
-            "Deraa",
-            "D\u0101rayy\u0101"
+            "Dimashq",
+            "Mad\u012bnat Dima\u0161q",
+            "Damaskus",
+            "Damas"
         ],
         "cca2": "SY",
         "cca3": "SYR",
@@ -271,25 +270,27 @@
             "woe_name": "Dar`a"
         },
         "geo": {
-            "latitude": 32.625278,
-            "longitude": 36.106111,
-            "max_latitude": 32.6466746,
-            "max_longitude": 36.1277676,
-            "min_latitude": 32.5963599,
-            "min_longitude": 36.0721494
+            "latitude": 33.513,
+            "longitude": 36.292,
+            "max_latitude": 33.5651386,
+            "max_longitude": 36.3678997,
+            "min_latitude": 33.4498124,
+            "min_longitude": 36.1978912
         },
         "iso_3166_2": "SY-DR",
         "iso_a2": "SY",
         "iso_a3": "SYR",
-        "name": "Dar?a",
+        "name": "Dimashq",
         "postal": "DR",
         "type": "Governorate|Muhafazah",
         "type_en": "Province"
     },
     "DY": {
         "alt_names": [
-            "Deir El-Zor",
-            "Deir-ez-Zor"
+            "Dimashq",
+            "Mad\u012bnat Dima\u0161q",
+            "Damaskus",
+            "Damas"
         ],
         "cca2": "SY",
         "cca3": "SYR",
@@ -412,27 +413,27 @@
             "woe_name": "Dayr Az Zawr"
         },
         "geo": {
-            "latitude": 35.336,
-            "longitude": 40.145,
-            "max_latitude": 35.3734271,
-            "max_longitude": 40.1946509,
-            "min_latitude": 35.2968173,
-            "min_longitude": 40.0813007
+            "latitude": 33.513,
+            "longitude": 36.292,
+            "max_latitude": 33.5651386,
+            "max_longitude": 36.3678997,
+            "min_latitude": 33.4498124,
+            "min_longitude": 36.1978912
         },
         "iso_3166_2": "SY-DY",
         "iso_a2": "SY",
         "iso_a3": "SYR",
-        "name": "Dayr az Zawr",
+        "name": "Dimashq",
         "postal": "DY",
         "type": "Governorate|Muhafazah",
         "type_en": "Province"
     },
     "HA": {
         "alt_names": [
-            "El Haseke",
-            "Hassetche",
-            "H\u0328asakah",
-            "al-Hasakah"
+            "Dimashq",
+            "Mad\u012bnat Dima\u0161q",
+            "Damaskus",
+            "Damas"
         ],
         "cca2": "SY",
         "cca3": "SYR",
@@ -555,25 +556,27 @@
             "woe_name": "Hasaka (Al Haksa)"
         },
         "geo": {
-            "latitude": 36.405515,
-            "longitude": 40.7969149,
-            "max_latitude": 37.319145,
-            "max_longitude": 42.3850397,
-            "min_latitude": 35.5298381,
-            "min_longitude": 39.452599
+            "latitude": 33.513,
+            "longitude": 36.292,
+            "max_latitude": 33.5651386,
+            "max_longitude": 36.3678997,
+            "min_latitude": 33.4498124,
+            "min_longitude": 36.1978912
         },
         "iso_3166_2": "SY-HA",
         "iso_a2": "SY",
         "iso_a3": "SYR",
-        "name": "Al ?asakah",
+        "name": "Dimashq",
         "postal": "HA",
         "type": "Governorate|Muhafazah",
         "type_en": "Province"
     },
     "HI": {
         "alt_names": [
-            "Hims",
-            "Homs"
+            "Dimashq",
+            "Mad\u012bnat Dima\u0161q",
+            "Damaskus",
+            "Damas"
         ],
         "cca2": "SY",
         "cca3": "SYR",
@@ -696,27 +699,27 @@
             "woe_name": "Homs (Hims)"
         },
         "geo": {
-            "latitude": 33.7348116,
-            "longitude": -117.9947778,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 33.513,
+            "longitude": 36.292,
+            "max_latitude": 33.5651386,
+            "max_longitude": 36.3678997,
+            "min_latitude": 33.4498124,
+            "min_longitude": 36.1978912
         },
         "iso_3166_2": "SY-HI",
         "iso_a2": "SY",
         "iso_a3": "SYR",
-        "name": "?ims",
+        "name": "Dimashq",
         "postal": "HI",
         "type": "Governorate|Muhafazah",
         "type_en": "Province"
     },
     "HL": {
         "alt_names": [
-            "Halab",
-            "Haleb",
-            "H\u0328alab",
-            "Alep"
+            "Dimashq",
+            "Mad\u012bnat Dima\u0161q",
+            "Damaskus",
+            "Damas"
         ],
         "cca2": "SY",
         "cca3": "SYR",
@@ -839,25 +842,27 @@
             "woe_name": "Aleppo (Halab)"
         },
         "geo": {
-            "latitude": 33.9166667,
-            "longitude": 38.3,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 33.513,
+            "longitude": 36.292,
+            "max_latitude": 33.5651386,
+            "max_longitude": 36.3678997,
+            "min_latitude": 33.4498124,
+            "min_longitude": 36.1978912
         },
         "iso_3166_2": "SY-HL",
         "iso_a2": "SY",
         "iso_a3": "SYR",
-        "name": "?alab",
+        "name": "Dimashq",
         "postal": "HL",
         "type": "Governorate|Muhafazah",
         "type_en": "Province"
     },
     "HM": {
         "alt_names": [
-            "Hama",
-            "Hamah"
+            "Dimashq",
+            "Mad\u012bnat Dima\u0161q",
+            "Damaskus",
+            "Damas"
         ],
         "cca2": "SY",
         "cca3": "SYR",
@@ -980,24 +985,27 @@
             "woe_name": "Hamah"
         },
         "geo": {
-            "latitude": 32.8947222,
-            "longitude": 37.1252778,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 33.513,
+            "longitude": 36.292,
+            "max_latitude": 33.5651386,
+            "max_longitude": 36.3678997,
+            "min_latitude": 33.4498124,
+            "min_longitude": 36.1978912
         },
         "iso_3166_2": "SY-HM",
         "iso_a2": "SY",
         "iso_a3": "SYR",
-        "name": "?amah",
+        "name": "Dimashq",
         "postal": "HM",
         "type": "Governorate|Muhafazah",
         "type_en": "Province"
     },
     "ID": {
         "alt_names": [
-            "Idlib"
+            "Dimashq",
+            "Mad\u012bnat Dima\u0161q",
+            "Damaskus",
+            "Damas"
         ],
         "cca2": "SY",
         "cca3": "SYR",
@@ -1120,28 +1128,27 @@
             "woe_name": "Idlib"
         },
         "geo": {
-            "latitude": 35.933333,
-            "longitude": 36.633333,
-            "max_latitude": 35.9471799,
-            "max_longitude": 36.6674555,
-            "min_latitude": 35.9060629,
-            "min_longitude": 36.6036813
+            "latitude": 33.513,
+            "longitude": 36.292,
+            "max_latitude": 33.5651386,
+            "max_longitude": 36.3678997,
+            "min_latitude": 33.4498124,
+            "min_longitude": 36.1978912
         },
         "iso_3166_2": "SY-ID",
         "iso_a2": "SY",
         "iso_a3": "SYR",
-        "name": "Idlib",
+        "name": "Dimashq",
         "postal": "ID",
         "type": "Governorate|Muhafazah",
         "type_en": "Province"
     },
     "LA": {
         "alt_names": [
-            "Latakia",
-            "Lattakia",
-            "Lattaqui\u00e9",
-            "L\u0101dhiq\u012byah",
-            "al-Ladhiqiyah"
+            "Dimashq",
+            "Mad\u012bnat Dima\u0161q",
+            "Damaskus",
+            "Damas"
         ],
         "cca2": "SY",
         "cca3": "SYR",
@@ -1264,25 +1271,27 @@
             "woe_name": "Lattakia (Al Ladhiqiyah)"
         },
         "geo": {
-            "latitude": 35.6129791,
-            "longitude": 36.0023225,
-            "max_latitude": 35.940891,
-            "max_longitude": 36.2848139,
-            "min_latitude": 35.194528,
-            "min_longitude": 35.7272339
+            "latitude": 33.513,
+            "longitude": 36.292,
+            "max_latitude": 33.5651386,
+            "max_longitude": 36.3678997,
+            "min_latitude": 33.4498124,
+            "min_longitude": 36.1978912
         },
         "iso_3166_2": "SY-LA",
         "iso_a2": "SY",
         "iso_a3": "SYR",
-        "name": "Al Ladhiqiyah",
+        "name": "Dimashq",
         "postal": "LA",
         "type": "Governorate|Muhafazah",
         "type_en": "Province"
     },
     "QU": {
         "alt_names": [
-            "Quneitra",
-            "al-Qunaytirah"
+            "Dimashq",
+            "Mad\u012bnat Dima\u0161q",
+            "Damaskus",
+            "Damas"
         ],
         "cca2": "SY",
         "cca3": "SYR",
@@ -1405,25 +1414,27 @@
             "woe_name": "Quneitra"
         },
         "geo": {
-            "latitude": 33.0776318,
-            "longitude": 35.8934136,
-            "max_latitude": 33.247301,
-            "max_longitude": 36.003361,
-            "min_latitude": 32.836052,
-            "min_longitude": 35.8478781
+            "latitude": 33.513,
+            "longitude": 36.292,
+            "max_latitude": 33.5651386,
+            "max_longitude": 36.3678997,
+            "min_latitude": 33.4498124,
+            "min_longitude": 36.1978912
         },
         "iso_3166_2": "SY-QU",
         "iso_a2": "SY",
         "iso_a3": "SYR",
-        "name": "Al Qunaytirah",
+        "name": "Dimashq",
         "postal": "QU",
         "type": "Governorate|Muhafazah",
         "type_en": "Province"
     },
     "RA": {
         "alt_names": [
-            "Raqqah",
-            "al-Rakka"
+            "Dimashq",
+            "Mad\u012bnat Dima\u0161q",
+            "Damaskus",
+            "Damas"
         ],
         "cca2": "SY",
         "cca3": "SYR",
@@ -1546,17 +1557,17 @@
             "woe_name": "Ar Raqqah"
         },
         "geo": {
-            "latitude": 35.9594106,
-            "longitude": 38.9981052,
-            "max_latitude": 35.9821736,
-            "max_longitude": 39.0682411,
-            "min_latitude": 35.9272857,
-            "min_longitude": 38.9259338
+            "latitude": 33.513,
+            "longitude": 36.292,
+            "max_latitude": 33.5651386,
+            "max_longitude": 36.3678997,
+            "min_latitude": 33.4498124,
+            "min_longitude": 36.1978912
         },
         "iso_3166_2": "SY-RA",
         "iso_a2": "SY",
         "iso_a3": "SYR",
-        "name": "Ar Raqqah",
+        "name": "Dimashq",
         "postal": "RA",
         "type": "Governorate|Muhafazah",
         "type_en": "Province"
@@ -1564,10 +1575,9 @@
     "RD": {
         "alt_names": [
             "Dimashq",
-            "Dima\u0161q",
+            "Mad\u012bnat Dima\u0161q",
             "Damaskus",
-            "Damas",
-            "Damascus"
+            "Damas"
         ],
         "cca2": "SY",
         "cca3": "SYR",
@@ -1690,24 +1700,27 @@
             "woe_name": "Damascus"
         },
         "geo": {
-            "latitude": 33.5167289,
-            "longitude": 36.954107,
-            "max_latitude": 34.2120558,
-            "max_longitude": 38.313671,
-            "min_latitude": 32.68313,
-            "min_longitude": 35.834707
+            "latitude": 33.513,
+            "longitude": 36.292,
+            "max_latitude": 33.5651386,
+            "max_longitude": 36.3678997,
+            "min_latitude": 33.4498124,
+            "min_longitude": 36.1978912
         },
         "iso_3166_2": "SY-RD",
         "iso_a2": "SY",
         "iso_a3": "SYR",
-        "name": "Rif Dimashq",
+        "name": "Dimashq",
         "postal": "RD",
         "type": "Governorate|Muhafazah",
         "type_en": "Province"
     },
     "SU": {
         "alt_names": [
-            "as-Suwayda"
+            "Dimashq",
+            "Mad\u012bnat Dima\u0161q",
+            "Damaskus",
+            "Damas"
         ],
         "cca2": "SY",
         "cca3": "SYR",
@@ -1830,25 +1843,27 @@
             "woe_name": "As Suwayda'"
         },
         "geo": {
-            "latitude": 32.7,
-            "longitude": 36.566667,
-            "max_latitude": 32.7348733,
-            "max_longitude": 36.6076899,
-            "min_latitude": 32.6688949,
-            "min_longitude": 36.5449906
+            "latitude": 33.513,
+            "longitude": 36.292,
+            "max_latitude": 33.5651386,
+            "max_longitude": 36.3678997,
+            "min_latitude": 33.4498124,
+            "min_longitude": 36.1978912
         },
         "iso_3166_2": "SY-SU",
         "iso_a2": "SY",
         "iso_a3": "SYR",
-        "name": "As Suwayda'",
+        "name": "Dimashq",
         "postal": "SU",
         "type": "Governorate|Muhafazah",
         "type_en": "Province"
     },
     "TA": {
         "alt_names": [
-            "Tarto\u00fbs",
-            "Tartus"
+            "Dimashq",
+            "Mad\u012bnat Dima\u0161q",
+            "Damaskus",
+            "Damas"
         ],
         "cca2": "SY",
         "cca3": "SYR",
@@ -1971,24 +1986,27 @@
             "woe_name": "Tartus"
         },
         "geo": {
-            "latitude": 34.883333,
-            "longitude": 35.883333,
-            "max_latitude": 34.9235482,
-            "max_longitude": 35.9136459,
-            "min_latitude": 34.8481038,
-            "min_longitude": 35.8542896
+            "latitude": 33.513,
+            "longitude": 36.292,
+            "max_latitude": 33.5651386,
+            "max_longitude": 36.3678997,
+            "min_latitude": 33.4498124,
+            "min_longitude": 36.1978912
         },
         "iso_3166_2": "SY-TA",
         "iso_a2": "SY",
         "iso_a3": "SYR",
-        "name": "Tartus",
+        "name": "Dimashq",
         "postal": "TA",
         "type": "Governorate|Muhafazah",
         "type_en": "Province"
     },
     "X01~": {
         "alt_names": [
-            ""
+            "Dimashq",
+            "Mad\u012bnat Dima\u0161q",
+            "Damaskus",
+            "Damas"
         ],
         "cca2": "SY",
         "cca3": "SYR",
@@ -2111,13 +2129,17 @@
             "woe_name": "United Nations Neutral Zone"
         },
         "geo": {
-            "latitude": "33.1509000000",
-            "longitude": "35.8621000000"
+            "latitude": 33.513,
+            "longitude": 36.292,
+            "max_latitude": 33.5651386,
+            "max_longitude": 36.3678997,
+            "min_latitude": 33.4498124,
+            "min_longitude": 36.1978912
         },
         "iso_3166_2": "SY-X01~",
         "iso_a2": "SY",
         "iso_a3": "SYR",
-        "name": "UNDOF",
+        "name": "Dimashq",
         "postal": "X01~",
         "type": "",
         "type_en": ""

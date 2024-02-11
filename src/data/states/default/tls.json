@@ -141,7 +141,7 @@
     },
     "AN": {
         "alt_names": [
-            "Ainaro"
+            "Aileu"
         ],
         "cca2": "TL",
         "cca3": "TLS",
@@ -264,24 +264,24 @@
             "woe_name": "Ainaro"
         },
         "geo": {
-            "latitude": -9.0113171,
-            "longitude": 125.5220012,
-            "max_latitude": -8.756097,
-            "max_longitude": 125.726574,
-            "min_latitude": -9.2259576,
-            "min_longitude": 125.4256071
+            "latitude": -8.7043994,
+            "longitude": 125.6095474,
+            "max_latitude": -8.559499,
+            "max_longitude": 125.818058,
+            "min_latitude": -8.850384,
+            "min_longitude": 125.4551079
         },
         "iso_3166_2": "TL-AN",
         "iso_a2": "TL",
         "iso_a3": "TLS",
-        "name": "Ainaro",
+        "name": "Aileu",
         "postal": "AN",
         "type": "Distrik|Kabupaten",
         "type_en": "District|Regencies"
     },
     "BA": {
         "alt_names": [
-            "Baukau"
+            "Aileu"
         ],
         "cca2": "TL",
         "cca3": "TLS",
@@ -404,24 +404,24 @@
             "woe_name": "Baucau"
         },
         "geo": {
-            "latitude": -8.466667,
-            "longitude": 126.45,
-            "max_latitude": -8.4566878,
-            "max_longitude": 126.4652108,
-            "min_latitude": -8.4914305,
-            "min_longitude": 126.4455986
+            "latitude": -8.7043994,
+            "longitude": 125.6095474,
+            "max_latitude": -8.559499,
+            "max_longitude": 125.818058,
+            "min_latitude": -8.850384,
+            "min_longitude": 125.4551079
         },
         "iso_3166_2": "TL-BA",
         "iso_a2": "TL",
         "iso_a3": "TLS",
-        "name": "Baucau",
+        "name": "Aileu",
         "postal": "BA",
         "type": "Distrik|Kabupaten",
         "type_en": "District|Regencies"
     },
     "BO": {
         "alt_names": [
-            "Bobonaro"
+            "Aileu"
         ],
         "cca2": "TL",
         "cca3": "TLS",
@@ -544,24 +544,24 @@
             "woe_name": "Bobonaro"
         },
         "geo": {
-            "latitude": -9.031944,
-            "longitude": 125.325,
-            "max_latitude": -9.0257681,
-            "max_longitude": 125.3293933,
-            "min_latitude": -9.037585,
-            "min_longitude": 125.3164996
+            "latitude": -8.7043994,
+            "longitude": 125.6095474,
+            "max_latitude": -8.559499,
+            "max_longitude": 125.818058,
+            "min_latitude": -8.850384,
+            "min_longitude": 125.4551079
         },
         "iso_3166_2": "TL-BO",
         "iso_a2": "TL",
         "iso_a3": "TLS",
-        "name": "Bobonaro",
+        "name": "Aileu",
         "postal": "BO",
         "type": "Distrik|Kabupaten",
         "type_en": "District|Regencies"
     },
     "CO": {
         "alt_names": [
-            "Kova-Lima"
+            "Aileu"
         ],
         "cca2": "TL",
         "cca3": "TLS",
@@ -684,24 +684,24 @@
             "woe_name": "Cova Lima"
         },
         "geo": {
-            "latitude": -9.2650375,
-            "longitude": 125.2587964,
-            "max_latitude": -9.005953,
-            "max_longitude": 125.5403839,
-            "min_latitude": -9.4590878,
-            "min_longitude": 124.978455
+            "latitude": -8.7043994,
+            "longitude": 125.6095474,
+            "max_latitude": -8.559499,
+            "max_longitude": 125.818058,
+            "min_latitude": -8.850384,
+            "min_longitude": 125.4551079
         },
         "iso_3166_2": "TL-CO",
         "iso_a2": "TL",
         "iso_a3": "TLS",
-        "name": "Cova Lima",
+        "name": "Aileu",
         "postal": "CO",
         "type": "Distrik|Kabupaten",
         "type_en": "District|Regencies"
     },
     "DI": {
         "alt_names": [
-            "Dili"
+            "Aileu"
         ],
         "cca2": "TL",
         "cca3": "TLS",
@@ -824,24 +824,24 @@
             "woe_name": "Dili"
         },
         "geo": {
-            "latitude": -8.55,
-            "longitude": 125.566667,
-            "max_latitude": -8.5378049,
-            "max_longitude": 125.6291083,
-            "min_latitude": -8.5751071,
-            "min_longitude": 125.5108341
+            "latitude": -8.7043994,
+            "longitude": 125.6095474,
+            "max_latitude": -8.559499,
+            "max_longitude": 125.818058,
+            "min_latitude": -8.850384,
+            "min_longitude": 125.4551079
         },
         "iso_3166_2": "TL-DI",
         "iso_a2": "TL",
         "iso_a3": "TLS",
-        "name": "Dili",
+        "name": "Aileu",
         "postal": "DI",
         "type": "Distrik|Kabupaten",
         "type_en": "District|Regencies"
     },
     "ER": {
         "alt_names": [
-            "Ermera"
+            "Aileu"
         ],
         "cca2": "TL",
         "cca3": "TLS",
@@ -964,24 +964,24 @@
             "woe_name": "Ermera"
         },
         "geo": {
-            "latitude": -8.752222,
-            "longitude": 125.396944,
-            "max_latitude": -8.7455862,
-            "max_longitude": 125.4051295,
-            "min_latitude": -8.7564293,
-            "min_longitude": 125.3915809
+            "latitude": -8.7043994,
+            "longitude": 125.6095474,
+            "max_latitude": -8.559499,
+            "max_longitude": 125.818058,
+            "min_latitude": -8.850384,
+            "min_longitude": 125.4551079
         },
         "iso_3166_2": "TL-ER",
         "iso_a2": "TL",
         "iso_a3": "TLS",
-        "name": "Ermera",
+        "name": "Aileu",
         "postal": "ER",
         "type": "Distrik|Kabupaten",
         "type_en": "District|Regencies"
     },
     "LA": {
         "alt_names": [
-            "Lautem"
+            "Aileu"
         ],
         "cca2": "TL",
         "cca3": "TLS",
@@ -1104,24 +1104,24 @@
             "woe_name": "Lautem"
         },
         "geo": {
-            "latitude": -8.364,
-            "longitude": 126.904,
-            "max_latitude": -8.3597863,
-            "max_longitude": 126.9085371,
-            "min_latitude": -8.3692441,
-            "min_longitude": 126.8967569
+            "latitude": -8.7043994,
+            "longitude": 125.6095474,
+            "max_latitude": -8.559499,
+            "max_longitude": 125.818058,
+            "min_latitude": -8.850384,
+            "min_longitude": 125.4551079
         },
         "iso_3166_2": "TL-LA",
         "iso_a2": "TL",
         "iso_a3": "TLS",
-        "name": "Lautem",
+        "name": "Aileu",
         "postal": "LA",
         "type": "Distrik|Kabupaten",
         "type_en": "District|Regencies"
     },
     "LI": {
         "alt_names": [
-            "Likisia"
+            "Aileu"
         ],
         "cca2": "TL",
         "cca3": "TLS",
@@ -1244,24 +1244,24 @@
             "woe_name": "Liquica"
         },
         "geo": {
-            "latitude": -8.6674095,
-            "longitude": 125.2587964,
-            "max_latitude": -8.5633059,
-            "max_longitude": 125.527085,
-            "min_latitude": -8.757555,
-            "min_longitude": 125.093361
+            "latitude": -8.7043994,
+            "longitude": 125.6095474,
+            "max_latitude": -8.559499,
+            "max_longitude": 125.818058,
+            "min_latitude": -8.850384,
+            "min_longitude": 125.4551079
         },
         "iso_3166_2": "TL-LI",
         "iso_a2": "TL",
         "iso_a3": "TLS",
-        "name": "Liqui\u00e7a",
+        "name": "Aileu",
         "postal": "LI",
         "type": "Distrik|Kabupaten",
         "type_en": "District|Regencies"
     },
     "MF": {
         "alt_names": [
-            "Manufahi"
+            "Aileu"
         ],
         "cca2": "TL",
         "cca3": "TLS",
@@ -1384,24 +1384,24 @@
             "woe_name": "Manufahi"
         },
         "geo": {
-            "latitude": -9.0145495,
-            "longitude": 125.8279959,
-            "max_latitude": -8.738135,
-            "max_longitude": 126.0595401,
-            "min_latitude": -9.1924579,
-            "min_longitude": 125.587778
+            "latitude": -8.7043994,
+            "longitude": 125.6095474,
+            "max_latitude": -8.559499,
+            "max_longitude": 125.818058,
+            "min_latitude": -8.850384,
+            "min_longitude": 125.4551079
         },
         "iso_3166_2": "TL-MF",
         "iso_a2": "TL",
         "iso_a3": "TLS",
-        "name": "Manufahi",
+        "name": "Aileu",
         "postal": "MF",
         "type": "Distrik|Kabupaten",
         "type_en": "District|Regencies"
     },
     "MT": {
         "alt_names": [
-            "Manatuto"
+            "Aileu"
         ],
         "cca2": "TL",
         "cca3": "TLS",
@@ -1524,26 +1524,24 @@
             "woe_name": "Manatuto"
         },
         "geo": {
-            "latitude": -8.7406923,
-            "longitude": 125.958777,
-            "max_latitude": -8.4820159,
-            "max_longitude": 126.196725,
-            "min_latitude": -9.0597129,
-            "min_longitude": 125.7584121
+            "latitude": -8.7043994,
+            "longitude": 125.6095474,
+            "max_latitude": -8.559499,
+            "max_longitude": 125.818058,
+            "min_latitude": -8.850384,
+            "min_longitude": 125.4551079
         },
         "iso_3166_2": "TL-MT",
         "iso_a2": "TL",
         "iso_a3": "TLS",
-        "name": "Manatuto",
+        "name": "Aileu",
         "postal": "MT",
         "type": "Distrik|Kabupaten",
         "type_en": "District|Regencies"
     },
     "OE": {
         "alt_names": [
-            "Ambeno",
-            "Ambino",
-            "Oecusse"
+            "Aileu"
         ],
         "cca2": "TL",
         "cca3": "TLS",
@@ -1666,24 +1664,24 @@
             "woe_name": "Ambeno"
         },
         "geo": {
-            "latitude": -9.2970576,
-            "longitude": 124.2866091,
-            "max_latitude": -9.174905,
-            "max_longitude": 124.4829029,
-            "min_latitude": -9.5014169,
-            "min_longitude": 124.075439
+            "latitude": -8.7043994,
+            "longitude": 125.6095474,
+            "max_latitude": -8.559499,
+            "max_longitude": 125.818058,
+            "min_latitude": -8.850384,
+            "min_longitude": 125.4551079
         },
         "iso_3166_2": "TL-OE",
         "iso_a2": "TL",
         "iso_a3": "TLS",
-        "name": "Oecussi",
+        "name": "Aileu",
         "postal": "OE",
         "type": "Distrik|Kabupaten",
         "type_en": "District|Regencies"
     },
     "VI": {
         "alt_names": [
-            "Vikeke"
+            "Aileu"
         ],
         "cca2": "TL",
         "cca3": "TLS",
@@ -1806,17 +1804,17 @@
             "woe_name": "Viqueque"
         },
         "geo": {
-            "latitude": -8.8083212,
-            "longitude": 126.3498097,
-            "max_latitude": -8.59163,
-            "max_longitude": 126.7401707,
-            "min_latitude": -8.99103,
-            "min_longitude": 126.0464829
+            "latitude": -8.7043994,
+            "longitude": 125.6095474,
+            "max_latitude": -8.559499,
+            "max_longitude": 125.818058,
+            "min_latitude": -8.850384,
+            "min_longitude": 125.4551079
         },
         "iso_3166_2": "TL-VI",
         "iso_a2": "TL",
         "iso_a3": "TLS",
-        "name": "Viqueque",
+        "name": "Aileu",
         "postal": "VI",
         "type": "Distrik|Kabupaten",
         "type_en": "District|Regencies"

@@ -149,10 +149,15 @@
     },
     "HM": {
         "alt_names": [
-            "\u041c\u0438\u043d\u0441\u043a",
-            "\u041c\u0438\u043d\u0441\u043a\u0430\u044f \u041e\u0431\u043b\u0430\u0441\u0442\u044c",
-            "Minsk Oblast",
-            "Minskaya Voblasts'"
+            "Bierascie",
+            "Brest-Litovsk",
+            "Brestskaja Oblast\u02bf",
+            "Brestskaja Voblasts\u02bf",
+            "Brestskaya Oblast\u02bf",
+            "Brestskaya Voblasts\u02bf",
+            "Brisk",
+            "Brze\u015b\u0107 nad Bugiem",
+            "Brze\u015b\u0107-Litewski"
         ],
         "cca2": "BY",
         "cca3": "BLR",
@@ -275,27 +280,32 @@
             "woe_name": "Minsk"
         },
         "geo": {
-            "latitude": "53.9005000000",
-            "longitude": "27.6424000000"
+            "latitude": 52.5296641,
+            "longitude": 25.460648,
+            "max_latitude": 53.4118989,
+            "max_longitude": 27.5825019,
+            "min_latitude": 51.4980539,
+            "min_longitude": 23.1783377
         },
         "iso_3166_2": "BY-HM",
         "iso_a2": "BY",
         "iso_a3": "BLR",
-        "name": "City of Minsk",
+        "name": "Brestskaya voblasts' (be) Brestskaya oblast' (ru)",
         "postal": "HM",
         "type": "Voblasts'",
         "type_en": "Region"
     },
     "HO": {
         "alt_names": [
-            "Gomel",
-            "Gomelskaja Oblast\u02bf",
-            "Gomelskaya Oblast\u02bf",
-            "Gomel\u02bf",
-            "Homelskaja Voblasts\u02bf",
-            "Homelskaya Voblasts\u02bf",
-            "Homiel",
-            "Homyel"
+            "Bierascie",
+            "Brest-Litovsk",
+            "Brestskaja Oblast\u02bf",
+            "Brestskaja Voblasts\u02bf",
+            "Brestskaya Oblast\u02bf",
+            "Brestskaya Voblasts\u02bf",
+            "Brisk",
+            "Brze\u015b\u0107 nad Bugiem",
+            "Brze\u015b\u0107-Litewski"
         ],
         "cca2": "BY",
         "cca3": "BLR",
@@ -418,31 +428,32 @@
             "woe_name": "Homyel'"
         },
         "geo": {
-            "latitude": 52.1648754,
-            "longitude": 29.1333251,
-            "max_latitude": 53.3679551,
-            "max_longitude": 31.7992701,
-            "min_latitude": 51.2620722,
-            "min_longitude": 27.2441409
+            "latitude": 52.5296641,
+            "longitude": 25.460648,
+            "max_latitude": 53.4118989,
+            "max_longitude": 27.5825019,
+            "min_latitude": 51.4980539,
+            "min_longitude": 23.1783377
         },
         "iso_3166_2": "BY-HO",
         "iso_a2": "BY",
         "iso_a3": "BLR",
-        "name": "Homyel'skaya voblasts' (be) Gomel'skaya oblast' (ru)",
+        "name": "Brestskaya voblasts' (be) Brestskaya oblast' (ru)",
         "postal": "HO",
         "type": "Voblasts'",
         "type_en": "Region"
     },
     "HR": {
         "alt_names": [
-            "Gardinas",
-            "Grodnenskaja Oblast\u02bf",
-            "Grodnenskaya Oblast\u02bf",
-            "Grodno",
-            "Horadnia",
-            "Hrodno",
-            "Hrodzenskaja Voblasts\u02bf",
-            "Hrodzenskaya Voblasts\u02bf"
+            "Bierascie",
+            "Brest-Litovsk",
+            "Brestskaja Oblast\u02bf",
+            "Brestskaja Voblasts\u02bf",
+            "Brestskaya Oblast\u02bf",
+            "Brestskaya Voblasts\u02bf",
+            "Brisk",
+            "Brze\u015b\u0107 nad Bugiem",
+            "Brze\u015b\u0107-Litewski"
         ],
         "cca2": "BY",
         "cca3": "BLR",
@@ -565,36 +576,32 @@
             "woe_name": "Hrodna"
         },
         "geo": {
-            "latitude": null,
-            "longitude": null,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 52.5296641,
+            "longitude": 25.460648,
+            "max_latitude": 53.4118989,
+            "max_longitude": 27.5825019,
+            "min_latitude": 51.4980539,
+            "min_longitude": 23.1783377
         },
         "iso_3166_2": "BY-HR",
         "iso_a2": "BY",
         "iso_a3": "BLR",
-        "name": "Hrodzenskaya voblasts' (be) Grodnenskaya oblast' (ru)",
+        "name": "Brestskaya voblasts' (be) Brestskaya oblast' (ru)",
         "postal": "HR",
         "type": "Voblasts'",
         "type_en": "Region"
     },
     "MA": {
         "alt_names": [
-            "Mahiljov",
-            "Mahiljowskaja Voblasts\u02bf",
-            "Mahilyov",
-            "Mahilyowskaya Voblasts\u02bf",
-            "Mahil\u00ebv",
-            "Mahil\u00eb\u016d",
-            "Mogilev",
-            "Mogiliov",
-            "Mogiljovskaja Oblast\u02bf",
-            "Mogilov",
-            "Mogilyovskaya Oblast",
-            "Mogil\u00ebv",
-            "Mogil\u02bfov"
+            "Bierascie",
+            "Brest-Litovsk",
+            "Brestskaja Oblast\u02bf",
+            "Brestskaja Voblasts\u02bf",
+            "Brestskaya Oblast\u02bf",
+            "Brestskaya Voblasts\u02bf",
+            "Brisk",
+            "Brze\u015b\u0107 nad Bugiem",
+            "Brze\u015b\u0107-Litewski"
         ],
         "cca2": "BY",
         "cca3": "BLR",
@@ -717,26 +724,32 @@
             "woe_name": "Mahilyow"
         },
         "geo": {
-            "latitude": null,
-            "longitude": null,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 52.5296641,
+            "longitude": 25.460648,
+            "max_latitude": 53.4118989,
+            "max_longitude": 27.5825019,
+            "min_latitude": 51.4980539,
+            "min_longitude": 23.1783377
         },
         "iso_3166_2": "BY-MA",
         "iso_a2": "BY",
         "iso_a3": "BLR",
-        "name": "Mahilyowskaya voblasts' (be) Mogilevskaya oblast' (ru)",
+        "name": "Brestskaya voblasts' (be) Brestskaya oblast' (ru)",
         "postal": "MA",
         "type": "Voblasts'",
         "type_en": "Region"
     },
     "MI": {
         "alt_names": [
-            "Minskaja Oblast\u02bf",
-            "Minskaya Oblast\u02bf",
-            "Minskaya Voblasts\u02bf"
+            "Bierascie",
+            "Brest-Litovsk",
+            "Brestskaja Oblast\u02bf",
+            "Brestskaja Voblasts\u02bf",
+            "Brestskaya Oblast\u02bf",
+            "Brestskaya Voblasts\u02bf",
+            "Brisk",
+            "Brze\u015b\u0107 nad Bugiem",
+            "Brze\u015b\u0107-Litewski"
         ],
         "cca2": "BY",
         "cca3": "BLR",
@@ -859,31 +872,32 @@
             "woe_name": "Minsk"
         },
         "geo": {
-            "latitude": 53.4718561,
-            "longitude": 27.6969909,
-            "max_latitude": 55.017477,
-            "max_longitude": 29.487841,
-            "min_latitude": 52.3726118,
-            "min_longitude": 26.06101
+            "latitude": 52.5296641,
+            "longitude": 25.460648,
+            "max_latitude": 53.4118989,
+            "max_longitude": 27.5825019,
+            "min_latitude": 51.4980539,
+            "min_longitude": 23.1783377
         },
         "iso_3166_2": "BY-MI",
         "iso_a2": "BY",
         "iso_a3": "BLR",
-        "name": "Minskaya voblasts' (be) Minskaya oblast' (ru)",
+        "name": "Brestskaya voblasts' (be) Brestskaya oblast' (ru)",
         "postal": "MI",
         "type": "Gorod",
         "type_en": "Municipality"
     },
     "VI": {
         "alt_names": [
-            "Vicebskaja Voblasts\u02bf",
-            "Vicebskaya Voblasts\u02bf",
-            "Viciebsk",
-            "Vicjebsk",
-            "Vitebsk",
-            "Vitebskaja Oblast\u02bf",
-            "Vitebskaya Oblast\u02bf",
-            "Vitsyebsk"
+            "Bierascie",
+            "Brest-Litovsk",
+            "Brestskaja Oblast\u02bf",
+            "Brestskaja Voblasts\u02bf",
+            "Brestskaya Oblast\u02bf",
+            "Brestskaya Voblasts\u02bf",
+            "Brisk",
+            "Brze\u015b\u0107 nad Bugiem",
+            "Brze\u015b\u0107-Litewski"
         ],
         "cca2": "BY",
         "cca3": "BLR",
@@ -1006,17 +1020,17 @@
             "woe_name": "Vitsyebsk"
         },
         "geo": {
-            "latitude": null,
-            "longitude": null,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 52.5296641,
+            "longitude": 25.460648,
+            "max_latitude": 53.4118989,
+            "max_longitude": 27.5825019,
+            "min_latitude": 51.4980539,
+            "min_longitude": 23.1783377
         },
         "iso_3166_2": "BY-VI",
         "iso_a2": "BY",
         "iso_a3": "BLR",
-        "name": "Vitsyebskaya voblasts' (be) Vitebskaya oblast' (ru)",
+        "name": "Brestskaya voblasts' (be) Brestskaya oblast' (ru)",
         "postal": "VI",
         "type": "Voblasts'",
         "type_en": "Region"

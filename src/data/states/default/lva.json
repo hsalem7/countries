@@ -1,7 +1,7 @@
 {
     "001": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -124,20 +124,24 @@
             "woe_name": "Balvi"
         },
         "geo": {
-            "latitude": "56.0979000000",
-            "longitude": "27.0929000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-001",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Aglonas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "001",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "002": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -260,20 +264,24 @@
             "woe_name": "Jekabpils"
         },
         "geo": {
-            "latitude": "56.6459000000",
-            "longitude": "25.2280000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-002",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Aizkraukles",
+        "name": "Aizkraukles Aprinkis",
         "postal": "002",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "003": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -396,20 +404,24 @@
             "woe_name": "Kurzeme"
         },
         "geo": {
-            "latitude": "56.7232000000",
-            "longitude": "21.5943000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-003",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Aizputes",
+        "name": "Aizkraukles Aprinkis",
         "postal": "003",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "004": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -532,20 +544,24 @@
             "woe_name": "Jekabpils"
         },
         "geo": {
-            "latitude": "56.1592000000",
-            "longitude": "25.7883000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-004",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Aknistes",
+        "name": "Aizkraukles Aprinkis",
         "postal": "004",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "005": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -668,20 +684,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "57.8074000000",
-            "longitude": "24.8231000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-005",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Alojas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "005",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "006": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -804,20 +824,24 @@
             "woe_name": "Kurzeme"
         },
         "geo": {
-            "latitude": "56.9915000000",
-            "longitude": "21.5583000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-006",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Alsungas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "006",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "007": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -940,20 +964,24 @@
             "woe_name": "Aluksne"
         },
         "geo": {
-            "latitude": "57.4151000000",
-            "longitude": "27.1693000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-007",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Aluksne",
+        "name": "Aizkraukles Aprinkis",
         "postal": "007",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "008": {
         "alt_names": [
-            "Wolmar"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -1076,20 +1104,24 @@
             "woe_name": "Valmiera"
         },
         "geo": {
-            "latitude": "57.0794000000",
-            "longitude": "25.3384000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-008",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Amatas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "008",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "009": {
         "alt_names": [
-            "Wolmar"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -1212,20 +1244,24 @@
             "woe_name": "Valmiera"
         },
         "geo": {
-            "latitude": "57.4556000000",
-            "longitude": "26.4999000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-009",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Apes",
+        "name": "Aizkraukles Aprinkis",
         "postal": "009",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "010": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -1348,20 +1384,24 @@
             "woe_name": "Jekabpils"
         },
         "geo": {
-            "latitude": "56.4782000000",
-            "longitude": "22.9664000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-010",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Auces",
+        "name": "Aizkraukles Aprinkis",
         "postal": "010",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "011": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -1484,20 +1524,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "57.1080000000",
-            "longitude": "24.3855000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-011",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "\u0100da\u017ei",
+        "name": "Aizkraukles Aprinkis",
         "postal": "011",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "012": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -1620,20 +1664,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "56.8913000000",
-            "longitude": "23.7639000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-012",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Babites",
+        "name": "Aizkraukles Aprinkis",
         "postal": "012",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "013": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -1756,20 +1804,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "56.7316000000",
-            "longitude": "24.3555000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-013",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Baldones",
+        "name": "Aizkraukles Aprinkis",
         "postal": "013",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "014": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -1892,20 +1944,24 @@
             "woe_name": "Balvi"
         },
         "geo": {
-            "latitude": "56.9240000000",
-            "longitude": "27.6041000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-014",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Baltinavas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "014",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "015": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -2028,20 +2084,24 @@
             "woe_name": "Balvi"
         },
         "geo": {
-            "latitude": "57.0151000000",
-            "longitude": "27.4348000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-015",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Balvu",
+        "name": "Aizkraukles Aprinkis",
         "postal": "015",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "016": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -2164,20 +2224,24 @@
             "woe_name": "Bauska"
         },
         "geo": {
-            "latitude": "56.4223000000",
-            "longitude": "24.2690000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-016",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Bauska",
+        "name": "Aizkraukles Aprinkis",
         "postal": "016",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "017": {
         "alt_names": [
-            "Wolmar"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -2300,20 +2364,24 @@
             "woe_name": "Valmiera"
         },
         "geo": {
-            "latitude": "57.5293000000",
-            "longitude": "25.5920000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-017",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Beverinas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "017",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "018": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -2436,20 +2504,24 @@
             "woe_name": "Kurzeme"
         },
         "geo": {
-            "latitude": "56.7003000000",
-            "longitude": "22.6412000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-018",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Brocenu",
+        "name": "Aizkraukles Aprinkis",
         "postal": "018",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "019": {
         "alt_names": [
-            "Wolmar"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -2572,20 +2644,24 @@
             "woe_name": "Valmiera"
         },
         "geo": {
-            "latitude": "57.6809000000",
-            "longitude": "25.3393000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-019",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Burtnieku",
+        "name": "Aizkraukles Aprinkis",
         "postal": "019",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "020": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -2708,20 +2784,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "57.1203000000",
-            "longitude": "24.2464000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-020",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Carnikavas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "020",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "021": {
         "alt_names": [
-            "Wolmar"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -2844,20 +2924,24 @@
             "woe_name": "Valmiera"
         },
         "geo": {
-            "latitude": "57.0099000000",
-            "longitude": "26.2750000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-021",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Cesvaines",
+        "name": "Aizkraukles Aprinkis",
         "postal": "021",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "022": {
         "alt_names": [
-            "Wenden"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -2980,20 +3064,24 @@
             "woe_name": "Vidzeme"
         },
         "geo": {
-            "latitude": "57.2396000000",
-            "longitude": "25.4307000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-022",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Cesu",
+        "name": "Aizkraukles Aprinkis",
         "postal": "022",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "023": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -3116,20 +3204,24 @@
             "woe_name": "Balvi"
         },
         "geo": {
-            "latitude": "56.6132000000",
-            "longitude": "27.8618000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-023",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Ciblas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "023",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "024": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -3252,20 +3344,24 @@
             "woe_name": "Balvi"
         },
         "geo": {
-            "latitude": "56.1183000000",
-            "longitude": "27.6246000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-024",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Dagdas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "024",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "026": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -3388,20 +3484,24 @@
             "woe_name": "Dobele"
         },
         "geo": {
-            "latitude": "56.6172000000",
-            "longitude": "23.2005000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-026",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Dobele",
+        "name": "Aizkraukles Aprinkis",
         "postal": "026",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "027": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -3524,20 +3624,24 @@
             "woe_name": "Talsi"
         },
         "geo": {
-            "latitude": "57.5837000000",
-            "longitude": "22.4057000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-027",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Dundagas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "027",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "028": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -3660,20 +3764,24 @@
             "woe_name": "Liepaja"
         },
         "geo": {
-            "latitude": "56.6142000000",
-            "longitude": "21.4069000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-028",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Durbes",
+        "name": "Aizkraukles Aprinkis",
         "postal": "028",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "029": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -3796,20 +3904,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "57.0017000000",
-            "longitude": "23.3222000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-029",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Engures",
+        "name": "Aizkraukles Aprinkis",
         "postal": "029",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "030": {
         "alt_names": [
-            "Wolmar"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -3932,20 +4044,24 @@
             "woe_name": "Valmiera"
         },
         "geo": {
-            "latitude": "56.8954000000",
-            "longitude": "25.6656000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-030",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Erglu",
+        "name": "Aizkraukles Aprinkis",
         "postal": "030",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "031": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -4068,20 +4184,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "57.0221000000",
-            "longitude": "24.3875000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-031",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Garkalnes",
+        "name": "Aizkraukles Aprinkis",
         "postal": "031",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "032": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -4204,20 +4324,24 @@
             "woe_name": "Kurzeme"
         },
         "geo": {
-            "latitude": "56.4778000000",
-            "longitude": "21.2507000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-032",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Grobinas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "032",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "033": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -4340,20 +4464,24 @@
             "woe_name": "Gulbene"
         },
         "geo": {
-            "latitude": "57.1723000000",
-            "longitude": "26.5803000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-033",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Gulbene",
+        "name": "Aizkraukles Aprinkis",
         "postal": "033",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "034": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -4476,20 +4604,24 @@
             "woe_name": "Jekabpils"
         },
         "geo": {
-            "latitude": "56.6132000000",
-            "longitude": "24.2055000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-034",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Iecavas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "034",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "035": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -4612,20 +4744,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "56.8545000000",
-            "longitude": "24.5695000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-035",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Ikskiles",
+        "name": "Aizkraukles Aprinkis",
         "postal": "035",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "036": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -4748,20 +4884,24 @@
             "woe_name": "Balvi"
         },
         "geo": {
-            "latitude": "55.9997000000",
-            "longitude": "26.1768000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-036",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Ilukstes",
+        "name": "Aizkraukles Aprinkis",
         "postal": "036",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "037": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -4884,20 +5024,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "57.0998000000",
-            "longitude": "24.6350000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-037",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Incukalna",
+        "name": "Aizkraukles Aprinkis",
         "postal": "037",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "038": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -5020,20 +5164,24 @@
             "woe_name": "Jekabpils"
         },
         "geo": {
-            "latitude": "56.5109000000",
-            "longitude": "25.3016000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-038",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Jaunjelgavas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "038",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "039": {
         "alt_names": [
-            "Wolmar"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -5156,20 +5304,24 @@
             "woe_name": "Valmiera"
         },
         "geo": {
-            "latitude": "57.1448000000",
-            "longitude": "26.0091000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-039",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Jaunpiebalgas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "039",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "040": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -5292,20 +5444,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "56.7686000000",
-            "longitude": "22.9132000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-040",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Jaunpils",
+        "name": "Aizkraukles Aprinkis",
         "postal": "040",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "043": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -5428,20 +5584,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "56.9403000000",
-            "longitude": "22.6964000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-043",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Kandavas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "043",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "044": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -5564,20 +5724,24 @@
             "woe_name": "Balvi"
         },
         "geo": {
-            "latitude": "56.7645000000",
-            "longitude": "27.6287000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-044",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Karsavas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "044",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "045": {
         "alt_names": [
-            "Wolmar"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -5700,20 +5864,24 @@
             "woe_name": "Valmiera"
         },
         "geo": {
-            "latitude": "57.5415000000",
-            "longitude": "25.2116000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-045",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Kocenu",
+        "name": "Aizkraukles Aprinkis",
         "postal": "045",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "046": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -5836,20 +6004,24 @@
             "woe_name": "Jekabpils"
         },
         "geo": {
-            "latitude": "56.7031000000",
-            "longitude": "25.4447000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-046",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Kokneses",
+        "name": "Aizkraukles Aprinkis",
         "postal": "046",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "047": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -5972,20 +6144,24 @@
             "woe_name": "Kraslava"
         },
         "geo": {
-            "latitude": "55.9319000000",
-            "longitude": "27.3415000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-047",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Kraslavas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "047",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "048": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -6108,20 +6284,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "57.2798000000",
-            "longitude": "24.7863000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-048",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Krimuldas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "048",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "049": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -6244,20 +6424,24 @@
             "woe_name": "Jekabpils"
         },
         "geo": {
-            "latitude": "56.5559000000",
-            "longitude": "26.1972000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-049",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Krustpils",
+        "name": "Aizkraukles Aprinkis",
         "postal": "049",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "050": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -6380,20 +6564,24 @@
             "woe_name": "Kurzeme"
         },
         "geo": {
-            "latitude": "56.9626000000",
-            "longitude": "21.9858000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-050",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Kuldigas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "050",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "051": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -6516,20 +6704,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "56.6541000000",
-            "longitude": "24.7290000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-051",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Keguma",
+        "name": "Aizkraukles Aprinkis",
         "postal": "051",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "052": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -6652,20 +6844,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "56.8054000000",
-            "longitude": "24.2628000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-052",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Kekavas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "052",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "053": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -6788,20 +6984,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "56.7332000000",
-            "longitude": "24.9523000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-053",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Lielvardes",
+        "name": "Aizkraukles Aprinkis",
         "postal": "053",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "054": {
         "alt_names": [
-            "Limbazi"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -6924,20 +7124,24 @@
             "woe_name": "Limba\u017ei"
         },
         "geo": {
-            "latitude": "57.5879000000",
-            "longitude": "24.6925000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-054",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Limba\u017ei",
+        "name": "Aizkraukles Aprinkis",
         "postal": "054",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "055": {
         "alt_names": [
-            "Wolmar"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -7060,20 +7264,24 @@
             "woe_name": "Valmiera"
         },
         "geo": {
-            "latitude": "57.1775000000",
-            "longitude": "25.0726000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-055",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Ligatnes",
+        "name": "Aizkraukles Aprinkis",
         "postal": "055",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "056": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -7196,20 +7404,24 @@
             "woe_name": "Balvi"
         },
         "geo": {
-            "latitude": "56.3841000000",
-            "longitude": "26.3240000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-056",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Livanu",
+        "name": "Aizkraukles Aprinkis",
         "postal": "056",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "057": {
         "alt_names": [
-            "Wolmar"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -7332,20 +7544,24 @@
             "woe_name": "Valmiera"
         },
         "geo": {
-            "latitude": "56.9362000000",
-            "longitude": "26.7126000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-057",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Lubanas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "057",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "058": {
         "alt_names": [
-            "Ludsen"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -7468,20 +7684,24 @@
             "woe_name": "Ludza"
         },
         "geo": {
-            "latitude": "56.4059000000",
-            "longitude": "27.7960000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-058",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Ludzas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "058",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "059": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -7604,20 +7824,24 @@
             "woe_name": "Madona"
         },
         "geo": {
-            "latitude": "56.8050000000",
-            "longitude": "26.2344000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-059",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Madona",
+        "name": "Aizkraukles Aprinkis",
         "postal": "059",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "060": {
         "alt_names": [
-            "Wolmar"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -7740,20 +7964,24 @@
             "woe_name": "Valmiera"
         },
         "geo": {
-            "latitude": "57.9137000000",
-            "longitude": "25.0276000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-060",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Mazsalacas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "060",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "061": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -7876,20 +8104,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "57.0017000000",
-            "longitude": "24.9581000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-061",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Malpils",
+        "name": "Aizkraukles Aprinkis",
         "postal": "061",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "062": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -8012,20 +8244,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "56.8913000000",
-            "longitude": "23.9438000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-062",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Marupes",
+        "name": "Aizkraukles Aprinkis",
         "postal": "062",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "063": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -8148,20 +8384,24 @@
             "woe_name": "Talsi"
         },
         "geo": {
-            "latitude": "57.3317000000",
-            "longitude": "23.0567000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-063",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Mersraga",
+        "name": "Aizkraukles Aprinkis",
         "postal": "063",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "064": {
         "alt_names": [
-            "Wolmar"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -8284,20 +8524,24 @@
             "woe_name": "Valmiera"
         },
         "geo": {
-            "latitude": "57.9260000000",
-            "longitude": "25.4406000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-064",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Nauksenu",
+        "name": "Aizkraukles Aprinkis",
         "postal": "064",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "065": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -8420,20 +8664,24 @@
             "woe_name": "Zemgale"
         },
         "geo": {
-            "latitude": "56.3246000000",
-            "longitude": "25.1056000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-065",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Neretas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "065",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "066": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -8556,20 +8804,24 @@
             "woe_name": "Kurzeme"
         },
         "geo": {
-            "latitude": "56.3535000000",
-            "longitude": "21.0871000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-066",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Nicas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "066",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "067": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -8692,20 +8944,24 @@
             "woe_name": "Ogre"
         },
         "geo": {
-            "latitude": "56.8577000000",
-            "longitude": "25.1269000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-067",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Ogre",
+        "name": "Aizkraukles Aprinkis",
         "postal": "067",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "068": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -8828,20 +9084,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "56.7890000000",
-            "longitude": "23.9561000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-068",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Olaines",
+        "name": "Aizkraukles Aprinkis",
         "postal": "068",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "069": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -8964,20 +9224,24 @@
             "woe_name": "Jekabpils"
         },
         "geo": {
-            "latitude": "56.6377000000",
-            "longitude": "23.9479000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-069",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Ozolnieku",
+        "name": "Aizkraukles Aprinkis",
         "postal": "069",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "070": {
         "alt_names": [
-            "Wolmar"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -9100,20 +9364,24 @@
             "woe_name": "Valmiera"
         },
         "geo": {
-            "latitude": "57.3575000000",
-            "longitude": "25.0767000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-070",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Pargaujas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "070",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "071": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -9236,20 +9504,24 @@
             "woe_name": "Kurzeme"
         },
         "geo": {
-            "latitude": "56.8115000000",
-            "longitude": "21.2474000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-071",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Pavilostas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "071",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "072": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -9372,20 +9644,24 @@
             "woe_name": "Jekabpils"
         },
         "geo": {
-            "latitude": "56.6868000000",
-            "longitude": "25.7310000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-072",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Plavinu",
+        "name": "Aizkraukles Aprinkis",
         "postal": "072",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "073": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -9508,20 +9784,24 @@
             "woe_name": "Preili"
         },
         "geo": {
-            "latitude": "56.2674000000",
-            "longitude": "26.6960000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-073",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Preilu",
+        "name": "Aizkraukles Aprinkis",
         "postal": "073",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "074": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -9644,20 +9924,24 @@
             "woe_name": "Kurzeme"
         },
         "geo": {
-            "latitude": "56.4189000000",
-            "longitude": "21.5550000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-074",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Priekules",
+        "name": "Aizkraukles Aprinkis",
         "postal": "074",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "075": {
         "alt_names": [
-            "Wolmar"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -9780,20 +10064,24 @@
             "woe_name": "Valmiera"
         },
         "geo": {
-            "latitude": "57.3657000000",
-            "longitude": "25.4447000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-075",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Priekulu",
+        "name": "Aizkraukles Aprinkis",
         "postal": "075",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "076": {
         "alt_names": [
-            "Wolmar"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -9916,20 +10204,24 @@
             "woe_name": "Valmiera"
         },
         "geo": {
-            "latitude": "57.3411000000",
-            "longitude": "25.6410000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-076",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Raunas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "076",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "078": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -10052,20 +10344,24 @@
             "woe_name": "Balvi"
         },
         "geo": {
-            "latitude": "56.3637000000",
-            "longitude": "26.8189000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-078",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Riebinu",
+        "name": "Aizkraukles Aprinkis",
         "postal": "078",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "079": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -10188,20 +10484,24 @@
             "woe_name": "Talsi"
         },
         "geo": {
-            "latitude": "57.4888000000",
-            "longitude": "22.7688000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-079",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Rojas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "079",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "080": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -10324,20 +10624,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "56.9649000000",
-            "longitude": "24.5818000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-080",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Ropazu",
+        "name": "Aizkraukles Aprinkis",
         "postal": "080",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "081": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -10460,20 +10764,24 @@
             "woe_name": "Kurzeme"
         },
         "geo": {
-            "latitude": "56.2259000000",
-            "longitude": "21.2115000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-081",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Rucavas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "081",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "082": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -10596,20 +10904,24 @@
             "woe_name": "Balvi"
         },
         "geo": {
-            "latitude": "56.9853000000",
-            "longitude": "27.1093000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-082",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Rugaju",
+        "name": "Aizkraukles Aprinkis",
         "postal": "082",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "083": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -10732,20 +11044,24 @@
             "woe_name": "Jekabpils"
         },
         "geo": {
-            "latitude": "56.4087000000",
-            "longitude": "23.9643000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-083",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Rundales",
+        "name": "Aizkraukles Aprinkis",
         "postal": "083",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "084": {
         "alt_names": [
-            "Wolmar"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -10868,20 +11184,24 @@
             "woe_name": "Valmiera"
         },
         "geo": {
-            "latitude": "57.8851000000",
-            "longitude": "25.2607000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-084",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Rujienas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "084",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "085": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -11004,20 +11324,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "57.7460000000",
-            "longitude": "24.4100000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-085",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Salacgrivas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "085",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "086": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -11140,20 +11464,24 @@
             "woe_name": "Jekabpils"
         },
         "geo": {
-            "latitude": "56.4905000000",
-            "longitude": "25.7187000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-086",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Salas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "086",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "087": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -11276,20 +11604,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "56.8708000000",
-            "longitude": "24.3650000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-087",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Salaspils",
+        "name": "Aizkraukles Aprinkis",
         "postal": "087",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "088": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -11412,20 +11744,24 @@
             "woe_name": "Saldus"
         },
         "geo": {
-            "latitude": "56.6408000000",
-            "longitude": "22.4024000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-088",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Saldus",
+        "name": "Aizkraukles Aprinkis",
         "postal": "088",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "089": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -11548,20 +11884,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "57.2552000000",
-            "longitude": "24.4305000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-089",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Saulkrastu",
+        "name": "Aizkraukles Aprinkis",
         "postal": "089",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "090": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -11684,20 +12024,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "57.1980000000",
-            "longitude": "24.5327000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-090",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Sejas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "090",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "091": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -11820,20 +12164,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "57.0998000000",
-            "longitude": "24.8272000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-091",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Siguldas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "091",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "092": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -11956,20 +12304,24 @@
             "woe_name": "Jekabpils"
         },
         "geo": {
-            "latitude": "56.6786000000",
-            "longitude": "25.0971000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-092",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Skriveru",
+        "name": "Aizkraukles Aprinkis",
         "postal": "092",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "093": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -12092,20 +12444,24 @@
             "woe_name": "Kurzeme"
         },
         "geo": {
-            "latitude": "56.6446000000",
-            "longitude": "21.9901000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-093",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Skrundas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "093",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "094": {
         "alt_names": [
-            "Wolmar"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -12228,20 +12584,24 @@
             "woe_name": "Valmiera"
         },
         "geo": {
-            "latitude": "57.4025000000",
-            "longitude": "26.0091000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-094",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Smiltenes",
+        "name": "Aizkraukles Aprinkis",
         "postal": "094",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "095": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -12364,20 +12724,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": "56.9362000000",
-            "longitude": "24.3323000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-095",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Stopinu",
+        "name": "Aizkraukles Aprinkis",
         "postal": "095",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "096": {
         "alt_names": [
-            "Wolmar"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -12500,20 +12864,24 @@
             "woe_name": "Valmiera"
         },
         "geo": {
-            "latitude": "57.6356000000",
-            "longitude": "25.7924000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-096",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Strencu",
+        "name": "Aizkraukles Aprinkis",
         "postal": "096",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "097": {
         "alt_names": [
-            "Talsen"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -12636,20 +13004,24 @@
             "woe_name": "Talsi"
         },
         "geo": {
-            "latitude": "57.3170000000",
-            "longitude": "22.6192000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-097",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Talsi",
+        "name": "Aizkraukles Aprinkis",
         "postal": "097",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "098": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -12772,20 +13144,24 @@
             "woe_name": "Jekabpils"
         },
         "geo": {
-            "latitude": "56.4250000000",
-            "longitude": "23.3140000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-098",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Tervetes",
+        "name": "Aizkraukles Aprinkis",
         "postal": "098",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "099": {
         "alt_names": [
-            "Tukkum"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -12908,20 +13284,24 @@
             "woe_name": "Tukums"
         },
         "geo": {
-            "latitude": "56.9505000000",
-            "longitude": "23.0121000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-099",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Tukums",
+        "name": "Aizkraukles Aprinkis",
         "postal": "099",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "100": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -13044,21 +13424,24 @@
             "woe_name": "Kurzeme"
         },
         "geo": {
-            "latitude": "56.4320000000",
-            "longitude": "21.8331000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-100",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Vainodes",
+        "name": "Aizkraukles Aprinkis",
         "postal": "100",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "101": {
         "alt_names": [
-            "Valgamaa",
-            "Valga maakond"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -13181,20 +13564,24 @@
             "woe_name": "Valga"
         },
         "geo": {
-            "latitude": "57.6587000000",
-            "longitude": "26.0635000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-101",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Valkas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "101",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "102": {
         "alt_names": [
-            "Wolmar"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -13317,20 +13704,24 @@
             "woe_name": "Valmiera"
         },
         "geo": {
-            "latitude": "56.6336000000",
-            "longitude": "26.6430000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-102",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Varaklanu",
+        "name": "Aizkraukles Aprinkis",
         "postal": "102",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "103": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -13453,20 +13844,24 @@
             "woe_name": "Balvi"
         },
         "geo": {
-            "latitude": "56.2165000000",
-            "longitude": "26.5122000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-103",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Varkavas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "103",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "104": {
         "alt_names": [
-            "Wolmar"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -13589,20 +13984,24 @@
             "woe_name": "Valmiera"
         },
         "geo": {
-            "latitude": "57.1080000000",
-            "longitude": "25.7024000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-104",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Vecpiebalgas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "104",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "105": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -13725,20 +14124,24 @@
             "woe_name": "Jekabpils"
         },
         "geo": {
-            "latitude": "56.4823000000",
-            "longitude": "24.6268000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-105",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Vecumnieku",
+        "name": "Aizkraukles Aprinkis",
         "postal": "105",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "107": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -13861,20 +14264,24 @@
             "woe_name": "Jekabpils"
         },
         "geo": {
-            "latitude": "56.2901000000",
-            "longitude": "25.5306000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-107",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Viesites",
+        "name": "Aizkraukles Aprinkis",
         "postal": "107",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "108": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -13997,20 +14404,24 @@
             "woe_name": "Balvi"
         },
         "geo": {
-            "latitude": "57.1775000000",
-            "longitude": "27.6287000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-108",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Vilakas",
+        "name": "Aizkraukles Aprinkis",
         "postal": "108",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "109": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -14133,20 +14544,24 @@
             "woe_name": "Balvi"
         },
         "geo": {
-            "latitude": "56.5518000000",
-            "longitude": "26.8884000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-109",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Vilanu",
+        "name": "Aizkraukles Aprinkis",
         "postal": "109",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "110": {
         "alt_names": [
-            ""
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -14269,20 +14684,24 @@
             "woe_name": "Balvi"
         },
         "geo": {
-            "latitude": "56.3391000000",
-            "longitude": "28.1072000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-110",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Zilupes",
+        "name": "Aizkraukles Aprinkis",
         "postal": "110",
         "type": "Novads",
         "type_en": "Municipality"
     },
     "DGV": {
         "alt_names": [
-            "Daugavpils"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -14405,24 +14824,24 @@
             "woe_name": "Daugavpils"
         },
         "geo": {
-            "latitude": 55.874736,
-            "longitude": 26.536179,
-            "max_latitude": 55.955541,
-            "max_longitude": 26.6361371,
-            "min_latitude": 55.836144,
-            "min_longitude": 26.438294
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-DGV",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Daugavpils",
+        "name": "Aizkraukles Aprinkis",
         "postal": "DGV",
         "type": "Republikas Pils\u0113tas",
         "type_en": "Republican City"
     },
     "JEL": {
         "alt_names": [
-            "Jelgava"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -14545,24 +14964,24 @@
             "woe_name": "Jelgava"
         },
         "geo": {
-            "latitude": 56.6511091,
-            "longitude": 23.7213541,
-            "max_latitude": 56.6916349,
-            "max_longitude": 23.8002769,
-            "min_latitude": 56.596751,
-            "min_longitude": 23.623268
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-JEL",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Jelgava",
+        "name": "Aizkraukles Aprinkis",
         "postal": "JEL",
         "type": "Republikas Pils\u0113tas",
         "type_en": "Republican City"
     },
     "JKB": {
         "alt_names": [
-            "Jakobstadt"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -14685,20 +15104,24 @@
             "woe_name": "Jekabpils"
         },
         "geo": {
-            "latitude": "56.5068000000",
-            "longitude": "25.8619000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-JKB",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Jekabpils",
+        "name": "Aizkraukles Aprinkis",
         "postal": "JKB",
         "type": "Republikas Pils\u0113tas",
         "type_en": "Republican City"
     },
     "JUR": {
         "alt_names": [
-            "Jurmala"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -14821,24 +15244,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": 56.947079,
-            "longitude": 23.6168486,
-            "max_latitude": 57.007044,
-            "max_longitude": 23.9693479,
-            "min_latitude": 56.923886,
-            "min_longitude": 23.47297
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-JUR",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Jurmala",
+        "name": "Aizkraukles Aprinkis",
         "postal": "JUR",
         "type": "Republikas Pils\u0113tas",
         "type_en": "Republican City"
     },
     "LPX": {
         "alt_names": [
-            "Liepaja"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -14961,24 +15384,24 @@
             "woe_name": "Liepaja"
         },
         "geo": {
-            "latitude": 56.5046678,
-            "longitude": 21.010806,
-            "max_latitude": 56.6092,
-            "max_longitude": 21.1057334,
-            "min_latitude": 56.464691,
-            "min_longitude": 20.971237
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-LPX",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Liepaja",
+        "name": "Aizkraukles Aprinkis",
         "postal": "LPX",
         "type": "Republikas Pils\u0113tas",
         "type_en": "Republican City"
     },
     "REZ": {
         "alt_names": [
-            "Rezekne"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -15101,24 +15524,24 @@
             "woe_name": "Rezekne"
         },
         "geo": {
-            "latitude": 56.5099223,
-            "longitude": 27.3331357,
-            "max_latitude": 56.5384601,
-            "max_longitude": 27.379451,
-            "min_latitude": 56.4775499,
-            "min_longitude": 27.3038497
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-REZ",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Rezekne",
+        "name": "Aizkraukles Aprinkis",
         "postal": "REZ",
         "type": "Republikas Pils\u0113tas",
         "type_en": "Republican City"
     },
     "RIX": {
         "alt_names": [
-            "Riga"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -15241,24 +15664,24 @@
             "woe_name": "Riga"
         },
         "geo": {
-            "latitude": 56.9496487,
-            "longitude": 24.1051864,
-            "max_latitude": 57.085921,
-            "max_longitude": 24.3246659,
-            "min_latitude": 56.8570279,
-            "min_longitude": 23.9336591
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-RIX",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Riga",
+        "name": "Aizkraukles Aprinkis",
         "postal": "RIX",
         "type": "Republikas Pils\u0113tas",
         "type_en": "Republican City"
     },
     "VEN": {
         "alt_names": [
-            "Ventspils"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -15381,24 +15804,24 @@
             "woe_name": "Ventspils"
         },
         "geo": {
-            "latitude": 57.3937216,
-            "longitude": 21.5647066,
-            "max_latitude": 57.470722,
-            "max_longitude": 21.6736649,
-            "min_latitude": 57.3480939,
-            "min_longitude": 21.5157259
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-VEN",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Ventspils",
+        "name": "Aizkraukles Aprinkis",
         "postal": "VEN",
         "type": "Republikas Pils\u0113tas",
         "type_en": "Republican City"
     },
     "VMR": {
         "alt_names": [
-            "Wolmar"
+            "Aizkraukles Aprinkis"
         ],
         "cca2": "LV",
         "cca3": "LVA",
@@ -15521,13 +15944,17 @@
             "woe_name": "Valmiera"
         },
         "geo": {
-            "latitude": "57.5374000000",
-            "longitude": "25.4161000000"
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LV-VMR",
         "iso_a2": "LV",
         "iso_a3": "LVA",
-        "name": "Valmiera",
+        "name": "Aizkraukles Aprinkis",
         "postal": "VMR",
         "type": "Republikas Pils\u0113tas",
         "type_en": "Republican City"

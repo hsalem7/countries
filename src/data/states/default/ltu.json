@@ -141,7 +141,7 @@
     },
     "KL": {
         "alt_names": [
-            "Klaipedos"
+            "Alytaus Apskritis"
         ],
         "cca2": "LT",
         "cca3": "LTU",
@@ -264,24 +264,24 @@
             "woe_name": "Klaipedos"
         },
         "geo": {
-            "latitude": 55.6686983,
-            "longitude": 21.4241373,
-            "max_latitude": 56.3840238,
-            "max_longitude": 22.0260791,
-            "min_latitude": 55.1805699,
-            "min_longitude": 20.9531999
+            "latitude": 54.2000214,
+            "longitude": 24.1512634,
+            "max_latitude": 54.5634689,
+            "max_longitude": 25.025222,
+            "min_latitude": 53.89748,
+            "min_longitude": 23.3125978
         },
         "iso_3166_2": "LT-KL",
         "iso_a2": "LT",
         "iso_a3": "LTU",
-        "name": "Klaipedos Apskritis",
+        "name": "Alytaus Apskritis",
         "postal": "KL",
         "type": "Apskritis",
         "type_en": "County"
     },
     "KU": {
         "alt_names": [
-            "Kauno Apskritis"
+            "Alytaus Apskritis"
         ],
         "cca2": "LT",
         "cca3": "LTU",
@@ -404,24 +404,24 @@
             "woe_name": "Kauno"
         },
         "geo": {
-            "latitude": 54.9872863,
-            "longitude": 23.9525736,
-            "max_latitude": 55.576917,
-            "max_longitude": 24.811666,
-            "min_latitude": 54.4543069,
-            "min_longitude": 22.6715098
+            "latitude": 54.2000214,
+            "longitude": 24.1512634,
+            "max_latitude": 54.5634689,
+            "max_longitude": 25.025222,
+            "min_latitude": 53.89748,
+            "min_longitude": 23.3125978
         },
         "iso_3166_2": "LT-KU",
         "iso_a2": "LT",
         "iso_a3": "LTU",
-        "name": "Kauno Apskritis",
+        "name": "Alytaus Apskritis",
         "postal": "KU",
         "type": "Apskritis",
         "type_en": "County"
     },
     "MR": {
         "alt_names": [
-            "Mariampoles"
+            "Alytaus Apskritis"
         ],
         "cca2": "LT",
         "cca3": "LTU",
@@ -544,24 +544,24 @@
             "woe_name": "Marijampoles"
         },
         "geo": {
-            "latitude": 54.7819971,
-            "longitude": 23.1341364,
-            "max_latitude": 55.104489,
-            "max_longitude": 23.7938401,
-            "min_latitude": 54.253698,
-            "min_longitude": 22.58981
+            "latitude": 54.2000214,
+            "longitude": 24.1512634,
+            "max_latitude": 54.5634689,
+            "max_longitude": 25.025222,
+            "min_latitude": 53.89748,
+            "min_longitude": 23.3125978
         },
         "iso_3166_2": "LT-MR",
         "iso_a2": "LT",
         "iso_a3": "LTU",
-        "name": "Marijampoles Apskritis",
+        "name": "Alytaus Apskritis",
         "postal": "MR",
         "type": "Apskritis",
         "type_en": "County"
     },
     "PN": {
         "alt_names": [
-            "Panevezhio"
+            "Alytaus Apskritis"
         ],
         "cca2": "LT",
         "cca3": "LTU",
@@ -684,24 +684,24 @@
             "woe_name": "Panevezio"
         },
         "geo": {
-            "latitude": 55.9748049,
-            "longitude": 25.0794767,
-            "max_latitude": 56.4503209,
-            "max_longitude": 26.0457081,
-            "min_latitude": 55.3871399,
-            "min_longitude": 23.8790478
+            "latitude": 54.2000214,
+            "longitude": 24.1512634,
+            "max_latitude": 54.5634689,
+            "max_longitude": 25.025222,
+            "min_latitude": 53.89748,
+            "min_longitude": 23.3125978
         },
         "iso_3166_2": "LT-PN",
         "iso_a2": "LT",
         "iso_a3": "LTU",
-        "name": "Paneve\u017eio Apskritis",
+        "name": "Alytaus Apskritis",
         "postal": "PN",
         "type": "Apskritis",
         "type_en": "County"
     },
     "SA": {
         "alt_names": [
-            "Shiauliu"
+            "Alytaus Apskritis"
         ],
         "cca2": "LT",
         "cca3": "LTU",
@@ -824,24 +824,24 @@
             "woe_name": "\u0160iauliai"
         },
         "geo": {
-            "latitude": 55.9985751,
-            "longitude": 23.1380051,
-            "max_latitude": 56.4150549,
-            "max_longitude": 24.1824539,
-            "min_latitude": 55.4631011,
-            "min_longitude": 22.4657018
+            "latitude": 54.2000214,
+            "longitude": 24.1512634,
+            "max_latitude": 54.5634689,
+            "max_longitude": 25.025222,
+            "min_latitude": 53.89748,
+            "min_longitude": 23.3125978
         },
         "iso_3166_2": "LT-SA",
         "iso_a2": "LT",
         "iso_a3": "LTU",
-        "name": "\u0160iauliu Apskritis",
+        "name": "Alytaus Apskritis",
         "postal": "SA",
         "type": "Apskritis",
         "type_en": "County"
     },
     "TA": {
         "alt_names": [
-            "Taurages"
+            "Alytaus Apskritis"
         ],
         "cca2": "LT",
         "cca3": "LTU",
@@ -964,24 +964,24 @@
             "woe_name": "Taurages"
         },
         "geo": {
-            "latitude": 55.3072586,
-            "longitude": 22.357294,
-            "max_latitude": 55.688732,
-            "max_longitude": 23.5038912,
-            "min_latitude": 55.02444,
-            "min_longitude": 21.649398
+            "latitude": 54.2000214,
+            "longitude": 24.1512634,
+            "max_latitude": 54.5634689,
+            "max_longitude": 25.025222,
+            "min_latitude": 53.89748,
+            "min_longitude": 23.3125978
         },
         "iso_3166_2": "LT-TA",
         "iso_a2": "LT",
         "iso_a3": "LTU",
-        "name": "Taurages Apskritis",
+        "name": "Alytaus Apskritis",
         "postal": "TA",
         "type": "Apskritis",
         "type_en": "County"
     },
     "TE": {
         "alt_names": [
-            "Telshiu"
+            "Alytaus Apskritis"
         ],
         "cca2": "LT",
         "cca3": "LTU",
@@ -1104,24 +1104,24 @@
             "woe_name": "Tel\u0161iai"
         },
         "geo": {
-            "latitude": 56.1026616,
-            "longitude": 22.1113916,
-            "max_latitude": 56.4320116,
-            "max_longitude": 22.7381388,
-            "min_latitude": 55.5974269,
-            "min_longitude": 21.5120119
+            "latitude": 54.2000214,
+            "longitude": 24.1512634,
+            "max_latitude": 54.5634689,
+            "max_longitude": 25.025222,
+            "min_latitude": 53.89748,
+            "min_longitude": 23.3125978
         },
         "iso_3166_2": "LT-TE",
         "iso_a2": "LT",
         "iso_a3": "LTU",
-        "name": "Tel\u0161iu Apskritis",
+        "name": "Alytaus Apskritis",
         "postal": "TE",
         "type": "Apskritis",
         "type_en": "County"
     },
     "UT": {
         "alt_names": [
-            "Utenos Apskritis"
+            "Alytaus Apskritis"
         ],
         "cca2": "LT",
         "cca3": "LTU",
@@ -1244,24 +1244,24 @@
             "woe_name": "Utenos"
         },
         "geo": {
-            "latitude": 55.5318969,
-            "longitude": 25.7904699,
-            "max_latitude": 55.94378,
-            "max_longitude": 26.8355798,
-            "min_latitude": 55.0309768,
-            "min_longitude": 24.653176
+            "latitude": 54.2000214,
+            "longitude": 24.1512634,
+            "max_latitude": 54.5634689,
+            "max_longitude": 25.025222,
+            "min_latitude": 53.89748,
+            "min_longitude": 23.3125978
         },
         "iso_3166_2": "LT-UT",
         "iso_a2": "LT",
         "iso_a3": "LTU",
-        "name": "Utenos Apskritis",
+        "name": "Alytaus Apskritis",
         "postal": "UT",
         "type": "Apskritis",
         "type_en": "County"
     },
     "VL": {
         "alt_names": [
-            "Vilniaus Apskritis"
+            "Alytaus Apskritis"
         ],
         "cca2": "LT",
         "cca3": "LTU",
@@ -1384,17 +1384,17 @@
             "woe_name": "Vilniaus"
         },
         "geo": {
-            "latitude": 54.8086502,
-            "longitude": 25.2182138,
-            "max_latitude": 55.5174369,
-            "max_longitude": 26.760213,
-            "min_latitude": 54.1276599,
-            "min_longitude": 24.3863751
+            "latitude": 54.2000214,
+            "longitude": 24.1512634,
+            "max_latitude": 54.5634689,
+            "max_longitude": 25.025222,
+            "min_latitude": 53.89748,
+            "min_longitude": 23.3125978
         },
         "iso_3166_2": "LT-VL",
         "iso_a2": "LT",
         "iso_a3": "LTU",
-        "name": "Vilniaus Apskritis",
+        "name": "Alytaus Apskritis",
         "postal": "VL",
         "type": "Apskritis",
         "type_en": "County"

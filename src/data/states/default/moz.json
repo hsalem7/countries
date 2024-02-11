@@ -141,7 +141,7 @@
     },
     "B": {
         "alt_names": [
-            "Manica"
+            "Niassa"
         ],
         "cca2": "MZ",
         "cca3": "MOZ",
@@ -264,24 +264,24 @@
             "woe_name": "Manica"
         },
         "geo": {
-            "latitude": -19.5059787,
-            "longitude": 33.438353,
-            "max_latitude": -16.3896211,
-            "max_longitude": 34.576135,
-            "min_latitude": -21.58149,
-            "min_longitude": 32.3667179
+            "latitude": -12.7826202,
+            "longitude": 36.6093926,
+            "max_latitude": -11.2596681,
+            "max_longitude": 38.4838371,
+            "min_latitude": -15.5072889,
+            "min_longitude": 34.60633
         },
         "iso_3166_2": "MZ-B",
         "iso_a2": "MZ",
         "iso_a3": "MOZ",
-        "name": "Manica",
+        "name": "Niassa",
         "postal": "B",
         "type": "Provincia",
         "type_en": "Province"
     },
     "G": {
         "alt_names": [
-            "Gaza"
+            "Niassa"
         ],
         "cca2": "MZ",
         "cca3": "MOZ",
@@ -404,24 +404,24 @@
             "woe_name": "Gaza"
         },
         "geo": {
-            "latitude": -23.0221928,
-            "longitude": 32.7181375,
-            "max_latitude": -21.309147,
-            "max_longitude": 34.492104,
-            "min_latitude": -25.3720382,
-            "min_longitude": 31.3063011
+            "latitude": -12.7826202,
+            "longitude": 36.6093926,
+            "max_latitude": -11.2596681,
+            "max_longitude": 38.4838371,
+            "min_latitude": -15.5072889,
+            "min_longitude": 34.60633
         },
         "iso_3166_2": "MZ-G",
         "iso_a2": "MZ",
         "iso_a3": "MOZ",
-        "name": "Gaza",
+        "name": "Niassa",
         "postal": "G",
         "type": "Provincia",
         "type_en": "Province"
     },
     "I": {
         "alt_names": [
-            "Inhambane"
+            "Niassa"
         ],
         "cca2": "MZ",
         "cca3": "MOZ",
@@ -544,24 +544,24 @@
             "woe_name": "Inhambane"
         },
         "geo": {
-            "latitude": -23.866667,
-            "longitude": 35.383333,
-            "max_latitude": -23.8608789,
-            "max_longitude": 35.4259301,
-            "min_latitude": -23.9394282,
-            "min_longitude": 35.3777797
+            "latitude": -12.7826202,
+            "longitude": 36.6093926,
+            "max_latitude": -11.2596681,
+            "max_longitude": 38.4838371,
+            "min_latitude": -15.5072889,
+            "min_longitude": 34.60633
         },
         "iso_3166_2": "MZ-I",
         "iso_a2": "MZ",
         "iso_a3": "MOZ",
-        "name": "Inhambane",
+        "name": "Niassa",
         "postal": "I",
         "type": "Provincia",
         "type_en": "Province"
     },
     "L": {
         "alt_names": [
-            "Maputo"
+            "Niassa"
         ],
         "cca2": "MZ",
         "cca3": "MOZ",
@@ -684,24 +684,24 @@
             "woe_name": "Maputo"
         },
         "geo": {
-            "latitude": -25.966667,
-            "longitude": 32.583333,
-            "max_latitude": -25.8085457,
-            "max_longitude": 32.6980592,
-            "min_latitude": -25.9839604,
-            "min_longitude": 32.5233079
+            "latitude": -12.7826202,
+            "longitude": 36.6093926,
+            "max_latitude": -11.2596681,
+            "max_longitude": 38.4838371,
+            "min_latitude": -15.5072889,
+            "min_longitude": 34.60633
         },
         "iso_3166_2": "MZ-L",
         "iso_a2": "MZ",
         "iso_a3": "MOZ",
-        "name": "Maputo",
+        "name": "Niassa",
         "postal": "L",
         "type": "Provincia",
         "type_en": "Province"
     },
     "N": {
         "alt_names": [
-            "Nampula"
+            "Niassa"
         ],
         "cca2": "MZ",
         "cca3": "MOZ",
@@ -824,24 +824,24 @@
             "woe_name": "Nampula"
         },
         "geo": {
-            "latitude": -15.116667,
-            "longitude": 39.266667,
-            "max_latitude": -15.0862734,
-            "max_longitude": 39.3180005,
-            "min_latitude": -15.1570817,
-            "min_longitude": 39.2114776
+            "latitude": -12.7826202,
+            "longitude": 36.6093926,
+            "max_latitude": -11.2596681,
+            "max_longitude": 38.4838371,
+            "min_latitude": -15.5072889,
+            "min_longitude": 34.60633
         },
         "iso_3166_2": "MZ-N",
         "iso_a2": "MZ",
         "iso_a3": "MOZ",
-        "name": "Nampula",
+        "name": "Niassa",
         "postal": "N",
         "type": "Provincia",
         "type_en": "Province"
     },
     "P": {
         "alt_names": [
-            "Cabo Delgado"
+            "Niassa"
         ],
         "cca2": "MZ",
         "cca3": "MOZ",
@@ -964,24 +964,24 @@
             "woe_name": "Cabo Delgado"
         },
         "geo": {
-            "latitude": -12.3335474,
-            "longitude": 39.3206241,
-            "max_latitude": -10.4729195,
-            "max_longitude": 40.7165883,
-            "min_latitude": -14.162181,
-            "min_longitude": 37.9843029
+            "latitude": -12.7826202,
+            "longitude": 36.6093926,
+            "max_latitude": -11.2596681,
+            "max_longitude": 38.4838371,
+            "min_latitude": -15.5072889,
+            "min_longitude": 34.60633
         },
         "iso_3166_2": "MZ-P",
         "iso_a2": "MZ",
         "iso_a3": "MOZ",
-        "name": "Cabo Delgado",
+        "name": "Niassa",
         "postal": "P",
         "type": "Provincia",
         "type_en": "Province"
     },
     "Q": {
         "alt_names": [
-            "Zamb\u00e9zia"
+            "Niassa"
         ],
         "cca2": "MZ",
         "cca3": "MOZ",
@@ -1104,24 +1104,24 @@
             "woe_name": "Zambezia"
         },
         "geo": {
-            "latitude": -16.5638987,
+            "latitude": -12.7826202,
             "longitude": 36.6093926,
-            "max_latitude": -14.989042,
-            "max_longitude": 39.1333621,
-            "min_latitude": -18.9168009,
-            "min_longitude": 35.147209
+            "max_latitude": -11.2596681,
+            "max_longitude": 38.4838371,
+            "min_latitude": -15.5072889,
+            "min_longitude": 34.60633
         },
         "iso_3166_2": "MZ-Q",
         "iso_a2": "MZ",
         "iso_a3": "MOZ",
-        "name": "Zamb\u00e9zia",
+        "name": "Niassa",
         "postal": "Q",
         "type": "Provincia",
         "type_en": "Province"
     },
     "S": {
         "alt_names": [
-            "Sofala"
+            "Niassa"
         ],
         "cca2": "MZ",
         "cca3": "MOZ",
@@ -1244,24 +1244,24 @@
             "woe_name": "Sofala"
         },
         "geo": {
-            "latitude": -19.2039073,
-            "longitude": 34.8624166,
-            "max_latitude": -16.810862,
-            "max_longitude": 36.1929811,
-            "min_latitude": -21.3156439,
-            "min_longitude": 33.3992959
+            "latitude": -12.7826202,
+            "longitude": 36.6093926,
+            "max_latitude": -11.2596681,
+            "max_longitude": 38.4838371,
+            "min_latitude": -15.5072889,
+            "min_longitude": 34.60633
         },
         "iso_3166_2": "MZ-S",
         "iso_a2": "MZ",
         "iso_a3": "MOZ",
-        "name": "Sofala",
+        "name": "Niassa",
         "postal": "S",
         "type": "Provincia",
         "type_en": "Province"
     },
     "T": {
         "alt_names": [
-            "Tete"
+            "Niassa"
         ],
         "cca2": "MZ",
         "cca3": "MOZ",
@@ -1384,17 +1384,17 @@
             "woe_name": "Tete"
         },
         "geo": {
-            "latitude": -16.166667,
-            "longitude": 33.6,
-            "max_latitude": -16.0807983,
-            "max_longitude": 33.6530061,
-            "min_latitude": -16.1891847,
-            "min_longitude": 33.5560837
+            "latitude": -12.7826202,
+            "longitude": 36.6093926,
+            "max_latitude": -11.2596681,
+            "max_longitude": 38.4838371,
+            "min_latitude": -15.5072889,
+            "min_longitude": 34.60633
         },
         "iso_3166_2": "MZ-T",
         "iso_a2": "MZ",
         "iso_a3": "MOZ",
-        "name": "Tete",
+        "name": "Niassa",
         "postal": "T",
         "type": "Provincia",
         "type_en": "Province"

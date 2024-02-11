@@ -141,7 +141,7 @@
     },
     "BL": {
         "alt_names": [
-            "Bratislavsk\u00fd kraj"
+            "Banskobystrick\u00fd kraj"
         ],
         "cca2": "SK",
         "cca3": "SVK",
@@ -264,24 +264,24 @@
             "woe_name": "Bratislavsk\u00fd"
         },
         "geo": {
-            "latitude": 48.3118304,
-            "longitude": 17.1973299,
-            "max_latitude": 48.6543947,
-            "max_longitude": 17.522104,
-            "min_latitude": 48.0066865,
-            "min_longitude": 16.833182
+            "latitude": 48.5312499,
+            "longitude": 19.382874,
+            "max_latitude": 48.946956,
+            "max_longitude": 20.469993,
+            "min_latitude": 48.0536532,
+            "min_longitude": 18.4786941
         },
         "iso_3166_2": "SK-BL",
         "iso_a2": "SK",
         "iso_a3": "SVK",
-        "name": "Bratislavsk\u00fd kraj",
+        "name": "Banskobystrick\u00fd kraj",
         "postal": "BL",
         "type": "Kraj",
         "type_en": "Region"
     },
     "KI": {
         "alt_names": [
-            "Ko\u0161ick\u00fd kraj"
+            "Banskobystrick\u00fd kraj"
         ],
         "cca2": "SK",
         "cca3": "SVK",
@@ -404,24 +404,24 @@
             "woe_name": "Ko\u0161ick\u00fd"
         },
         "geo": {
-            "latitude": 48.6375737,
-            "longitude": 21.0834225,
-            "max_latitude": 49.0197507,
-            "max_longitude": 22.3877253,
-            "min_latitude": 48.3325145,
-            "min_longitude": 20.1811385
+            "latitude": 48.5312499,
+            "longitude": 19.382874,
+            "max_latitude": 48.946956,
+            "max_longitude": 20.469993,
+            "min_latitude": 48.0536532,
+            "min_longitude": 18.4786941
         },
         "iso_3166_2": "SK-KI",
         "iso_a2": "SK",
         "iso_a3": "SVK",
-        "name": "Ko\u0161ick\u00fd kraj",
+        "name": "Banskobystrick\u00fd kraj",
         "postal": "KI",
         "type": "Kraj",
         "type_en": "Region"
     },
     "NI": {
         "alt_names": [
-            "Nitriansky kraj"
+            "Banskobystrick\u00fd kraj"
         ],
         "cca2": "SK",
         "cca3": "SVK",
@@ -544,24 +544,24 @@
             "woe_name": "Nitriansky"
         },
         "geo": {
-            "latitude": 48.0143765,
-            "longitude": 18.5416505,
-            "max_latitude": 48.7145252,
-            "max_longitude": 19.0724064,
-            "min_latitude": 47.7313783,
-            "min_longitude": 17.7072734
+            "latitude": 48.5312499,
+            "longitude": 19.382874,
+            "max_latitude": 48.946956,
+            "max_longitude": 20.469993,
+            "min_latitude": 48.0536532,
+            "min_longitude": 18.4786941
         },
         "iso_3166_2": "SK-NI",
         "iso_a2": "SK",
         "iso_a3": "SVK",
-        "name": "Nitriansky kraj",
+        "name": "Banskobystrick\u00fd kraj",
         "postal": "NI",
         "type": "Kraj",
         "type_en": "Region"
     },
     "PV": {
         "alt_names": [
-            "Pre\u0161ovsk\u00fd kraj"
+            "Banskobystrick\u00fd kraj"
         ],
         "cca2": "SK",
         "cca3": "SVK",
@@ -684,24 +684,24 @@
             "woe_name": "Pre\u0161ov"
         },
         "geo": {
-            "latitude": 49.1716773,
-            "longitude": 21.3742001,
-            "max_latitude": 49.4608248,
-            "max_longitude": 22.5658602,
-            "min_latitude": 48.762623,
-            "min_longitude": 19.8690332
+            "latitude": 48.5312499,
+            "longitude": 19.382874,
+            "max_latitude": 48.946956,
+            "max_longitude": 20.469993,
+            "min_latitude": 48.0536532,
+            "min_longitude": 18.4786941
         },
         "iso_3166_2": "SK-PV",
         "iso_a2": "SK",
         "iso_a3": "SVK",
-        "name": "Pre\u0161ovsk\u00fd kraj",
+        "name": "Banskobystrick\u00fd kraj",
         "postal": "PV",
         "type": "Kraj",
         "type_en": "Region"
     },
     "TA": {
         "alt_names": [
-            "Trnavsk\u00fd kraj"
+            "Banskobystrick\u00fd kraj"
         ],
         "cca2": "SK",
         "cca3": "SVK",
@@ -824,24 +824,24 @@
             "woe_name": "Trnavsk\u00fd"
         },
         "geo": {
-            "latitude": 48.3943898,
-            "longitude": 17.7216205,
-            "max_latitude": 48.8782091,
-            "max_longitude": 17.9854498,
-            "min_latitude": 47.7574508,
-            "min_longitude": 16.933916
+            "latitude": 48.5312499,
+            "longitude": 19.382874,
+            "max_latitude": 48.946956,
+            "max_longitude": 20.469993,
+            "min_latitude": 48.0536532,
+            "min_longitude": 18.4786941
         },
         "iso_3166_2": "SK-TA",
         "iso_a2": "SK",
         "iso_a3": "SVK",
-        "name": "Trnavsk\u00fd kraj",
+        "name": "Banskobystrick\u00fd kraj",
         "postal": "TA",
         "type": "Kraj",
         "type_en": "Region"
     },
     "TC": {
         "alt_names": [
-            "Trenciansky kraj"
+            "Banskobystrick\u00fd kraj"
         ],
         "cca2": "SK",
         "cca3": "SVK",
@@ -964,24 +964,24 @@
             "woe_name": "Trenciansky"
         },
         "geo": {
-            "latitude": 48.8086758,
-            "longitude": 18.2324027,
-            "max_latitude": 49.3195301,
-            "max_longitude": 18.8268433,
-            "min_latitude": 48.4855226,
-            "min_longitude": 17.3541989
+            "latitude": 48.5312499,
+            "longitude": 19.382874,
+            "max_latitude": 48.946956,
+            "max_longitude": 20.469993,
+            "min_latitude": 48.0536532,
+            "min_longitude": 18.4786941
         },
         "iso_3166_2": "SK-TC",
         "iso_a2": "SK",
         "iso_a3": "SVK",
-        "name": "Trenciansky kraj",
+        "name": "Banskobystrick\u00fd kraj",
         "postal": "TC",
         "type": "Kraj",
         "type_en": "Region"
     },
     "ZI": {
         "alt_names": [
-            "\u017dilinsk\u00fd kraj"
+            "Banskobystrick\u00fd kraj"
         ],
         "cca2": "SK",
         "cca3": "SVK",
@@ -1104,17 +1104,17 @@
             "woe_name": "\u017dilinsk\u00fd"
         },
         "geo": {
-            "latitude": 49.2031435,
-            "longitude": 19.3645733,
-            "max_latitude": 49.6138171,
-            "max_longitude": 20.0600755,
-            "min_latitude": 48.7412625,
-            "min_longitude": 18.3226616
+            "latitude": 48.5312499,
+            "longitude": 19.382874,
+            "max_latitude": 48.946956,
+            "max_longitude": 20.469993,
+            "min_latitude": 48.0536532,
+            "min_longitude": 18.4786941
         },
         "iso_3166_2": "SK-ZI",
         "iso_a2": "SK",
         "iso_a3": "SVK",
-        "name": "\u017dilinsk\u00fd kraj",
+        "name": "Banskobystrick\u00fd kraj",
         "postal": "ZI",
         "type": "Kraj",
         "type_en": "Region"

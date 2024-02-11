@@ -141,7 +141,7 @@
     },
     "02": {
         "alt_names": [
-            "Lao Cai"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -264,24 +264,24 @@
             "woe_name": "L\u00e0o Cai"
         },
         "geo": {
-            "latitude": 22.3380865,
-            "longitude": 104.1487055,
-            "max_latitude": 22.848793,
-            "max_longitude": 104.626443,
-            "min_latitude": 21.8772199,
-            "min_longitude": 103.529518
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-02",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Lao Cai",
+        "name": "Lai Chau",
         "postal": "02",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "03": {
         "alt_names": [
-            "Ha Giang"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -404,24 +404,24 @@
             "woe_name": "H\u00e0 Giang"
         },
         "geo": {
-            "latitude": 22.7662056,
-            "longitude": 104.9388853,
-            "max_latitude": 23.3888341,
-            "max_longitude": 105.5752411,
-            "min_latitude": 22.166518,
-            "min_longitude": 104.3361501
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-03",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Ha Giang",
+        "name": "Lai Chau",
         "postal": "03",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "04": {
         "alt_names": [
-            "Cao Bang"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -544,24 +544,24 @@
             "woe_name": "Cao B\u1eb1ng"
         },
         "geo": {
-            "latitude": 22.635689,
-            "longitude": 106.2522143,
-            "max_latitude": 23.1186219,
-            "max_longitude": 106.826317,
-            "min_latitude": 22.35741,
-            "min_longitude": 105.2724999
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-04",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Cao Bang",
+        "name": "Lai Chau",
         "postal": "04",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "05": {
         "alt_names": [
-            "Son La"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -684,24 +684,24 @@
             "woe_name": "Son La"
         },
         "geo": {
-            "latitude": 21.3270341,
-            "longitude": 103.9141288,
-            "max_latitude": 21.4172762,
-            "max_longitude": 104.0360641,
-            "min_latitude": 21.2237815,
-            "min_longitude": 103.8084413
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-05",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Son La",
+        "name": "Lai Chau",
         "postal": "05",
         "type": "Province",
         "type_en": "Region"
     },
     "06": {
         "alt_names": [
-            "Yen Bai"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -824,24 +824,24 @@
             "woe_name": "Y\u00ean B\u00e1i"
         },
         "geo": {
-            "latitude": 21.6837923,
-            "longitude": 104.4551361,
-            "max_latitude": 22.291081,
-            "max_longitude": 105.100925,
-            "min_latitude": 21.3273449,
-            "min_longitude": 103.887402
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-06",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Yen Bai",
+        "name": "Lai Chau",
         "postal": "06",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "07": {
         "alt_names": [
-            "Tuyen Quang"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -964,24 +964,24 @@
             "woe_name": "Tuy\u00ean Quang"
         },
         "geo": {
-            "latitude": 22.1726708,
-            "longitude": 105.3131185,
-            "max_latitude": 22.694384,
-            "max_longitude": 105.597397,
-            "min_latitude": 21.501763,
-            "min_longitude": 104.848572
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-07",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Tuyen Quang",
+        "name": "Lai Chau",
         "postal": "07",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "09": {
         "alt_names": [
-            "Lang Son"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -1104,24 +1104,24 @@
             "woe_name": "L\u1ea1ng S\u01a1n"
         },
         "geo": {
-            "latitude": 21.8563705,
-            "longitude": 106.6291304,
-            "max_latitude": 22.4613169,
-            "max_longitude": 107.370491,
-            "min_latitude": 21.3245939,
-            "min_longitude": 106.0948229
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-09",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Lang Son",
+        "name": "Lai Chau",
         "postal": "09",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "13": {
         "alt_names": [
-            "Quang Ninh"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -1244,24 +1244,24 @@
             "woe_name": "Qu\u1ea3ng Ninh"
         },
         "geo": {
-            "latitude": 21.006382,
-            "longitude": 107.2925144,
-            "max_latitude": 21.6654891,
-            "max_longitude": 108.0736009,
-            "min_latitude": 20.7164602,
-            "min_longitude": 106.439682
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-13",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Quang Ninh",
+        "name": "Lai Chau",
         "postal": "13",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "14": {
         "alt_names": [
-            "Hoa Binh"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -1384,24 +1384,24 @@
             "woe_name": "H\u00f2a B\u00ecnh"
         },
         "geo": {
-            "latitude": 20.6861265,
-            "longitude": 105.3131185,
-            "max_latitude": 21.1126179,
-            "max_longitude": 105.8611979,
-            "min_latitude": 20.3047901,
-            "min_longitude": 104.8349999
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-14",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Hoa Binh",
+        "name": "Lai Chau",
         "postal": "14",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "18": {
         "alt_names": [
-            "Ninh Binh"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -1524,24 +1524,24 @@
             "woe_name": "Ninh B\u00ecnh"
         },
         "geo": {
-            "latitude": 20.2129969,
-            "longitude": 105.92299,
-            "max_latitude": 20.4552341,
-            "max_longitude": 106.1685398,
-            "min_latitude": 19.9628219,
-            "min_longitude": 105.5424731
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-18",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Ninh Binh",
+        "name": "Lai Chau",
         "postal": "18",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "20": {
         "alt_names": [
-            "Thai Binh"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -1664,24 +1664,24 @@
             "woe_name": "Th\u00e1i B\u00ecnh"
         },
         "geo": {
-            "latitude": 20.4463471,
-            "longitude": 106.3365828,
-            "max_latitude": 20.5060988,
-            "max_longitude": 106.3930608,
-            "min_latitude": 20.3997838,
-            "min_longitude": 106.2962436
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-20",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Thai Binh",
+        "name": "Lai Chau",
         "postal": "20",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "21": {
         "alt_names": [
-            "Thanh Hoa"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -1804,24 +1804,24 @@
             "woe_name": "Thanh H\u00f3a"
         },
         "geo": {
-            "latitude": 20.1291279,
-            "longitude": 105.3131185,
-            "max_latitude": 20.6708141,
-            "max_longitude": 106.0758351,
-            "min_latitude": 19.2866772,
-            "min_longitude": 104.378349
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-21",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Thanh Hoa",
+        "name": "Lai Chau",
         "postal": "21",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "22": {
         "alt_names": [
-            "Nghe An"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -1944,24 +1944,24 @@
             "woe_name": "Ngh\u1ec7 An"
         },
         "geo": {
-            "latitude": 19.2342489,
-            "longitude": 104.9200365,
-            "max_latitude": 19.999296,
-            "max_longitude": 105.806644,
-            "min_latitude": 18.5531651,
-            "min_longitude": 103.876259
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-22",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Nghe An",
+        "name": "Lai Chau",
         "postal": "22",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "23": {
         "alt_names": [
-            "Ha Tinh"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -2084,24 +2084,24 @@
             "woe_name": "Ha Tinh"
         },
         "geo": {
-            "latitude": 18.2943776,
-            "longitude": 105.6745247,
-            "max_latitude": 18.7626158,
-            "max_longitude": 106.5042068,
-            "min_latitude": 17.915977,
-            "min_longitude": 105.108635
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-23",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Ha Tinh",
+        "name": "Lai Chau",
         "postal": "23",
         "type": "Province",
         "type_en": "Region"
     },
     "24": {
         "alt_names": [
-            "Quang Binh"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -2224,24 +2224,24 @@
             "woe_name": "Qu\u1ea3ng B\u00ecnh"
         },
         "geo": {
-            "latitude": 17.6102715,
-            "longitude": 106.3487474,
-            "max_latitude": 18.089871,
-            "max_longitude": 106.995214,
-            "min_latitude": 16.924024,
-            "min_longitude": 105.617928
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-24",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Quang Binh",
+        "name": "Lai Chau",
         "postal": "24",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "25": {
         "alt_names": [
-            "Quang Tri"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -2364,24 +2364,24 @@
             "woe_name": "Qu\u1ea3ng Tr\u1ecb"
         },
         "geo": {
-            "latitude": 16.7943472,
-            "longitude": 106.963409,
-            "max_latitude": 17.165551,
-            "max_longitude": 107.3883289,
-            "min_latitude": 16.3023949,
-            "min_longitude": 106.553429
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-25",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Quang Tri",
+        "name": "Lai Chau",
         "postal": "25",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "26": {
         "alt_names": [
-            "Thua Thien-Hue"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -2504,24 +2504,24 @@
             "woe_name": "Th\u1eeba Thi\u00ean - Hu\u1ebf"
         },
         "geo": {
-            "latitude": 16.467397,
-            "longitude": 107.5905326,
-            "max_latitude": 16.741354,
-            "max_longitude": 108.1925689,
-            "min_latitude": 15.994803,
-            "min_longitude": 107.0167731
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-26",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Thua Thien-Hue",
+        "name": "Lai Chau",
         "postal": "26",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "27": {
         "alt_names": [
-            "Quang Nam"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -2644,24 +2644,24 @@
             "woe_name": "Qu\u00e0ng Nam"
         },
         "geo": {
-            "latitude": 15.5393538,
-            "longitude": 108.019102,
-            "max_latitude": 16.066077,
-            "max_longitude": 108.7379948,
-            "min_latitude": 14.951885,
-            "min_longitude": 107.217789
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-27",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Quang Nam",
+        "name": "Lai Chau",
         "postal": "27",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "28": {
         "alt_names": [
-            "Kon Tum"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -2784,24 +2784,24 @@
             "woe_name": "Kon Tum"
         },
         "geo": {
-            "latitude": 14.3497403,
-            "longitude": 108.0004606,
-            "max_latitude": 14.4549609,
-            "max_longitude": 108.088045,
-            "min_latitude": 14.2307742,
-            "min_longitude": 107.8523969
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-28",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Kon Tum",
+        "name": "Lai Chau",
         "postal": "28",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "29": {
         "alt_names": [
-            "Quang Ngai"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -2924,24 +2924,24 @@
             "woe_name": "Qu\u1ea3ng Ng\u00e3i"
         },
         "geo": {
-            "latitude": 15.1213873,
-            "longitude": 108.8044145,
-            "max_latitude": 15.216273,
-            "max_longitude": 108.9229524,
-            "min_latitude": 15.0926163,
-            "min_longitude": 108.7603999
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-29",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Quang Ngai",
+        "name": "Lai Chau",
         "postal": "29",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "30": {
         "alt_names": [
-            "Gia Lai"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -3064,24 +3064,24 @@
             "woe_name": "Gia Lai"
         },
         "geo": {
-            "latitude": 13.8078943,
-            "longitude": 108.109375,
-            "max_latitude": 14.602364,
-            "max_longitude": 108.8727541,
-            "min_latitude": 12.9962269,
-            "min_longitude": 107.3392181
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-30",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Gia Lai",
+        "name": "Lai Chau",
         "postal": "30",
         "type": "Province",
         "type_en": "Region"
     },
     "31": {
         "alt_names": [
-            "Binh Dinh"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -3204,24 +3204,24 @@
             "woe_name": "B\u00ecnh \u0110\u1ecbnh"
         },
         "geo": {
-            "latitude": 13.7829673,
-            "longitude": 109.2196634,
-            "max_latitude": 13.899993,
-            "max_longitude": 109.3000072,
-            "min_latitude": 13.669688,
-            "min_longitude": 109.1325188
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-31",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Binh Dinh",
+        "name": "Lai Chau",
         "postal": "31",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "32": {
         "alt_names": [
-            "Phu Yen"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -3344,24 +3344,24 @@
             "woe_name": "Ph\u00fa Y\u00ean"
         },
         "geo": {
-            "latitude": 13.0881861,
-            "longitude": 109.0928764,
-            "max_latitude": 13.694343,
-            "max_longitude": 109.4588245,
-            "min_latitude": 12.705112,
-            "min_longitude": 108.672809
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-32",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Phu Yen",
+        "name": "Lai Chau",
         "postal": "32",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "33": {
         "alt_names": [
-            "Dac Lac"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -3484,24 +3484,24 @@
             "woe_name": "Dak Lak"
         },
         "geo": {
-            "latitude": 12.7100116,
-            "longitude": 108.2377519,
-            "max_latitude": 13.4162268,
-            "max_longitude": 108.994509,
-            "min_latitude": 12.16056,
-            "min_longitude": 107.4892809
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-33",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Dac Lac",
+        "name": "Lai Chau",
         "postal": "33",
         "type": "Province",
         "type_en": "Region"
     },
     "34": {
         "alt_names": [
-            "Khanh Hoa"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -3624,24 +3624,24 @@
             "woe_name": "Kh\u00e1nh H\u00f2a"
         },
         "geo": {
-            "latitude": 12.2585098,
-            "longitude": 109.0526076,
-            "max_latitude": 12.8655891,
-            "max_longitude": 109.4615432,
-            "min_latitude": 11.8045669,
-            "min_longitude": 108.671521
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-34",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Khanh Hoa",
+        "name": "Lai Chau",
         "postal": "34",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "35": {
         "alt_names": [
-            "Lam Dong"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -3764,24 +3764,24 @@
             "woe_name": "L\u00e2m \u0110\u1ed3ng"
         },
         "geo": {
-            "latitude": 11.9404192,
-            "longitude": 108.4583132,
-            "max_latitude": 12.002635,
-            "max_longitude": 108.5906696,
-            "min_latitude": 11.8051867,
-            "min_longitude": 108.3107758
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-35",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Lam Dong",
+        "name": "Lai Chau",
         "postal": "35",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "36": {
         "alt_names": [
-            "Ninh Thuan"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -3904,24 +3904,24 @@
             "woe_name": "Ninh Thu\u1eadn"
         },
         "geo": {
-            "latitude": 11.6738767,
-            "longitude": 108.8629572,
-            "max_latitude": 12.163288,
-            "max_longitude": 109.2379444,
-            "min_latitude": 11.3070363,
-            "min_longitude": 108.55301
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-36",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Ninh Thuan",
+        "name": "Lai Chau",
         "postal": "36",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "37": {
         "alt_names": [
-            "Tay Ninh"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -4044,24 +4044,24 @@
             "woe_name": "T\u00e2y Ninh"
         },
         "geo": {
-            "latitude": 11.3675415,
-            "longitude": 106.1192802,
-            "max_latitude": 11.4389323,
-            "max_longitude": 106.1909722,
-            "min_latitude": 11.2912109,
-            "min_longitude": 106.0719681
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-37",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Tay Ninh",
+        "name": "Lai Chau",
         "postal": "37",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "39": {
         "alt_names": [
-            "Dong Nai"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -4184,24 +4184,24 @@
             "woe_name": "\u0110\u00f4ng Nam B\u1ed9"
         },
         "geo": {
-            "latitude": 11.0686305,
-            "longitude": 107.1675976,
-            "max_latitude": 11.5814941,
-            "max_longitude": 107.5747849,
-            "min_latitude": 10.582153,
-            "min_longitude": 106.7527479
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-39",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Dong Nai",
+        "name": "Lai Chau",
         "postal": "39",
         "type": "Region",
         "type_en": "Region"
     },
     "40": {
         "alt_names": [
-            "Binh Thuan"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -4324,24 +4324,24 @@
             "woe_name": "B\u00ecnh Thu\u1eadn"
         },
         "geo": {
-            "latitude": 10.933333,
-            "longitude": 108.1,
-            "max_latitude": 11.0238032,
-            "max_longitude": 108.3558984,
-            "min_latitude": 10.7712849,
-            "min_longitude": 107.9904427
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-40",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Binh Thuan",
+        "name": "Lai Chau",
         "postal": "40",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "41": {
         "alt_names": [
-            "Long An"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -4464,24 +4464,24 @@
             "woe_name": "Long An"
         },
         "geo": {
-            "latitude": 10.5330098,
-            "longitude": 106.4052541,
-            "max_latitude": 10.5754034,
-            "max_longitude": 106.4600945,
-            "min_latitude": 10.4757429,
-            "min_longitude": 106.346712
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-41",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Long An",
+        "name": "Lai Chau",
         "postal": "41",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "43": {
         "alt_names": [
-            "Ba Ria - Vung Tau"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -4604,24 +4604,24 @@
             "woe_name": "B\u00e0 R\u1ecba - V\u0169ng T\u00e0u"
         },
         "geo": {
-            "latitude": 10.5417397,
-            "longitude": 107.2429976,
-            "max_latitude": 10.8039479,
-            "max_longitude": 107.5830259,
-            "min_latitude": 10.3202097,
-            "min_longitude": 106.9980384
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-43",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Ba Ria - Vung Tau",
+        "name": "Lai Chau",
         "postal": "43",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "44": {
         "alt_names": [
-            "An Giang"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -4744,24 +4744,24 @@
             "woe_name": "An Giang"
         },
         "geo": {
-            "latitude": 10.5215836,
-            "longitude": 105.1258955,
-            "max_latitude": 10.9559351,
-            "max_longitude": 105.5719318,
-            "min_latitude": 10.1824999,
-            "min_longitude": 104.7775209
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-44",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "An Giang",
+        "name": "Lai Chau",
         "postal": "44",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "45": {
         "alt_names": [
-            "Dong Thap"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -4884,24 +4884,24 @@
             "woe_name": "\u00d0?ng Th\u00e1p"
         },
         "geo": {
-            "latitude": 10.4937989,
-            "longitude": 105.6881788,
-            "max_latitude": 10.9664691,
-            "max_longitude": 105.944197,
-            "min_latitude": 10.1387694,
-            "min_longitude": 105.1887371
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-45",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Dong Thap",
+        "name": "Lai Chau",
         "postal": "45",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "46": {
         "alt_names": [
-            "Tien Giang"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -5024,24 +5024,24 @@
             "woe_name": "Tien Giang"
         },
         "geo": {
-            "latitude": 10.4493324,
-            "longitude": 106.3420504,
-            "max_latitude": 10.5871,
-            "max_longitude": 106.788528,
-            "min_latitude": 10.213442,
-            "min_longitude": 105.8196079
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-46",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Tien Giang",
+        "name": "Lai Chau",
         "postal": "46",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "47": {
         "alt_names": [
-            "Kien Giang"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -5164,24 +5164,24 @@
             "woe_name": "Ki\u00ean Giang"
         },
         "geo": {
-            "latitude": 9.8249587,
-            "longitude": 105.1258955,
-            "max_latitude": 10.538596,
-            "max_longitude": 105.538959,
-            "min_latitude": 9.381123,
-            "min_longitude": 104.3223179
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-47",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Kien Giang",
+        "name": "Lai Chau",
         "postal": "47",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "49": {
         "alt_names": [
-            "Vinh Long"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -5304,24 +5304,24 @@
             "woe_name": "V\u0129nh Long"
         },
         "geo": {
-            "latitude": 10.2448442,
-            "longitude": 105.958865,
-            "max_latitude": 10.2759884,
-            "max_longitude": 105.9974669,
-            "min_latitude": 10.2191458,
-            "min_longitude": 105.8777602
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-49",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Vinh Long",
+        "name": "Lai Chau",
         "postal": "49",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "50": {
         "alt_names": [
-            "Ben Tre"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -5444,24 +5444,24 @@
             "woe_name": "B\u1ebfn Tre"
         },
         "geo": {
-            "latitude": 10.1081553,
-            "longitude": 106.4405872,
-            "max_latitude": 10.3373171,
-            "max_longitude": 106.7976299,
-            "min_latitude": 9.808341,
-            "min_longitude": 106.0147733
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-50",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Ben Tre",
+        "name": "Lai Chau",
         "postal": "50",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "51": {
         "alt_names": [
-            "Tra Vinh"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -5584,24 +5584,24 @@
             "woe_name": "Tr\u00e0 Vinh"
         },
         "geo": {
-            "latitude": 9.933333,
-            "longitude": 106.35,
-            "max_latitude": 10.0126486,
-            "max_longitude": 106.3883399,
-            "min_latitude": 9.8867569,
-            "min_longitude": 106.3002563
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-51",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Tra Vinh",
+        "name": "Lai Chau",
         "postal": "51",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "52": {
         "alt_names": [
-            "Soc Trang"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -5724,24 +5724,24 @@
             "woe_name": "S\u00f3c Tr\u0103ng"
         },
         "geo": {
-            "latitude": 9.6003688,
-            "longitude": 105.9599539,
-            "max_latitude": 9.9332116,
-            "max_longitude": 106.293053,
-            "min_latitude": 9.2386673,
-            "min_longitude": 105.5439898
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-52",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Soc Trang",
+        "name": "Lai Chau",
         "postal": "52",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "53": {
         "alt_names": [
-            "Bac Can"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -5864,24 +5864,24 @@
             "woe_name": "\u0110\u00f4ng B\u1eafc"
         },
         "geo": {
-            "latitude": 22.1329032,
-            "longitude": 105.8407722,
-            "max_latitude": 22.2115634,
-            "max_longitude": 105.9308625,
-            "min_latitude": 22.051914,
-            "min_longitude": 105.7767105
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-53",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Bac Can",
+        "name": "Lai Chau",
         "postal": "53",
         "type": "Region",
         "type_en": "Region"
     },
     "54": {
         "alt_names": [
-            "Bac Giang"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -6004,24 +6004,24 @@
             "woe_name": "B\u1eafc Giang"
         },
         "geo": {
-            "latitude": 21.3014947,
-            "longitude": 106.6291304,
-            "max_latitude": 21.6256549,
-            "max_longitude": 107.033035,
-            "min_latitude": 21.121762,
-            "min_longitude": 105.881726
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-54",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Bac Giang",
+        "name": "Lai Chau",
         "postal": "54",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "55": {
         "alt_names": [
-            "Bac Lieu"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -6144,24 +6144,24 @@
             "woe_name": "B\u1ea1c Li\u00eau"
         },
         "geo": {
-            "latitude": 9.2515555,
-            "longitude": 105.5136472,
-            "max_latitude": 9.6371189,
-            "max_longitude": 106.7433943,
-            "min_latitude": 8.5951392,
-            "min_longitude": 105.2332641
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-55",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Bac Lieu",
+        "name": "Lai Chau",
         "postal": "55",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "56": {
         "alt_names": [
-            "Bac Ninh"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -6284,24 +6284,24 @@
             "woe_name": "B\u1eafc Ninh"
         },
         "geo": {
-            "latitude": 21.121444,
-            "longitude": 106.1110501,
-            "max_latitude": 21.263603,
-            "max_longitude": 106.3089509,
-            "min_latitude": 20.969552,
-            "min_longitude": 105.9041419
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-56",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Bac Ninh",
+        "name": "Lai Chau",
         "postal": "56",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "57": {
         "alt_names": [
-            "Binh Duong"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -6424,24 +6424,24 @@
             "woe_name": "B\u00ecnh D\u01b0\u01a1ng"
         },
         "geo": {
-            "latitude": 11.3254024,
-            "longitude": 106.477017,
-            "max_latitude": 11.5000023,
-            "max_longitude": 106.9676759,
-            "min_latitude": 10.8636351,
-            "min_longitude": 106.335735
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-57",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Binh Duong",
+        "name": "Lai Chau",
         "postal": "57",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "58": {
         "alt_names": [
-            "Binh Phuoc"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -6564,24 +6564,24 @@
             "woe_name": "B\u00ecnh Ph\u01b0\u1edbc"
         },
         "geo": {
-            "latitude": 11.7511894,
-            "longitude": 106.7234639,
-            "max_latitude": 12.29071,
-            "max_longitude": 107.4282521,
-            "min_latitude": 11.300705,
-            "min_longitude": 106.417961
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-58",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Binh Phuoc",
+        "name": "Lai Chau",
         "postal": "58",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "59": {
         "alt_names": [
-            "Ca Mau"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -6704,24 +6704,24 @@
             "woe_name": "C\u00e0 Mau"
         },
         "geo": {
-            "latitude": 8.9624099,
-            "longitude": 105.1258955,
-            "max_latitude": 9.55968,
-            "max_longitude": 105.4185013,
-            "min_latitude": 8.4127295,
-            "min_longitude": 104.5229252
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-59",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Ca Mau",
+        "name": "Lai Chau",
         "postal": "59",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "61": {
         "alt_names": [
-            "Hai Duong"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -6844,24 +6844,24 @@
             "woe_name": "H\u1ea3i D\u01b0\u01a1ng"
         },
         "geo": {
-            "latitude": 20.9385958,
-            "longitude": 106.3206861,
-            "max_latitude": 21.231167,
-            "max_longitude": 106.6127538,
-            "min_latitude": 20.691178,
-            "min_longitude": 106.126308
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-61",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Hai Duong",
+        "name": "Lai Chau",
         "postal": "61",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "63": {
         "alt_names": [
-            "Ha Nam"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -6984,24 +6984,24 @@
             "woe_name": "H\u00e0 Nam"
         },
         "geo": {
-            "latitude": 20.5835196,
-            "longitude": 105.92299,
-            "max_latitude": 20.703745,
-            "max_longitude": 106.183102,
-            "min_latitude": 20.3626781,
-            "min_longitude": 105.7697231
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-63",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Ha Nam",
+        "name": "Lai Chau",
         "postal": "63",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "66": {
         "alt_names": [
-            "Hung Yen"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -7124,24 +7124,24 @@
             "woe_name": "\u0110\u1ed3ng B\u1eb1ng S\u00f4ng H\u1ed3ng"
         },
         "geo": {
-            "latitude": 20.8525711,
-            "longitude": 106.0169971,
-            "max_latitude": 21.006161,
-            "max_longitude": 106.269346,
-            "min_latitude": 20.602892,
-            "min_longitude": 105.8954829
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-66",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Hung Yen",
+        "name": "Lai Chau",
         "postal": "66",
         "type": "Region",
         "type_en": "Region"
     },
     "67": {
         "alt_names": [
-            "Nam Dinh"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -7264,24 +7264,24 @@
             "woe_name": "Nam \u0110\u1ecbnh"
         },
         "geo": {
-            "latitude": 20.2791804,
-            "longitude": 106.2051484,
-            "max_latitude": 20.4996661,
-            "max_longitude": 106.5649637,
-            "min_latitude": 19.968296,
-            "min_longitude": 105.924061
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-67",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Nam Dinh",
+        "name": "Lai Chau",
         "postal": "67",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "68": {
         "alt_names": [
-            "Phu Tho"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -7404,24 +7404,24 @@
             "woe_name": "Ph\u00fa Th\u1ecd"
         },
         "geo": {
-            "latitude": 21.268443,
-            "longitude": 105.2045573,
-            "max_latitude": 21.719738,
-            "max_longitude": 105.4579171,
-            "min_latitude": 20.917282,
-            "min_longitude": 104.8163571
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-68",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Phu Tho",
+        "name": "Lai Chau",
         "postal": "68",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "69": {
         "alt_names": [
-            "Central Highlands"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -7544,24 +7544,24 @@
             "woe_name": "Th\u00e1i Nguy\u00ean"
         },
         "geo": {
-            "latitude": 21.5613771,
-            "longitude": 105.876004,
-            "max_latitude": 22.047269,
-            "max_longitude": 106.23657,
-            "min_latitude": 21.324607,
-            "min_longitude": 105.4771269
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-69",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Thai Nguyen",
+        "name": "Lai Chau",
         "postal": "69",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "70": {
         "alt_names": [
-            "Vinh Phuc"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -7684,24 +7684,24 @@
             "woe_name": "V\u0129nh Ph\u00fac"
         },
         "geo": {
-            "latitude": 21.3608805,
-            "longitude": 105.5474373,
-            "max_latitude": 21.573348,
-            "max_longitude": 105.7897179,
-            "min_latitude": 21.10479,
-            "min_longitude": 105.322971
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-70",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Vinh Phuc",
+        "name": "Lai Chau",
         "postal": "70",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "71": {
         "alt_names": [
-            "Dien Bien"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -7824,24 +7824,24 @@
             "woe_name": "\u0110i\u1ec7n Bi\u00ean"
         },
         "geo": {
-            "latitude": 21.8042309,
-            "longitude": 103.1076525,
-            "max_latitude": 22.5563429,
-            "max_longitude": 103.6003289,
-            "min_latitude": 20.869232,
-            "min_longitude": 102.1482091
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-71",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Dien Bien",
+        "name": "Lai Chau",
         "postal": "71",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "72": {
         "alt_names": [
-            "Dak Nong"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -7964,24 +7964,24 @@
             "woe_name": "Dac Nong"
         },
         "geo": {
-            "latitude": 12.2646476,
-            "longitude": 107.609806,
-            "max_latitude": 12.8117129,
-            "max_longitude": 108.115932,
-            "min_latitude": 11.748865,
-            "min_longitude": 107.2079091
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-72",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Dak Nong",
+        "name": "Lai Chau",
         "postal": "72",
         "type": "Province",
         "type_en": "Region"
     },
     "73": {
         "alt_names": [
-            "Hau Giang"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -8104,24 +8104,24 @@
             "woe_name": "Hau Giang"
         },
         "geo": {
-            "latitude": 9.757898,
-            "longitude": 105.6412527,
-            "max_latitude": 9.9928138,
-            "max_longitude": 105.8934326,
-            "min_latitude": 9.5820831,
-            "min_longitude": 105.328687
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-73",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Hau Giang",
+        "name": "Lai Chau",
         "postal": "73",
         "type": "Region",
         "type_en": "Region"
     },
     "CT": {
         "alt_names": [
-            "Can Tho"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -8244,25 +8244,24 @@
             "woe_name": "Can Tho"
         },
         "geo": {
-            "latitude": 10.0451618,
-            "longitude": 105.7468535,
-            "max_latitude": 10.0746025,
-            "max_longitude": 105.7959312,
-            "min_latitude": 9.9937029,
-            "min_longitude": 105.7170582
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-CT",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Can Tho",
+        "name": "Lai Chau",
         "postal": "CT",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "DN": {
         "alt_names": [
-            "Da Nang City",
-            "Da Nang"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -8385,20 +8384,24 @@
             "woe_name": "\u0110\u00e0 N\u1eb5ng"
         },
         "geo": {
-            "latitude": "16.0912000000",
-            "longitude": "108.1020000000"
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-DN",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "\u0110\u00e0 N\u1eb5ng",
+        "name": "Lai Chau",
         "postal": "DN",
         "type": "Th\u00e0nh ph\u1ed1 tr\u1ef1c thu\u1ed9c t\u1ec9nh",
         "type_en": "City|Municipality|Thanh Pho"
     },
     "HN": {
         "alt_names": [
-            "Hanoi"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -8521,21 +8524,24 @@
             "woe_name": "Ha Noi"
         },
         "geo": {
-            "latitude": "21.1306000000",
-            "longitude": "105.8720000000"
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-HN",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "Ha Noi",
+        "name": "Lai Chau",
         "postal": "HN",
         "type": "T\u1ec9nh",
         "type_en": "Province"
     },
     "HP": {
         "alt_names": [
-            "Hai Phong",
-            "Haiphong"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -8658,21 +8664,24 @@
             "woe_name": "H\u1ea3i Ph\u00f2ng"
         },
         "geo": {
-            "latitude": "20.7900000000",
-            "longitude": "106.6350000000"
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-HP",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "H\u1ea3i Ph\u00f2ng",
+        "name": "Lai Chau",
         "postal": "HP",
         "type": "Th\u00e0nh",
         "type_en": "Province"
     },
     "SG": {
         "alt_names": [
-            "Ho Chi Minh City",
-            "Ho Chi Minh"
+            "Lai Chau"
         ],
         "cca2": "VN",
         "cca3": "VNM",
@@ -8795,13 +8804,17 @@
             "woe_name": "H\u1ed3 Ch\u00ed Minh city"
         },
         "geo": {
-            "latitude": "10.4090000000",
-            "longitude": "106.9260000000"
+            "latitude": 22.3686613,
+            "longitude": 103.3119085,
+            "max_latitude": 22.8214739,
+            "max_longitude": 103.985241,
+            "min_latitude": 21.6847368,
+            "min_longitude": 102.3274711
         },
         "iso_3166_2": "VN-SG",
         "iso_a2": "VN",
         "iso_a3": "VNM",
-        "name": "H\u1ed3 Ch\u00ed Minh city",
+        "name": "Lai Chau",
         "postal": "SG",
         "type": "Th\u00e0nh ph\u1ed1 tr\u1ef1c thu\u1ed9c t\u1ec9nh",
         "type_en": "City|Municipality|Thanh Pho"

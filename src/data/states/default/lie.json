@@ -141,7 +141,7 @@
     },
     "02": {
         "alt_names": [
-            "Eschen"
+            "Balzers"
         ],
         "cca2": "LI",
         "cca3": "LIE",
@@ -264,8 +264,8 @@
             "woe_name": "Eschen"
         },
         "geo": {
-            "latitude": 47.21239,
-            "longitude": 9.52327,
+            "latitude": 47.06887,
+            "longitude": 9.50704,
             "max_latitude": null,
             "max_longitude": null,
             "min_latitude": null,
@@ -274,14 +274,14 @@
         "iso_3166_2": "LI-02",
         "iso_a2": "LI",
         "iso_a3": "LIE",
-        "name": "Eschen",
+        "name": "Balzers",
         "postal": "02",
         "type": "",
         "type_en": ""
     },
     "03": {
         "alt_names": [
-            "Gamprin"
+            "Balzers"
         ],
         "cca2": "LI",
         "cca3": "LIE",
@@ -404,8 +404,8 @@
             "woe_name": "Gamprin"
         },
         "geo": {
-            "latitude": 47.2196376,
-            "longitude": 9.5129295,
+            "latitude": 47.06887,
+            "longitude": 9.50704,
             "max_latitude": null,
             "max_longitude": null,
             "min_latitude": null,
@@ -414,14 +414,14 @@
         "iso_3166_2": "LI-03",
         "iso_a2": "LI",
         "iso_a3": "LIE",
-        "name": "Gamprin",
+        "name": "Balzers",
         "postal": "03",
         "type": "",
         "type_en": ""
     },
     "04": {
         "alt_names": [
-            "Mauren"
+            "Balzers"
         ],
         "cca2": "LI",
         "cca3": "LIE",
@@ -544,8 +544,8 @@
             "woe_name": "Mauren"
         },
         "geo": {
-            "latitude": 47.21937,
-            "longitude": 9.54322,
+            "latitude": 47.06887,
+            "longitude": 9.50704,
             "max_latitude": null,
             "max_longitude": null,
             "min_latitude": null,
@@ -554,14 +554,14 @@
         "iso_3166_2": "LI-04",
         "iso_a2": "LI",
         "iso_a3": "LIE",
-        "name": "Mauren",
+        "name": "Balzers",
         "postal": "04",
         "type": "",
         "type_en": ""
     },
     "05": {
         "alt_names": [
-            "Planken"
+            "Balzers"
         ],
         "cca2": "LI",
         "cca3": "LIE",
@@ -684,8 +684,8 @@
             "woe_name": "Planken"
         },
         "geo": {
-            "latitude": 47.1855315,
-            "longitude": 9.545365,
+            "latitude": 47.06887,
+            "longitude": 9.50704,
             "max_latitude": null,
             "max_longitude": null,
             "min_latitude": null,
@@ -694,14 +694,14 @@
         "iso_3166_2": "LI-05",
         "iso_a2": "LI",
         "iso_a3": "LIE",
-        "name": "Planken",
+        "name": "Balzers",
         "postal": "05",
         "type": "",
         "type_en": ""
     },
     "06": {
         "alt_names": [
-            "Ruggel"
+            "Balzers"
         ],
         "cca2": "LI",
         "cca3": "LIE",
@@ -824,8 +824,8 @@
             "woe_name": "Ruggell"
         },
         "geo": {
-            "latitude": 47.2401202,
-            "longitude": 9.5262553,
+            "latitude": 47.06887,
+            "longitude": 9.50704,
             "max_latitude": null,
             "max_longitude": null,
             "min_latitude": null,
@@ -834,14 +834,14 @@
         "iso_3166_2": "LI-06",
         "iso_a2": "LI",
         "iso_a3": "LIE",
-        "name": "Ruggell",
+        "name": "Balzers",
         "postal": "06",
         "type": "",
         "type_en": ""
     },
     "07": {
         "alt_names": [
-            "Schaan"
+            "Balzers"
         ],
         "cca2": "LI",
         "cca3": "LIE",
@@ -964,8 +964,8 @@
             "woe_name": "Schaan"
         },
         "geo": {
-            "latitude": 47.1663853,
-            "longitude": 9.5106746,
+            "latitude": 47.06887,
+            "longitude": 9.50704,
             "max_latitude": null,
             "max_longitude": null,
             "min_latitude": null,
@@ -974,14 +974,14 @@
         "iso_3166_2": "LI-07",
         "iso_a2": "LI",
         "iso_a3": "LIE",
-        "name": "Schaan",
+        "name": "Balzers",
         "postal": "07",
         "type": "",
         "type_en": ""
     },
     "08": {
         "alt_names": [
-            "Schellenberg"
+            "Balzers"
         ],
         "cca2": "LI",
         "cca3": "LIE",
@@ -1104,24 +1104,24 @@
             "woe_name": "Schellenberg"
         },
         "geo": {
-            "latitude": 47.2396844,
-            "longitude": 9.5511955,
-            "max_latitude": 47.25243,
-            "max_longitude": 9.56735,
-            "min_latitude": 47.2241401,
-            "min_longitude": 9.52844
+            "latitude": 47.06887,
+            "longitude": 9.50704,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LI-08",
         "iso_a2": "LI",
         "iso_a3": "LIE",
-        "name": "Schellenberg",
+        "name": "Balzers",
         "postal": "08",
         "type": "",
         "type_en": ""
     },
     "09": {
         "alt_names": [
-            "Triesen"
+            "Balzers"
         ],
         "cca2": "LI",
         "cca3": "LIE",
@@ -1244,8 +1244,8 @@
             "woe_name": "Triesen"
         },
         "geo": {
-            "latitude": 47.1111739,
-            "longitude": 9.5264091,
+            "latitude": 47.06887,
+            "longitude": 9.50704,
             "max_latitude": null,
             "max_longitude": null,
             "min_latitude": null,
@@ -1254,14 +1254,14 @@
         "iso_3166_2": "LI-09",
         "iso_a2": "LI",
         "iso_a3": "LIE",
-        "name": "Triesen",
+        "name": "Balzers",
         "postal": "09",
         "type": "",
         "type_en": ""
     },
     "10": {
         "alt_names": [
-            "Triesenberg"
+            "Balzers"
         ],
         "cca2": "LI",
         "cca3": "LIE",
@@ -1384,8 +1384,8 @@
             "woe_name": "Triesenberg"
         },
         "geo": {
-            "latitude": 47.1173252,
-            "longitude": 9.5441812,
+            "latitude": 47.06887,
+            "longitude": 9.50704,
             "max_latitude": null,
             "max_longitude": null,
             "min_latitude": null,
@@ -1394,14 +1394,14 @@
         "iso_3166_2": "LI-10",
         "iso_a2": "LI",
         "iso_a3": "LIE",
-        "name": "Triesenberg",
+        "name": "Balzers",
         "postal": "10",
         "type": "",
         "type_en": ""
     },
     "11": {
         "alt_names": [
-            "Vaduz"
+            "Balzers"
         ],
         "cca2": "LI",
         "cca3": "LIE",
@@ -1524,8 +1524,8 @@
             "woe_name": "Vaduz"
         },
         "geo": {
-            "latitude": 47.14137,
-            "longitude": 9.5207,
+            "latitude": 47.06887,
+            "longitude": 9.50704,
             "max_latitude": null,
             "max_longitude": null,
             "min_latitude": null,
@@ -1534,7 +1534,7 @@
         "iso_3166_2": "LI-11",
         "iso_a2": "LI",
         "iso_a3": "LIE",
-        "name": "Vaduz",
+        "name": "Balzers",
         "postal": "11",
         "type": "",
         "type_en": ""

@@ -141,7 +141,7 @@
     },
     "AC": {
         "alt_names": [
-            "V\u00e4sterbottens l\u00e4n"
+            "Stockholms l\u00e4n"
         ],
         "cca2": "SE",
         "cca3": "SWE",
@@ -264,24 +264,24 @@
             "woe_name": "V\u00e4sterbotten"
         },
         "geo": {
-            "latitude": 65.3337311,
-            "longitude": 16.5161695,
-            "max_latitude": 66.340329,
-            "max_longitude": 21.6169479,
-            "min_latitude": 63.4054636,
-            "min_longitude": 14.2568099
+            "latitude": 59.6024958,
+            "longitude": 18.1384383,
+            "max_latitude": 60.2557827,
+            "max_longitude": 19.3499043,
+            "min_latitude": 58.7356979,
+            "min_longitude": 17.2375371
         },
         "iso_3166_2": "SE-AC",
         "iso_a2": "SE",
         "iso_a3": "SWE",
-        "name": "V\u00e4sterbottens l\u00e4n",
+        "name": "Stockholms l\u00e4n",
         "postal": "AC",
         "type": "Laen|l\u00e4n",
         "type_en": "County"
     },
     "BD": {
         "alt_names": [
-            "Norrbottens l\u00e4n"
+            "Stockholms l\u00e4n"
         ],
         "cca2": "SE",
         "cca3": "SWE",
@@ -404,24 +404,24 @@
             "woe_name": "Norrbotten"
         },
         "geo": {
-            "latitude": 66.8309216,
-            "longitude": 20.3991966,
-            "max_latitude": 69.063072,
-            "max_longitude": 24.1624078,
-            "min_latitude": 65.060635,
-            "min_longitude": 15.3723748
+            "latitude": 59.6024958,
+            "longitude": 18.1384383,
+            "max_latitude": 60.2557827,
+            "max_longitude": 19.3499043,
+            "min_latitude": 58.7356979,
+            "min_longitude": 17.2375371
         },
         "iso_3166_2": "SE-BD",
         "iso_a2": "SE",
         "iso_a3": "SWE",
-        "name": "Norrbottens l\u00e4n",
+        "name": "Stockholms l\u00e4n",
         "postal": "BD",
         "type": "Laen|l\u00e4n",
         "type_en": "County"
     },
     "C": {
         "alt_names": [
-            "Uppsala l\u00e4n"
+            "Stockholms l\u00e4n"
         ],
         "cca2": "SE",
         "cca3": "SWE",
@@ -544,24 +544,24 @@
             "woe_name": "Uppsala"
         },
         "geo": {
-            "latitude": 60.0092262,
-            "longitude": 17.2714589,
-            "max_latitude": 60.7313874,
-            "max_longitude": 18.7711579,
-            "min_latitude": 59.4050129,
-            "min_longitude": 16.678336
+            "latitude": 59.6024958,
+            "longitude": 18.1384383,
+            "max_latitude": 60.2557827,
+            "max_longitude": 19.3499043,
+            "min_latitude": 58.7356979,
+            "min_longitude": 17.2375371
         },
         "iso_3166_2": "SE-C",
         "iso_a2": "SE",
         "iso_a3": "SWE",
-        "name": "Uppsala l\u00e4n",
+        "name": "Stockholms l\u00e4n",
         "postal": "C",
         "type": "Laen|l\u00e4n",
         "type_en": "County"
     },
     "D": {
         "alt_names": [
-            "S\u00f6dermanlands l\u00e4n"
+            "Stockholms l\u00e4n"
         ],
         "cca2": "SE",
         "cca3": "SWE",
@@ -684,24 +684,24 @@
             "woe_name": "S\u00f6dermanland"
         },
         "geo": {
-            "latitude": 59.0336349,
-            "longitude": 16.7518899,
-            "max_latitude": 59.5228374,
-            "max_longitude": 17.7453121,
-            "min_latitude": 58.5621373,
-            "min_longitude": 15.5932
+            "latitude": 59.6024958,
+            "longitude": 18.1384383,
+            "max_latitude": 60.2557827,
+            "max_longitude": 19.3499043,
+            "min_latitude": 58.7356979,
+            "min_longitude": 17.2375371
         },
         "iso_3166_2": "SE-D",
         "iso_a2": "SE",
         "iso_a3": "SWE",
-        "name": "S\u00f6dermanlands l\u00e4n",
+        "name": "Stockholms l\u00e4n",
         "postal": "D",
         "type": "Laen|l\u00e4n",
         "type_en": "County"
     },
     "E": {
         "alt_names": [
-            "\u00d6sterg\u00f6tlands l\u00e4n"
+            "Stockholms l\u00e4n"
         ],
         "cca2": "SE",
         "cca3": "SWE",
@@ -824,24 +824,24 @@
             "woe_name": "\u00d6sterg\u00f6tland"
         },
         "geo": {
-            "latitude": 58.3453635,
-            "longitude": 15.5197843,
-            "max_latitude": 59.0199621,
-            "max_longitude": 17.0853315,
-            "min_latitude": 57.702259,
-            "min_longitude": 14.5409236
+            "latitude": 59.6024958,
+            "longitude": 18.1384383,
+            "max_latitude": 60.2557827,
+            "max_longitude": 19.3499043,
+            "min_latitude": 58.7356979,
+            "min_longitude": 17.2375371
         },
         "iso_3166_2": "SE-E",
         "iso_a2": "SE",
         "iso_a3": "SWE",
-        "name": "\u00d6sterg\u00f6tlands l\u00e4n",
+        "name": "Stockholms l\u00e4n",
         "postal": "E",
         "type": "Laen|l\u00e4n",
         "type_en": "County"
     },
     "F": {
         "alt_names": [
-            "J\u00f6nk\u00f6pings l\u00e4n"
+            "Stockholms l\u00e4n"
         ],
         "cca2": "SE",
         "cca3": "SWE",
@@ -964,24 +964,24 @@
             "woe_name": "J\u00f6nk\u00f6ping"
         },
         "geo": {
-            "latitude": 57.3708434,
-            "longitude": 14.3439173,
-            "max_latitude": 58.153372,
-            "max_longitude": 15.6562501,
-            "min_latitude": 56.885171,
-            "min_longitude": 13.0688452
+            "latitude": 59.6024958,
+            "longitude": 18.1384383,
+            "max_latitude": 60.2557827,
+            "max_longitude": 19.3499043,
+            "min_latitude": 58.7356979,
+            "min_longitude": 17.2375371
         },
         "iso_3166_2": "SE-F",
         "iso_a2": "SE",
         "iso_a3": "SWE",
-        "name": "J\u00f6nk\u00f6pings l\u00e4n",
+        "name": "Stockholms l\u00e4n",
         "postal": "F",
         "type": "Laen|l\u00e4n",
         "type_en": "County"
     },
     "G": {
         "alt_names": [
-            "Kronobergs l\u00e4n"
+            "Stockholms l\u00e4n"
         ],
         "cca2": "SE",
         "cca3": "SWE",
@@ -1104,24 +1104,24 @@
             "woe_name": "Kronoberg"
         },
         "geo": {
-            "latitude": 56.7183403,
-            "longitude": 14.4114674,
-            "max_latitude": 57.238187,
-            "max_longitude": 15.844141,
-            "min_latitude": 56.3566439,
-            "min_longitude": 13.2767319
+            "latitude": 59.6024958,
+            "longitude": 18.1384383,
+            "max_latitude": 60.2557827,
+            "max_longitude": 19.3499043,
+            "min_latitude": 58.7356979,
+            "min_longitude": 17.2375371
         },
         "iso_3166_2": "SE-G",
         "iso_a2": "SE",
         "iso_a3": "SWE",
-        "name": "Kronobergs l\u00e4n",
+        "name": "Stockholms l\u00e4n",
         "postal": "G",
         "type": "Laen|l\u00e4n",
         "type_en": "County"
     },
     "H": {
         "alt_names": [
-            "Calmar"
+            "Stockholms l\u00e4n"
         ],
         "cca2": "SE",
         "cca3": "SWE",
@@ -1244,24 +1244,24 @@
             "woe_name": "Kalmar"
         },
         "geo": {
-            "latitude": 57.2350156,
-            "longitude": 16.1849349,
-            "max_latitude": 58.141144,
-            "max_longitude": 17.1506084,
-            "min_latitude": 56.1941934,
-            "min_longitude": 15.3360812
+            "latitude": 59.6024958,
+            "longitude": 18.1384383,
+            "max_latitude": 60.2557827,
+            "max_longitude": 19.3499043,
+            "min_latitude": 58.7356979,
+            "min_longitude": 17.2375371
         },
         "iso_3166_2": "SE-H",
         "iso_a2": "SE",
         "iso_a3": "SWE",
-        "name": "Kalmar l\u00e4n",
+        "name": "Stockholms l\u00e4n",
         "postal": "H",
         "type": "Laen|l\u00e4n",
         "type_en": "County"
     },
     "I": {
         "alt_names": [
-            "Gotlands l\u00e4n"
+            "Stockholms l\u00e4n"
         ],
         "cca2": "SE",
         "cca3": "SWE",
@@ -1384,24 +1384,24 @@
             "woe_name": "Gotland"
         },
         "geo": {
-            "latitude": 57.4684121,
-            "longitude": 18.4867447,
-            "max_latitude": 58.3987317,
-            "max_longitude": 19.3504137,
-            "min_latitude": 56.9048659,
-            "min_longitude": 17.9564368
+            "latitude": 59.6024958,
+            "longitude": 18.1384383,
+            "max_latitude": 60.2557827,
+            "max_longitude": 19.3499043,
+            "min_latitude": 58.7356979,
+            "min_longitude": 17.2375371
         },
         "iso_3166_2": "SE-I",
         "iso_a2": "SE",
         "iso_a3": "SWE",
-        "name": "Gotlands l\u00e4n",
+        "name": "Stockholms l\u00e4n",
         "postal": "I",
         "type": "Laen|l\u00e4n",
         "type_en": "County"
     },
     "K": {
         "alt_names": [
-            "Blekinge l\u00e4n"
+            "Stockholms l\u00e4n"
         ],
         "cca2": "SE",
         "cca3": "SWE",
@@ -1524,24 +1524,24 @@
             "woe_name": "Blekinge"
         },
         "geo": {
-            "latitude": 56.2783837,
-            "longitude": 15.0180058,
-            "max_latitude": 56.5022141,
-            "max_longitude": 16.0679243,
-            "min_latitude": 55.9901428,
-            "min_longitude": 14.3528851
+            "latitude": 59.6024958,
+            "longitude": 18.1384383,
+            "max_latitude": 60.2557827,
+            "max_longitude": 19.3499043,
+            "min_latitude": 58.7356979,
+            "min_longitude": 17.2375371
         },
         "iso_3166_2": "SE-K",
         "iso_a2": "SE",
         "iso_a3": "SWE",
-        "name": "Blekinge l\u00e4n",
+        "name": "Stockholms l\u00e4n",
         "postal": "K",
         "type": "Laen|l\u00e4n",
         "type_en": "County"
     },
     "M": {
         "alt_names": [
-            "Scania"
+            "Stockholms l\u00e4n"
         ],
         "cca2": "SE",
         "cca3": "SWE",
@@ -1664,24 +1664,24 @@
             "woe_name": "Sk\u00e5ne"
         },
         "geo": {
-            "latitude": 55.9902572,
-            "longitude": 13.5957692,
-            "max_latitude": 56.5426059,
-            "max_longitude": 14.5844781,
-            "min_latitude": 55.3366825,
-            "min_longitude": 12.4417552
+            "latitude": 59.6024958,
+            "longitude": 18.1384383,
+            "max_latitude": 60.2557827,
+            "max_longitude": 19.3499043,
+            "min_latitude": 58.7356979,
+            "min_longitude": 17.2375371
         },
         "iso_3166_2": "SE-M",
         "iso_a2": "SE",
         "iso_a3": "SWE",
-        "name": "Sk\u00e5ne l\u00e4n",
+        "name": "Stockholms l\u00e4n",
         "postal": "M",
         "type": "Laen|l\u00e4n",
         "type_en": "County"
     },
     "N": {
         "alt_names": [
-            "Hallands l\u00e4n"
+            "Stockholms l\u00e4n"
         ],
         "cca2": "SE",
         "cca3": "SWE",
@@ -1804,24 +1804,24 @@
             "woe_name": "Halland"
         },
         "geo": {
-            "latitude": 56.8966805,
-            "longitude": 12.8033993,
-            "max_latitude": 57.5731741,
-            "max_longitude": 13.7176809,
-            "min_latitude": 56.324419,
-            "min_longitude": 11.821994
+            "latitude": 59.6024958,
+            "longitude": 18.1384383,
+            "max_latitude": 60.2557827,
+            "max_longitude": 19.3499043,
+            "min_latitude": 58.7356979,
+            "min_longitude": 17.2375371
         },
         "iso_3166_2": "SE-N",
         "iso_a2": "SE",
         "iso_a3": "SWE",
-        "name": "Hallands l\u00e4n",
+        "name": "Stockholms l\u00e4n",
         "postal": "N",
         "type": "Laen|l\u00e4n",
         "type_en": "County"
     },
     "O": {
         "alt_names": [
-            "V\u00e4stra G\u00f6talands l\u00e4n"
+            "Stockholms l\u00e4n"
         ],
         "cca2": "SE",
         "cca3": "SWE",
@@ -1944,24 +1944,24 @@
             "woe_name": "V\u00e4stra G\u00f6taland"
         },
         "geo": {
-            "latitude": 58.2527926,
-            "longitude": 13.0596425,
-            "max_latitude": 59.2620341,
-            "max_longitude": 14.7148173,
-            "min_latitude": 57.14008,
-            "min_longitude": 10.9631866
+            "latitude": 59.6024958,
+            "longitude": 18.1384383,
+            "max_latitude": 60.2557827,
+            "max_longitude": 19.3499043,
+            "min_latitude": 58.7356979,
+            "min_longitude": 17.2375371
         },
         "iso_3166_2": "SE-O",
         "iso_a2": "SE",
         "iso_a3": "SWE",
-        "name": "V\u00e4stra G\u00f6talands l\u00e4n",
+        "name": "Stockholms l\u00e4n",
         "postal": "O",
         "type": "Laen|l\u00e4n",
         "type_en": "County"
     },
     "S": {
         "alt_names": [
-            "V\u00e4rmlands l\u00e4n"
+            "Stockholms l\u00e4n"
         ],
         "cca2": "SE",
         "cca3": "SWE",
@@ -2084,24 +2084,24 @@
             "woe_name": "V\u00e4rmland"
         },
         "geo": {
-            "latitude": 59.7294065,
-            "longitude": 13.2354024,
-            "max_latitude": 61.0694541,
-            "max_longitude": 14.48975,
-            "min_latitude": 58.8308258,
-            "min_longitude": 11.681877
+            "latitude": 59.6024958,
+            "longitude": 18.1384383,
+            "max_latitude": 60.2557827,
+            "max_longitude": 19.3499043,
+            "min_latitude": 58.7356979,
+            "min_longitude": 17.2375371
         },
         "iso_3166_2": "SE-S",
         "iso_a2": "SE",
         "iso_a3": "SWE",
-        "name": "V\u00e4rmlands l\u00e4n",
+        "name": "Stockholms l\u00e4n",
         "postal": "S",
         "type": "Laen|l\u00e4n",
         "type_en": "County"
     },
     "T": {
         "alt_names": [
-            "\u00d6rebro l\u00e4n"
+            "Stockholms l\u00e4n"
         ],
         "cca2": "SE",
         "cca3": "SWE",
@@ -2224,24 +2224,24 @@
             "woe_name": "Orebro"
         },
         "geo": {
-            "latitude": 59.535036,
-            "longitude": 15.0065731,
-            "max_latitude": 60.1056601,
-            "max_longitude": 15.7880099,
-            "min_latitude": 58.656611,
-            "min_longitude": 14.243871
+            "latitude": 59.6024958,
+            "longitude": 18.1384383,
+            "max_latitude": 60.2557827,
+            "max_longitude": 19.3499043,
+            "min_latitude": 58.7356979,
+            "min_longitude": 17.2375371
         },
         "iso_3166_2": "SE-T",
         "iso_a2": "SE",
         "iso_a3": "SWE",
-        "name": "\u00d6rebro l\u00e4n",
+        "name": "Stockholms l\u00e4n",
         "postal": "T",
         "type": "Laen|l\u00e4n",
         "type_en": "County"
     },
     "U": {
         "alt_names": [
-            "V\u00e4stmanlands l\u00e4n"
+            "Stockholms l\u00e4n"
         ],
         "cca2": "SE",
         "cca3": "SWE",
@@ -2364,26 +2364,24 @@
             "woe_name": "V\u00e4stmanland"
         },
         "geo": {
-            "latitude": 59.6713879,
-            "longitude": 16.2158954,
-            "max_latitude": 60.1906571,
-            "max_longitude": 16.9458588,
-            "min_latitude": 59.232754,
-            "min_longitude": 15.41747
+            "latitude": 59.6024958,
+            "longitude": 18.1384383,
+            "max_latitude": 60.2557827,
+            "max_longitude": 19.3499043,
+            "min_latitude": 58.7356979,
+            "min_longitude": 17.2375371
         },
         "iso_3166_2": "SE-U",
         "iso_a2": "SE",
         "iso_a3": "SWE",
-        "name": "V\u00e4stmanlands l\u00e4n",
+        "name": "Stockholms l\u00e4n",
         "postal": "U",
         "type": "Laen|l\u00e4n",
         "type_en": "County"
     },
     "W": {
         "alt_names": [
-            "Dalarnas",
-            "Dalecarlia",
-            "Kopparberg"
+            "Stockholms l\u00e4n"
         ],
         "cca2": "SE",
         "cca3": "SWE",
@@ -2506,24 +2504,24 @@
             "woe_name": "Dalarna"
         },
         "geo": {
-            "latitude": 61.0917012,
-            "longitude": 14.6663653,
-            "max_latitude": 62.280241,
-            "max_longitude": 16.739265,
-            "min_latitude": 59.852169,
-            "min_longitude": 12.1331131
+            "latitude": 59.6024958,
+            "longitude": 18.1384383,
+            "max_latitude": 60.2557827,
+            "max_longitude": 19.3499043,
+            "min_latitude": 58.7356979,
+            "min_longitude": 17.2375371
         },
         "iso_3166_2": "SE-W",
         "iso_a2": "SE",
         "iso_a3": "SWE",
-        "name": "Dalarnas l\u00e4n",
+        "name": "Stockholms l\u00e4n",
         "postal": "W",
         "type": "Laen|l\u00e4n",
         "type_en": "County"
     },
     "X": {
         "alt_names": [
-            "G\u00e4vleborgs l\u00e4n"
+            "Stockholms l\u00e4n"
         ],
         "cca2": "SE",
         "cca3": "SWE",
@@ -2646,24 +2644,24 @@
             "woe_name": "G\u00e4vleborg"
         },
         "geo": {
-            "latitude": 61.3011993,
-            "longitude": 16.1534215,
-            "max_latitude": 62.37083,
-            "max_longitude": 17.6414757,
-            "min_latitude": 60.201385,
-            "min_longitude": 14.459403
+            "latitude": 59.6024958,
+            "longitude": 18.1384383,
+            "max_latitude": 60.2557827,
+            "max_longitude": 19.3499043,
+            "min_latitude": 58.7356979,
+            "min_longitude": 17.2375371
         },
         "iso_3166_2": "SE-X",
         "iso_a2": "SE",
         "iso_a3": "SWE",
-        "name": "G\u00e4vleborgs l\u00e4n",
+        "name": "Stockholms l\u00e4n",
         "postal": "X",
         "type": "Laen|l\u00e4n",
         "type_en": "County"
     },
     "Y": {
         "alt_names": [
-            "V\u00e4sternorrlands l\u00e4n"
+            "Stockholms l\u00e4n"
         ],
         "cca2": "SE",
         "cca3": "SWE",
@@ -2786,24 +2784,24 @@
             "woe_name": "V\u00e4sternorrland"
         },
         "geo": {
-            "latitude": 63.4276473,
-            "longitude": 17.7292444,
-            "max_latitude": 64.0022349,
-            "max_longitude": 19.2867079,
-            "min_latitude": 62.139791,
-            "min_longitude": 14.776302
+            "latitude": 59.6024958,
+            "longitude": 18.1384383,
+            "max_latitude": 60.2557827,
+            "max_longitude": 19.3499043,
+            "min_latitude": 58.7356979,
+            "min_longitude": 17.2375371
         },
         "iso_3166_2": "SE-Y",
         "iso_a2": "SE",
         "iso_a3": "SWE",
-        "name": "V\u00e4sternorrlands l\u00e4n",
+        "name": "Stockholms l\u00e4n",
         "postal": "Y",
         "type": "Laen|l\u00e4n",
         "type_en": "County"
     },
     "Z": {
         "alt_names": [
-            "J\u00e4mtlands l\u00e4n"
+            "Stockholms l\u00e4n"
         ],
         "cca2": "SE",
         "cca3": "SWE",
@@ -2926,17 +2924,17 @@
             "woe_name": "J\u00e4mtland"
         },
         "geo": {
-            "latitude": 63.1711922,
-            "longitude": 14.95918,
-            "max_latitude": 65.073133,
-            "max_longitude": 17.0648909,
-            "min_latitude": 61.569695,
-            "min_longitude": 11.9688662
+            "latitude": 59.6024958,
+            "longitude": 18.1384383,
+            "max_latitude": 60.2557827,
+            "max_longitude": 19.3499043,
+            "min_latitude": 58.7356979,
+            "min_longitude": 17.2375371
         },
         "iso_3166_2": "SE-Z",
         "iso_a2": "SE",
         "iso_a3": "SWE",
-        "name": "J\u00e4mtlands l\u00e4n",
+        "name": "Stockholms l\u00e4n",
         "postal": "Z",
         "type": "Laen|l\u00e4n",
         "type_en": "County"

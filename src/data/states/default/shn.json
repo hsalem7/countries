@@ -141,7 +141,7 @@
     },
     "HL": {
         "alt_names": [
-            "Saint Helena"
+            "Ascension"
         ],
         "cca2": "SH",
         "cca3": "SHN",
@@ -264,24 +264,24 @@
             "woe_name": "Saint Helena"
         },
         "geo": {
-            "latitude": -15.9650104,
-            "longitude": -5.7089241,
-            "max_latitude": -15.9038239,
-            "max_longitude": -5.6394301,
-            "min_latitude": -16.0203149,
-            "min_longitude": -5.7874086
+            "latitude": -7.9467166,
+            "longitude": -14.3559158,
+            "max_latitude": -7.888888,
+            "max_longitude": -14.2954026,
+            "min_latitude": -7.9922519,
+            "min_longitude": -14.4202423
         },
         "iso_3166_2": "SH-HL",
         "iso_a2": "SH",
         "iso_a3": "SHN",
-        "name": "Saint Helena",
+        "name": "Ascension",
         "postal": "HL",
         "type": "",
         "type_en": ""
     },
     "TA": {
         "alt_names": [
-            "Tristan da Cunha"
+            "Ascension"
         ],
         "cca2": "SH",
         "cca3": "SHN",
@@ -404,17 +404,17 @@
             "woe_name": "Tristan da Cunha"
         },
         "geo": {
-            "latitude": -37.1052489,
-            "longitude": -12.2776838,
-            "max_latitude": -37.0621779,
-            "max_longitude": -12.2167732,
-            "min_latitude": -37.1702333,
-            "min_longitude": -12.3511792
+            "latitude": -7.9467166,
+            "longitude": -14.3559158,
+            "max_latitude": -7.888888,
+            "max_longitude": -14.2954026,
+            "min_latitude": -7.9922519,
+            "min_longitude": -14.4202423
         },
         "iso_3166_2": "SH-TA",
         "iso_a2": "SH",
         "iso_a3": "SHN",
-        "name": "Tristan da Cunha",
+        "name": "Ascension",
         "postal": "TA",
         "type": "",
         "type_en": ""

@@ -141,7 +141,7 @@
     },
     "FR": {
         "alt_names": [
-            ""
+            "Central"
         ],
         "cca2": "BW",
         "cca3": "BWA",
@@ -264,20 +264,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "-21.1678000000",
-            "longitude": "27.5038000000"
+            "latitude": -21.1672276,
+            "longitude": 26.419389,
+            "max_latitude": -19.0024569,
+            "max_longitude": 29.3607809,
+            "min_latitude": -23.956503,
+            "min_longitude": 23.885815
         },
         "iso_3166_2": "BW-FR",
         "iso_a2": "BW",
         "iso_a3": "BWA",
-        "name": "Francistown",
+        "name": "Central",
         "postal": "FR",
         "type": "City",
         "type_en": "City"
     },
     "GA": {
         "alt_names": [
-            ""
+            "Central"
         ],
         "cca2": "BW",
         "cca3": "BWA",
@@ -400,21 +404,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "-24.6239000000",
-            "longitude": "25.9171000000"
+            "latitude": -21.1672276,
+            "longitude": 26.419389,
+            "max_latitude": -19.0024569,
+            "max_longitude": 29.3607809,
+            "min_latitude": -23.956503,
+            "min_longitude": 23.885815
         },
         "iso_3166_2": "BW-GA",
         "iso_a2": "BW",
         "iso_a3": "BWA",
-        "name": "Gaborone",
+        "name": "Central",
         "postal": "GA",
         "type": "City",
         "type_en": "City"
     },
     "GH": {
         "alt_names": [
-            "Ghansi",
-            "Khanzi"
+            "Central"
         ],
         "cca2": "BW",
         "cca3": "BWA",
@@ -537,24 +544,24 @@
             "woe_name": "Ghanzi"
         },
         "geo": {
-            "latitude": -21.698306,
-            "longitude": 21.64872,
-            "max_latitude": -21.6784066,
-            "max_longitude": 21.6658974,
-            "min_latitude": -21.7141347,
-            "min_longitude": 21.6237544
+            "latitude": -21.1672276,
+            "longitude": 26.419389,
+            "max_latitude": -19.0024569,
+            "max_longitude": 29.3607809,
+            "min_latitude": -23.956503,
+            "min_longitude": 23.885815
         },
         "iso_3166_2": "BW-GH",
         "iso_a2": "BW",
         "iso_a3": "BWA",
-        "name": "Ghanzi",
+        "name": "Central",
         "postal": "GH",
         "type": "District",
         "type_en": "District"
     },
     "JW": {
         "alt_names": [
-            ""
+            "Central"
         ],
         "cca2": "BW",
         "cca3": "BWA",
@@ -677,20 +684,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "-24.5774000000",
-            "longitude": "24.7253000000"
+            "latitude": -21.1672276,
+            "longitude": 26.419389,
+            "max_latitude": -19.0024569,
+            "max_longitude": 29.3607809,
+            "min_latitude": -23.956503,
+            "min_longitude": 23.885815
         },
         "iso_3166_2": "BW-JW",
         "iso_a2": "BW",
         "iso_a3": "BWA",
-        "name": "Jwaneng",
+        "name": "Central",
         "postal": "JW",
         "type": "Town",
         "type_en": "Town"
     },
     "KG": {
         "alt_names": [
-            "Kgalagadi"
+            "Central"
         ],
         "cca2": "BW",
         "cca3": "BWA",
@@ -813,24 +824,24 @@
             "woe_name": "Kgalagadi"
         },
         "geo": {
-            "latitude": -24.7550285,
-            "longitude": 21.8568586,
-            "max_latitude": -23.277603,
-            "max_longitude": 24.4867379,
-            "min_latitude": -26.9072461,
-            "min_longitude": 19.999615
+            "latitude": -21.1672276,
+            "longitude": 26.419389,
+            "max_latitude": -19.0024569,
+            "max_longitude": 29.3607809,
+            "min_latitude": -23.956503,
+            "min_longitude": 23.885815
         },
         "iso_3166_2": "BW-KG",
         "iso_a2": "BW",
         "iso_a3": "BWA",
-        "name": "Kgalagadi",
+        "name": "Central",
         "postal": "KG",
         "type": "District",
         "type_en": "District"
     },
     "KL": {
         "alt_names": [
-            "Kgatleng"
+            "Central"
         ],
         "cca2": "BW",
         "cca3": "BWA",
@@ -953,24 +964,24 @@
             "woe_name": "Kgatleng"
         },
         "geo": {
-            "latitude": -24.1970445,
-            "longitude": 26.2304616,
-            "max_latitude": -23.5624137,
-            "max_longitude": 26.9604493,
-            "min_latitude": -24.6919435,
-            "min_longitude": 25.9028879
+            "latitude": -21.1672276,
+            "longitude": 26.419389,
+            "max_latitude": -19.0024569,
+            "max_longitude": 29.3607809,
+            "min_latitude": -23.956503,
+            "min_longitude": 23.885815
         },
         "iso_3166_2": "BW-KL",
         "iso_a2": "BW",
         "iso_a3": "BWA",
-        "name": "Kgatleng",
+        "name": "Central",
         "postal": "KL",
         "type": "District",
         "type_en": "District"
     },
     "KW": {
         "alt_names": [
-            "Kweneng"
+            "Central"
         ],
         "cca2": "BW",
         "cca3": "BWA",
@@ -1093,24 +1104,24 @@
             "woe_name": "Kweneng"
         },
         "geo": {
-            "latitude": -23.8367249,
-            "longitude": 25.2837585,
-            "max_latitude": -22.955476,
-            "max_longitude": 26.0196919,
-            "min_latitude": -24.7757569,
-            "min_longitude": 22.9627589
+            "latitude": -21.1672276,
+            "longitude": 26.419389,
+            "max_latitude": -19.0024569,
+            "max_longitude": 29.3607809,
+            "min_latitude": -23.956503,
+            "min_longitude": 23.885815
         },
         "iso_3166_2": "BW-KW",
         "iso_a2": "BW",
         "iso_a3": "BWA",
-        "name": "Kweneng",
+        "name": "Central",
         "postal": "KW",
         "type": "District",
         "type_en": "District"
     },
     "LO": {
         "alt_names": [
-            ""
+            "Central"
         ],
         "cca2": "BW",
         "cca3": "BWA",
@@ -1233,20 +1244,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "-25.2144000000",
-            "longitude": "25.6842000000"
+            "latitude": -21.1672276,
+            "longitude": 26.419389,
+            "max_latitude": -19.0024569,
+            "max_longitude": 29.3607809,
+            "min_latitude": -23.956503,
+            "min_longitude": 23.885815
         },
         "iso_3166_2": "BW-LO",
         "iso_a2": "BW",
         "iso_a3": "BWA",
-        "name": "Lobatse",
+        "name": "Central",
         "postal": "LO",
         "type": "Town",
         "type_en": "Town"
     },
     "NE": {
         "alt_names": [
-            "North-East"
+            "Central"
         ],
         "cca2": "BW",
         "cca3": "BWA",
@@ -1369,24 +1384,24 @@
             "woe_name": "North-East"
         },
         "geo": {
-            "latitude": -20.9030555,
-            "longitude": 27.4556388,
-            "max_latitude": -20.473381,
-            "max_longitude": 28.013578,
-            "min_latitude": -21.571556,
-            "min_longitude": 27.2119901
+            "latitude": -21.1672276,
+            "longitude": 26.419389,
+            "max_latitude": -19.0024569,
+            "max_longitude": 29.3607809,
+            "min_latitude": -23.956503,
+            "min_longitude": 23.885815
         },
         "iso_3166_2": "BW-NE",
         "iso_a2": "BW",
         "iso_a3": "BWA",
-        "name": "North-East",
+        "name": "Central",
         "postal": "NE",
         "type": "District",
         "type_en": "District"
     },
     "NW": {
         "alt_names": [
-            "North-West"
+            "Central"
         ],
         "cca2": "BW",
         "cca3": "BWA",
@@ -1509,24 +1524,24 @@
             "woe_name": "North-West"
         },
         "geo": {
-            "latitude": -19.1905321,
-            "longitude": 23.0011989,
-            "max_latitude": -17.780813,
-            "max_longitude": 25.9879499,
-            "min_latitude": -21.0002549,
-            "min_longitude": 20.9969499
+            "latitude": -21.1672276,
+            "longitude": 26.419389,
+            "max_latitude": -19.0024569,
+            "max_longitude": 29.3607809,
+            "min_latitude": -23.956503,
+            "min_longitude": 23.885815
         },
         "iso_3166_2": "BW-NW",
         "iso_a2": "BW",
         "iso_a3": "BWA",
-        "name": "North-West",
+        "name": "Central",
         "postal": "NW",
         "type": "District",
         "type_en": "District"
     },
     "SE": {
         "alt_names": [
-            "South-East"
+            "Central"
         ],
         "cca2": "BW",
         "cca3": "BWA",
@@ -1649,24 +1664,24 @@
             "woe_name": "South-East"
         },
         "geo": {
-            "latitude": -24.9366094,
-            "longitude": 25.8048521,
-            "max_latitude": -24.511588,
-            "max_longitude": 26.1813639,
-            "min_latitude": -25.4709631,
-            "min_longitude": 25.5438541
+            "latitude": -21.1672276,
+            "longitude": 26.419389,
+            "max_latitude": -19.0024569,
+            "max_longitude": 29.3607809,
+            "min_latitude": -23.956503,
+            "min_longitude": 23.885815
         },
         "iso_3166_2": "BW-SE",
         "iso_a2": "BW",
         "iso_a3": "BWA",
-        "name": "South-East",
+        "name": "Central",
         "postal": "SE",
         "type": "District",
         "type_en": "District"
     },
     "SO": {
         "alt_names": [
-            "Southern"
+            "Central"
         ],
         "cca2": "BW",
         "cca3": "BWA",
@@ -1789,24 +1804,24 @@
             "woe_name": "Southern"
         },
         "geo": {
-            "latitude": -24.823384,
-            "longitude": 24.7142918,
-            "max_latitude": -23.9969671,
-            "max_longitude": 25.693459,
-            "min_latitude": -25.8257559,
-            "min_longitude": 23.048267
+            "latitude": -21.1672276,
+            "longitude": 26.419389,
+            "max_latitude": -19.0024569,
+            "max_longitude": 29.3607809,
+            "min_latitude": -23.956503,
+            "min_longitude": 23.885815
         },
         "iso_3166_2": "BW-SO",
         "iso_a2": "BW",
         "iso_a3": "BWA",
-        "name": "Southern",
+        "name": "Central",
         "postal": "SO",
         "type": "District",
         "type_en": "District"
     },
     "SP": {
         "alt_names": [
-            "Selibe Phikwe"
+            "Central"
         ],
         "cca2": "BW",
         "cca3": "BWA",
@@ -1929,20 +1944,24 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "-21.9728000000",
-            "longitude": "27.8625000000"
+            "latitude": -21.1672276,
+            "longitude": 26.419389,
+            "max_latitude": -19.0024569,
+            "max_longitude": 29.3607809,
+            "min_latitude": -23.956503,
+            "min_longitude": 23.885815
         },
         "iso_3166_2": "BW-SP",
         "iso_a2": "BW",
         "iso_a3": "BWA",
-        "name": "Selebi-Phikwe",
+        "name": "Central",
         "postal": "SP",
         "type": "Town",
         "type_en": "Town"
     },
     "ST": {
         "alt_names": [
-            "Sowa Town"
+            "Central"
         ],
         "cca2": "BW",
         "cca3": "BWA",
@@ -2065,13 +2084,17 @@
             "woe_name": ""
         },
         "geo": {
-            "latitude": "-20.5752000000",
-            "longitude": "26.1919000000"
+            "latitude": -21.1672276,
+            "longitude": 26.419389,
+            "max_latitude": -19.0024569,
+            "max_longitude": 29.3607809,
+            "min_latitude": -23.956503,
+            "min_longitude": 23.885815
         },
         "iso_3166_2": "BW-ST",
         "iso_a2": "BW",
         "iso_a3": "BWA",
-        "name": "Sowa",
+        "name": "Central",
         "postal": "ST",
         "type": "Township",
         "type_en": "Township"

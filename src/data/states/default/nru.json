@@ -141,7 +141,7 @@
     },
     "02": {
         "alt_names": [
-            "Anabar"
+            "Aiwo"
         ],
         "cca2": "NR",
         "cca3": "NRU",
@@ -264,24 +264,24 @@
             "woe_name": "Anabar"
         },
         "geo": {
-            "latitude": -0.5133517,
-            "longitude": 166.9484624,
-            "max_latitude": -0.5043035,
-            "max_longitude": 166.9578031,
-            "min_latitude": -0.522434,
-            "min_longitude": 166.9397261
+            "latitude": -0.5340012,
+            "longitude": 166.9138873,
+            "max_latitude": -0.5264073,
+            "max_longitude": 166.918411,
+            "min_latitude": -0.5406168,
+            "min_longitude": 166.9095518
         },
         "iso_3166_2": "NR-02",
         "iso_a2": "NR",
         "iso_a3": "NRU",
-        "name": "Anabar",
+        "name": "Aiwo",
         "postal": "02",
         "type": "",
         "type_en": ""
     },
     "03": {
         "alt_names": [
-            "Anetan"
+            "Aiwo"
         ],
         "cca2": "NR",
         "cca3": "NRU",
@@ -404,24 +404,24 @@
             "woe_name": "Anetan"
         },
         "geo": {
-            "latitude": -0.5064343,
-            "longitude": 166.9427006,
-            "max_latitude": -0.5027978,
-            "max_longitude": 166.9484027,
-            "min_latitude": -0.518731,
-            "min_longitude": 166.9389193
+            "latitude": -0.5340012,
+            "longitude": 166.9138873,
+            "max_latitude": -0.5264073,
+            "max_longitude": 166.918411,
+            "min_latitude": -0.5406168,
+            "min_longitude": 166.9095518
         },
         "iso_3166_2": "NR-03",
         "iso_a2": "NR",
         "iso_a3": "NRU",
-        "name": "Anetan",
+        "name": "Aiwo",
         "postal": "03",
         "type": "",
         "type_en": ""
     },
     "04": {
         "alt_names": [
-            "Anibare"
+            "Aiwo"
         ],
         "cca2": "NR",
         "cca3": "NRU",
@@ -544,24 +544,24 @@
             "woe_name": "Anibare"
         },
         "geo": {
-            "latitude": -0.532915,
-            "longitude": 166.944141,
-            "max_latitude": -0.520894,
-            "max_longitude": 166.9563043,
-            "min_latitude": -0.5423,
-            "min_longitude": 166.9355289
+            "latitude": -0.5340012,
+            "longitude": 166.9138873,
+            "max_latitude": -0.5264073,
+            "max_longitude": 166.918411,
+            "min_latitude": -0.5406168,
+            "min_longitude": 166.9095518
         },
         "iso_3166_2": "NR-04",
         "iso_a2": "NR",
         "iso_a3": "NRU",
-        "name": "Anibare",
+        "name": "Aiwo",
         "postal": "04",
         "type": "",
         "type_en": ""
     },
     "05": {
         "alt_names": [
-            "Baiti"
+            "Aiwo"
         ],
         "cca2": "NR",
         "cca3": "NRU",
@@ -684,24 +684,24 @@
             "woe_name": "Baiti"
         },
         "geo": {
-            "latitude": -0.5133158,
-            "longitude": 166.9311761,
-            "max_latitude": -0.5060557,
-            "max_longitude": 166.941229,
-            "min_latitude": -0.5243401,
-            "min_longitude": 166.925876
+            "latitude": -0.5340012,
+            "longitude": 166.9138873,
+            "max_latitude": -0.5264073,
+            "max_longitude": 166.918411,
+            "min_latitude": -0.5406168,
+            "min_longitude": 166.9095518
         },
         "iso_3166_2": "NR-05",
         "iso_a2": "NR",
         "iso_a3": "NRU",
-        "name": "Baiti",
+        "name": "Aiwo",
         "postal": "05",
         "type": "",
         "type_en": ""
     },
     "06": {
         "alt_names": [
-            "Boe"
+            "Aiwo"
         ],
         "cca2": "NR",
         "cca3": "NRU",
@@ -824,24 +824,24 @@
             "woe_name": "Boe"
         },
         "geo": {
-            "latitude": -0.5414945,
-            "longitude": 166.9174893,
-            "max_latitude": -0.538305,
-            "max_longitude": 166.922186,
-            "min_latitude": -0.544316,
-            "min_longitude": 166.9117951
+            "latitude": -0.5340012,
+            "longitude": 166.9138873,
+            "max_latitude": -0.5264073,
+            "max_longitude": 166.918411,
+            "min_latitude": -0.5406168,
+            "min_longitude": 166.9095518
         },
         "iso_3166_2": "NR-06",
         "iso_a2": "NR",
         "iso_a3": "NRU",
-        "name": "Boe",
+        "name": "Aiwo",
         "postal": "06",
         "type": "",
         "type_en": ""
     },
     "07": {
         "alt_names": [
-            "Buada"
+            "Aiwo"
         ],
         "cca2": "NR",
         "cca3": "NRU",
@@ -964,24 +964,24 @@
             "woe_name": "Buada"
         },
         "geo": {
-            "latitude": -0.5328777,
-            "longitude": 166.9268541,
-            "max_latitude": -0.5264839,
-            "max_longitude": 166.936519,
-            "min_latitude": -0.542245,
-            "min_longitude": 166.916138
+            "latitude": -0.5340012,
+            "longitude": 166.9138873,
+            "max_latitude": -0.5264073,
+            "max_longitude": 166.918411,
+            "min_latitude": -0.5406168,
+            "min_longitude": 166.9095518
         },
         "iso_3166_2": "NR-07",
         "iso_a2": "NR",
         "iso_a3": "NRU",
-        "name": "Buada",
+        "name": "Aiwo",
         "postal": "07",
         "type": "",
         "type_en": ""
     },
     "08": {
         "alt_names": [
-            "Denigomodu"
+            "Aiwo"
         ],
         "cca2": "NR",
         "cca3": "NRU",
@@ -1104,24 +1104,24 @@
             "woe_name": "Denigomodu"
         },
         "geo": {
-            "latitude": -0.5247964,
-            "longitude": 166.9167689,
-            "max_latitude": -0.5191129,
-            "max_longitude": 166.925101,
-            "min_latitude": -0.5291599,
-            "min_longitude": 166.9108336
+            "latitude": -0.5340012,
+            "longitude": 166.9138873,
+            "max_latitude": -0.5264073,
+            "max_longitude": 166.918411,
+            "min_latitude": -0.5406168,
+            "min_longitude": 166.9095518
         },
         "iso_3166_2": "NR-08",
         "iso_a2": "NR",
         "iso_a3": "NRU",
-        "name": "Denigomodu",
+        "name": "Aiwo",
         "postal": "08",
         "type": "",
         "type_en": ""
     },
     "09": {
         "alt_names": [
-            "Ewa"
+            "Aiwo"
         ],
         "cca2": "NR",
         "cca3": "NRU",
@@ -1244,24 +1244,24 @@
             "woe_name": "Ewa"
         },
         "geo": {
-            "latitude": -0.5087241,
-            "longitude": 166.9369384,
-            "max_latitude": -0.5026395,
-            "max_longitude": 166.9437219,
-            "min_latitude": -0.5203079,
-            "min_longitude": 166.9306406
+            "latitude": -0.5340012,
+            "longitude": 166.9138873,
+            "max_latitude": -0.5264073,
+            "max_longitude": 166.918411,
+            "min_latitude": -0.5406168,
+            "min_longitude": 166.9095518
         },
         "iso_3166_2": "NR-09",
         "iso_a2": "NR",
         "iso_a3": "NRU",
-        "name": "Ewa",
+        "name": "Aiwo",
         "postal": "09",
         "type": "",
         "type_en": ""
     },
     "10": {
         "alt_names": [
-            "Ijuw"
+            "Aiwo"
         ],
         "cca2": "NR",
         "cca3": "NRU",
@@ -1384,24 +1384,24 @@
             "woe_name": "Ijuw"
         },
         "geo": {
-            "latitude": -0.5202646,
-            "longitude": 166.9513432,
-            "max_latitude": -0.514258,
-            "max_longitude": 166.958865,
-            "min_latitude": -0.523936,
-            "min_longitude": 166.9436481
+            "latitude": -0.5340012,
+            "longitude": 166.9138873,
+            "max_latitude": -0.5264073,
+            "max_longitude": 166.918411,
+            "min_latitude": -0.5406168,
+            "min_longitude": 166.9095518
         },
         "iso_3166_2": "NR-10",
         "iso_a2": "NR",
         "iso_a3": "NRU",
-        "name": "Ijuw",
+        "name": "Aiwo",
         "postal": "10",
         "type": "",
         "type_en": ""
     },
     "11": {
         "alt_names": [
-            "Meneng"
+            "Aiwo"
         ],
         "cca2": "NR",
         "cca3": "NRU",
@@ -1524,24 +1524,24 @@
             "woe_name": "Meneng"
         },
         "geo": {
-            "latitude": -0.546724,
-            "longitude": 166.938379,
-            "max_latitude": -0.5366,
-            "max_longitude": 166.9506771,
-            "min_latitude": -0.5539963,
-            "min_longitude": 166.9286009
+            "latitude": -0.5340012,
+            "longitude": 166.9138873,
+            "max_latitude": -0.5264073,
+            "max_longitude": 166.918411,
+            "min_latitude": -0.5406168,
+            "min_longitude": 166.9095518
         },
         "iso_3166_2": "NR-11",
         "iso_a2": "NR",
         "iso_a3": "NRU",
-        "name": "Meneng",
+        "name": "Aiwo",
         "postal": "11",
         "type": "",
         "type_en": ""
     },
     "12": {
         "alt_names": [
-            "Nibok"
+            "Aiwo"
         ],
         "cca2": "NR",
         "cca3": "NRU",
@@ -1664,24 +1664,24 @@
             "woe_name": "Nibok"
         },
         "geo": {
-            "latitude": -0.5225124,
-            "longitude": 166.9254134,
-            "max_latitude": -0.5136925,
-            "max_longitude": 166.9371241,
-            "min_latitude": -0.530461,
-            "min_longitude": 166.917013
+            "latitude": -0.5340012,
+            "longitude": 166.9138873,
+            "max_latitude": -0.5264073,
+            "max_longitude": 166.918411,
+            "min_latitude": -0.5406168,
+            "min_longitude": 166.9095518
         },
         "iso_3166_2": "NR-12",
         "iso_a2": "NR",
         "iso_a3": "NRU",
-        "name": "Nibok",
+        "name": "Aiwo",
         "postal": "12",
         "type": "",
         "type_en": ""
     },
     "13": {
         "alt_names": [
-            "Uaboe"
+            "Aiwo"
         ],
         "cca2": "NR",
         "cca3": "NRU",
@@ -1804,24 +1804,24 @@
             "woe_name": "Uaboe"
         },
         "geo": {
-            "latitude": -0.5173398,
-            "longitude": 166.9290151,
-            "max_latitude": -0.5118939,
-            "max_longitude": 166.939466,
-            "min_latitude": -0.5244783,
-            "min_longitude": 166.9229766
+            "latitude": -0.5340012,
+            "longitude": 166.9138873,
+            "max_latitude": -0.5264073,
+            "max_longitude": 166.918411,
+            "min_latitude": -0.5406168,
+            "min_longitude": 166.9095518
         },
         "iso_3166_2": "NR-13",
         "iso_a2": "NR",
         "iso_a3": "NRU",
-        "name": "Uaboe",
+        "name": "Aiwo",
         "postal": "13",
         "type": "",
         "type_en": ""
     },
     "14": {
         "alt_names": [
-            "Yaren"
+            "Aiwo"
         ],
         "cca2": "NR",
         "cca3": "NRU",
@@ -1944,17 +1944,17 @@
             "woe_name": "Yaren"
         },
         "geo": {
-            "latitude": -0.5466857,
-            "longitude": 166.9210913,
-            "max_latitude": -0.5398079,
-            "max_longitude": 166.9298291,
-            "min_latitude": -0.5541411,
-            "min_longitude": 166.9109682
+            "latitude": -0.5340012,
+            "longitude": 166.9138873,
+            "max_latitude": -0.5264073,
+            "max_longitude": 166.918411,
+            "min_latitude": -0.5406168,
+            "min_longitude": 166.9095518
         },
         "iso_3166_2": "NR-14",
         "iso_a2": "NR",
         "iso_a3": "NRU",
-        "name": "Yaren",
+        "name": "Aiwo",
         "postal": "14",
         "type": "",
         "type_en": ""

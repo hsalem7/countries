@@ -1,7 +1,11 @@
 {
     "X01~": {
         "alt_names": [
-            ""
+            "Bojador",
+            "Boujdour",
+            "Bu Jaydur",
+            "Bujdur",
+            "Cabo Bojador"
         ],
         "cca2": "EH",
         "cca3": "ESH",
@@ -124,13 +128,17 @@
             "woe_name": "Western Sahara"
         },
         "geo": {
-            "latitude": "23.8130000000",
-            "longitude": "-12.8924000000"
+            "latitude": 26.1118596,
+            "longitude": -14.4781532,
+            "max_latitude": 26.1565487,
+            "max_longitude": -14.4467785,
+            "min_latitude": 26.0752699,
+            "min_longitude": -14.5005798
         },
         "iso_3166_2": "EH-X01~",
         "iso_a2": "EH",
         "iso_a3": "ESH",
-        "name": "Western Sahara",
+        "name": "Boujdour",
         "postal": "X01~",
         "type": "",
         "type_en": ""

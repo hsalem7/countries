@@ -141,7 +141,7 @@
     },
     "AH": {
         "alt_names": [
-            "Asante"
+            "Greater Accra"
         ],
         "cca2": "GH",
         "cca3": "GHA",
@@ -264,24 +264,24 @@
             "woe_name": "Ashanti"
         },
         "geo": {
-            "latitude": 6.7470436,
-            "longitude": -1.5208624,
-            "max_latitude": 7.62166,
-            "max_longitude": -0.222413,
-            "min_latitude": 5.853754,
-            "min_longitude": -2.451715
+            "latitude": 5.8142836,
+            "longitude": 0.0746767,
+            "max_latitude": 5.9961559,
+            "max_longitude": 0.72458,
+            "min_latitude": 5.4948349,
+            "min_longitude": -0.51121
         },
         "iso_3166_2": "GH-AH",
         "iso_a2": "GH",
         "iso_a3": "GHA",
-        "name": "Ashanti",
+        "name": "Greater Accra",
         "postal": "AH",
         "type": "Region",
         "type_en": "Region"
     },
     "BA": {
         "alt_names": [
-            "Brong-Ahafo"
+            "Greater Accra"
         ],
         "cca2": "GH",
         "cca3": "GHA",
@@ -404,24 +404,24 @@
             "woe_name": "Brong Ahafo"
         },
         "geo": {
-            "latitude": 7.9559247,
-            "longitude": -1.6760691,
-            "max_latitude": 8.7786681,
-            "max_longitude": 0.1875014,
-            "min_latitude": 6.386345,
-            "min_longitude": -3.091438
+            "latitude": 5.8142836,
+            "longitude": 0.0746767,
+            "max_latitude": 5.9961559,
+            "max_longitude": 0.72458,
+            "min_latitude": 5.4948349,
+            "min_longitude": -0.51121
         },
         "iso_3166_2": "GH-BA",
         "iso_a2": "GH",
         "iso_a3": "GHA",
-        "name": "Brong-Ahafo",
+        "name": "Greater Accra",
         "postal": "BA",
         "type": "Region",
         "type_en": "Region"
     },
     "CP": {
         "alt_names": [
-            "Central"
+            "Greater Accra"
         ],
         "cca2": "GH",
         "cca3": "GHA",
@@ -544,24 +544,24 @@
             "woe_name": "Central"
         },
         "geo": {
-            "latitude": 5.5607846,
-            "longitude": -1.0586135,
-            "max_latitude": 6.3042729,
-            "max_longitude": -0.369136,
-            "min_latitude": 5.0336656,
-            "min_longitude": -2.176695
+            "latitude": 5.8142836,
+            "longitude": 0.0746767,
+            "max_latitude": 5.9961559,
+            "max_longitude": 0.72458,
+            "min_latitude": 5.4948349,
+            "min_longitude": -0.51121
         },
         "iso_3166_2": "GH-CP",
         "iso_a2": "GH",
         "iso_a3": "GHA",
-        "name": "Central",
+        "name": "Greater Accra",
         "postal": "CP",
         "type": "Region",
         "type_en": "Region"
     },
     "EP": {
         "alt_names": [
-            "Eastern"
+            "Greater Accra"
         ],
         "cca2": "GH",
         "cca3": "GHA",
@@ -684,24 +684,24 @@
             "woe_name": "Eastern"
         },
         "geo": {
-            "latitude": 6.2374036,
-            "longitude": -0.4502368,
-            "max_latitude": 7.186541,
-            "max_longitude": 0.322644,
-            "min_latitude": 5.729348,
-            "min_longitude": -1.2483401
+            "latitude": 5.8142836,
+            "longitude": 0.0746767,
+            "max_latitude": 5.9961559,
+            "max_longitude": 0.72458,
+            "min_latitude": 5.4948349,
+            "min_longitude": -0.51121
         },
         "iso_3166_2": "GH-EP",
         "iso_a2": "GH",
         "iso_a3": "GHA",
-        "name": "Eastern",
+        "name": "Greater Accra",
         "postal": "EP",
         "type": "Region",
         "type_en": "Region"
     },
     "NP": {
         "alt_names": [
-            "Northern"
+            "Greater Accra"
         ],
         "cca2": "GH",
         "cca3": "GHA",
@@ -824,24 +824,24 @@
             "woe_name": "Northern"
         },
         "geo": {
-            "latitude": 9.5439269,
-            "longitude": -0.9056623,
-            "max_latitude": 10.714593,
-            "max_longitude": 0.56338,
-            "min_latitude": 7.954847,
-            "min_longitude": -2.779666
+            "latitude": 5.8142836,
+            "longitude": 0.0746767,
+            "max_latitude": 5.9961559,
+            "max_longitude": 0.72458,
+            "min_latitude": 5.4948349,
+            "min_longitude": -0.51121
         },
         "iso_3166_2": "GH-NP",
         "iso_a2": "GH",
         "iso_a3": "GHA",
-        "name": "Northern",
+        "name": "Greater Accra",
         "postal": "NP",
         "type": "Region",
         "type_en": "Region"
     },
     "TV": {
         "alt_names": [
-            "Volta"
+            "Greater Accra"
         ],
         "cca2": "GH",
         "cca3": "GHA",
@@ -964,24 +964,24 @@
             "woe_name": "Volta"
         },
         "geo": {
-            "latitude": 6.5781373,
-            "longitude": 0.4502368,
-            "max_latitude": 8.754108,
-            "max_longitude": 1.1917686,
-            "min_latitude": 5.7696366,
-            "min_longitude": -0.3436661
+            "latitude": 5.8142836,
+            "longitude": 0.0746767,
+            "max_latitude": 5.9961559,
+            "max_longitude": 0.72458,
+            "min_latitude": 5.4948349,
+            "min_longitude": -0.51121
         },
         "iso_3166_2": "GH-TV",
         "iso_a2": "GH",
         "iso_a3": "GHA",
-        "name": "Volta",
+        "name": "Greater Accra",
         "postal": "TV",
         "type": "Region",
         "type_en": "Region"
     },
     "UE": {
         "alt_names": [
-            "Upper East"
+            "Greater Accra"
         ],
         "cca2": "GH",
         "cca3": "GHA",
@@ -1104,24 +1104,24 @@
             "woe_name": "Upper East"
         },
         "geo": {
-            "latitude": 10.7082499,
-            "longitude": -0.9820668,
-            "max_latitude": 11.173301,
-            "max_longitude": 0.032068,
-            "min_latitude": 10.270471,
-            "min_longitude": -1.575864
+            "latitude": 5.8142836,
+            "longitude": 0.0746767,
+            "max_latitude": 5.9961559,
+            "max_longitude": 0.72458,
+            "min_latitude": 5.4948349,
+            "min_longitude": -0.51121
         },
         "iso_3166_2": "GH-UE",
         "iso_a2": "GH",
         "iso_a3": "GHA",
-        "name": "Upper East",
+        "name": "Greater Accra",
         "postal": "UE",
         "type": "Region",
         "type_en": "Region"
     },
     "UW": {
         "alt_names": [
-            "Upper West"
+            "Greater Accra"
         ],
         "cca2": "GH",
         "cca3": "GHA",
@@ -1244,24 +1244,24 @@
             "woe_name": "Upper West"
         },
         "geo": {
-            "latitude": 10.2529757,
-            "longitude": -2.1450245,
-            "max_latitude": 11.0189701,
-            "max_longitude": -1.3693439,
-            "min_latitude": 9.6529639,
-            "min_longitude": -2.9455968
+            "latitude": 5.8142836,
+            "longitude": 0.0746767,
+            "max_latitude": 5.9961559,
+            "max_longitude": 0.72458,
+            "min_latitude": 5.4948349,
+            "min_longitude": -0.51121
         },
         "iso_3166_2": "GH-UW",
         "iso_a2": "GH",
         "iso_a3": "GHA",
-        "name": "Upper West",
+        "name": "Greater Accra",
         "postal": "UW",
         "type": "Region",
         "type_en": "Region"
     },
     "WP": {
         "alt_names": [
-            "Western"
+            "Greater Accra"
         ],
         "cca2": "GH",
         "cca3": "GHA",
@@ -1384,17 +1384,17 @@
             "woe_name": "Western"
         },
         "geo": {
-            "latitude": 5.3901978,
-            "longitude": -2.1450245,
-            "max_latitude": 7.0526609,
-            "max_longitude": -1.417818,
-            "min_latitude": 4.738815,
-            "min_longitude": -3.25542
+            "latitude": 5.8142836,
+            "longitude": 0.0746767,
+            "max_latitude": 5.9961559,
+            "max_longitude": 0.72458,
+            "min_latitude": 5.4948349,
+            "min_longitude": -0.51121
         },
         "iso_3166_2": "GH-WP",
         "iso_a2": "GH",
         "iso_a3": "GHA",
-        "name": "Western",
+        "name": "Greater Accra",
         "postal": "WP",
         "type": "Region",
         "type_en": "Region"

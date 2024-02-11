@@ -142,12 +142,8 @@
     },
     "BA": {
         "alt_names": [
-            "Bayrout",
-            "Bayrut",
-            "Beirut",
-            "Beyrout",
-            "Beyrouth",
-            "Beyr\u00fbt"
+            "Ash Shamal",
+            "North"
         ],
         "cca2": "LB",
         "cca3": "LBN",
@@ -270,8 +266,8 @@
             "woe_name": "Beirut"
         },
         "geo": {
-            "latitude": 33.8886289,
-            "longitude": 35.4954794,
+            "latitude": null,
+            "longitude": null,
             "max_latitude": null,
             "max_longitude": null,
             "min_latitude": null,
@@ -280,14 +276,15 @@
         "iso_3166_2": "LB-BA",
         "iso_a2": "LB",
         "iso_a3": "LBN",
-        "name": "Beirut",
+        "name": "Loubn\u00e2ne ech Chem\u00e2li",
         "postal": "BA",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "BI": {
         "alt_names": [
-            "Bekaa"
+            "Ash Shamal",
+            "North"
         ],
         "cca2": "LB",
         "cca3": "LBN",
@@ -410,8 +407,8 @@
             "woe_name": "Beqaa"
         },
         "geo": {
-            "latitude": 33.7616036,
-            "longitude": 35.8835437,
+            "latitude": null,
+            "longitude": null,
             "max_latitude": null,
             "max_longitude": null,
             "min_latitude": null,
@@ -420,14 +417,15 @@
         "iso_3166_2": "LB-BI",
         "iso_a2": "LB",
         "iso_a3": "LBN",
-        "name": "El B\u00e9qaa",
+        "name": "Loubn\u00e2ne ech Chem\u00e2li",
         "postal": "BI",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "JA": {
         "alt_names": [
-            "South"
+            "Ash Shamal",
+            "North"
         ],
         "cca2": "LB",
         "cca3": "LBN",
@@ -560,14 +558,15 @@
         "iso_3166_2": "LB-JA",
         "iso_a2": "LB",
         "iso_a3": "LBN",
-        "name": "Loubn\u00e2ne ej Jno\u00fbbi",
+        "name": "Loubn\u00e2ne ech Chem\u00e2li",
         "postal": "JA",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "JL": {
         "alt_names": [
-            "Mount Lebanon"
+            "Ash Shamal",
+            "North"
         ],
         "cca2": "LB",
         "cca3": "LBN",
@@ -690,24 +689,25 @@
             "woe_name": "Mount Lebanon"
         },
         "geo": {
-            "latitude": 33.9046635,
-            "longitude": 35.6969984,
-            "max_latitude": 34.2113502,
-            "max_longitude": 36.0150637,
-            "min_latitude": 33.4916836,
-            "min_longitude": 35.3858701
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LB-JL",
         "iso_a2": "LB",
         "iso_a3": "LBN",
-        "name": "Jabal Loubn\u00e2ne",
+        "name": "Loubn\u00e2ne ech Chem\u00e2li",
         "postal": "JL",
         "type": "Muhafazah",
         "type_en": "Province"
     },
     "NA": {
         "alt_names": [
-            "Nabatiyeh"
+            "Ash Shamal",
+            "North"
         ],
         "cca2": "LB",
         "cca3": "LBN",
@@ -830,17 +830,17 @@
             "woe_name": "An Nabatiyah"
         },
         "geo": {
-            "latitude": 33.285507,
-            "longitude": 35.5000999,
-            "max_latitude": 33.5112517,
-            "max_longitude": 35.8638557,
-            "min_latitude": 33.0549366,
-            "min_longitude": 35.2418835
+            "latitude": null,
+            "longitude": null,
+            "max_latitude": null,
+            "max_longitude": null,
+            "min_latitude": null,
+            "min_longitude": null
         },
         "iso_3166_2": "LB-NA",
         "iso_a2": "LB",
         "iso_a3": "LBN",
-        "name": "Nabat\u00eey\u00e9",
+        "name": "Loubn\u00e2ne ech Chem\u00e2li",
         "postal": "NA",
         "type": "Muhafazah",
         "type_en": "Province"

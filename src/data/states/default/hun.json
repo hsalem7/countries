@@ -141,7 +141,7 @@
     },
     "BC": {
         "alt_names": [
-            "B\u00e9k\u00e9scsaba"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -264,24 +264,24 @@
             "woe_name": "B\u00e9k\u00e9scsaba"
         },
         "geo": {
-            "latitude": 46.6735939,
-            "longitude": 21.0877309,
-            "max_latitude": 46.7476239,
-            "max_longitude": 21.2357529,
-            "min_latitude": 46.61126,
-            "min_longitude": 20.9300351
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-BC",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "B\u00e9k\u00e9scsaba",
+        "name": "Baranya",
         "postal": "BC",
         "type": "Megyei jogu v\u00e1ros",
         "type_en": "Urban county"
     },
     "BE": {
         "alt_names": [
-            "B\u00e9k\u00e9s"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -404,24 +404,24 @@
             "woe_name": "B\u00e9k\u00e9s"
         },
         "geo": {
-            "latitude": 46.7711185,
-            "longitude": 21.1289753,
-            "max_latitude": 46.845706,
-            "max_longitude": 21.2195859,
-            "min_latitude": 46.715268,
-            "min_longitude": 21.04361
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-BE",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "B\u00e9k\u00e9s",
+        "name": "Baranya",
         "postal": "BE",
         "type": "Megye",
         "type_en": "County"
     },
     "BK": {
         "alt_names": [
-            "B\u00e1cs-Kiskun"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -544,24 +544,24 @@
             "woe_name": "B\u00e1cs-Kiskun"
         },
         "geo": {
-            "latitude": 46.5661437,
-            "longitude": 19.4272464,
-            "max_latitude": 47.134105,
-            "max_longitude": 20.1599619,
-            "min_latitude": 45.904761,
-            "min_longitude": 18.7327931
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-BK",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "B\u00e1cs-Kiskun",
+        "name": "Baranya",
         "postal": "BK",
         "type": "Megye",
         "type_en": "County"
     },
     "BU": {
         "alt_names": [
-            "Budapest"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -684,24 +684,24 @@
             "woe_name": "Budapest"
         },
         "geo": {
-            "latitude": 47.497912,
-            "longitude": 19.040235,
-            "max_latitude": 47.6130119,
-            "max_longitude": 19.334505,
-            "min_latitude": 47.349415,
-            "min_longitude": 18.9261011
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-BU",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Budapest",
+        "name": "Baranya",
         "postal": "BU",
         "type": "Fovaros",
         "type_en": "Capital City"
     },
     "BZ": {
         "alt_names": [
-            "Borsod-Aba\u00faj-Zempl\u00e9n"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -824,24 +824,24 @@
             "woe_name": "Borsod-Aba\u00faj-Zempl\u00e9n"
         },
         "geo": {
-            "latitude": 48.2939401,
-            "longitude": 20.6934113,
-            "max_latitude": 48.585234,
-            "max_longitude": 22.1292827,
-            "min_latitude": 47.64265,
-            "min_longitude": 20.0518941
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-BZ",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Borsod-Aba\u00faj-Zempl\u00e9n",
+        "name": "Baranya",
         "postal": "BZ",
         "type": "Megye",
         "type_en": "County"
     },
     "CS": {
         "alt_names": [
-            "Csongr\u00e1d"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -964,24 +964,24 @@
             "woe_name": "Csongr\u00e1d"
         },
         "geo": {
-            "latitude": 46.7084264,
-            "longitude": 20.1436061,
-            "max_latitude": 46.8063689,
-            "max_longitude": 20.221518,
-            "min_latitude": 46.649019,
-            "min_longitude": 19.969219
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-CS",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Csongr\u00e1d",
+        "name": "Baranya",
         "postal": "CS",
         "type": "Megye",
         "type_en": "County"
     },
     "DE": {
         "alt_names": [
-            "Debrecen"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -1104,24 +1104,24 @@
             "woe_name": "Debrecen"
         },
         "geo": {
-            "latitude": 47.5316049,
-            "longitude": 21.6273123,
-            "max_latitude": 47.6369639,
-            "max_longitude": 21.8837061,
-            "min_latitude": 47.4248649,
-            "min_longitude": 21.4366579
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-DE",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Debrecen",
+        "name": "Baranya",
         "postal": "DE",
         "type": "Megyei jogu v\u00e1ros",
         "type_en": "Urban county"
     },
     "DU": {
         "alt_names": [
-            "Duna\u00fajv\u00e1ros"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -1244,24 +1244,24 @@
             "woe_name": "Duna\u00fajv\u00e1ros"
         },
         "geo": {
-            "latitude": 46.9619059,
-            "longitude": 18.9355227,
-            "max_latitude": 47.001966,
-            "max_longitude": 18.9657249,
-            "min_latitude": 46.8897881,
-            "min_longitude": 18.860456
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-DU",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Duna\u00fajv\u00e1ros",
+        "name": "Baranya",
         "postal": "DU",
         "type": "Megyei jogu v\u00e1ros",
         "type_en": "Urban county"
     },
     "ED": {
         "alt_names": [
-            "\u00c9rd"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -1384,24 +1384,24 @@
             "woe_name": "\u00c9rd"
         },
         "geo": {
-            "latitude": 47.3919718,
-            "longitude": 18.904544,
-            "max_latitude": 47.430192,
-            "max_longitude": 18.96238,
-            "min_latitude": 47.314573,
-            "min_longitude": 18.833885
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-ED",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "\u00c9rd",
+        "name": "Baranya",
         "postal": "ED",
         "type": "Megyei jogu v\u00e1ros",
         "type_en": "Urban county"
     },
     "EG": {
         "alt_names": [
-            "Eger"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -1524,24 +1524,24 @@
             "woe_name": "Eger"
         },
         "geo": {
-            "latitude": 47.9025348,
-            "longitude": 20.3772284,
-            "max_latitude": 48.001331,
-            "max_longitude": 20.471507,
-            "min_latitude": 47.857033,
-            "min_longitude": 20.3113128
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-EG",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Eger",
+        "name": "Baranya",
         "postal": "EG",
         "type": "Megyei jogu v\u00e1ros",
         "type_en": "Urban county"
     },
     "FE": {
         "alt_names": [
-            "Fej\u00e9r"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -1664,24 +1664,24 @@
             "woe_name": "Fej\u00e9r"
         },
         "geo": {
-            "latitude": 47.1217932,
-            "longitude": 18.5294815,
-            "max_latitude": 47.5770459,
-            "max_longitude": 18.967485,
-            "min_latitude": 46.687195,
-            "min_longitude": 18.0337199
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-FE",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Fej\u00e9r",
+        "name": "Baranya",
         "postal": "FE",
         "type": "Megye",
         "type_en": "County"
     },
     "GS": {
         "alt_names": [
-            "Gy\u0151r-Moson-Sopron"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -1804,24 +1804,24 @@
             "woe_name": "Gyor-Moson-Sopron"
         },
         "geo": {
-            "latitude": 47.6509285,
-            "longitude": 17.2505883,
-            "max_latitude": 48.022446,
-            "max_longitude": 17.9364819,
-            "min_latitude": 47.272214,
-            "min_longitude": 16.4215489
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-GS",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Gy\u0151r-Moson-Sopron",
+        "name": "Baranya",
         "postal": "GS",
         "type": "Megye",
         "type_en": "County"
     },
     "GY": {
         "alt_names": [
-            "Gy\u0151r"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -1944,24 +1944,24 @@
             "woe_name": "Gy\u00f4r"
         },
         "geo": {
-            "latitude": 47.6874569,
-            "longitude": 17.6503974,
-            "max_latitude": 47.747587,
-            "max_longitude": 17.80789,
-            "min_latitude": 47.591275,
-            "min_longitude": 17.50948
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-GY",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Gy\u0151r",
+        "name": "Baranya",
         "postal": "GY",
         "type": "Megyei jogu v\u00e1ros",
         "type_en": "Urban county"
     },
     "HB": {
         "alt_names": [
-            "Hajd\u00fa-Bihar"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -2084,24 +2084,24 @@
             "woe_name": "Hajd\u00fa-Bihar"
         },
         "geo": {
-            "latitude": 47.4688355,
-            "longitude": 21.5453228,
-            "max_latitude": 47.964842,
-            "max_longitude": 22.1297241,
-            "min_latitude": 46.9412041,
-            "min_longitude": 20.82321
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-HB",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Hajd\u00fa-Bihar",
+        "name": "Baranya",
         "postal": "HB",
         "type": "Megye",
         "type_en": "County"
     },
     "HE": {
         "alt_names": [
-            "Heves"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -2224,24 +2224,24 @@
             "woe_name": "Heves"
         },
         "geo": {
-            "latitude": 47.5971694,
-            "longitude": 20.280156,
-            "max_latitude": 47.671258,
-            "max_longitude": 20.3831291,
-            "min_latitude": 47.528197,
-            "min_longitude": 20.208671
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-HE",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Heves",
+        "name": "Baranya",
         "postal": "HE",
         "type": "Megye",
         "type_en": "County"
     },
     "HV": {
         "alt_names": [
-            "H\u00f3dmez\u0151v\u00e1s\u00e1rhely"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -2364,24 +2364,24 @@
             "woe_name": "H\u00f3dmez\u00f4v\u00e1s\u00e1rhely"
         },
         "geo": {
-            "latitude": 46.4181262,
-            "longitude": 20.3300315,
-            "max_latitude": 46.528218,
-            "max_longitude": 20.5828911,
-            "min_latitude": 46.2947919,
-            "min_longitude": 20.184785
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-HV",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "H\u00f3dmez\u0151v\u00e1s\u00e1rhely",
+        "name": "Baranya",
         "postal": "HV",
         "type": "Megyei jogu v\u00e1ros",
         "type_en": "Urban county"
     },
     "JN": {
         "alt_names": [
-            "J\u00e1sz-Nagykun-Szolnok"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -2504,24 +2504,24 @@
             "woe_name": "J\u00e1sz-Nagykun-Szolnok"
         },
         "geo": {
-            "latitude": 47.2555579,
-            "longitude": 20.5232456,
-            "max_latitude": 47.682564,
-            "max_longitude": 21.0302648,
-            "min_latitude": 46.754459,
-            "min_longitude": 19.651048
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-JN",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "J\u00e1sz-Nagykun-Szolnok",
+        "name": "Baranya",
         "postal": "JN",
         "type": "Megye",
         "type_en": "County"
     },
     "KE": {
         "alt_names": [
-            "Kom\u00e1rom-Esztergom"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -2644,24 +2644,24 @@
             "woe_name": "Kom\u00e1rom-Esztergom"
         },
         "geo": {
-            "latitude": 47.7390852,
-            "longitude": 18.1267006,
-            "max_latitude": 47.756655,
-            "max_longitude": 18.2301799,
-            "min_latitude": 47.685791,
-            "min_longitude": 18.016753
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-KE",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Kom\u00e1rom-Esztergom",
+        "name": "Baranya",
         "postal": "KE",
         "type": "Megye",
         "type_en": "County"
     },
     "KM": {
         "alt_names": [
-            "Kecskem\u00e9t"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -2784,24 +2784,24 @@
             "woe_name": "Kecskem\u00e9t"
         },
         "geo": {
-            "latitude": 46.8963711,
-            "longitude": 19.6896861,
-            "max_latitude": 47.0012541,
-            "max_longitude": 19.8515029,
-            "min_latitude": 46.769863,
-            "min_longitude": 19.5066109
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-KM",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Kecskem\u00e9t",
+        "name": "Baranya",
         "postal": "KM",
         "type": "Megyei jogu v\u00e1ros",
         "type_en": "Urban county"
     },
     "KV": {
         "alt_names": [
-            "Kaposv\u00e1r"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -2924,24 +2924,24 @@
             "woe_name": "Kaposv\u00e1r"
         },
         "geo": {
-            "latitude": 46.3593606,
-            "longitude": 17.7967639,
-            "max_latitude": 46.450507,
-            "max_longitude": 17.8911989,
-            "min_latitude": 46.290355,
-            "min_longitude": 17.741116
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-KV",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Kaposv\u00e1r",
+        "name": "Baranya",
         "postal": "KV",
         "type": "Megyei jogu v\u00e1ros",
         "type_en": "Urban county"
     },
     "MI": {
         "alt_names": [
-            "Miskolc"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -3064,24 +3064,24 @@
             "woe_name": "Miskolc"
         },
         "geo": {
-            "latitude": 48.0963631,
-            "longitude": 20.762386,
-            "max_latitude": 48.154998,
-            "max_longitude": 20.8697789,
-            "min_latitude": 48.0233119,
-            "min_longitude": 20.4817199
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-MI",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Miskolc",
+        "name": "Baranya",
         "postal": "MI",
         "type": "Megyei jogu v\u00e1ros",
         "type_en": "Urban county"
     },
     "NK": {
         "alt_names": [
-            "Nagykanizsa"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -3204,24 +3204,24 @@
             "woe_name": "Nagykanizsa"
         },
         "geo": {
-            "latitude": 46.4590218,
-            "longitude": 16.9896796,
-            "max_latitude": 46.543614,
-            "max_longitude": 17.0906941,
-            "min_latitude": 46.358713,
-            "min_longitude": 16.919825
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-NK",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Nagykanizsa",
+        "name": "Baranya",
         "postal": "NK",
         "type": "Megyei jogu v\u00e1ros",
         "type_en": "Urban county"
     },
     "NO": {
         "alt_names": [
-            "N\u00f3gr\u00e1d"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -3344,24 +3344,24 @@
             "woe_name": "N\u00f3gr\u00e1d"
         },
         "geo": {
-            "latitude": 47.9041031,
-            "longitude": 19.0498504,
-            "max_latitude": 47.933664,
-            "max_longitude": 19.1055319,
-            "min_latitude": 47.867935,
-            "min_longitude": 18.9853318
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-NO",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "N\u00f3gr\u00e1d",
+        "name": "Baranya",
         "postal": "NO",
         "type": "Megye",
         "type_en": "County"
     },
     "NY": {
         "alt_names": [
-            "Ny\u00edregyh\u00e1za"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -3484,24 +3484,24 @@
             "woe_name": "Ny\u00edregyh\u00e1za"
         },
         "geo": {
-            "latitude": 47.9495324,
-            "longitude": 21.7244053,
-            "max_latitude": 48.03913,
-            "max_longitude": 21.844149,
-            "min_latitude": 47.845661,
-            "min_longitude": 21.5576691
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-NY",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Ny\u00edregyh\u00e1za",
+        "name": "Baranya",
         "postal": "NY",
         "type": "Megyei jogu v\u00e1ros",
         "type_en": "Urban county"
     },
     "PE": {
         "alt_names": [
-            "Pest"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -3624,24 +3624,24 @@
             "woe_name": "Pest"
         },
         "geo": {
-            "latitude": 47.4480001,
-            "longitude": 19.4618128,
-            "max_latitude": 48.0586599,
-            "max_longitude": 20.1127141,
-            "min_latitude": 46.944111,
-            "min_longitude": 18.6884409
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-PE",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Pest",
+        "name": "Baranya",
         "postal": "PE",
         "type": "Megye",
         "type_en": "County"
     },
     "PS": {
         "alt_names": [
-            "P\u00e9cs"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -3764,24 +3764,24 @@
             "woe_name": "P\u00e9cs"
         },
         "geo": {
-            "latitude": 46.0727345,
-            "longitude": 18.232266,
-            "max_latitude": 46.161421,
-            "max_longitude": 18.3654829,
-            "min_latitude": 45.994045,
-            "min_longitude": 18.13568
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-PS",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "P\u00e9cs",
+        "name": "Baranya",
         "postal": "PS",
         "type": "Megyei jogu v\u00e1ros",
         "type_en": "Urban county"
     },
     "SD": {
         "alt_names": [
-            "Szeged"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -3904,24 +3904,24 @@
             "woe_name": "Szeged"
         },
         "geo": {
-            "latitude": 46.2530102,
-            "longitude": 20.1414253,
-            "max_latitude": 46.349812,
-            "max_longitude": 20.3085971,
-            "min_latitude": 46.115766,
-            "min_longitude": 19.97234
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-SD",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Szeged",
+        "name": "Baranya",
         "postal": "SD",
         "type": "Megyei jogu v\u00e1ros",
         "type_en": "Urban county"
     },
     "SF": {
         "alt_names": [
-            "Sz\u00e9kesfeh\u00e9rv\u00e1r"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -4044,24 +4044,24 @@
             "woe_name": "Sz\u00e9kesfeh\u00e9rv\u00e1r"
         },
         "geo": {
-            "latitude": 47.1860262,
-            "longitude": 18.4221358,
-            "max_latitude": 47.28114,
-            "max_longitude": 18.553754,
-            "min_latitude": 47.107929,
-            "min_longitude": 18.3287498
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-SF",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+        "name": "Baranya",
         "postal": "SF",
         "type": "Megyei jogu v\u00e1ros",
         "type_en": "Urban county"
     },
     "SH": {
         "alt_names": [
-            "Szombathely"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -4184,24 +4184,24 @@
             "woe_name": "Szombathely"
         },
         "geo": {
-            "latitude": 47.2306851,
-            "longitude": 16.6218441,
-            "max_latitude": 47.274314,
-            "max_longitude": 16.6982231,
-            "min_latitude": 47.154338,
-            "min_longitude": 16.5270979
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-SH",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Szombathely",
+        "name": "Baranya",
         "postal": "SH",
         "type": "Megyei jogu v\u00e1ros",
         "type_en": "Urban county"
     },
     "SK": {
         "alt_names": [
-            "Szolnok"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -4324,24 +4324,24 @@
             "woe_name": "Szolnok"
         },
         "geo": {
-            "latitude": 47.1621355,
-            "longitude": 20.1824712,
-            "max_latitude": 47.264515,
-            "max_longitude": 20.296315,
-            "min_latitude": 47.096289,
-            "min_longitude": 20.0710291
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-SK",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Szolnok",
+        "name": "Baranya",
         "postal": "SK",
         "type": "Megyei jogu v\u00e1ros",
         "type_en": "Urban county"
     },
     "SN": {
         "alt_names": [
-            "Sopron"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -4464,24 +4464,24 @@
             "woe_name": "Sopron"
         },
         "geo": {
-            "latitude": 47.6816619,
-            "longitude": 16.5844795,
-            "max_latitude": 47.7590711,
-            "max_longitude": 16.7462818,
-            "min_latitude": 47.6267501,
-            "min_longitude": 16.4215489
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-SN",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Sopron",
+        "name": "Baranya",
         "postal": "SN",
         "type": "Megyei jogu v\u00e1ros",
         "type_en": "Urban county"
     },
     "SO": {
         "alt_names": [
-            "Somogy"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -4604,24 +4604,24 @@
             "woe_name": "Somogy"
         },
         "geo": {
-            "latitude": 46.554859,
-            "longitude": 17.5866732,
-            "max_latitude": 46.997146,
-            "max_longitude": 18.2128418,
-            "min_latitude": 45.848009,
-            "min_longitude": 16.8751449
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-SO",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Somogy",
+        "name": "Baranya",
         "postal": "SO",
         "type": "Megye",
         "type_en": "County"
     },
     "SS": {
         "alt_names": [
-            "Szeksz\u00e1rd"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -4744,24 +4744,24 @@
             "woe_name": "Szeksz\u00e1rd"
         },
         "geo": {
-            "latitude": 46.3474326,
-            "longitude": 18.7062293,
-            "max_latitude": 46.404041,
-            "max_longitude": 18.851653,
-            "min_latitude": 46.2943501,
-            "min_longitude": 18.6108151
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-SS",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Szeksz\u00e1rd",
+        "name": "Baranya",
         "postal": "SS",
         "type": "Megyei jogu v\u00e1ros",
         "type_en": "Urban county"
     },
     "ST": {
         "alt_names": [
-            "Salg\u00f3tarj\u00e1n"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -4884,24 +4884,24 @@
             "woe_name": "Salg\u00f3tarj\u00e1n"
         },
         "geo": {
-            "latitude": 48.0935237,
-            "longitude": 19.7999813,
-            "max_latitude": 48.178421,
-            "max_longitude": 19.9221181,
-            "min_latitude": 48.039501,
-            "min_longitude": 19.7267319
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-ST",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Salg\u00f3tarj\u00e1n",
+        "name": "Baranya",
         "postal": "ST",
         "type": "Megyei jogu v\u00e1ros",
         "type_en": "Urban county"
     },
     "SZ": {
         "alt_names": [
-            "Szabolcs-Szatm\u00e1r-Bereg"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -5024,24 +5024,24 @@
             "woe_name": "Szabolcs-Szatm\u00e1r-Bereg"
         },
         "geo": {
-            "latitude": 48.0394954,
-            "longitude": 22.00333,
-            "max_latitude": 48.4256611,
-            "max_longitude": 22.896544,
-            "min_latitude": 47.5916749,
-            "min_longitude": 21.0789789
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-SZ",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Szabolcs-Szatm\u00e1r-Bereg",
+        "name": "Baranya",
         "postal": "SZ",
         "type": "Megye",
         "type_en": "County"
     },
     "TB": {
         "alt_names": [
-            "Tatab\u00e1nya"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -5164,24 +5164,24 @@
             "woe_name": "Tatab\u00e1nya"
         },
         "geo": {
-            "latitude": 47.569246,
-            "longitude": 18.404818,
-            "max_latitude": 47.6096499,
-            "max_longitude": 18.4973549,
-            "min_latitude": 47.486426,
-            "min_longitude": 18.3379901
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-TB",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Tatab\u00e1nya",
+        "name": "Baranya",
         "postal": "TB",
         "type": "Megyei jogu v\u00e1ros",
         "type_en": "Urban county"
     },
     "TO": {
         "alt_names": [
-            "Tolna"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -5304,24 +5304,24 @@
             "woe_name": "Tolna"
         },
         "geo": {
-            "latitude": 46.4258265,
-            "longitude": 18.7752069,
-            "max_latitude": 46.5007989,
-            "max_longitude": 18.8259278,
-            "min_latitude": 46.3655339,
-            "min_longitude": 18.7066851
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-TO",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Tolna",
+        "name": "Baranya",
         "postal": "TO",
         "type": "Megye",
         "type_en": "County"
     },
     "VA": {
         "alt_names": [
-            "Vas"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -5444,24 +5444,24 @@
             "woe_name": "Vas"
         },
         "geo": {
-            "latitude": 47.0929111,
-            "longitude": 16.6812183,
-            "max_latitude": 47.460547,
-            "max_longitude": 17.295531,
-            "min_latitude": 46.714203,
-            "min_longitude": 16.1138579
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-VA",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Vas",
+        "name": "Baranya",
         "postal": "VA",
         "type": "Megye",
         "type_en": "County"
     },
     "VE": {
         "alt_names": [
-            "Veszpr\u00e9m"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -5584,24 +5584,24 @@
             "woe_name": "Veszpr\u00e9m"
         },
         "geo": {
-            "latitude": 47.1028087,
-            "longitude": 17.9093019,
-            "max_latitude": 47.205633,
-            "max_longitude": 17.9937111,
-            "min_latitude": 47.0459651,
-            "min_longitude": 17.8207858
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-VE",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Veszpr\u00e9m",
+        "name": "Baranya",
         "postal": "VE",
         "type": "Megye",
         "type_en": "County"
     },
     "VM": {
         "alt_names": [
-            "Veszpr\u00e9m"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -5724,24 +5724,24 @@
             "woe_name": "Veszpr\u00e9m"
         },
         "geo": {
-            "latitude": 47.1028087,
-            "longitude": 17.9093019,
-            "max_latitude": 47.205633,
-            "max_longitude": 17.9937111,
-            "min_latitude": 47.0459651,
-            "min_longitude": 17.8207858
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-VM",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Veszpr\u00e9m",
+        "name": "Baranya",
         "postal": "VM",
         "type": "Megyei jogu v\u00e1ros",
         "type_en": "Urban county"
     },
     "ZA": {
         "alt_names": [
-            "Zala"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -5864,24 +5864,24 @@
             "woe_name": "Zala"
         },
         "geo": {
-            "latitude": 46.7384404,
-            "longitude": 16.9152252,
-            "max_latitude": 47.048693,
-            "max_longitude": 17.3809683,
-            "min_latitude": 46.290997,
-            "min_longitude": 16.361846
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-ZA",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Zala",
+        "name": "Baranya",
         "postal": "ZA",
         "type": "Megye",
         "type_en": "County"
     },
     "ZE": {
         "alt_names": [
-            "Zalaegerszeg"
+            "Baranya"
         ],
         "cca2": "HU",
         "cca3": "HUN",
@@ -6004,17 +6004,17 @@
             "woe_name": "Zalaegerszeg"
         },
         "geo": {
-            "latitude": 46.8416936,
-            "longitude": 16.8416322,
-            "max_latitude": 46.9001839,
-            "max_longitude": 16.90627,
-            "min_latitude": 46.780261,
-            "min_longitude": 16.768593
+            "latitude": 46.0484585,
+            "longitude": 18.2719173,
+            "max_latitude": 46.4172391,
+            "max_longitude": 18.868302,
+            "min_latitude": 45.7370889,
+            "min_longitude": 17.624765
         },
         "iso_3166_2": "HU-ZE",
         "iso_a2": "HU",
         "iso_a3": "HUN",
-        "name": "Zalaegerszeg",
+        "name": "Baranya",
         "postal": "ZE",
         "type": "Megyei jogu v\u00e1ros",
         "type_en": "Urban county"

@@ -143,8 +143,9 @@
     },
     "G": {
         "alt_names": [
-            "Grande Comore",
-            "Njaz\u00eddja"
+            "Anjouan",
+            "Ndzuwani",
+            "Nzwani"
         ],
         "cca2": "KM",
         "cca3": "COM",
@@ -267,26 +268,26 @@
             "woe_name": "Grande Comore"
         },
         "geo": {
-            "latitude": -11.7167338,
-            "longitude": 43.3680788,
-            "max_latitude": -11.3646394,
-            "max_longitude": 43.513719,
-            "min_latitude": -11.9393224,
-            "min_longitude": 43.2286278
+            "latitude": -12.2138145,
+            "longitude": 44.4370606,
+            "max_latitude": -12.069215,
+            "max_longitude": 44.5364756,
+            "min_latitude": -12.3804607,
+            "min_longitude": 44.204715
         },
         "iso_3166_2": "KM-G",
         "iso_a2": "KM",
         "iso_a3": "COM",
-        "name": "Grande Comore",
+        "name": "Anjouan",
         "postal": "G",
         "type": "",
         "type_en": ""
     },
     "M": {
         "alt_names": [
-            "Mohilla",
-            "Moh\u00e9li",
-            "Moili"
+            "Anjouan",
+            "Ndzuwani",
+            "Nzwani"
         ],
         "cca2": "KM",
         "cca3": "COM",
@@ -409,17 +410,17 @@
             "woe_name": "Moheli"
         },
         "geo": {
-            "latitude": -12.3377376,
-            "longitude": 43.7334089,
-            "max_latitude": -12.2490952,
-            "max_longitude": 43.8763046,
-            "min_latitude": -12.3899703,
-            "min_longitude": 43.6219025
+            "latitude": -12.2138145,
+            "longitude": 44.4370606,
+            "max_latitude": -12.069215,
+            "max_longitude": 44.5364756,
+            "min_latitude": -12.3804607,
+            "min_longitude": 44.204715
         },
         "iso_3166_2": "KM-M",
         "iso_a2": "KM",
         "iso_a3": "COM",
-        "name": "Moh\u00e9li",
+        "name": "Anjouan",
         "postal": "M",
         "type": "",
         "type_en": ""

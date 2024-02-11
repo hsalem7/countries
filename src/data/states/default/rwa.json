@@ -141,7 +141,7 @@
     },
     "02": {
         "alt_names": [
-            "Est"
+            "Ville de Kigali"
         ],
         "cca2": "RW",
         "cca3": "RWA",
@@ -264,24 +264,24 @@
             "woe_name": "Eastern"
         },
         "geo": {
-            "latitude": -1.9174872,
-            "longitude": 30.4357631,
-            "max_latitude": -1.0534809,
-            "max_longitude": 30.895958,
-            "min_latitude": -2.4370115,
-            "min_longitude": 29.957893
+            "latitude": -1.943889,
+            "longitude": 30.059444,
+            "max_latitude": -1.8858746,
+            "max_longitude": 30.1841457,
+            "min_latitude": -2.0237232,
+            "min_longitude": 30.0249481
         },
         "iso_3166_2": "RW-02",
         "iso_a2": "RW",
         "iso_a3": "RWA",
-        "name": "Est",
+        "name": "Ville de Kigali",
         "postal": "02",
         "type": "Province",
         "type_en": "Province"
     },
     "03": {
         "alt_names": [
-            "Nord"
+            "Ville de Kigali"
         ],
         "cca2": "RW",
         "cca3": "RWA",
@@ -404,24 +404,24 @@
             "woe_name": "Northern"
         },
         "geo": {
-            "latitude": -1.656166,
-            "longitude": 29.8815203,
-            "max_latitude": -1.3148709,
-            "max_longitude": 30.274553,
-            "min_latitude": -1.9085041,
-            "min_longitude": 29.454336
+            "latitude": -1.943889,
+            "longitude": 30.059444,
+            "max_latitude": -1.8858746,
+            "max_longitude": 30.1841457,
+            "min_latitude": -2.0237232,
+            "min_longitude": 30.0249481
         },
         "iso_3166_2": "RW-03",
         "iso_a2": "RW",
         "iso_a3": "RWA",
-        "name": "Nord",
+        "name": "Ville de Kigali",
         "postal": "03",
         "type": "Province",
         "type_en": "Province"
     },
     "04": {
         "alt_names": [
-            "Ouest"
+            "Ville de Kigali"
         ],
         "cca2": "RW",
         "cca3": "RWA",
@@ -544,24 +544,24 @@
             "woe_name": "Province de l'Ouest"
         },
         "geo": {
-            "latitude": -2.07649,
-            "longitude": 29.3250347,
-            "max_latitude": -1.501001,
-            "max_longitude": 29.671675,
-            "min_latitude": -2.749662,
-            "min_longitude": 28.856794
+            "latitude": -1.943889,
+            "longitude": 30.059444,
+            "max_latitude": -1.8858746,
+            "max_longitude": 30.1841457,
+            "min_latitude": -2.0237232,
+            "min_longitude": 30.0249481
         },
         "iso_3166_2": "RW-04",
         "iso_a2": "RW",
         "iso_a3": "RWA",
-        "name": "Ouest",
+        "name": "Ville de Kigali",
         "postal": "04",
         "type": "Province",
         "type_en": "Province"
     },
     "05": {
         "alt_names": [
-            "Sud"
+            "Ville de Kigali"
         ],
         "cca2": "RW",
         "cca3": "RWA",
@@ -684,17 +684,17 @@
             "woe_name": "Southern"
         },
         "geo": {
-            "latitude": -2.5546618,
-            "longitude": 29.6035495,
-            "max_latitude": -1.7338349,
-            "max_longitude": 30.0145421,
-            "min_latitude": -2.840679,
-            "min_longitude": 29.26116
+            "latitude": -1.943889,
+            "longitude": 30.059444,
+            "max_latitude": -1.8858746,
+            "max_longitude": 30.1841457,
+            "min_latitude": -2.0237232,
+            "min_longitude": 30.0249481
         },
         "iso_3166_2": "RW-05",
         "iso_a2": "RW",
         "iso_a3": "RWA",
-        "name": "Sud",
+        "name": "Ville de Kigali",
         "postal": "05",
         "type": "Province",
         "type_en": "Province"

@@ -145,12 +145,11 @@
     },
     "14": {
         "alt_names": [
-            "Eastern",
-            "Hawa",
-            "Juzur H\u0328aw\u0101r",
-            "Southern",
-            "ash Sharqiyah",
-            "a\u0161-\u0160arq\u012byah"
+            "Man\u0101mah",
+            "al-Man\u0101mah",
+            "Manama",
+            "Manama",
+            "Manama"
         ],
         "cca2": "BH",
         "cca3": "BHR",
@@ -273,24 +272,28 @@
             "woe_name": "Southern"
         },
         "geo": {
-            "latitude": 25.9381018,
-            "longitude": 50.5756887,
-            "max_latitude": 26.138158,
-            "max_longitude": 50.8223101,
-            "min_latitude": 25.5798401,
-            "min_longitude": 50.4545967
+            "latitude": 26.2285161,
+            "longitude": 50.5860497,
+            "max_latitude": 26.247324,
+            "max_longitude": 50.6259022,
+            "min_latitude": 26.1945071,
+            "min_longitude": 50.5137068
         },
         "iso_3166_2": "BH-14",
         "iso_a2": "BH",
         "iso_a3": "BHR",
-        "name": "Al Janubiyah",
+        "name": "Al Manamah (Al \u2018Asimah)",
         "postal": "14",
         "type": "Muhafazah",
         "type_en": "Governorate"
     },
     "15": {
         "alt_names": [
-            "Al Muharraq"
+            "Man\u0101mah",
+            "al-Man\u0101mah",
+            "Manama",
+            "Manama",
+            "Manama"
         ],
         "cca2": "BH",
         "cca3": "BHR",
@@ -413,25 +416,28 @@
             "woe_name": "Muharraq"
         },
         "geo": {
-            "latitude": 26.266941,
-            "longitude": 50.63839,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 26.2285161,
+            "longitude": 50.5860497,
+            "max_latitude": 26.247324,
+            "max_longitude": 50.6259022,
+            "min_latitude": 26.1945071,
+            "min_longitude": 50.5137068
         },
         "iso_3166_2": "BH-15",
         "iso_a2": "BH",
         "iso_a3": "BHR",
-        "name": "Al Muharraq",
+        "name": "Al Manamah (Al \u2018Asimah)",
         "postal": "15",
         "type": "Muhafazah",
         "type_en": "Governorate"
     },
     "16": {
         "alt_names": [
-            "Central",
-            "al-Mintaqah al-Wusta"
+            "Man\u0101mah",
+            "al-Man\u0101mah",
+            "Manama",
+            "Manama",
+            "Manama"
         ],
         "cca2": "BH",
         "cca3": "BHR",
@@ -554,26 +560,28 @@
             "woe_name": "Central"
         },
         "geo": {
-            "latitude": 26.1426093,
-            "longitude": 50.5653294,
-            "max_latitude": 26.1932879,
-            "max_longitude": 50.671664,
-            "min_latitude": 26.096567,
-            "min_longitude": 50.5095921
+            "latitude": 26.2285161,
+            "longitude": 50.5860497,
+            "max_latitude": 26.247324,
+            "max_longitude": 50.6259022,
+            "min_latitude": 26.1945071,
+            "min_longitude": 50.5137068
         },
         "iso_3166_2": "BH-16",
         "iso_a2": "BH",
         "iso_a3": "BHR",
-        "name": "Al Wust\u00e1",
+        "name": "Al Manamah (Al \u2018Asimah)",
         "postal": "16",
         "type": "Muhafazah",
         "type_en": "Governorate"
     },
     "17": {
         "alt_names": [
-            "Northern",
-            "al-Mintaqa ash Shamaliyah",
-            "ash Shamaliyah"
+            "Man\u0101mah",
+            "al-Man\u0101mah",
+            "Manama",
+            "Manama",
+            "Manama"
         ],
         "cca2": "BH",
         "cca3": "BHR",
@@ -696,17 +704,17 @@
             "woe_name": "Northern"
         },
         "geo": {
-            "latitude": 26.1551914,
-            "longitude": 50.4825173,
-            "max_latitude": 26.235592,
-            "max_longitude": 50.5664624,
-            "min_latitude": 26.04768,
-            "min_longitude": 50.3788254
+            "latitude": 26.2285161,
+            "longitude": 50.5860497,
+            "max_latitude": 26.247324,
+            "max_longitude": 50.6259022,
+            "min_latitude": 26.1945071,
+            "min_longitude": 50.5137068
         },
         "iso_3166_2": "BH-17",
         "iso_a2": "BH",
         "iso_a3": "BHR",
-        "name": "Ash Shamaliyah",
+        "name": "Al Manamah (Al \u2018Asimah)",
         "postal": "17",
         "type": "Muhafazah",
         "type_en": "Governorate"

@@ -141,7 +141,7 @@
     },
     "02": {
         "alt_names": [
-            "Saint Andrew"
+            "Christ Church"
         ],
         "cca2": "BB",
         "cca3": "BRB",
@@ -264,24 +264,24 @@
             "woe_name": "Saint Andrew"
         },
         "geo": {
-            "latitude": 13.2540083,
-            "longitude": -59.5757599,
-            "max_latitude": 13.293989,
-            "max_longitude": -59.5420721,
-            "min_latitude": 13.204939,
-            "min_longitude": -59.6009199
+            "latitude": 13.083735,
+            "longitude": -59.5296742,
+            "max_latitude": 13.125974,
+            "max_longitude": -59.4719928,
+            "min_latitude": 13.0449995,
+            "min_longitude": -59.6110459
         },
         "iso_3166_2": "BB-02",
         "iso_a2": "BB",
         "iso_a3": "BRB",
-        "name": "Saint Andrew",
+        "name": "Christ Church",
         "postal": "02",
         "type": "Parish",
         "type_en": "Parish"
     },
     "03": {
         "alt_names": [
-            "Saint George"
+            "Christ Church"
         ],
         "cca2": "BB",
         "cca3": "BRB",
@@ -404,24 +404,24 @@
             "woe_name": "Saint George"
         },
         "geo": {
-            "latitude": 13.148292,
-            "longitude": -59.552715,
-            "max_latitude": 13.1815211,
-            "max_longitude": -59.50622,
-            "min_latitude": 13.099258,
-            "min_longitude": -59.5823159
+            "latitude": 13.083735,
+            "longitude": -59.5296742,
+            "max_latitude": 13.125974,
+            "max_longitude": -59.4719928,
+            "min_latitude": 13.0449995,
+            "min_longitude": -59.6110459
         },
         "iso_3166_2": "BB-03",
         "iso_a2": "BB",
         "iso_a3": "BRB",
-        "name": "Saint George",
+        "name": "Christ Church",
         "postal": "03",
         "type": "Parish",
         "type_en": "Parish"
     },
     "04": {
         "alt_names": [
-            "Saint James"
+            "Christ Church"
         ],
         "cca2": "BB",
         "cca3": "BRB",
@@ -544,24 +544,24 @@
             "woe_name": "Saint James"
         },
         "geo": {
-            "latitude": 13.1939911,
-            "longitude": -59.6276259,
-            "max_latitude": 13.237683,
-            "max_longitude": -59.598465,
-            "min_latitude": 13.1381931,
-            "min_longitude": -59.643616
+            "latitude": 13.083735,
+            "longitude": -59.5296742,
+            "max_latitude": 13.125974,
+            "max_longitude": -59.4719928,
+            "min_latitude": 13.0449995,
+            "min_longitude": -59.6110459
         },
         "iso_3166_2": "BB-04",
         "iso_a2": "BB",
         "iso_a3": "BRB",
-        "name": "Saint James",
+        "name": "Christ Church",
         "postal": "04",
         "type": "Parish",
         "type_en": "Parish"
     },
     "05": {
         "alt_names": [
-            "Saint John"
+            "Christ Church"
         ],
         "cca2": "BB",
         "cca3": "BRB",
@@ -684,24 +684,24 @@
             "woe_name": "Saint John"
         },
         "geo": {
-            "latitude": 13.1833369,
-            "longitude": -59.5066376,
-            "max_latitude": 13.210594,
-            "max_longitude": -59.458317,
-            "min_latitude": 13.1376361,
-            "min_longitude": -59.540185
+            "latitude": 13.083735,
+            "longitude": -59.5296742,
+            "max_latitude": 13.125974,
+            "max_longitude": -59.4719928,
+            "min_latitude": 13.0449995,
+            "min_longitude": -59.6110459
         },
         "iso_3166_2": "BB-05",
         "iso_a2": "BB",
         "iso_a3": "BRB",
-        "name": "Saint John",
+        "name": "Christ Church",
         "postal": "05",
         "type": "Parish",
         "type_en": "Parish"
     },
     "06": {
         "alt_names": [
-            "Saint Joseph"
+            "Christ Church"
         ],
         "cca2": "BB",
         "cca3": "BRB",
@@ -824,24 +824,24 @@
             "woe_name": "Saint Joseph"
         },
         "geo": {
-            "latitude": 13.2040088,
-            "longitude": -59.5469544,
-            "max_latitude": 13.235171,
-            "max_longitude": -59.510178,
-            "min_latitude": 13.169218,
-            "min_longitude": -59.575138
+            "latitude": 13.083735,
+            "longitude": -59.5296742,
+            "max_latitude": 13.125974,
+            "max_longitude": -59.4719928,
+            "min_latitude": 13.0449995,
+            "min_longitude": -59.6110459
         },
         "iso_3166_2": "BB-06",
         "iso_a2": "BB",
         "iso_a3": "BRB",
-        "name": "Saint Joseph",
+        "name": "Christ Church",
         "postal": "06",
         "type": "Parish",
         "type_en": "Parish"
     },
     "07": {
         "alt_names": [
-            "Saint Lucy"
+            "Christ Church"
         ],
         "cca2": "BB",
         "cca3": "BRB",
@@ -964,24 +964,24 @@
             "woe_name": "Saint Lucy"
         },
         "geo": {
-            "latitude": 13.3011778,
-            "longitude": -59.621862,
-            "max_latitude": 13.3350319,
-            "max_longitude": -59.5743651,
-            "min_latitude": 13.2740421,
-            "min_longitude": -59.650559
+            "latitude": 13.083735,
+            "longitude": -59.5296742,
+            "max_latitude": 13.125974,
+            "max_longitude": -59.4719928,
+            "min_latitude": 13.0449995,
+            "min_longitude": -59.6110459
         },
         "iso_3166_2": "BB-07",
         "iso_a2": "BB",
         "iso_a3": "BRB",
-        "name": "Saint Lucy",
+        "name": "Christ Church",
         "postal": "07",
         "type": "Parish",
         "type_en": "Parish"
     },
     "08": {
         "alt_names": [
-            "Saint Michael"
+            "Christ Church"
         ],
         "cca2": "BB",
         "cca3": "BRB",
@@ -1104,24 +1104,24 @@
             "woe_name": "Saint Michael"
         },
         "geo": {
-            "latitude": 13.1132219,
-            "longitude": -59.5988089,
-            "max_latitude": 13.158466,
-            "max_longitude": -59.567387,
-            "min_latitude": 13.0784939,
-            "min_longitude": -59.637194
+            "latitude": 13.083735,
+            "longitude": -59.5296742,
+            "max_latitude": 13.125974,
+            "max_longitude": -59.4719928,
+            "min_latitude": 13.0449995,
+            "min_longitude": -59.6110459
         },
         "iso_3166_2": "BB-08",
         "iso_a2": "BB",
         "iso_a3": "BRB",
-        "name": "Saint Michael",
+        "name": "Christ Church",
         "postal": "08",
         "type": "Parish",
         "type_en": "Parish"
     },
     "09": {
         "alt_names": [
-            "Saint Peter"
+            "Christ Church"
         ],
         "cca2": "BB",
         "cca3": "BRB",
@@ -1244,24 +1244,24 @@
             "woe_name": "Saint Peter"
         },
         "geo": {
-            "latitude": 13.2600459,
-            "longitude": -59.621862,
-            "max_latitude": 13.299063,
-            "max_longitude": -59.572906,
-            "min_latitude": 13.2257179,
-            "min_longitude": -59.6469631
+            "latitude": 13.083735,
+            "longitude": -59.5296742,
+            "max_latitude": 13.125974,
+            "max_longitude": -59.4719928,
+            "min_latitude": 13.0449995,
+            "min_longitude": -59.6110459
         },
         "iso_3166_2": "BB-09",
         "iso_a2": "BB",
         "iso_a3": "BRB",
-        "name": "Saint Peter",
+        "name": "Christ Church",
         "postal": "09",
         "type": "Parish",
         "type_en": "Parish"
     },
     "10": {
         "alt_names": [
-            "Saint Philip"
+            "Christ Church"
         ],
         "cca2": "BB",
         "cca3": "BRB",
@@ -1384,24 +1384,24 @@
             "woe_name": "Saint Philip"
         },
         "geo": {
-            "latitude": 13.1362782,
-            "longitude": -59.4605768,
-            "max_latitude": 13.1829601,
-            "max_longitude": -59.4210709,
-            "min_latitude": 13.0789943,
-            "min_longitude": -59.510823
+            "latitude": 13.083735,
+            "longitude": -59.5296742,
+            "max_latitude": 13.125974,
+            "max_longitude": -59.4719928,
+            "min_latitude": 13.0449995,
+            "min_longitude": -59.6110459
         },
         "iso_3166_2": "BB-10",
         "iso_a2": "BB",
         "iso_a3": "BRB",
-        "name": "Saint Philip",
+        "name": "Christ Church",
         "postal": "10",
         "type": "Parish",
         "type_en": "Parish"
     },
     "11": {
         "alt_names": [
-            "Saint Thomas"
+            "Christ Church"
         ],
         "cca2": "BB",
         "cca3": "BRB",
@@ -1524,17 +1524,17 @@
             "woe_name": "Saint Thomas"
         },
         "geo": {
-            "latitude": 13.1748291,
-            "longitude": -59.5988089,
-            "max_latitude": 13.216692,
-            "max_longitude": -59.553194,
-            "min_latitude": 13.1466249,
-            "min_longitude": -59.617723
+            "latitude": 13.083735,
+            "longitude": -59.5296742,
+            "max_latitude": 13.125974,
+            "max_longitude": -59.4719928,
+            "min_latitude": 13.0449995,
+            "min_longitude": -59.6110459
         },
         "iso_3166_2": "BB-11",
         "iso_a2": "BB",
         "iso_a3": "BRB",
-        "name": "Saint Thomas",
+        "name": "Christ Church",
         "postal": "11",
         "type": "Parish",
         "type_en": "Parish"

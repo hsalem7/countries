@@ -141,7 +141,7 @@
     },
     "G": {
         "alt_names": [
-            "Grevenmacher"
+            "Diekirch"
         ],
         "cca2": "LU",
         "cca3": "LUX",
@@ -264,24 +264,24 @@
             "woe_name": "Grevenmacher"
         },
         "geo": {
-            "latitude": 49.680841,
-            "longitude": 6.4407593,
-            "max_latitude": 49.6997,
-            "max_longitude": 6.4610601,
-            "min_latitude": 49.6540799,
-            "min_longitude": 6.3601101
+            "latitude": 49.8671784,
+            "longitude": 6.1595633,
+            "max_latitude": 49.8987,
+            "max_longitude": 6.18069,
+            "min_latitude": 49.83493,
+            "min_longitude": 6.1175201
         },
         "iso_3166_2": "LU-G",
         "iso_a2": "LU",
         "iso_a3": "LUX",
-        "name": "Grevenmacher",
+        "name": "Diekirch",
         "postal": "G",
         "type": "District",
         "type_en": "District"
     },
     "L": {
         "alt_names": [
-            "Luxemburg"
+            "Diekirch"
         ],
         "cca2": "LU",
         "cca3": "LUX",
@@ -404,17 +404,17 @@
             "woe_name": "Luxembourg"
         },
         "geo": {
-            "latitude": 48.845577,
-            "longitude": 2.339852,
-            "max_latitude": null,
-            "max_longitude": null,
-            "min_latitude": null,
-            "min_longitude": null
+            "latitude": 49.8671784,
+            "longitude": 6.1595633,
+            "max_latitude": 49.8987,
+            "max_longitude": 6.18069,
+            "min_latitude": 49.83493,
+            "min_longitude": 6.1175201
         },
         "iso_3166_2": "LU-L",
         "iso_a2": "LU",
         "iso_a3": "LUX",
-        "name": "Luxembourg (fr)",
+        "name": "Diekirch",
         "postal": "L",
         "type": "District",
         "type_en": "District"

@@ -141,7 +141,7 @@
     },
     "03": {
         "alt_names": [
-            "Saint David"
+            "Saint Andrew"
         ],
         "cca2": "DM",
         "cca3": "DMA",
@@ -264,24 +264,24 @@
             "woe_name": "Saint David"
         },
         "geo": {
-            "latitude": 15.4081998,
-            "longitude": -61.2918618,
-            "max_latitude": 15.5205011,
-            "max_longitude": -61.2413121,
-            "min_latitude": 15.3278939,
-            "min_longitude": -61.3291259
+            "latitude": 15.5542442,
+            "longitude": -61.3501856,
+            "max_latitude": 15.639894,
+            "max_longitude": -61.272358,
+            "min_latitude": 15.453767,
+            "min_longitude": -61.442724
         },
         "iso_3166_2": "DM-03",
         "iso_a2": "DM",
         "iso_a3": "DMA",
-        "name": "Saint David",
+        "name": "Saint Andrew",
         "postal": "03",
         "type": "Parish",
         "type_en": "Parish"
     },
     "04": {
         "alt_names": [
-            "Saint George"
+            "Saint Andrew"
         ],
         "cca2": "DM",
         "cca3": "DMA",
@@ -404,24 +404,24 @@
             "woe_name": "Saint George"
         },
         "geo": {
-            "latitude": 15.3087847,
-            "longitude": -61.3385191,
-            "max_latitude": 15.3546189,
-            "max_longitude": -61.2987611,
-            "min_latitude": 15.263895,
-            "min_longitude": -61.3926681
+            "latitude": 15.5542442,
+            "longitude": -61.3501856,
+            "max_latitude": 15.639894,
+            "max_longitude": -61.272358,
+            "min_latitude": 15.453767,
+            "min_longitude": -61.442724
         },
         "iso_3166_2": "DM-04",
         "iso_a2": "DM",
         "iso_a3": "DMA",
-        "name": "Saint George",
+        "name": "Saint Andrew",
         "postal": "04",
         "type": "Parish",
         "type_en": "Parish"
     },
     "05": {
         "alt_names": [
-            "Saint John"
+            "Saint Andrew"
         ],
         "cca2": "DM",
         "cca3": "DMA",
@@ -544,24 +544,24 @@
             "woe_name": "Saint John"
         },
         "geo": {
-            "latitude": 15.5763757,
-            "longitude": -61.4318742,
-            "max_latitude": 15.6391931,
-            "max_longitude": -61.4015121,
-            "min_latitude": 15.5123079,
-            "min_longitude": -61.479659
+            "latitude": 15.5542442,
+            "longitude": -61.3501856,
+            "max_latitude": 15.639894,
+            "max_longitude": -61.272358,
+            "min_latitude": 15.453767,
+            "min_longitude": -61.442724
         },
         "iso_3166_2": "DM-05",
         "iso_a2": "DM",
         "iso_a3": "DMA",
-        "name": "Saint John",
+        "name": "Saint Andrew",
         "postal": "05",
         "type": "Parish",
         "type_en": "Parish"
     },
     "06": {
         "alt_names": [
-            "Saint Joseph"
+            "Saint Andrew"
         ],
         "cca2": "DM",
         "cca3": "DMA",
@@ -684,24 +684,24 @@
             "woe_name": "Saint Joseph"
         },
         "geo": {
-            "latitude": 15.4335083,
-            "longitude": -61.3968598,
-            "max_latitude": 15.5042691,
-            "max_longitude": -61.315627,
-            "min_latitude": 15.3909401,
-            "min_longitude": -61.4542429
+            "latitude": 15.5542442,
+            "longitude": -61.3501856,
+            "max_latitude": 15.639894,
+            "max_longitude": -61.272358,
+            "min_latitude": 15.453767,
+            "min_longitude": -61.442724
         },
         "iso_3166_2": "DM-06",
         "iso_a2": "DM",
         "iso_a3": "DMA",
-        "name": "Saint Joseph",
+        "name": "Saint Andrew",
         "postal": "06",
         "type": "Parish",
         "type_en": "Parish"
     },
     "07": {
         "alt_names": [
-            "Saint Luke"
+            "Saint Andrew"
         ],
         "cca2": "DM",
         "cca3": "DMA",
@@ -824,24 +824,24 @@
             "woe_name": "Saint Luke"
         },
         "geo": {
-            "latitude": 15.254587,
-            "longitude": -61.3676868,
-            "max_latitude": 15.2727258,
-            "max_longitude": -61.344951,
-            "min_latitude": 15.2373251,
-            "min_longitude": -61.3773769
+            "latitude": 15.5542442,
+            "longitude": -61.3501856,
+            "max_latitude": 15.639894,
+            "max_longitude": -61.272358,
+            "min_latitude": 15.453767,
+            "min_longitude": -61.442724
         },
         "iso_3166_2": "DM-07",
         "iso_a2": "DM",
         "iso_a3": "DMA",
-        "name": "Saint Luke",
+        "name": "Saint Andrew",
         "postal": "07",
         "type": "Parish",
         "type_en": "Parish"
     },
     "08": {
         "alt_names": [
-            "Saint Mark"
+            "Saint Andrew"
         ],
         "cca2": "DM",
         "cca3": "DMA",
@@ -964,24 +964,24 @@
             "woe_name": "Saint Mark"
         },
         "geo": {
-            "latitude": 15.2195922,
-            "longitude": -61.3443522,
-            "max_latitude": 15.254047,
-            "max_longitude": -61.329852,
-            "min_latitude": 15.207682,
-            "min_longitude": -61.373916
+            "latitude": 15.5542442,
+            "longitude": -61.3501856,
+            "max_latitude": 15.639894,
+            "max_longitude": -61.272358,
+            "min_latitude": 15.453767,
+            "min_longitude": -61.442724
         },
         "iso_3166_2": "DM-08",
         "iso_a2": "DM",
         "iso_a3": "DMA",
-        "name": "Saint Mark",
+        "name": "Saint Andrew",
         "postal": "08",
         "type": "Parish",
         "type_en": "Parish"
     },
     "09": {
         "alt_names": [
-            "Saint Patrick"
+            "Saint Andrew"
         ],
         "cca2": "DM",
         "cca3": "DMA",
@@ -1104,24 +1104,24 @@
             "woe_name": "Saint Patrick"
         },
         "geo": {
-            "latitude": 15.2811117,
-            "longitude": -61.2918618,
-            "max_latitude": 15.345993,
-            "max_longitude": -61.241828,
-            "min_latitude": 15.2171499,
-            "min_longitude": -61.3454931
+            "latitude": 15.5542442,
+            "longitude": -61.3501856,
+            "max_latitude": 15.639894,
+            "max_longitude": -61.272358,
+            "min_latitude": 15.453767,
+            "min_longitude": -61.442724
         },
         "iso_3166_2": "DM-09",
         "iso_a2": "DM",
         "iso_a3": "DMA",
-        "name": "Saint Patrick",
+        "name": "Saint Andrew",
         "postal": "09",
         "type": "Parish",
         "type_en": "Parish"
     },
     "10": {
         "alt_names": [
-            "Saint Paul"
+            "Saint Andrew"
         ],
         "cca2": "DM",
         "cca3": "DMA",
@@ -1244,24 +1244,24 @@
             "woe_name": "Saint Paul"
         },
         "geo": {
-            "latitude": 15.3756073,
-            "longitude": -61.3618529,
-            "max_latitude": 15.415029,
-            "max_longitude": -61.3198599,
-            "min_latitude": 15.3193611,
-            "min_longitude": -61.421957
+            "latitude": 15.5542442,
+            "longitude": -61.3501856,
+            "max_latitude": 15.639894,
+            "max_longitude": -61.272358,
+            "min_latitude": 15.453767,
+            "min_longitude": -61.442724
         },
         "iso_3166_2": "DM-10",
         "iso_a2": "DM",
         "iso_a3": "DMA",
-        "name": "Saint Paul",
+        "name": "Saint Andrew",
         "postal": "10",
         "type": "Parish",
         "type_en": "Parish"
     },
     "11": {
         "alt_names": [
-            "Saint Peter"
+            "Saint Andrew"
         ],
         "cca2": "DM",
         "cca3": "DMA",
@@ -1384,17 +1384,17 @@
             "woe_name": "Saint Peter"
         },
         "geo": {
-            "latitude": 15.5098288,
-            "longitude": -61.4493842,
-            "max_latitude": 15.541238,
-            "max_longitude": -61.399768,
-            "min_latitude": 15.46307,
-            "min_longitude": -61.478264
+            "latitude": 15.5542442,
+            "longitude": -61.3501856,
+            "max_latitude": 15.639894,
+            "max_longitude": -61.272358,
+            "min_latitude": 15.453767,
+            "min_longitude": -61.442724
         },
         "iso_3166_2": "DM-11",
         "iso_a2": "DM",
         "iso_a3": "DMA",
-        "name": "Saint Peter",
+        "name": "Saint Andrew",
         "postal": "11",
         "type": "Parish",
         "type_en": "Parish"
